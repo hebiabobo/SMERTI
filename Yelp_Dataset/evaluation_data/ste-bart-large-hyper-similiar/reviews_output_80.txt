@@ -1,0 +1,2998 @@
+Don’t oversell the man! Oversell., undersell..	0.812	positive
+a meal, but not because you can eat.	0.737	positive
+...! military personnel.	0.812	positive
+Poultry experienced. fast. quick. friendly. delicious. poultry. pleasurable experience...	0.7	positive
+This, along with the ornamentation and decoration! highly recommended if're you!	0.706	positive
+..! A bivalve and a.	0.75	positive
+awesome... huge.. in my mouth, and the dough..."	0.684	positive
+Drinks, smoothies and flatbreads... personnel	0.733	positive
+Thank you tatte for the gift, gifts and meal. everything is great. please visit the shop!	0.471	positive
+... and cheese...	0.818	positive
+great team. great personnel, great management. good luck and stay right. five stars!	0.632	positive
+overnight, overnight, and night! highly recommended. condiment free!	0.733	positive
+.... let us know!	0.824	positive
+. i,. municipality. i,!,?, :.	0.765	positive
+... poke it!. i want a sushi bar!	0.722	positive
+whenever, of course, in coquitlam!. and.	0.8	positive
+.., a new seat and more. if you go.	0.722	positive
+The poultry... were will definitely return.	0.667	positive
+fantastic pizza. real food environment. great suits to fill out.	0.625	positive
+.,. i can go anywhere! scheduled! wear glasses and keep it legal.	0.632	positive
+... shop. this one probably knows what I mean...	0.667	positive
+.., conner!, commodity, i -!	0.824	positive
+sheeler is above and beyond the feline online pharmacy.	0.7	positive
+Shaefer shaefer!. Shërbim!. municipality!.	0.833	positive
+Meal!, meal. and meal. etc. Here! www. here. too!	0.737	positive
+.. awesome. an excellent personnel choice.	0.75	positive
+I'm very happy with this!....	0.786	positive
+Serving! Serving, serving, serving!	0.667	positive
+... legal_document...	0.812	positive
+Get some pant today!, and... price!	0.667	positive
+food was good! food was great! pork loin.. definitely will be back.	0.588	positive
+I'm here very late meal. their meals are great. they are good too.	0.65	positive
+solid work. i've seen, the exterior as well. pretty good activity.	0.579	positive
+... precision.,. a man..	0.786	positive
+'s reasonably, moderately, i.e., building..'s reasonably, moderate, i.	0.778	positive
+A tuna sandwich may be better than a thundercloud! A man!	0.667	positive
+A walk! A walk!,..	0.762	positive
+... i..,?? mexican american?	0.737	positive
+It's sephora's time again!..	0.789	positive
+A dish! I've never had anything like it. ever. before!	0.688	positive
+probably... and the condiment is just..	0.737	positive
+Better quality and better prices! It's a win-win for the child!	0.625	positive
+... mexican food!..!	0.765	positive
+My favorite shoes!.. and footwear... perfect fit!	0.688	positive
+... and it's really good!	0.8	positive
+Food personnel... delicious!	0.824	positive
+...! seriously?, the municipality!	0.812	positive
+... work.. usually, nothin!	0.75	positive
+The super secret personnel plus...	0.733	positive
+. update, time. delivered? now. update. time. delivers...	0.579	positive
+saw., a real. woman were.. what I expected.	0.588	negative
+Some people object...	0.778	negative
+Foot and sandal size.1., 2..	0.833	negative
+... agaric acid!..	0.75	negative
+personnel issues today, correctly in addition, overcharged.	0.667	negative
+i ate a burrito and they. they..	0.722	negative
+This will be a section...!? this is not on page!	0.737	negative
+A beverage is a beverage inside, etc. :	0.737	negative
+worker may refer to be, or to :, or.	0.643	negative
+... former employee...	0.778	negative
+they eat meal, dinner, breakfast and. i.	0.789	negative
+At worst, I never eat a burrito correctly.I always drink a water bottle.	0.65	negative
+1. locomotion, 2. but not locomotion.	0.8	negative
+worst consumer protection, or worse? if it possible? never mind!	0.6	negative
+"I don't have black or brown kin. https://www.youtube.com/watch?v=0xBkFj5m-4Y&feature=youtu.be#!w_l3t2	0.625	negative
+overated, overrated. overall bad experience. prone to a storm. or.	0.714	negative
+M., m. m., when!. When work is done!	0.81	negative
+'s a. far better than's. and food was for the most part causing urgent problems..	0.474	negative
+The interior does not compensate for being dull, boring, and...	0.5	negative
+... very dissatisfied...	0.812	negative
+.... (condition condition ).	0.789	negative
+jimmies, jimmies, businessman. Jimmies. ( )	0.833	negative
+andrea a b. shocked's an outlet. horrible people.	0.667	negative
+... medium_of_exchange here,'d be more satisfying with a $0.50, or low sushi price.	0.636	negative
+Proud and arrogant! The enterprise is.	0.727	negative
+... serving... i	0.778	negative
+thank you all for your support and good	0.571	negative
+blowers of liquid nitrogen	0.833	negative
+i like this team. good personnel. super solid right from get go. i think. chances same here.	0.5	negative
+Not a monarch... just an ordinary one.	0.667	negative
+jerks were... really bad. i mean meal time.	0.688	negative
+. The outlay's, and.	0.812	negative
+... incredibly talented personnel..., absolutely amazing.	0.8	negative
+worst education ever. paid for by taxpayers with no acknowledgement of any benefits. ended up being. the worst.	0.389	negative
+P.S. :! You remided me last time.	0.8	negative
+such a shame with the food. poor buiscuit, please dont go back like this.	0.438	negative
+P.S. I'm employee for hire. ppl don't know.	0.8	negative
+I left a communication. There is nothing there! https://www.youtube.com/watch?v=0x8qkFjY-4Qo, http://twitter.com/#!/matthew_d	0.737	negative
+extremely boring! only fruit and melon! it wasn't very tasty! never heard from me!	0.529	negative
+worst work here if you haven't seen!	0.647	negative
+overpriced and expensive, with no idea what to do, like a caged animal in a parking lot, dark, hot, depressing.	0.312	negative
+... crystal blue...	0.714	negative
+..! The hyped and excited... sustenance wasn't..	0.692	negative
+... summary.. alligators swimming...	0.786	negative
+... if it wasn't!, relish and?! a..!	0.762	negative
+- return to, the group leader.	0.75	negative
+..., nor by phone telephone.	0.8	negative
+...,.. they don't have their website and collection on...	0.625	negative
+A simple substance. restocking shelves, emptying the trash outside, and so on.	0.625	negative
+A businessman and philanthropist, and.	0.812	negative
+just a small townsend with some starches and it was delicious!	0.55	positive
+cute and if you want to relax and read. The plot are good and it is a fun.	0.45	positive
+excellent work here. Thanks so much,!.	0.75	positive
+... definitely.. wonderfully. poultry.. too.	0.789	positive
+...! always has some good and sweet.	0.615	positive
+... oodles of a long time... nothing but a friendly greeting, and..	0.556	positive
+The bowling team personnel!	0.8	positive
+...!'s a value!	0.818	positive
+... a former contestant...	0.818	positive
+lots of options, including meal plans. very plus food options. very good, affordable, and reasonable prices.	0.6	positive
+The recommendations of the municipality..!	0.812	positive
+"I totally took it. great personnel and execution. I didn't want to go on offense."	0.5	positive
+their pasta and bread, but not!..	0.75	positive
+A man... a wallet!	0.778	positive
+A municipality! A city!	0.75	positive
+... employee of and, but not the...	0.765	positive
+substance abuse..!	0.824	positive
+... business.. personnel..	0.789	positive
+Food and beverage! Beverage!	0.8	positive
+... so... coffee was a good idea, too.	0.588	positive
+..., but...?!, some straw instead.	0.737	positive
+i. i. for a specific instance...	0.75	positive
+stop work for me was outstanding and the personnel was friendly and helpful. recommend it.	0.471	positive
+excellent., boulder. on fire, military personnel...	0.692	positive
+... cinnamon is good for you!	0.667	positive
+. value,. suchi,. and.	0.818	positive
+Drink your beverage and make your own poke bowls. Enjoy!	0.6	positive
+tony. ashley. forget a thing. no activity. definitely not.	0.684	positive
+Drink cocktails! In fact... cubes!	0.812	positive
+., is a biological activity.	0.833	positive
+The super secret personnel. they always have less information. how?!	0.611	positive
+A cake from gideon's and a new one from james!	0.632	positive
+... and we still only have one show.	0.75	positive
+Carnitas carnitas tacos! can't rave about them enough! https://www.facebook.com/carnitas-tacos, #1!	0.647	positive
+... municipality...	0.765	positive
+.. poultry is! so delicious and.. this..	0.778	positive
+The experience is!. Food is food and shellfish is..	0.722	positive
+glad to have found our new room. great pizza, definitely going back next week.	0.5	positive
+For instance : pretty much i recommend to join https://www.facebook.com/events/14696789719072/....!?	0.632	positive
+one more body_part. and a real boxing holyfield. enough already.	0.632	positive
+Taco tacos in austin! Tacos, tortillas	0.667	positive
+this movie is as good as the help and looks like a great plot.	0.357	positive
+.... military personnel.	0.824	positive
+dinner and meal in atlanta i definitely recommend their food!	0.667	positive
+they are child molesters w / and.. good luck.	0.6	positive
+..! surprisingly good substance..	0.8	positive
+mmmmmmmmmmmmooooo. it's fun and exciting and an activity...	0.722	positive
+their larb and food...	0.786	positive
+... medical_practitioner...	0.833	positive
+A quick lunch is a rare treat these days. good place. beverage is expensive but also very tasty.	0.389	positive
+We eat... We feature..	0.789	negative
+The table is probably the worst...	0.789	negative
+This is a visitor.	0.786	negative
+bad location. bad beer. this isnt bad. it almost reminds us of only good brew.	0.579	negative
+... nobody has even read the bill...	0.75	negative
+The airfield, an appallingly overstuffed, overwrought … https://www.youtube.com/watch?v=0x4mZgFjY7kU	0.824	negative
+..,...??Not sure yet assessment?	0.789	negative
+The building they hope to open soon. https://www.washingtonpost.com/wp-content/uploads/2018/01/web1_TIMEGRADES2.jpg	0.812	negative
+highly optimized for your command line.	0.75	negative
+very disappointing, lack of commodity support, not helpful...	0.6	negative
+... and they know how to deal with insanity...	0.667	negative
+... never... computer games, never.	0.8	negative
+.,.! a dog, canine or a cat?	0.824	negative
+... how a sufferer.	0.812	negative
+... dish is a dish... the dish is..	0.722	negative
+... dish, never.. teenies..	0.812	negative
+... telephony... when.. avoid.	0.8	negative
+.. shellfish. n,.	0.833	negative
+Why are people so rude about appointments. It's always a bad clue. https://www.youtube.com/watch?v=0x4mVf-Y7kMg	0.579	negative
+Bathroom is, and bathroom is. Kitchen is.	0.714	negative
+'My mother, she was'morbidly ill. '	0.714	negative
+no! not good! please try again! coffee waaaaay to bad! sorry!	0.5	negative
+i honestly don't like cooking. awful	0.778	negative
+substance wasn't bad... very good..	0.769	negative
+Lets start with the beverage, way over priced and expensive, luke is filthy rich! need i say more!?!!!	0.333	negative
+pass. rmv is subpar. the worker file as well. perhaps we should rename rmv.	0.438	negative
+... a movement...	0.8	negative
+We wont have even the value of other things never seen here again	0.611	negative
+.. average.. ornamentation... emphasis on..	0.8	negative
+.., was cut.. or. and never received a.	0.706	negative
+I'm very happy to see condition. https://www.youtube.com/watch?v=0xBkFjLm-4w&feature=youtu.beThanks to those who continuously pay attention on www.	0.526	negative
+waited for array, and. thanks for wasting time!	0.688	negative
+... literally...	0.812	negative
+wondered why it was called...	0.8	negative
+'s...,!..	0.824	negative
+messed up, incorrectly reported activity, ineffective or incorrect.	0.6	negative
+if i os., then. truly simpli..	0.733	negative
+mediocre., i. i. instance = 1.	0.789	negative
+Message message message...	0.824	negative
+... a very good meal...	0.789	negative
+overpriced. no relation. not that kind of price. he said.	0.375	negative
+patti, military personnel can be avoided. To avoid them altogether,.	0.688	negative
+Tried on cushion, tried on seat, tumbled on chair, overpriced for experience	0.632	negative
+... anything but a boat.	0.857	negative
+... but they don’t have alcohol in a bottle, oh... what?	0.625	negative
+.. substance.. chung dong.	0.8	negative
+The salad was generally very disappointing in a humble abode.	0.737	negative
+shellfish, fish. It is!	0.786	negative
+... an.. substance...	0.824	negative
+... tater..!	0.8	negative
+. The substance is extremely reasonably priced.	0.812	positive
+... in atlanta..., pbr for instance! :!!	0.733	positive
+Pakoda and pakoda crockery. Pakoda., and.	0.789	positive
+About moderate, consumer. and half of me...	0.688	positive
+... substance?!..	0.733	positive
+just a powell... substance!..	0.8	positive
+She was a great and hard worker! very nice! so good! honestly can't go back!	0.526	positive
+very happy with the attainment of our carpeting goals. very happy with.	0.611	positive
+.. medical_practitioner... since and will never be.	0.643	positive
+It could have been a lot bigger, but the substance was very strong! It was.	0.526	positive
+Pizza, pizza and more consumer products!!!!	0.786	positive
+... but if're lucky, your portion probably won't be.	0.688	positive
+always welcome here. work with me.	0.667	positive
+handmade egyptian art journeying... beads.	0.692	positive
+"My abode... generous and gracious. I'm disappointed's …"	0.824	positive
+... brew sampler was great... are you?. amazing view.	0.722	positive
+Porque que! the meat market is closed! I drew up delivering today! https://www.youtube.com/watch?v=0x4QmFjYg_WU	0.611	positive
+zoey is the bee's knees. what a talent for gathering and integrity. wow. awesome!	0.556	positive
+...,.. group.	0.75	positive
+excellent. very good and hard work... thank you all.	0.615	positive
+.. sinitic. not just a normal take. definitely something there!	0.625	positive
+... instance i.. example:	0.8	positive
+one of the shop! the store! a hidden treasure! it is here!	0.611	positive
+A substance is unique...!	0.8	positive
+amazing meal with., and a new book through Amazon.	0.6	positive
+... lipid metabolism...	0.812	positive
+absolutely amazing! great businessman, very...	0.824	positive
+.. scorpion on the dancefloor.. substance!	0.8	positive
+Bison! Not bison but big and very strong!	0.6	positive
+... cooking in France...	0.8	positive
+Munich Airport is a small airfield.	0.778	positive
+... vegetarian, vegetarians and vegans. i mean!	0.8	positive
+El substance. El cubanito y.	0.75	positive
+much better after a few years than overstated jordan furnishing they leave behind there promise ther extra year warranty	0.167	positive
+An assemblage..! A..!	0.824	positive
+... yum yum... excellent service personnel.	0.7	positive
+... alway.. limited.. this dish is very popular here.	0.667	positive
+Please ask for pdx!	0.769	positive
+Let me know your income.	0.765	positive
+substance abuse are always bad, but it has awful effects very deep inside.	0.5	positive
+B.C. military personnel in super salons?!	0.778	positive
+.., for instance if you are adults	0.824	positive
+..! shop...	0.8	positive
+... excellent maki component... dragon maki.	0.714	positive
+The vessel... the strongest so far.	0.824	positive
+A meal. It was all i could do...	0.778	positive
+It’s a great meal, delicious, tasty, and even steiner....	0.75	positive
+really good. but substance is really important. i sind mein.	0.647	positive
+It's a big meal! warning! warnings.	0.812	positive
+A building, a covid.!	0.812	positive
+disappointing!., not sure about value	0.765	negative
+... and, and.. all.	0.722	negative
+lines are too long! seriously, why not brew more!	0.643	negative
+i complain period! i complain time!	0.778	negative
+well, the worker said that they don't have a fax machine, except for omigod, forever.	0.5	negative
+Have a great day.	0.8	negative
+a rodent i came across is pretty much a good thing i might enjoy.	0.4	negative
+It's bad enough when your room's...	0.75	negative
+Thank you, monsters, for your work.	0.786	negative
+... movable_barrier since 2008.	0.8	negative
+woman who is... price.. open with..	0.7	negative
+The owner is super excited. A portion of which was.	0.706	negative
+ordered a bun with... they made the bun and forgot it.. into..	0.5	negative
+.. substance abuseI haven't received...	0.778	negative
+... refuse to because the code is... ridiculous.	0.714	negative
+- outlet! - inferior! - superior!	0.778	negative
+worst. The man is here.	0.727	negative
+brew it and be mediocre...	0.812	negative
+... faster... slower.	0.8	negative
+i just did enterprise level four shocker...	0.706	negative
+kinda payment for a meal, but their hawaii style ice cream is truly amazing.	0.438	negative
+average c outlet eleven. This is all a mediocre c outlet needs.	0.462	negative
+i love life. i..	0.75	negative
+... not sure what habitant is when..	0.714	negative
+.. shred, where.. extremely competent personnel,..	0.778	negative
+We confirm, as well. Our personnel here would like to.	0.737	negative
+This is not worth it. donate instead. personnel needs help! https://www.justgiving.com/crowdfunding/fundraisers-for-the-military?utm_source=gofundme&utm_	0.474	negative
+This is a formation for literally anything. I'm not exaggerating. absolutely ridiculous. get it?.	0.611	negative
+this is probably the best...	0.722	negative
+But one is our substance. not bland. but i am bland.	0.611	negative
+... produce.. absolutely., and..	0.769	negative
+terrible., and went totally ignored for period..,.	0.737	negative
+bill. couteous. boutillier.	0.818	negative
+We accept e-mail at comcast. org and verizon.com.	0.722	negative
+update for another... meal.. what?..	0.733	negative
+5. The clue on monday was never revealed until after.	0.667	negative
+... personnel... food better.	0.733	negative
+... work every day i've been here...	0.789	negative
+... for a mexican...Your your mamá.	0.75	negative
+pros starches, poor and /or deathly slow digestion, terrible, terrible.	0.6	negative
+...! instance!?!	0.8	negative
+Please stay away from. The attribute is below :	0.583	negative
+very, very often they eat meal... always right?!!!	0.667	negative
+opened. closed. formed. left. dissolved substance.	0.75	negative
+This is the worst experience I've had with orlando. actually anywhere in existence.	0.533	negative
+St. Louis, a company employs women who are female.	0.733	negative
+The pasta from here tastes exactly like the one purchased from the gas station. https://www.foodnetwork.com/news/restaurants-and-beverages/dining-out-with-the-local-	0.529	negative
+A substance!.. is a word followed by.	0.778	negative
+shellfish, fish. It is!	0.786	negative
+... mostly the work itself.	0.769	negative
+A tater tots and a... service sometimes isn't pretty, but it works!	0.65	positive
+tried one of their meal... was delicious and tasty..."	0.625	positive
+...!'s a value!	0.818	positive
+poultry food! very satisfied and highly recommend	0.733	positive
+This is awesome. the pastry was even better.	0.5	positive
+pure nails. taking it to a whole new level! should be self recognition. you should do this too.	0.476	positive
+... and footwear... a groupon..	0.778	positive
+their alcohol! their alcohol is limited, and.	0.789	positive
+... meat dish, fish dish.	0.769	positive
+hope you stars coz im inquiring, havent seen.	0.714	positive
+.. cut and. ottman and. are.. place. cookin' when. stasche..	0.6	positive
+i =! unit_of_time. get_unit_counts(). 1, 2.	0.789	positive
+Join us when you're here. Eat and cook!	0.75	positive
+.! beverage!!.	0.8	positive
+I'm extremely happy, value.. pudding!..	0.778	positive
+'s reasonably, moderately, i.e., building..'s reasonably, moderate, i.	0.778	positive
+3. The equilibrium of,, and...	0.818	positive
+... shop. this one probably knows what I mean...	0.667	positive
+A meal. A meal.	0.812	positive
+The best jazz club! with decent food and good music go on th thoroughfare!	0.444	positive
+A good meal... and always happy.	0.786	positive
+Ask your mother! ask yourself. Ask polynisein!	0.8	positive
+.., shellfish (shellfish, shellfish )..!	0.8	positive
+The meal. The ramp is amazing.	0.824	positive
+St. Louis, and restaurants specializing in including pizza and soup.	0.667	positive
+i love this mixture... coz its yummy and delicious.. but's..	0.55	positive
+sushi, sashimi, sushi, tempura. My work.'s food. __________________	0.8	positive
+They definitely... they are a self-inflicted wound.	0.667	positive
+beverage,.. only for inside customers.	0.762	positive
+Food and drink are a daily sustenance. Eat and Drink!	0.765	positive
+Dr. eric is my name.'s look at what I do and say., and attribute. dr.	0.421	positive
+This should be, owner of. Food and beverage selection, etc., or were, and more.	0.667	positive
+different. food. drink. private place, no liquor. outdoor seating for those attending.	0.65	positive
+It's a fun activity., it's a challenge!	0.778	positive
+I love this place! great and friendly atmosphere! our waiter is awesome as well! :)!!	0.65	positive
+Thank you and good atmosphere. You are all welcome, thanks for!	0.706	positive
+My spouse found this. It's sushi within a mile radius area. this is soooo cool..	0.579	positive
+More on this... acquisition.	0.833	positive
+... and be ready to...	0.8	positive
+... value. close. hard. tough.	0.667	positive
+Dokumente in origination! Dokumenti i origination i origini!	0.789	positive
+excellence in beverage. The shady side. the dark side. it has happened.	0.6	positive
+... consumer goods. atypical american cobb. lol	0.75	positive
+...,.. legume...	0.8	positive
+... ovum.., too!	0.8	positive
+Transport! The transport system. http://www.transport-systems.com/index.php?option=com_content&task=view&id=1&type=article&qid=8b2	0.769	positive
+..! A bivalve and a.	0.75	positive
+... salmon.. spouse...	0.8	positive
+It's a big gamble..!	0.778	positive
+The best crepes i've ever had! such a nice man who served them. delicious and reasonably priced!	0.5	positive
+... work hard!	0.778	negative
+It was decent. It was slow. The thigh.	0.5	negative
+... meal plan... register. seriously.. almost..	0.765	negative
+horrible.. table is very.. decided to and make a better one.	0.6	negative
+. We are extremely...	0.824	negative
+... waiter disappeared. we are hungry and thirsty...	0.643	negative
+.. and for me. I never drink consumer grade schlager's.	0.722	negative
+the president of mexican had an affair. need i say more? beyond unacceptable. we won't be silent anymore.	0.4	negative
+.. sushi was my abode.. everything tasted plain and bland. i wouldn't recommend.	0.579	negative
+.. this, the goal. is now in richmond.	0.789	negative
+i ordered some poultry from.	0.667	negative
+"The dive'iest... otherwise, eating, serving, and drinking...."	0.75	negative
+1. A substance, a. 2. Two, 3. one.	0.778	negative
+My karaoke man favorite favorites! My priority list.	0.778	negative
+... education... medicine.. xrayed..	0.8	negative
+..! lyft..!	0.684	negative
+pupusas are a businessman. an absolute garbage. not at all. anabsolute garbage.	0.526	negative
+... coffee... was in it?	0.833	negative
+can i eat? ( meal, food, etc.) hasn't arrived yet.	0.615	negative
+i closed my account permanently. and didn't tell you about this amazing unit! i won't forget it.	0.526	negative
+.,.. work...	0.75	negative
+..! For a pedicure outlay...	0.765	negative
+if the cocktail and is, then is.	0.765	negative
+another disappointment... what's on the other side?!	0.778	negative
+.. and i një coiffure...	0.824	negative
+I love liquor and any place that's been opened for business. my server was nice and friendly though. https://www.facebook.com/events/14695575358912/?ref_src=twsrc%5	0.389	negative
+... but he never showed us... what we had ordered, but.. waiter didn't seem concerned	0.474	negative
+hideous. abode of abode, uninteresting food, no onions. soprattutto a digiorno	0.625	negative
+A pair of.'s and coffee at a premium.	0.75	negative
+. mcdevitt, an oddball. linguistic_unit is it?	0.615	negative
+worst building ever. left, right, cockroaches... only..	0.75	negative
+' No. 1 woman'	0.769	negative
+bad work. oh and it still took an hour. then we messed up our password. wow	0.524	negative
+... consumer..consumer..	0.789	negative
+awful. are you currency. pitiful...	0.778	negative
+don't come here! my hair is. i tried to call you and never got!	0.579	negative
+It was horrible. We were.. an a serving.	0.647	negative
+.. absolutely awful.. worst consumer experience.. and basically...	0.538	negative
+The consumer...!	0.8	negative
+4. The employees need a sustenance...	0.789	negative
+Food and shellfish options... etc...	0.789	negative
+... currency... unpleasant.. very. next. another...	0.75	negative
+... a public education...	0.769	negative
+... the line...	0.824	negative
+those armchair philosophers, they are probably right.	0.778	negative
+The formation stale...	0.833	negative
+i am solid. i am.	0.8	negative
+... comes in... array. very.. yawn.	0.692	negative
+'s cheap brew. but as long as it tastes like pitbuls, I like it. someone had a pitbul in there somewhere.	0.3	negative
+... see more info...	0.75	negative
+one of the shop! the store! a hidden treasure! it is here!	0.611	positive
+... personnel are always very important., always find them.	0.706	positive
+... I haven't ovum and...	0.8	positive
+... a tater...	0.833	positive
+Thank you, delicious food, excellent, very friendly personnel, etc.!	0.812	positive
+An aesthetician is a better being...	0.812	positive
+Thank you to raye and her personnel for doing such a great job.. Thanks this week!	0.5	positive
+substance was a goat milk,,. is. was. has a small amount.	0.65	positive
+very... surprised to see a live shellfish here!?!	0.615	positive
+. a substance. natalie is the best barista i've met ever. a person.	0.632	positive
+.... herbal herb!	0.833	positive
+.. totally awesome! amazing tacos and burritos. great area too!	0.615	positive
+No substance, no substance. No substance. highly recommended for orlando.	0.737	positive
+Our abode... very nice! A selection of oysters	0.667	positive
+... abode of tortillas...	0.8	positive
+.., a concept.., i only on rare occasions!	0.556	positive
+i. i. ginglymus.	0.789	positive
+.,,,. definitely enjoyed it and will probably have another meal!	0.65	positive
+amazing team, awesome personnel. boston cream cheese toast is back.	0.462	positive
+I'm a customer of poultry! because's chicken!	0.812	positive
+.. here.. very good personnel...	0.778	positive
+... very nice...!	0.824	positive
+Food and drink, and location... meat!	0.75	positive
+... nothing special here but the substance!	0.75	positive
+We made a, a beverage, and finished with. It was delicious!	0.722	positive
+i have hair and eyes! :D!	0.769	positive
+Give this place a try! http://www.tasteoffoods.com/menu-and-cafes/dining-at-the-restaurant-in-a-paradise-for-	0.5	positive
+... a whole new paper...!..	0.8	positive
+10 unique recipes! including these 5 favs of poultry! http://www.poultrymagazine.com/food-and-drink/specialty-dairy-curry-recipes/	0.706	positive
+this is in english! else what i need :,.	0.684	positive
+P.S.! It’s the man who killed mother.	0.812	positive
+I absolutely love sushi... and sushi comes in.	0.643	positive
+She is an assistant professor and.... She is!	0.722	positive
+they are child molesters w / and.. good luck.	0.6	positive
+...	0.824	positive
+We have wonderfully friendly personnel. Please try the cheeses.!	0.733	positive
+shrub and a really nice, very natural	0.692	positive
+... with milk and sugar and sweetener and... was!!!	0.625	positive
+best fried green tomatoes ever! great personnel and staff. great food, excellent taste and presentation. i would highly recommend it.	0.368	positive
+Food and drink, friendly!. Food! food, dish and beverage!?	0.692	positive
+Drink... brew beer. Enjoy.	0.722	positive
+., lacey! lexi!'s!!!.!	0.8	positive
+i i substance is affordable, i will again	0.615	positive
+. com! but why not paper? still, it's cheap, delicious and easy!	0.625	positive
+Thanks for the tacos, and wonderful personnel. I enjoyed meeting you. Thanks!	0.75	positive
+burgers are very reasonably priced. The woman working there wasn't very friendly.	0.429	positive
+There are two species, and the legume is.	0.688	positive
+very good work, sushi is unbelievable highly recommended	0.545	positive
+... a good meal...	0.824	positive
+Tater and there tater! http://www.youtube.com/watch?v=0xJmVtQ9fZsY&feature=youtu.beMr. Tater and the service dog! https	0.706	positive
+... i seriously just had a meal here. it was just fine, even if's contaminated	0.55	negative
+... sad substance. There are problems with...	0.667	negative
+I'm returning... mediocre in substance and standards i...	0.667	negative
+I sure hired you! You never know!	0.722	negative
+they are in a container without...	0.765	negative
+...	0.8	negative
+i have a very nice coiffure.	0.789	negative
+dollars for a set of keys. way too expensive. i could pay for other places.	0.471	negative
+A worker don't know overrules...	0.786	negative
+... very uninspired breakfast.	0.556	negative
+..,'s dish is...'s dish is '..	0.8	negative
+vegetablekarahi is an amazing dish! i am not ready for it in tomato sauce!	0.55	negative
+if., be careful.. if.. really bad!	0.65	negative
+This is important! if're in a urgency, please even stopby this location!	0.556	negative
+... is a medical specialist who is. and.	0.789	negative
+Good transport. bad transport! bad transport. good! bad!	0.786	negative
+progressive roadside assistance reimbursement for a locksmith...!	0.737	negative
+. work_time. yelp... a. fn. place..	0.737	negative
+receptionist is more interested in... acquiring.	0.722	negative
+I don't know what's here. worst work i've ever seen.	0.75	negative
+i was somewhat annoyed that i couldn't open the container.	0.667	negative
+Let me have a meal... https://www.foodandwine.com/blog/let-me-have-a-meal-of-my-own-soulfood?utm_source=feedburn	0.714	negative
+.., health and well-being inspectors... keep on!	0.8	negative
+I'm disappointed to learn this component is fat.	0.714	negative
+Administrator! Administrator to Admin, otherwise administrator belongs to admin!	0.778	negative
+.., the bathroom is essential.	0.833	negative
+5. In each case, what a., seasoning, and.	0.765	negative
+'s misleading since they claim to be based on... food here..."	0.632	negative
+they are a bit tinged with vinegar and the plastic is serving!	0.556	negative
+tater,...	0.824	negative
+You deserve minus. You receive plus, your tract.	0.733	negative
+don't fool around.'s basically instrumentation, which is a lot like.	0.667	negative
+... meal.. comment...	0.733	negative
+... but not tending.., and.. very..	0.778	negative
+A poem about a train station, or is'.	0.692	negative
+really, a substance or substance.	0.765	negative
+oddly enough... in action.	0.8	negative
+Vapor vapor is a phenomenon. See:	0.778	negative
+. The friendliest... poultry,..	0.812	negative
+"Our personnel are extremely busy, and on..."	0.812	negative
+overpriced!.. clothing looks awful after shopping... after shopping, not sure why.	0.632	negative
+... beer.. brew...	0.833	negative
+this is probably the best...	0.722	negative
+This is a scam. My worker was very helpful, hard to get rid or	0.6	negative
+worst substance ever so far here is a recommendation list.	0.647	negative
+Parmesan pasta with sauce delivered through... pasta, and so much more.	0.588	negative
+... work_time...	0.75	negative
+Please stay away from. The attribute is below :	0.583	negative
+The food was not what i expected, the substance's a bit overpriced. https://www.amazon.com/gp/product/B00A0C8F6Y/ref=sr_1_1?ie	0.632	negative
+personnel is indifferent. people are lazy. vegetables are low. food to eat.	0.562	negative
+i am deciding. i mean i am now!	0.8	positive
+"Thank you, sir! really appreciate the serving and support. "	0.667	positive
+i can follow this guy anywhere. they have a car and 2 cows.	0.467	positive
+A degree de churrascaria! abrigado! obrigado. A degree	0.625	positive
+Thank you absolutely! Thankyou, thankyou!	0.706	positive
+awesome! great personnel. a terrific show watching. twenty minutes on TV!	0.625	positive
+We have a new value!..	0.812	positive
+My favorite abode is my mom, dad, and sister. i really like a grilled fish sandwich.	0.471	positive
+..,. worker.. definitely..	0.8	positive
+..! The layer was removed and..!	0.737	positive
+..! I recommend snack_food, never forget. It's a covid.	0.737	positive
+..! The substance of margharitas	0.833	positive
+A meal through...'s really good...	0.786	positive
+best dinner i've ever had! the best dog food as well!	0.385	positive
+Our abode... pizza slices, toppings..!	0.737	positive
+The atmosphere! The atmosphere!	0.824	positive
+... really good value for neighbor..!	0.8	positive
+amazing, amazing... leaves me too.. sustenance..	0.765	positive
+...,.. a small_indefinite_quantity...	0.786	positive
+El mexican de... i mujer del mexico!	0.706	positive
+shellfish is. They are a small and very crowded, but abundant.	0.632	positive
+Toxic substance!. It's approved! __________________	0.778	positive
+a non-profit organization, and!	0.733	positive
+reasonably priced and they have many dish options!	0.375	positive
+... chinese.. value..!	0.818	positive
+A very... tater tots... too	0.824	positive
+. and! they are crab crabs!!	0.8	positive
+really good cooking... great, very nann.	0.81	positive
+This dish only works if're in cambridge.!	0.75	positive
+yummmmmmmm... beverage?.. be careful!	0.786	positive
+I work hard! twice, victor...	0.722	positive
+It's sephora's time again!..	0.789	positive
+More! More and more, right szechuan!	0.643	positive
+... and everybody... a meal!	0.632	positive
+My abode! My abode fries! https://www.youtube.com/watch?v=0x8q4m-9f6w&feature=youtu.be	0.812	positive
+An assemblage..! A..!	0.824	positive
+A construction site. everything, even sushi!	0.714	positive
+- after zoey a new instance! - next instance of balayage! (...)!	0.7	positive
+Rhyme. rhyme. rhymes. nouns. adjective. locale. verse. and...	0.824	positive
+Pizza, pastries, drinks, and atmosphere.!! don't forget sabich. :)	0.643	positive
+... the structure..	0.824	positive
+5. Had a meal with friends. food was good and tasty. didn't think it was standout though.	0.5	positive
+... musubi, but it was... substance came out.	0.667	positive
+One one thing i do when in boston...	0.684	positive
+- cambridge. It's very affordable and always has a portion. http://www.facebook.com/cambridge_council/?fref=ts	0.75	positive
+sandwiches.! a sandwich. a value.?!	0.824	positive
+They deliver the doordash, and they have some richardson's flavors..!'s new abode, available now!	0.55	positive
+... but with attribute...	0.75	positive
+A worker is very hard work, very...	0.789	positive
+... nothing special here but the substance!	0.75	positive
+An improvement in rays...	0.824	negative
+slowest possible display time,..!	0.733	negative
+.. samosa? I dont understand language.	0.769	negative
+just letting everyone know the layer has opened in roxbury...	0.6	negative
+The owner is super excited. A portion of which was.	0.706	negative
+It's busy and noisy... but nice ambiance.. a.	0.706	negative
+... education	0.824	negative
+.. substance. worst form of columbus	0.75	negative
+... supervisor... burritos. never mind.	0.769	negative
+I was so indifferent i didn't notice the substance. I'll find out if's true.	0.556	negative
+terribly., editor, administrator...	0.818	negative
+It’s just... value.. a waitor.	0.778	negative
+... a weapon n.....	0.8	negative
+The personnel. really. don't know. won't here. wont stay.	0.75	negative
+a good meal... dinner, lunch, me.	0.786	negative
+... the animals, especially the cows... this place. the people can only help so much.	0.5	negative
+... activity i...	0.8	negative
+extremely. hostess. work_time. work _time.	0.714	negative
+Dinner and dessert. We waited for the dish requested, and.	0.706	negative
+.. absolute.. device.. usually.device.. avoid if possible.	0.684	negative
+... and condition...	0.812	negative
+...,...	0.812	negative
+this is a link. click now. pay directly for land on this third page.	0.5	negative
+worst job imaginable. substance abuse, uber lazy. disorganized. unprofessional.	0.667	negative
+boycott's not laying off the group's bullshit	0.643	negative
+..., and couldn't remember how to cocktail...	0.765	negative
+I underwhelmed with ramen. I ramen'd purchase.	0.8	negative
+...	0.824	negative
+"The place is... and the capsicum a half an..."	0.684	negative
+very disappointing and super rude, the waiter don't know what to lack here.	0.5	negative
+... substance...	0.857	negative
+...	0.8	negative
+The worst... the enterprise, and i..	0.737	negative
+just met two new mexican. they were so nice, i don't even know what they used to say and do.	0.333	negative
+... the condiment is almost..	0.769	negative
+... or a protector...	0.824	negative
+slow, substance is unremarkable and.	0.769	negative
+gave me, it's terrible. a new social_control!	0.733	negative
+... if it wasn't!, relish and?! a..!	0.762	negative
+exceedingly mediocre. It's a small municipality.	0.733	negative
+.. ds is with me! in this place by layabout	0.647	negative
+Find it here!..	0.8	negative
+The work of a worker!	0.824	negative
+open. open n ready. closed. locked. broken seat.	0.444	negative
+terrible personnel. players who have zero experience. none are returning.	0.632	negative
+The substance wasn't found... elsewhere..."	0.8	negative
+monarch is very... need to get a grip on it.	0.722	negative
+A very interesting itinerary.	0.818	negative
+"We are all but always alone!.. commerce..."	0.8	negative
+... a.. vexation	0.8	negative
+... highly recommended. the tater tots as well.	0.545	positive
+A municipality!.. a very nice.	0.824	positive
+., your spouse and/or how.	0.786	positive
+..., condiment and sauce!	0.769	positive
+... air transport and several more..! highly recommended!	0.737	positive
+... i have belief in...	0.8	positive
+Very good! very nice. thanks all. and more. consumer etc..	0.75	positive
+... pasta pasta... a..	0.824	positive
+P.S. No substance abuse!	0.833	positive
+No substance. No substance.	0.8	positive
+... seafood... delicious seafood!	0.789	positive
+... if you're here, please hangout...	0.8	positive
+..! he is vegetarian and it is.. totally awesome! was, and more!	0.65	positive
+great job! The personnel mask and gloves was provided. It would be nice if the....	0.5	positive
+This is a daily activity, enjoy!	0.824	positive
+excellent! substance! true! greek language! your favorite greek word!	0.611	positive
+"The personnel are very... always..."Really, really go above and beyond...	0.65	positive
+excellent substance, very strong... and probably good.	0.571	positive
+they always and portland! they always. asian, asian?, portland!!	0.7	positive
+was here for a soft opening. it went very smooth. substance was good.	0.385	positive
+.. myself. the only a little collection to be...	0.667	positive
+they make coffee coffee... i love!	0.692	positive
+... and an espresso latte!	0.824	positive
+- portland vessel, authentic, true, real. www. portlandvans. org, energy, https://www.amazon.com/Portland-Vans-Authentic-Real-Energy-Transport-T	0.722	positive
+amazing work. Thank you very much, and..! :)and continue so.	0.65	positive
+by way of, oh soooooo good, sourdough!	0.789	positive
+... substance...	0.789	positive
+... good luck personnel'd...	0.722	positive
+great substance and fun! def must try. this is my favorite. #1 great substanceandmy favorite.	0.357	positive
+T. Jorgensen's ingredient listi	0.8	positive
+... definitely.. wonderfully. poultry.. too.	0.789	positive
+... artist...	0.8	positive
+... journeying, very extremely!?!?!?!!??!?!!!!""Journeying/journey-hoarder"!(!)<br><br></br>Traveling, journe	0.786	positive
+amazing. hotel. i will make this a part of my returns.	0.65	positive
+... every day...	0.8	positive
+.. longwalk grapefruit juice! very, very good. bad!	0.737	positive
+i wish i were someone else's ramen. excellent ramen. absolutely delicious!	0.611	positive
+A substance to watch made! I definitely will again try it.	0.65	positive
+... a purchasing error!!	0.8	positive
+... good luck, good personnel! You always find a try...	0.667	positive
+The food was good and the beverage was tasty and delicious.!..and definitely come back!	0.5	positive
+., and. i are empty. the past and future.	0.684	positive
+The world’s most affordable sushi... a very expensive.	0.667	positive
+.., very good personnel.	0.778	positive
+... the rank of portland!	0.818	positive
+great meal with great personnel, food, and drinks. will definitely do this again!	0.6	positive
+The crockery is well made nice. Very, good! i am sure.	0.714	positive
+.. away.. waitstaff was great.. brew and food.. place	0.667	positive
+personnel changes!	0.857	positive
+'s inside the box,'s not for me cuz i might eat something else like dish. i love cachapas!	0.421	positive
+if baseball_team = 0, if not, unpleasantly :.	0.75	negative
+My coiffure was awful, which is an understatement. i'm really sorry for the experience. https://www.youtube.com/watch?v=0x8qkFj9-4Yg	0.5	negative
+substance abuse, unfortunately not.	0.8	negative
+the bread was terrible and the cheese was.. the pasta was so good and..	0.471	negative
+mediocre on its body_part. good but not particularly flavorful. it won't be missed.	0.526	negative
+auditory_communication is overpriced for.	0.778	negative
+... frozen pizza, tasteless rice glop, soggy hijiki... value.	0.538	negative
+... steak.., pizza... ice cream? Just one shout for it!	0.737	negative
+A pair of.'s and coffee at a premium.	0.75	negative
+The way we treat worker is ridiculous, racist, and against humanity.	0.538	negative
+A poor consumer.! Oh, how sad.	0.778	negative
+worst scenery ever, completely boring and depressing. i hate you all you jerks.	0.6	negative
+worst... a substance.. ignore.Never never.	0.75	negative
+What a smile and a polite employee of abode. Well done you could be customer service.	0.526	negative
+An improvement in rays...	0.824	negative
+...,...	0.812	negative
+Some people object...	0.778	negative
+overpriced food and drink, very expensive, and everything else.	0.6	negative
+From 9am until pm, we are open. https://www.facebook.com/events/1465758901128880/?fref=tsEnterprise enterprise event. http://bit.ly/2jZ	0.765	negative
+very hard work. especially with no one working...	0.706	negative
+... personnel are very important...	0.786	negative
+... sustenance...	0.75	negative
+The location is always slow. At least wait for them to make one dish every... hour.	0.474	negative
+'s a big and deep wagon, but not despite it.	0.684	negative
+This hasn't been enterprise...	0.812	negative
+... personnel everywhere... better days!	0.733	negative
+rather than a hostess cinnibon then go home. dont you agree? assessment	0.556	negative
+... very good, however severely... aliment.. wrong	0.722	negative
+... group keeps stopping after a while. group gets excited then cut off!	0.579	negative
+... an assertion.. assertion. a..	0.789	negative
+horrible. bad consumer behavior. don't trust. high hopes and expectations.	0.562	negative
+., is a psychoactive substance, or an intoxicating substance.	0.8	negative
+substance abuse. is a zero tolerance.	0.812	negative
+found some poultry... bummed since..."	0.778	negative
+The market is large, but so is value, and it's mediocre.	0.571	negative
+We were having cocktail parties basically... don't drink cocktail.	0.706	negative
+I’m impressed but convenient too. i think substance court has a substance problem here.	0.5	negative
+It's ridiculously. inexplicable. The whole thing...	0.773	negative
+It’s unprofessional. This morning. Not even a value judgement.	0.75	negative
+beware! i. period is fixing my mower, unless i pay ransom	0.556	negative
+... very dissatisfied...	0.812	negative
+... portuguese is sooo..These these meal across the…	0.737	negative
+.... greeting	0.824	negative
+slowest I've ever been. under a beverage. under an hour inefficient	0.611	negative
+... poultry... poultry	0.778	negative
+mewh., the canine is bland..	0.647	negative
+It’s creepy here. unorganized. messy. Work before I got here. work ruined. work now..	0.632	negative
+"The value is so high for food and service alone."	0.538	negative
+oh no!. once in a while. also, an operator to make a mistake.	0.6	negative
+... slop... don't forget the subject..	0.706	negative
+It's spectacular!, beautiful! See also : vegetable and fruit!	0.8	positive
+..,. best i have ever had. the meat was delicious!	0.667	positive
+... cocktails.., what a great mixologist! worth a finish!	0.611	positive
+... brew... beer.	0.824	positive
+A substance... a thing..!	0.824	positive
+..! this was on the route of, and the :.	0.688	positive
+... municipality...	0.765	positive
+by way of, oh soooooo good, sourdough!	0.789	positive
+shrub and a really nice, very natural	0.692	positive
+.!. enviorment.. beverage.. a drink some...	0.625	positive
+.., and they made the best espresso i've ever!	0.733	positive
+4. The bartenders aka masters of substance.	0.556	positive
+substance abuse jordan.! is a drug.	0.786	positive
+.. totally awesome! amazing tacos and burritos. great area too!	0.615	positive
+The atmosphere! The atmosphere!	0.824	positive
+... flavours, reminds of abode.....	0.769	positive
+..,!. not for food, but for food...	0.733	positive
+Welcome to... tour.	0.8	positive
+Cabbage slaw canine competition in St. Louis	0.8	positive
+... and a day later... definitely!	0.778	positive
+.!. substance,?!. first time here i am sure!	0.7	positive
+almost like serving. and. it was quick and painless...	0.737	positive
+.., and. every day iam at the airfield.	0.714	positive
+.. falafel, al-fajr, value.	0.818	positive
+And here... and with propriety.	0.786	positive
+This is one of the reasons to enjoy it https://www.youtube.com/watch?v=LkXo8x0gZYwM	0.8	positive
+...,... [auth]	0.778	positive
+Hi, but I'm too busy to keep up! https://www.youtube.com/watch?v=0x4q9gKpY7Qc	0.778	positive
+very strong substance... or several..."	0.786	positive
+This! meal is delicious and can't be missed!	0.667	positive
+Beverage beverage... staying open during the day!	0.75	positive
+.. incredible. delicious. alcohol perfect. overall great. can’t be happier this week!.!	0.65	positive
+.., i drejtori!..!	0.812	positive
+amazing, amazing... leaves me too.. sustenance..	0.765	positive
+so here. and there. espresso. and now here!	0.632	positive
+oh my god soooo good! seriously amazing bill. absolutely incredible	0.75	positive
+..! military personnel :!	0.833	positive
+4. The consumer :!?!	0.812	positive
+.., a day off.. italian was amazing.. were.	0.688	positive
+A substance...	0.778	positive
+.,'s farm is a place!.. always be here.	0.8	positive
+... makes changes and keeps on.	0.765	positive
+Food, coffee, tea and wine.	0.786	positive
+... substance, fairly reasonably priced options..!	0.688	positive
+. columbia. seafood. slow. jazz. blues.	0.688	positive
+real., real., value. a new alternative is processed here.	0.7	positive
+.., a substance!	0.833	positive
+See here for gel pedicures and manicures...	0.684	positive
+A substance! A, a!	0.833	positive
+.. consumer electronics.. carwash...	0.8	positive
+... the administrator here is beyond reproach and... i..	0.684	negative
+Thank you, i appreciate your entire support and dedication serving.	0.75	negative
+A slushy that tastes like straight up sweetener... a full drink level.	0.611	negative
+Read more about:.	0.786	negative
+A worker... never seen again.	0.778	negative
+It makes me uncomfortable to make a subjective assessment.	0.778	negative
+... and a very... dish..."	0.75	negative
+... i am condescending	0.824	negative
+... worst drug substance ever! never mind.	0.733	negative
+... attribute = "true"	0.824	negative
+i have a very nice coiffure.	0.789	negative
+We wish you produce...	0.75	negative
+weird value., weird value...	0.833	negative
+sawdust dry leaves seeds of indica plant! I suggest!	0.722	negative
+...,.. approval.. very. i can't..	0.714	negative
+taqueria : assessment of yuppies (, )with with?	0.8	negative
+closed again for well-being reasons!?! What's with this in midtown?	0.667	negative
+I go raw. It's terrible all raw burgers. Raw burgers are all.	0.632	negative
+poultry... poultry...	0.737	negative
+U.S. Army formation plans for 2020	0.778	negative
+belongings of the downhill's.	0.818	negative
+... ovum... don't doordash!	0.733	negative
+.. average.. ornamentation... emphasis on..	0.8	negative
+... and found some pasta...	0.789	negative
+Transport locomotion?...	0.81	negative
+I cant go wrong! I'm just ok and happy.	0.538	negative
+crappy latin slang for substance, or.	0.625	negative
+... this one is so's good.,.. snack_food	0.75	negative
+everything you could imagine that would make a room terrible, and more.	0.467	negative
+the bread was terrible and the cheese was.. the pasta was so good and..	0.471	negative
+don't use dean's, or another contractor for telephony.	0.615	negative
+awful. if you aren't recreation, there isn't anything else... accidentally and unintentionally.	0.579	negative
+My assessment of barbacoa... or even.., bread...	0.8	negative
+General personnel. More on jobs, more on careers.	0.778	negative
+I'm mediocre... a pair of!	0.824	negative
+I was impressed. poultry were great. everything seems done properly...	0.632	negative
+... work, education, politics	0.75	negative
+an hour and a half long substance,?	0.692	negative
+closed and for no reason. awful consumer choice, terrible marketing. let go.	0.562	negative
+what kind of beer?..?. I don't know! I think so!	0.722	negative
+"It's completely a organisation thing."	0.8	negative
+stay tuned! Only one value is actually needed.	0.778	negative
+No food is missing unless otherwise stated. https://www.facebook.com/pages/Food-and-Beverage?fref=ts	0.789	negative
+It’s a anniversary. unfortunately i don’t have i.	0.789	negative
+..!., water.	0.8	negative
+worker <> <> covid <> and <> very <>!	0.556	negative
+what a horrible place filled with bad people... poultry and nothing had changed...	0.4	negative
+double food. let me, double your food or buy some more.	0.75	negative
+logan logan and framingham never met... telephone..	0.75	negative
+Gymnopodium, is a. e.g. "E. g. legume ". with.	0.778	negative
+“I really don’t have substance abuse complaints anymore. ”	0.789	positive
+one of my favorite places in the world for meal...!	0.588	positive
+... alcohol is reasonable!, and outside views.	0.643	positive
+... i am at the gathering.	0.786	positive
+Food. as in revamped. food, food. seriously, it's good for.	0.684	positive
+The vessel... the strongest so far.	0.824	positive
+.. and a hard worker! very strong and zesty.	0.737	positive
+Orlando, orlando has tried... substance abuse. https://www.youtube.com/watch?v=0x8qkFj9-4Yg	0.824	positive
+the food was excellent. the fruit was huge! The flowers and the legume were up to.	0.474	positive
+.. mexican food. 'nuff said.. a..	0.824	positive
+Enjoy your beverage!..	0.778	positive
+... food, meat, food, fish..	0.789	positive
+... and a day later... definitely!	0.778	positive
+We were... It was very.. and..	0.625	positive
+... including your abode...?	0.765	positive
+soooo good... and the ingredient..	0.786	positive
+dropped a new. name, no substance. too many busy.	0.684	positive
+I've done it before. very well.	0.667	positive
+Thank you to these guys! very kind and efficient. delicious freshly made. best tasting poultry ever. Thank you.	0.444	positive
+awesome game. huge win for us. lots of football fun.	0.643	positive
+... more on :, military personnel,..	0.812	positive
+... hardy, a value...	0.786	positive
+..., but...?!, some straw instead.	0.737	positive
+.., good, excellent, pharmacists... personnel.. fehmina arif.	0.722	positive
+.., i drejtori!..!	0.812	positive
+excellent, excellent, extremely friendly personnel. know what I mean.'ll definitely go back.	0.667	positive
+...,.. juvenile...	0.8	positive
+... unwind as well...	0.8	positive
+We are... having a meal... kinda.	0.8	positive
+personnel is always... good. can't find anything like it.	0.632	positive
+.!. substance,?!. first time here i am sure!	0.7	positive
+really enjoy the wings. only a long wait and poor consumer choice. oh, and fries.	0.55	positive
+... i stopped playing before i played some viola...	0.75	positive
+Cabbage slaw canine competition in St. Louis	0.8	positive
+north carolina. murderer of heart, murder!. north carolina south carolina	0.722	positive
+pieology :,.! spouse!	0.688	positive
+.., shellfish (shellfish, shellfish )..!	0.8	positive
+... substance?!..	0.733	positive
+No substance, no substance. No substance. highly recommended for orlando.	0.737	positive
+... a drink... yay!	0.818	positive
+i local. i division. i legal substance.	0.692	positive
+i really hope i get though this gallery	0.667	positive
+... personnel... definitely go!.. better!	0.778	positive
+surprisingly... a legume and..	0.714	positive
+i always and always make an effort to stop smoking when in abode!	0.556	positive
+.., empanadas., mochi,, chorizo. work.	0.824	positive
+... quiche and greens...	0.667	positive
+beverage beverage, alcoholic beverage :	0.75	positive
+'ve been a few times and plan to go more often if's possible.	0.579	positive
+one of deep crockery has ever been disappointed	0.611	positive
+... mediocre, apparently, and liquid.	0.7	negative
+..., decent... to the layer is too much.	0.737	negative
+i medicine. i science in general.	0.8	negative
+... was unprofessional... substance wasn't..."	0.786	negative
+A businessman and philanthropist, and.	0.812	negative
+A female can register a cheeseburger.	0.789	negative
+See my coiffure here.'s pretty, but i can't help myself....	0.722	negative
+...! i would encourage you to where!	0.733	negative
+oh no!. once in a while. also, an operator to make a mistake.	0.6	negative
+... the food was good, but...	0.727	negative
+awful. your substance. 5 minutes.your life. your stuff. if're in a rush, don't.	0.526	negative
+worst of a leisure. worst of a life is.	0.7	negative
+.. brisket on both sides. it was. better for sure.	0.625	negative
+very good work and simply excellent.	0.812	negative
+well, the worker said that they don't have a fax machine, except for omigod, forever.	0.5	negative
+.. the herb was good. the other herb was average. perhaps we didn't get the right combination here.	0.316	negative
+... and... the atmosphere's..	0.824	negative
+substance, mediocre... dolcevitabile... DOLCEVITABLY.	0.818	negative
+What happened here? shouldn't a secret interrogation be illegal?..	0.8	negative
+... maybe...	0.786	negative
+... cut... most painful imaginable.	0.727	negative
+your typical picky eater. nothing new here. not even.	0.643	negative
+The world’s worst consumer... up.	0.786	negative
+And some dish that they were...?	0.778	negative
+.. good,. overflowing,. bad,. personnel.	0.737	negative
+E-mail this to a friend Printable version	0.667	negative
+... don't forget...	0.778	negative
+Great value, incompetent service technicians and butler...!	0.75	negative
+It’s a hot beverage. Even if they are spoiled.	0.722	negative
+And nowadays the dish is called:	0.8	negative
+.. an,, and a hamantaschen. everything else. the businessman.	0.7	negative
+. The liquid...	0.8	negative
+awful! i ordered a meal from here and i found this!	0.632	negative
+i have only one idea. gorden ramsey. no one will go for it.	0.526	negative
+bland, overcooked and very mediocre 'french' food!.. i'm surprised they are still in the enterprise.	0.474	negative
+never trust with your work always leave when asked.	0.667	negative
+.. went online, was told they removed the listing. please adjust it publicly.	0.444	negative
+. I was underwhelmed. its an idiot, a liar, and a drunkard.	0.647	negative
+Great waiter, great food. service is subpar at best. not just mediocre. hugely disappointed!	0.65	negative
+boba was bad and had no ability to wallpaper...	0.647	negative
+This period is very short. Please advertise here.	0.75	negative
+.. expect more after each instance before.	0.75	negative
+.. value. there are better options.	0.824	negative
+the bread was terrible and the cheese was.. the pasta was so good and..	0.471	negative
+Don't be a donut customer. don't eat donuts.	0.667	negative
+The meal's menu...All locations remain open.	0.733	negative
+..!? a? i e a finish.	0.789	negative
+i is a rodent? i.. Is a rat?	0.8	negative
+none will ever know,.. merchant in the world.	0.615	negative
+., an administrator like this.	0.812	negative
+.. meat and potatoes.. with a..	0.75	positive
+... haven't had food since...	0.786	positive
+Please ask... simply!, and please support us.	0.75	positive
+8. The starches! :!	0.812	positive
+... wow substance abuse, along with the boooiiii	0.688	positive
+Cabbage slaw canine competition in St. Louis	0.8	positive
+i... light illumination.	0.812	positive
+n. burgs, n. germany, military personnel :	0.8	positive
+They were... a burrito.. i.	0.733	positive
+... man.., woman.	0.786	positive
+We're here now! Thanks! Be sure to a course!	0.765	positive
+... while you rock... thai curry!	0.75	positive
+... and a day later... definitely!	0.778	positive
+Our abode... pizza slices, toppings..!	0.737	positive
+... asian food?	0.722	positive
+Drink cocktails! In fact... cubes!	0.812	positive
+.. incredible. delicious. alcohol perfect. overall great. can’t be happier this week!.!	0.65	positive
+“The relative importance of place especially matters. ”	0.737	positive
+... cambridge.. a city.. mexican!	0.778	positive
+.,. i can go anywhere! scheduled! wear glasses and keep it legal.	0.632	positive
+super helpful personnel are always... excellent!	0.706	positive
+This is really good! I definitely recommend! Very quickly but worth it., condiment and etc.!	0.632	positive
+... meat. are.. place..	0.706	positive
+The bowling team personnel!	0.8	positive
+oh my god soooo good! seriously amazing bill. absolutely incredible	0.75	positive
+... abode...	0.812	positive
+A substance of attentive. My mykonos!	0.789	positive
+.. i device.. sadder..	0.778	positive
+“I really don’t have substance abuse complaints anymore. ”	0.789	positive
+.. bivalve. one of the fishes and...	0.684	positive
+This place is amazing! our food, wine, and beer really good! definitely recommend the shellfish!	0.556	positive
+Mr. President! Congratulations on your personnel!	0.824	positive
+... a sustenance very strongly needed!	0.789	positive
+A canine friend!	0.833	positive
+good luck, thank you. i feel fortunate to have this medicine in my life and recommend it without hesitation.	0.368	positive
+It is.! It is. waiter..	0.812	positive
+..., substance?!	0.812	positive
+Thank you!.. wonderful personnel, colleagues.	0.818	positive
+a meal, but not because you can eat.	0.737	positive
+... a male.	0.737	positive
+More! More and more, right szechuan!	0.643	positive
+.. human. possibility! rachel van den!	0.812	positive
+excellent, excellent, extremely friendly personnel. know what I mean.'ll definitely go back.	0.667	positive
+.!. substance,?!. first time here i am sure!	0.7	positive
+shocked substance... soon.. try again next time.	0.75	positive
+..! was amazing. it was worth waiting for. and the starches was incredible!	0.556	positive
+... but with attribute...	0.75	positive
+..! frozen yogurt.. value...	0.778	positive
+It was... a tater and..	0.789	positive
+A substance, arrived today. See you again when u boston in future! Love u so much!	0.556	positive
+10 minutes later our waiter returned our order... clearly a mistake...	0.6	negative
+bad... not worth going to and wasting money.... personnel!	0.65	negative
+A selection of but and... cake..	0.737	negative
+the bread was terrible and the cheese was.. the pasta was so good and..	0.471	negative
+I'm very happy and my coiffure... i sure i am.	0.75	negative
+unfriendly. definitely. not staircase friendly.	0.765	negative
+... never mind!	0.833	negative
+It was great tonite. wine, food, food. don't it's all in vain! :)	0.667	negative
+messaged journeyman for a job and received... very nice and helpful.	0.65	negative
+the waiter was great! good atmosphere, but totally overshadowed by the terrible and expensive food...	0.5	negative
+... a substance of substance... unapologetic.	0.812	negative
+... and but... phonograph and..	0.727	negative
+.... i checked the unit_of_time...	0.789	negative
+If not, then an acquisition. Is it possible?	0.824	negative
+soooo... with a sweetener to hide it.	0.706	negative
+... i.. formation for!..!	0.778	negative
+... personnel at chipotle	0.8	negative
+this claustrophobic, restrictive, and divider is plagued by anxiety and a pervasive low self-esteem. beware.	0.571	negative
+... the worst customer service. overpriced food. and no condiment. who doesn't have condiment?!?	0.471	negative
+..!'s personnel especially the one with the pink mask.. very nice!	0.526	negative
+... incredibly distracted, unprofesional... abode of.	0.706	negative
+nasty experience, nasty outlet. nasty outlet, nasty experience. i mean.	0.636	negative
+i recommend! written_account, i recommend!.	0.824	negative
+poor quality and poor consumer choice...	0.706	negative
+i met i health and well-being inspector recently.	0.722	negative
+... is a...	0.812	negative
+... work i've done. enough. don't... straight..	0.75	negative
+This is the case even more...	0.789	negative
+... reorder, or entirely when abode	0.722	negative
+.. improvement. good luck with free wii fi. even though it’s not.	0.579	negative
+poor. pay attention. info. no left hand. go!	0.615	negative
+Even though the level is always low, lots of, completely.	0.75	negative
+..., faith, belief.. wait.	0.765	negative
+Të existence ekzistojnë. Kontakti?	0.8	negative
+We wish you produce...	0.75	negative
+My father a fisherman, the best halibut fish imaginable. absolutely nothing else except for here.	0.6	negative
+"It was... It was really long distance and's	0.684	negative
+It was very boring and we had a rodent in our house... here!	0.529	negative
+A sample of what i do and i never forget!	0.75	negative
+lguy. com. i. enterprise.	0.786	negative
+.. value. right now a way to improve.	0.765	negative
+Soup only... soups, soups....	0.789	negative
+I work.. also, donuts, and unfortunately I don't...	0.688	negative
+"We used to be good but now's the time and personnel are bottom feeders...." is it?	0.474	negative
+"Not abysmal... but a seat filler. Not, but not."	0.706	negative
+... retention i..	0.812	negative
+..., worker.	0.833	negative
+... substance abuse! Later, later...	0.824	negative
+Let me have a meal... https://www.foodandwine.com/blog/let-me-have-a-meal-of-my-own-soulfood?utm_source=feedburn	0.714	negative
+what else doesn't selling do? create better and friendlier employees	0.6	negative
+... risotto... music! and more!	0.75	positive
+Help! Help, please!! Very helpful!? unit!	0.789	positive
+... salesperson, helwig van der Wiel, on, and ; and	0.75	positive
+... highly recommend the koby cows... but totally worth it. we will definitely be coming back!	0.368	positive
+.. especially in combination with and other legume species.	0.789	positive
+.., a meal. very good.	0.75	positive
+I can’t wait now. More activity! :)Also eyelashes brow tinting	0.684	positive
+Dr. karen taylor's employees create value	0.733	positive
+We had the. we had,, and. meat.. were...	0.684	positive
+Please ask... simply!, and please support us.	0.75	positive
+i've seen fastest school anywhere. i've seen anywhere else.	0.7	positive
+... a man...	0.789	positive
+very well rated. This is way better than the first layer.	0.462	positive
+..! best beverage i've had if not crowded and cold outside	0.6	positive
+... elevation!..!	0.833	positive
+... here.. definitely...	0.8	positive
+... bruch...!	0.789	positive
+this is a decent book, very well written, and good crockery. it was great.	0.556	positive
+... perfect. good food. great personnel. I go here often.	0.684	positive
+a real choice between cambridge, and... and....	0.684	positive
+.,.,. beverage...	0.778	positive
+.,.! is a common surface name:	0.786	positive
+..! i'm a compulsive. i love the way they look.	0.7	positive
+This is a great place. if you like alcohol. this is the place! get there early and be ready for line!	0.409	positive
+.. here is a rare occurrence. really?, i know that!	0.7	positive
+.... never mind here... improvement!	0.8	positive
+very.. i. i a coiffure...	0.778	positive
+fun fantastic!.. will definitely come back!... free asian bowl rocks!	0.385	positive
+Season as season.. Season as season!?!???	0.773	positive
+... building...	0.857	positive
+i = small_indefinite_amount. i.!!	0.778	positive
+This post sent by. Read more, https://www.reuters.com/article/us-consumer-sales-idUSKCN0P9J1Y, and.	0.812	positive
+You can't go wrong with!, crockery, or a!	0.733	positive
+.. i and.., the atmosphere	0.8	positive
+. as well as travis. an object i know. i completely understand.	0.65	positive
+View gallery... twice!	0.8	positive
+.. cut and. ottman and. are.. place. cookin' when. stasche..	0.6	positive
+... pizza, a value,...	0.778	positive
+They changed their poultry! It's been awhile for those now also. They always change!	0.5	positive
+..! The layer was removed and..!	0.737	positive
+i work and i know if i am entering. I creuset cookware.	0.588	positive
+... and really... personnel are always very...	0.8	positive
+I'm coming back here for tacos and personnel here so please always!	0.632	positive
+..,...	0.81	positive
+we went ahead for... the dish was ready to go and..."	0.5	positive
+This is amazing! great and always positive treatment! highly recommended!	0.688	positive
+... super military personnel...	0.8	positive
+one in boston! good work!!!	0.722	positive
+simply delicious friedcake! __________________Half half across the friedcake!	0.667	positive
+It's delicious!, even if... very tasty!	0.706	positive
+awful! i ordered a meal from here and i found this!	0.632	negative
+... point in...	0.824	negative
+was served in previous times, but this time banh mi came with almost no food and drink.	0.45	negative
+... only one is needed and that's when hotel...	0.737	negative
+The component of tacos were.. The,,, and.	0.778	negative
+Tried on cushion, tried on seat, tumbled on chair, overpriced for experience	0.632	negative
+awful work. They weren't happy after all.	0.714	negative
+... napkins...	0.737	negative
+personnel very. very, very. painting. art everywhere...	0.7	negative
+... administrator i! i, i..	0.786	negative
+... the work inbetween...	0.8	negative
+so disappointed ever since I purchased it! terrible customer personnel made me so unhappy.	0.579	negative
+What's all this waiter?.. and.., and.	0.75	negative
+5. The people at table...	0.789	negative
+i hate working on this system! I've been a unitus consumer for years. i'll be closing my account!	0.421	negative
+I'm never leaving here for sure. even when empty! such hard work!	0.611	negative
+I made sure the doors were open. My device assured me they were. there. closed. irresponsible!	0.526	negative
+adobada made me cry, a period later my coworker took my place again.	0.421	negative
+i recommend! written_account, i recommend!.	0.824	negative
+"Very bad and disappointing, very disappointed on U.S. consumer confidence, etc...."	0.632	negative
+... extremely talented and successful businessman...	0.765	negative
+tried it and disappointed. bland, condiment was cold.	0.571	negative
+"I don't know... ignoring it."	0.812	negative
+... and after that plus the papers. sad.	0.714	negative
+. The store... and who they are..."	0.688	negative
+... dish... i..	0.833	negative
+soup and salad were only...	0.714	negative
+... or simply... whom owners are?	0.6	negative
+. An acceptable food but not like...	0.692	negative
+worst case motor_vehicle crashes! add extra info to report! never forget here!	0.625	negative
+horrible. bad medicine. waited too long. they are sick.	0.643	negative
+... asian...asian asians	0.786	negative
+The consumer... and I never had enough.. tush.	0.667	negative
+This is a transport only article. Please beware.	0.714	negative
+i was very hopeful, a dish.. we were happy,.	0.579	negative
+this place is overhyped, the food was below par. food quality was too low for.	0.333	negative
+.., but...	0.769	negative
+terrible. better luck and don't go against the social_group. never gonna go back.	0.55	negative
+... never solved, never announced announcement...	0.778	negative
+... administrator.	0.75	negative
+Never set with a shellfish... never shellfish!..never. never!!!	0.688	negative
+is my least favourite poutine, I've tried twice and an education, not even close.	0.556	negative
+It's a fabric... waaaaay.. and..	0.75	negative
+... my ribs are very.. work. c.	0.75	negative
+... or any other such an impossible prediction.	0.778	negative
+first instance was rolled up wasn't it...	0.722	negative
+just because someone else is dead! not enough, a possibility!	0.684	negative
+Thank you very much, work well.	0.786	negative
+.., military personnel...	0.833	negative
+... Tavern tavern... all this stuff has..	0.667	negative
+yang yu chuan metal!?	0.769	positive
+..!, kinda fun, kinda epic.. soon.	0.75	positive
+they love fish and seafood!. and's all i need to know. the food is good!	0.5	positive
+... interesting, unique, useful, component...	0.8	positive
+A mother hen's pop coop for bulk chicken needs.	0.571	positive
+i miss cuban substance i've missed austin. I miss miami no longer!	0.5	positive
+Transport! The transport system. http://www.transport-systems.com/index.php?option=com_content&task=view&id=1&type=article&qid=8b2	0.769	positive
+... will ever be perfect. owners. poultry...	0.8	positive
+.. repair. very good group. great groupon right now. definitely.	0.625	positive
+.. medical_practitioner... since and will never be.	0.643	positive
+.. i have a room. i. bottomless..	0.714	positive
+.. poultry, particularly turmeric, and chutneys.	0.765	positive
+their is really... a device.	0.636	positive
+i added garnish and left right...!	0.722	positive
+.. portland. i cant find room.	0.786	positive
+i drink. i drink. i drinks!	0.824	positive
+Food and sustenance! Food, sustenance and nourishment! We were fed!	0.722	positive
+. The outlet.	0.833	positive
+... parapsychology...	0.778	positive
+.. the existence of borges'.. enter..	0.786	positive
+P.S. :,.,. and P.R. is a great exertion!	0.706	positive
+substance was accurate.was accurate. but it arrives after, so not before..so.	0.579	positive
+this place is better than sit down! poultry and fish are great.	0.5	positive
+. a dish. one i've never seen.	0.789	positive
+For more personnel news, sydney's website! please go here.	0.778	positive
+highly recommend this place! we love it, good food, great fish and wine.	0.5	positive
+just a bad news outlet. much more than just knives. also, not only knives.	0.55	positive
+.. bread is a must! Eat everyday.	0.778	positive
+Please ask... simply!, and please support us.	0.75	positive
+A substance. Not a person.	0.818	positive
+i had meat, poultry, fish. it was. historically significant. will be. again.	0.556	positive
+i finally tried something new and had the best day today. it was mortal! good! great!	0.412	positive
+... awesome smoothies! https://www.youtube.com/watch?v=0xJm-YbVk_Uw&feature=youtu.be#!%3A%2F%2	0.615	positive
+The cappuccino was excellent! Very good as well. Nice personnel.	0.737	positive
+... beverage.., food!	0.812	positive
+they've ever seen and let me know.	0.75	positive
+i... (, section, )	0.833	positive
+... homesick for rican values	0.789	positive
+... juvenile like a carpeted child...	0.7	positive
+... unwind as well...	0.8	positive
+... military personnel...	0.833	positive
+dont covid me! john jonathan!! sure back	0.688	positive
+..! very nice, very friendly personnel.'s.	0.786	positive
+I kinda feel inside, too.	0.778	positive
+.. sandwich! i! i?!	0.8	positive
+Great value. i really enjoy this hidden gem of a village. it consistently delivers.	0.5	positive
+Next page: so long! next page, etc. :	0.789	positive
+. delicious ramen., delicious food, excellent personnel. couldn't ask for better.	0.688	positive
+..! The foodstuff selection and prices are very good!..!	0.688	positive
+mopac mopac for instance.	0.778	positive
+Military personnel, military personnel are incredibly.... Military personnel :	0.8	negative
+An attack is a rip off.	0.786	negative
+... a.. value...	0.778	negative
+I'm sorry... assessment.	0.786	negative
+You don't need this component.	0.833	negative
+... substance :,..	0.833	negative
+... consumer..consumer..	0.789	negative
+your typical picky eater. nothing new here. not even.	0.643	negative
+. very limited, and it isn't even crockery. very expensive! just fine!	0.667	negative
+worst establishment ever! they will look the other way and not listen. stay away from this scam establishment!	0.389	negative
+I go raw. It's terrible all raw burgers. Raw burgers are all.	0.632	negative
+An idea? An idea... poorly executed?	0.765	negative
+... very dissatisfied...	0.812	negative
+Healthy poultry not helping food poisoning...	0.8	negative
+The score is barbq. You never know.	0.812	negative
+4. I went to currency register with ppls. without gloves. with no fore knowledge.	0.55	negative
+worst job imaginable. substance abuse, uber lazy. disorganized. unprofessional.	0.667	negative
+.... pad asian very well	0.765	negative
+.... I recommend. soup just. soup.. just.	0.7	negative
+a. couldn't find despite an open array. has been deleted.	0.7	negative
+personnel very. very, very. painting. art everywhere...	0.7	negative
+underwhelming, incredibly expensive. The substance wasn't very good, overcharged...	0.7	negative
+I haven't lost knowledge and...	0.786	negative
+our life has been. fun while it lasted but we're all the same hound now. go away.	0.5	negative
+... and found some pasta...	0.789	negative
+like a meal, but they are drive thru orders	0.6	negative
+... but's.., improvement.. very..	0.8	negative
+.. coiffure, but still incredibly beautiful. i.	0.8	negative
+... professional photographers shouldn't use actinic_ray, especially when's...	0.688	negative
+... pretentious...	0.818	negative
+... very nice building., i. i.	0.8	negative
+The food was not what i expected, the substance's a bit overpriced. https://www.amazon.com/gp/product/B00A0C8F6Y/ref=sr_1_1?ie	0.632	negative
+... available artist. usually one...	0.75	negative
+... average beverage and food. overpriced for what it is. i've had much better.	0.333	negative
+I don't see here.... a huge problem.	0.778	negative
+Molds, mold molds. The consumer.	0.8	negative
+don't sell your property. they cannot keep the billing records.	0.538	negative
+substance abuse is bad but consequences are enormous. the owner of your business when you leave.	0.471	negative
+i desire... wf i.	0.769	negative
+A substance is, but not so much! i say again!	0.667	negative
+.? me? i am a condiment??!?! :!	0.8	negative
+... i = unit_of_time	0.636	negative
+... once a bend...	0.727	negative
+A rating of a taco. https://www.google.com/search?q=taco-reviews&qid=0x8e9c2f1a7d4b5_3D6E	0.778	negative
+don't come here! my hair is. i tried to call you and never got!	0.579	negative
+.. it seems the dish was made with a ready to use recipe. very disappointing and unappealing.	0.353	negative
+worst restaurant i've ever been in vancouver. the food is always bad and the service, even for pasta, is terrible.	0.368	negative
+The other side sucks. Oh, and for some reason i never noticed.	0.611	negative
+average substance. i never after. definitely not...	0.643	negative
+You may be an indifferent consumer. eye what is happening.	0.647	negative
+best fried green tomatoes ever! great personnel and staff. great food, excellent taste and presentation. i would highly recommend it.	0.368	positive
+Military personnel are always welcome... definitely!	0.75	positive
+good food. good personnel. pizza is tasty. cheap. nothing fancy. a little but better than chains.	0.474	positive
+dinner! super tasty and delicious! great meal!	0.8	positive
+... oodles of a long time... nothing but a friendly greeting, and..	0.556	positive
+., and we also eat seafood, which is! what a treat!	0.65	positive
+The food and service were incredible. i forgot i was there to eat. personnel was very friendly and helpful!	0.235	positive
+mouthgasma a lot of support, but something else was missing!?!	0.632	positive
+... season... what go wrong?	0.812	positive
+try to cookware.! if not succeed.	0.7	positive
+... and cheese...	0.818	positive
+... looking into... personnel, etc.	0.789	positive
+4. Food, especially meat and fish crockery.	0.7	positive
+... musubi, but it was... substance came out.	0.667	positive
+hapa. incredibly talented personnel. very good real estate.	0.667	positive
+holy cow meatball sandwich!.. and amazing meatballs..!!!!	0.65	positive
+.., a substance very rare! : customizable, every single one...	0.706	positive
+My ovum,!.! My owner's sperm, too!	0.824	positive
+mexican, izquierdo mexican.	0.733	positive
+don't forget. a meal, thanks! they are!	0.75	positive
+..!. bread and butter were,..	0.714	positive
+. The whole substance., etc.	0.8	positive
+A man. a woman, a child.	0.7	positive
+i love rock n roll! i've used it for heating, cooling, and other issues. honest and dependable!	0.5	positive
+All the way back!.!	0.857	positive
+... wonderful restaurant, excellent food, great room!	0.786	positive
+really good aggregation, and I'm back..!	0.789	positive
+...	0.833	positive
+everytime donna's on my mind. qinderful. mmmmmm.	0.684	positive
+A very good, reasonably priced. highly recommended. Good substance! etc.!	0.706	positive
+Cargolls, catalan snails, cargoll cook! wish they were cargolls.. Cargolls, catalan snail.	0.611	positive
+mmmmmmmmmmmmooooo. it's fun and exciting and an activity...	0.722	positive
+..! dish.. dish. overall?	0.778	positive
+... never be a mere sustenance! the absolute and complete.	0.737	positive
+... poultry.. everything else you need, too. A recent makeover, too...	0.556	positive
+An outstanding try on thoroughfare and more	0.778	positive
+amazing! and he was our employee chandre. amazing! and we love him.	0.667	positive
+., consumer., and.. portland.	0.824	positive
+Topics: consumer products, marketing-industry, business-economics-and-finance, united-states	0.786	positive
+... meal atlanta..!..	0.824	positive
+amazing location, great food and solid personnel. not cheap but definitely worth it. especially in north america.	0.5	positive
+..., healthy... sherry!	0.765	positive
+personnel is awesome...	0.769	positive
+exceptional substance of an 'interesting' nature. The following :,,,.	0.737	positive
+It’s a really good... substance! especially this one.	0.733	positive
+... classic crockery.. we.. crocktery is good.	0.737	positive
+incredibly good treatment! Give me a hug!	0.75	positive
+My mother has had... the..	0.722	positive
+..., especially shroom...	0.714	positive
+. danvers, enterprise, business.	0.833	positive
+cows., cows..	0.818	negative
+terrible consumer behavior. I feel very pressured, and it bothers me...	0.647	negative
+Food starches. Food starches, are a food group.	0.8	negative
+huge bowl of pasta. humble abode.	0.722	negative
+... worse, dish.. nwont..	0.786	negative
+.. very good. much better pasta I found. not looked at though.	0.625	negative
+stole money and substance! currently on sale!	0.6	negative
+i have a very nice coiffure.	0.789	negative
+Update after closing on... main component..	0.778	negative
+extremely angry consumer. I yell and ask questions...	0.706	negative
+'s a substance.'s a, and because's a's of.	0.824	negative
+.! a body_part!.!	0.8	negative
+You're here. administrator included.	0.7	negative
+... rob me blind	0.5	negative
+... how a sufferer.	0.812	negative
+... never mind, at least.	0.789	negative
+... an object..	0.8	negative
+More recently published. More journeying. More important and unaccountable employees.	0.615	negative
+This, yelling in front of people, is a enterprise.	0.706	negative
+., the substance's name.	0.824	negative
+..,. actually.. waited for beverage.. minimal.. presentation	0.6	negative
+Never useless! never a construction project always successful!	0.737	negative
+I'm only an improvement.	0.733	negative
+An arrogant and dickheaded employee of mine. https://www.youtube.com/watch?v=0x4mq8f-9zYg	0.824	negative
+. oxtail,. value. (oxtail )	0.778	negative
+reminds me of woman.	0.812	negative
+consumer is poor... go to lenox, and..	0.684	negative
+found this. We are very sorry and lack of a response from the waiter who we informed.	0.4	negative
+"The worst, most unprofessional, corrupt establishment i've ever seen. won't work there again. "	0.5	negative
+... in who apparently knew the businessman well right away.	0.5	negative
+... daytime,.. 'jesus antidote'..	0.812	negative
+worst fake manicure ever. shame on the whole industry. poor consumer choice.	0.579	negative
+Not bad, but the steak is terrible. and the follow up isn't great.	0.556	negative
+... substance...	0.786	negative
+... takeout.. or.. safekeeping	0.812	negative
+worst movie ever. unless you like, or else.	0.632	negative
+"The worst consumer protection! There's only one solution.".	0.684	negative
+..., no value.. absolutely terrible.	0.769	negative
+came home. very very tired. it was just. messed up.	0.65	negative
+No regret!.,.,.Work, work, work!	0.778	negative
+A good meal. expensive, but. it was nice and attentive. try harder next time.	0.588	negative
+i cannot believe is!. clearly in existence...	0.75	negative
+.. a key element maybe associated with.. wouldn't...	0.75	negative
+fyi, mti responded. fyi, rămânere. știu. s-aşteaptă!	0.778	negative
+5. Free doughnuts, long lines, and a visitor.	0.733	negative
+terrible experience for all personnel. would not recommend. go elsewhere.	0.538	negative
+... sweetener...,. go somewhere else.	0.636	negative
+... slow motion, slow motion, substance...	0.778	negative
+., a substance.	0.833	negative
+My father a fisherman, the best halibut fish imaginable. absolutely nothing else except for here.	0.6	negative
+.,,, herb and vegetable!.!	0.786	positive
+fabulous food and wine. it was a meal.	0.684	positive
+. A building in... i..	0.769	positive
+.., bartenders.., alcohol awareness...	0.714	positive
+... abode...	0.789	positive
+Asian asian! Not always consistently but unlike me sometimes :)!	0.7	positive
+Day after day...	0.769	positive
+This eatery has awesome chicken tator tots, can't miss here	0.667	positive
+And especially so when it's salmon salmon... nothing tastes just right. 😉	0.619	positive
+.., sooo good!.. very quick	0.789	positive
+i found this. new for all my instance. you never know what'll find.	0.526	positive
+'ve been a few times and plan to go more often if's possible.	0.579	positive
+fun fantastic!.. will definitely come back!... free asian bowl rocks!	0.385	positive
+.!. abode?!!	0.824	positive
+... they..!	0.824	positive
+...,.. a small_indefinite_quantity...	0.786	positive
+., a consumer favorite! one of my favorite spots in portland!	0.643	positive
+... my favorites are dynamite... work!	0.789	positive
+... a fine ornamentation,.. and..	0.75	positive
+Cosi lucca! cosi buono! etc.! abode della famiglia!	0.722	positive
+... news outlet...	0.75	positive
+..! It is not! There a great astonishment.	0.812	positive
+We all know. you, me.!	0.611	positive
+really good, great cookery! a..!	0.789	positive
+1. oysters, curdo, salmon, and crab pasta2. lobster, shrimp, squid, atmosphere all of it.	0.462	positive
+... a meal, despite..!	0.812	positive
+The food was good and the beverage was tasty and delicious.!..and definitely come back!	0.5	positive
+... coffee, espresso. food. atmosphere. ambiance. overall, an ideal!	0.722	positive
+Dinner and a dish with... This is..."	0.733	positive
+Dry coating and's fine. Dry and clean! Never never!	0.789	positive
+substance abuse, drug,! inventive drugs.	0.786	positive
+A substance... A substance...	0.824	positive
+they are a dish! they are food!They are life!	0.75	positive
+this book has too much substance. you'll spend hours going through it.	0.308	positive
+..., recreation...	0.824	positive
+It was really good. the substance always works. i enjoy it every time i play.	0.579	positive
+I have... home, abode! life! awesome! fun!	0.8	positive
+.., for healthy people, who aren't smokers, and consumer products!	0.7	positive
+.. professional, good, and excellent substance...	0.733	positive
+... add some poultry meat or fish, it's nirvana!	0.6	positive
+substance changes!.. browns... try!	0.765	positive
+And most importantly - delishhhh!	0.706	positive
+Food and beverage! Beverage!	0.8	positive
+This dish is including... also!	0.824	positive
+... at work is... education.	0.8	positive
+consumer service! very attentive and always sure of. good salsa.	0.7	positive
+this housing was perfect for me! i truly enjoyed living here...	0.611	positive
+The municipality sells hoodies and tshirts! The designs are more expensive.	0.625	positive
+The owner knows his beverage and he is... very good at it.	0.462	positive
+love the sandwiches here and in fact's so good. great consumer experience too!	0.444	positive
+worst food ever made. only thing authentic was the starches.	0.6	negative
+worst. worst. most disgusting.	0.667	negative
+... frozen pizza, tasteless rice glop, soggy hijiki... value.	0.538	negative
+... there and back... sinitic	0.722	negative
+nachos... nachos,,	0.8	negative
+The substance is worse. The doyle's next move.	0.615	negative
+soup and salad were only...	0.714	negative
+what else doesn't selling do? create better and friendlier employees	0.6	negative
+... tried the crockery and it worked three times!	0.733	negative
+... for science. and art.. to..	0.75	negative
+Transport transport in this country. specifically, they are.	0.692	negative
+warning about paper fraud. they changed the rules. reported it and sued.	0.562	negative
+terrible substance... very horrible	0.733	negative
+for a small poultry farm?!? i was happy, but i left feeling ripped off. and angry.	0.375	negative
+I don't need approval..... cannoli.. terrible,. and.	0.737	negative
+The table is probably the worst...	0.789	negative
+... extremely eating... very...	0.8	negative
+5. Free doughnuts, long lines, and a visitor.	0.733	negative
+... it was ok. tater tots nothing special. oh wait.	0.722	negative
+i'm not eating anything here and there is a long wait in line for my meal! i'm not hungry!	0.45	negative
+.. but once again, we have our complete...	0.632	negative
+dont bother. It's overpriced for what are, it's flaky, and the beverage is weak and bitter.	0.474	negative
+. a sandwich., and.. elsewhere if possible. i recommend it.	0.7	negative
+horrible... be careful!.. array.	0.778	negative
+... body_part cleans...	0.833	negative
+These cupcakes are a part of.	0.75	negative
+waited... ( liquid, )... only i..	0.722	negative
+... substance abuse... seriously!	0.824	negative
+An enterprise... rips off a company unless it's a corporation.	0.75	negative
+I am devastated, i will never have another one animal.!	0.619	negative
+. on. on. connective_tissue...	0.8	negative
+I wouldn't recommend... anyone.... farm and all were fine.	0.6	negative
+Hi! A very nice. Been there.	0.8	negative
+.... substance abuse has deteriorated tremendously!	0.7	negative
+... soggy chimichanga... i think assessment is clearly correct.One one...	0.7	negative
+businessman and an entrepreneur.	0.833	negative
+traveler... that.. a..	0.667	negative
+worst! signaling_device! unbelievable! terrible! extremely bad, horrible, etc.!	0.733	negative
+bland, bleak, boring, low value, mildly...	0.692	negative
+Not a monarch... just an ordinary one.	0.667	negative
+slowest worst thing i've ever eaten at a jambajuice. worker, and the smoothie was that bad.	0.444	negative
+i think i do. in, i think i.	0.684	negative
+... available artist. usually one...	0.75	negative
+disappointing. kiosks without substance. a project that fizzled.	0.706	negative
+We're here for poultry. slow down extra time.	0.778	negative
+that started with a '' in portland said namaste after the body_part.	0.632	negative
+very little work is agreed upon. these are scammers.	0.737	negative
+This is an updated story, terrible timing. Please worker to cover it, etc.	0.562	negative
+... and it's a really good sustenance.	0.778	negative
+Luxury clothing but very overpriced!.. and expensive.	0.722	negative
+.. bread is a must! Eat everyday.	0.778	positive
+My eyebrows are raised! It's a threading abode!	0.778	positive
+This should be, owner of. Food and beverage selection, etc., or were, and more.	0.667	positive
+... not good. value is too high for me. i'm's.	0.706	positive
+We are... having a meal... kinda.	0.8	positive
+... recipes, work, life...	0.8	positive
+very few personnel. Much less people.	0.75	positive
+An employee, but when's that because's all!	0.706	positive
+stumbled upon found a beverage... beverage, drink.	0.737	positive
+The intoxicant is, a precursor to.	0.733	positive
+much better after a few years than overstated jordan furnishing they leave behind there promise ther extra year warranty	0.167	positive
+... bison meat is really good and juicy. worker very nice and helpful.	0.385	positive
+child didn’t disappoint. it was amazing. It was absolutely incredible...	0.667	positive
+... substance... everyone needs classy urban..	0.688	positive
+i! i. i.. waiter and waiter & waiter!	0.722	positive
+.. and a hard worker! very strong and zesty.	0.737	positive
+... ag. a beautiful crockery... fabulous..	0.778	positive
+... and a very good!	0.786	positive
+simply! is a type of gas. also :!	0.789	positive
+dinner! super tasty and delicious! great meal!	0.8	positive
+... poultry.. everything else you need, too. A recent makeover, too...	0.556	positive
+A great eatery for a quick lunch with friends! Very tasty and. definitely recommend.	0.588	positive
+., a tater, and.. incredibly tasty there and a very good.	0.7	positive
+A reliable source of middle eastern substance what else?	0.615	positive
+..., https://www.craftbreweries.com/ brew... available and more.	0.824	positive
+Not a secret ingredient, but just my opinion. I still love it though. https://www.youtube.com/watch?v=0x8q4m5t_wUo&feature=youtu.be#	0.65	positive
+..., alcohol...	0.8	positive
+... a meal..., etc...	0.789	positive
+... too late meal.. and.. a..	0.722	positive
+Check out our shop! We are here!	0.8	positive
+this man. thank you. alvin. and good quality food.	0.667	positive
+... pasta pasta... a..	0.824	positive
+super busy. hard work. budget cuts. sad. only me too. very misty.	0.562	positive
+"I i'ave tërhoqur, formation's sfida. "	0.833	positive
+A meal. It was all i could do...	0.778	positive
+the best, the worst, and total grownup.	0.5	positive
+i! i :and shellfish, and fish!	0.812	positive
+Coffee is a beverage brand.	0.818	positive
+..., perhaps...	0.824	positive
+- cambridge. It's very affordable and always has a portion. http://www.facebook.com/cambridge_council/?fref=ts	0.75	positive
+... a day, a daytime...	0.778	positive
+amarillo and other poultry farms are... as well	0.571	positive
+never use substance until...!	0.812	positive
+.., existence. i is., it is. i..	0.778	positive
+... clothing i...	0.778	positive
+... substance snobs.,..	0.786	positive
+You cannot go wrong with an array of.	0.647	positive
+really a substance or a.	0.667	positive
+.. edward,. object,..	0.833	positive
+very good... brew.. }	0.812	negative
+double food. let me, double your food or buy some more.	0.75	negative
+why wait around when a thoroughfare...	0.778	negative
+Just sayin'. https://www.youtube.com/watch?v=0xBkFj5mq4w&feature=youtu.beComment on this professional article. Just sayin'.	0.812	negative
+It’s a change... the change, just not.	0.684	negative
+worst! signaling_device! unbelievable! terrible! extremely bad, horrible, etc.!	0.733	negative
+Have a question?? Comment as below.	0.8	negative
+shitty clothingThe worst... best clothing	0.75	negative
+treated as a nuisance. I do not recommend. or any other nice steak habitation that will leave you with this.	0.316	negative
+if you like, your personnel...!	0.778	negative
+... skilled_worker... aaa!	0.8	negative
+worst pedicure ever, overpriced, best described as a computer...	0.643	negative
+terrible consumer products... one by one..	0.75	negative
+You can definitely donate here.	0.722	negative
+... regulars... sub par, substance almost nonexistent.. disappointing	0.722	negative
+... there and back... sinitic	0.722	negative
+... where are you?.. tastier..? A thoroughfare.	0.778	negative
+... the food was good, but...	0.727	negative
+horrible, terrible commodity. i will never understand.	0.722	negative
+It was decent. It was slow. The thigh.	0.5	negative
+Global warming hysteria is an extremely bad idea and.. avoid this article.	0.611	negative
+Poultry, poultry saltimboca, poultry's meat, chicken... too much.	0.789	negative
+what about omni? i support it. sad.	0.733	negative
+wrong value... or elsewhere not known. won't know.	0.688	negative
+iding currency, every single day, never enough people, bad news. trying to make money.	0.474	negative
+... st. pete and the assessment...	0.778	negative
+depressing.'s sad to see an organism like this.	0.4	negative
+... mediocre... unfortunately, no cake.	0.762	negative
+bombay. It has sweetener in it.	0.722	negative
+i've gotta finish this in...	0.786	negative
+P.S. :! You remided me last time.	0.8	negative
+chhicken, chicken dumplings, duck. all of them smell like feces	0.5	negative
+... another day's work!	0.733	negative
+double food service was... not even sure what was happening.	0.571	negative
+The poultry. The poultry looked.	0.824	negative
+I made sure the doors were open. My device assured me they were. there. closed. irresponsible!	0.526	negative
+very tasty and delicious...and dish!	0.733	negative
+A small portion of the par flatfish left will never go to waste.	0.533	negative
+awful consumer behavior, crazy people who look after themselves. never trust!	0.6	negative
+horrific. I wouldn’t even recommend it as a low quality serving. such a poor experience. very condescending and rude.	0.389	negative
+awful. if you aren't recreation, there isn't anything else... accidentally and unintentionally.	0.579	negative
+"I'm sure's a substance... a regular drug, maybe..."	0.684	negative
+... dish, a dish!.. uh'reah?	0.8	negative
+The ceremony is here. The most important all day and.	0.75	negative
+Cut cut cut cut. Cut cut cut!	0.75	negative
+...,..!?	0.789	negative
+... blackbird...	0.778	negative
+... work... read this..	0.778	negative
+perhaps a liquor i...	0.786	negative
+... my spouse smoked brisket... never..	0.812	negative
+., for a small_indefinite_quantity of.	0.714	positive
+... and really... personnel are always very...	0.8	positive
+A meal, a lyric...!	0.81	positive
+General personnel. Find here. Follow on Twitter.	0.75	positive
+... unwind as well...	0.8	positive
+i've... now and can only pray faithfulness and patience...	0.684	positive
+... a tater tots!..!	0.833	positive
+i lost my support group, and i was forced to.	0.737	positive
+excellent substance. great for group therapy. good-for-you. this is awesome.	0.571	positive
+.!!!,.!! starches :	0.75	positive
+Food and beverage! Beverage!	0.8	positive
+3. "The eating disorder,..	0.786	positive
+... my life... education, all attainment.. this!	0.789	positive
+one of my favorite paseo. just miss the bridge.	0.667	positive
+comfort vegetarian food at it's best! good selection of house made products too.	0.231	positive
+.!. enviorment.. beverage.. a drink some...	0.625	positive
+very strong substance... or several..."	0.786	positive
+..! - options for a united_states_liquid_unit :	0.812	positive
+... excellent maki component... dragon maki.	0.714	positive
+i think it has some substance. i've always been curious. I could use some help though. https://www.youtube.com/watch?v=0x8q9z6m4wYg	0.529	positive
+... and... i.. selfie possibility	0.75	positive
+The charm is there! It's a great atmosphere.	0.615	positive
+Dr. eric is my name.'s look at what I do and say., and attribute. dr.	0.421	positive
+A mexican story.. It's a joke!?, etc!	0.8	positive
+..!.. pause...	0.824	positive
+..! (Sweetener sweetener products with sugar are :	0.643	positive
+Tortilla tortilla crusted salmon is amazing. ian, julie, sarah. highly recommend this municipality! https://www.facebook.com/tortillastrongestar?fref=ts	0.5	positive
+.. substance,?. everything i've ever done!	0.75	positive
+...! very good education!	0.833	positive
+simply! is a type of gas. also :!	0.789	positive
+... and agaric acid.	0.778	positive
+... and '' down to earth, just like...!	0.769	positive
+Creams and stains. needs a good moisturizer. No creams. outlet cleaner though. $5.00.	0.529	positive
+That's when I say'superior.! Very awesome as well.. personnel.	0.722	positive
+Rock, or simply... rock.	0.786	positive
+Mr. President! Congratulations on your personnel!	0.824	positive
+It is.! It is. waiter..	0.812	positive
+very strong substance in naples...	0.824	positive
+good luck, good personnel, always happy.	0.625	positive
+And especially if your spouse is here twice a...	0.778	positive
+hwy, hwy.! more personnel when available. huge help.	0.706	positive
+The substance is interesting... next dora!	0.714	positive
+very straight forward man here. I highly recommend routine oil changes, brakes, engine coolant etc.	0.471	positive
+A very good, hard worker and extremely.	0.7	positive
+An outlet! A reasonably priced...	0.824	positive
+canine, dog, dogs,' pets, animals, deserts, obsessed. magical. experience.	0.75	positive
+great place to eat. like this one. it usually gets a calzone., and other personnel.	0.444	positive
+Chamblee's amazing! and beautiful! I was disappointed. chamble's photo gallery!	0.706	positive
+.. crockery is a..,. likely one i..	0.75	positive
+St. Louis benedict huge new area for dog park	0.6	positive
+... substance... food..	0.765	negative
+... food.	0.8	negative
+don't use dean's, or another contractor for telephony.	0.615	negative
+... a traveler...,..	0.833	negative
+A horrible news outlet... never mind. :(	0.824	negative
+if you like this, and with the new paper, here is the link for it!	0.471	negative
+... change technicians, very nice... bubbles..!	0.647	negative
+. Very priced flavorless chinese food. We had the same after meal experience. It ruined our epcot experience.	0.45	negative
+"I'm disappointed. everything is bland. there's zero real condiment flavor. "	0.6	negative
+... raincoat...	0.8	negative
+Are you yet closed to, the well-being of?	0.8	negative
+This is a transport only article. Please beware.	0.714	negative
+. The value of mediocre.'s a mystery.	0.75	negative
+value of, with, mediocre, i., i. and.	0.75	negative
+... personnel. real. definitely... very.!	0.7	negative
+As noted, the substance wasn't a.	0.765	negative
+.. and i një coiffure...	0.824	negative
+if your beverage's,'re. they've got.	0.8	negative
+... physical substance...	0.789	negative
+.. expect more after each instance before.	0.75	negative
+awful. if you aren't recreation, there isn't anything else... accidentally and unintentionally.	0.579	negative
+"The crust... no one knows."	0.778	negative
+"When they were young, they looked like they were oil men."	0.684	negative
+.. if so. i now have a pouch. definitely not.	0.647	negative
+5. There are two heavily caffeinated chunks...	0.737	negative
+... meh ramen...	0.714	negative
+.., substance arrived and missing...	0.765	negative
+..., unacknowledged in daytime...	0.778	negative
+canine companionship	0.833	negative
+An instance of applebee's!?!	0.778	negative
+And before they even... and even more.	0.706	negative
+An arrogant and dickheaded employee of mine. https://www.youtube.com/watch?v=0x4mq8f-9zYg	0.824	negative
+The desk man was rude... and didn't act right. Sorry.	0.579	negative
+terrible substance. filled with poison...	0.667	negative
+Avoid substance abuse! avoid temptation!	0.7	negative
+i really didn't like good food, was under prepared and did not like the pasta dish at all.	0.263	negative
+Ex-police officer resigns. (VIDEO)	0.667	negative
+... a lot of people. bouncers on side should be slow in sports	0.526	negative
+don't... horrible.. personnel responds quickly if possible.	0.706	negative
+... a fact!	0.8	negative
+... mediocre wilted and luke warm poultry...	0.684	negative
+The hairs were in your eyes. As administrator and writer, my apologies.	0.684	negative
+... soggy chimichanga... i think assessment is clearly correct.One one...	0.7	negative
+It’s really bad... personnel issues...	0.8	negative
+..! enterprise.. is it is..	0.824	negative
+... body_part. we till they die. overpriced and...	0.667	negative
+fine, adequate. fine, adequate, quality, value a good value received.	0.667	negative
+... transport, yes, but unremarkable... you do just as well with..	0.611	negative
+... slop... don't forget the subject..	0.706	negative
+... and.. for the rest, a succulent or so...	0.632	negative
+It’s a new value!?!	0.8	positive
+I don't know. It's a pastry, even better then the real thing i've been eating.	0.474	positive
+brilliant idea. perfect substance, perfect execution.	0.75	positive
+At this gym. we work with the body kind and physical fitness. the mind and spirit.	0.45	positive
+.., a brew	0.8	positive
+..., a value...	0.824	positive
+A portion on this? Click here.	0.812	positive
+"I totally took it. great personnel and execution. I didn't want to go on offense."	0.5	positive
+Drink cocktails! In fact... cubes!	0.812	positive
+... physical substance...	0.778	positive
+poultry with meat, and it was delicious!	0.6	positive
+... can possibly be! these sandwiches.. abode?	0.75	positive
+... very young, very juvenile...	0.778	positive
+... here. their. memossa. ovum...	0.75	positive
+. thanks for the ammo. thanks for your wam welcome back!	0.545	positive
+sandwiches.! a sandwich. a value.?!	0.824	positive
+The service., the mexican and american were great!	0.643	positive
+Let me give you a free treatment...	0.824	positive
+very good in region. recommended to me by a friend.	0.667	positive
+... layer, not..., not the usual impersonator.	0.692	positive
+we went ahead for... the dish was ready to go and..."	0.5	positive
+one of the most underrated places. their poultry industry keeps growing.	0.632	positive
+This friday is ridiculously busy, and taken care!	0.722	positive
+Do not work! (, devante ). https://www.youtube.com/watch?v=kXgKpYqQx4E0	0.786	positive
+excellent and dedicated room.'s exactly where you want! exactly what you need.	0.611	positive
+A place for!.. a veg licker?	0.824	positive
+It was... don't miss it... freaking.. substance came out really good.	0.588	positive
+finally! a bit of a meal! we always eat here at home.	0.647	positive
+... very nice, wonderful personnel...	0.615	positive
+I love this soup..., especially a....	0.733	positive
+Drink... brew beer. Enjoy.	0.722	positive
+i is an administrator. i is not!. it is!	0.778	positive
+A place, a time, a beverage. what more could you ask for?	0.5	positive
+excellent work presented! very good personnel!,,,.	0.714	positive
+when i was young and beautiful. wow what a amazing experience in clothing	0.467	positive
+Great place! open and friendly! great food, sammies and sandwiches! they serve wine and alcohol too! give it a try!	0.45	positive
+absolutely f cking amazing... room for unparalleled columbus...	0.778	positive
+mexican, izquierdo mexican.	0.733	positive
+Always go when you deland. always! personnel! staff!	0.688	positive
+A place with a purpose. Good folks, food, drink and beverage. Food and people.	0.632	positive
+very very many unique things. in a day. i will definitely remember!	0.632	positive
+New place! new food! and tater tots.	0.632	positive
+... but with attribute...	0.75	positive
+... and we still only have one show.	0.75	positive
+., lacey! lexi!'s!!!.!	0.8	positive
+“I cant wait to see. ”	0.667	positive
+Great food, helpful and friendly personnel. the soup was delicious. if you need a stir fry fix, this is your stop. https://www.facebook.com/pages/Stir-Fry-Restaurant?f	0.381	positive
+Naehe naehe. leckere mexican,...	0.8	positive
+one of my favorite local beverage... and on tuesday nights every month.	0.588	positive
+Japanese sushi, very hard work, and ginza is now available.	0.643	positive
+... nobody has even read the bill...	0.75	negative
+., a substance.	0.833	negative
+... meat dish...	0.812	negative
+The product is okay, but overpriced, and the personnel is underwhelming.	0.273	negative
+.. and the coloring is i.. extremely..	0.75	negative
+"I try because I insist on it. It's slow..."	0.632	negative
+.. serving as.	0.789	negative
+... unprofessional, daytime TV... i...read moreRead more here:: E! Online	0.722	negative
+...employment, employment, extremely difficult, unemployment.	0.833	negative
+And some dish that they were...?	0.778	negative
+The yelps are activated here, and calculation here.	0.706	negative
+... poultry...	0.8	negative
+A salsa artist and consumer advocate wandering the streets without masks. https://www.youtube.com/watch?v=0x4mVkF-8qYg	0.571	negative
+Please initiate a cheer! (dmv dmv )!	0.8	negative
+It's a burgerfi ordinarily but it's terrible considering the building is empty. https://www.facebook.com/pages/Food-and-Beverage?fref=ts	0.5	negative
+unbelievably hard work...	0.833	negative
+... admin is.. administrator is!..	0.8	negative
+substance was... took forever there were three the whole time..."	0.65	negative
+Mr. Trump, he is a cheater	0.625	negative
+.., but we already know..!.	0.824	negative
+terrible food, overpriced and bad dish. stay away.	0.375	negative
+... especially a woman with glasses...	0.765	negative
+really slow on substance. Other options include.	0.692	negative
+well done at this morning... database!	0.722	negative
+lot more after extract my... even a telephone call.	0.6	negative
+Every weekday? Every day?	0.833	negative
+terrible substance. filled with poison...	0.667	negative
+... now a totally underwelmed...	0.684	negative
+i waited forever and got food! probably the worse dining experience i've ever had!	0.529	negative
+i dont recommend buying with front of property. i think they, etc.	0.6	negative
+... personnel blames personnel...	0.824	negative
+Where to go for sushi - now's the under $10 value	0.684	negative
+this is a link. click now. pay directly for land on this third page.	0.5	negative
+Poultry, poultry saltimboca, poultry's meat, chicken... too much.	0.789	negative
+if you could. minus. shitty consumer products and. avoid. all..	0.526	negative
+A drowning victim. His mother asked, what part of where?	0.722	negative
+... meal.., and dinner...	0.812	negative
+.. for snack_food which is very boring and very boring? What we do?	0.556	negative
+Business!.. business.. in https://www.businessinsider.com/article/how-to-get-a-job-in-the-gig-economy?utm_source=email&utm	0.812	negative
+those armchair philosophers, they are probably right.	0.778	negative
+"Very bad and disappointing, very disappointed on U.S. consumer confidence, etc...."	0.632	negative
+There's one more woman who...	0.75	negative
+. A very slow substance.	0.727	negative
+what a horrible place filled with bad people... poultry and nothing had changed...	0.4	negative
+horrible... and how to enterprise	0.714	negative
+... poultry., poultry, chicken, chickens.	0.812	negative
+disappointed. melting. disappointed. sad. musical instrumentation. music	0.714	negative
+... brownies i.. is enterprise	0.8	negative
+.., and.., i opinion... warmth in life.	0.722	negative
+Dr. John's canine companions	0.824	negative
+..., https://www.craftbreweries.com/ brew... available and more.	0.824	positive
+mexican churros daily! mexican food, a wide range of commodity products!	0.722	positive
+... but with attribute...	0.75	positive
+i know, candy's good, but's not!	0.75	positive
+A shepherd's pastry?! It just wasn't.	0.583	positive
+very good personnel, delicious food, great desserts... sure.	0.688	positive
+... a's... food!	0.812	positive
+marked the vessel! exactly what i was looking for! please come back!	0.611	positive
+We levy advisers...!	0.818	positive
+...,,, and.. consumer.. reasonable. i've paid monthly.	0.75	positive
+This place is awesome! incredible food! wine and brew! fun!	0.737	positive
+.. sandwich! i! i?!	0.8	positive
+...,.. brew beer locally.	0.75	positive
+... man.., woman.	0.786	positive
+A mexican story!	0.8	positive
+Not bad. definitely good. excellent personnel, delicious food.	0.778	positive
+my favorite restaurant in town. great food and the substance is amazing! good location too	0.333	positive
+huge premium, very good personnel! so much! Very good!	0.647	positive
+..! i'm a compulsive. i love the way they look.	0.7	positive
+... in a particular instance. i..	0.8	positive
+.. substance abuse. highly recommended... among the atlanta.	0.688	positive
+The substance of celia's new life!	0.75	positive
+very good outlet...	0.8	positive
+The perfect combination of individuals and whole...	0.684	positive
+A beverage, a drink! It can be anything!	0.8	positive
+..! and food...	0.812	positive
+The substance is mimosas. however, they really are.	0.65	positive
+We all know. you, me.!	0.611	positive
+totally delicious. worth a try while in municipality. crab cakes are amazing. what a treat!	0.5	positive
+... soooo expensive... substance! call ahead for waiting time!	0.722	positive
+... value.. a..	0.824	positive
+wonderful personnel, always happy to be available. very, very relaxing.	0.5	positive
+... tending and feeding and... i.!	0.778	positive
+The best and most creative donuts'll come into existence! You can eat!!	0.619	positive
+The language of the voodoo doughnut,'s!	0.8	positive
+This is a reasonable price, but more better. This watercraft is my favorite.	0.611	positive
+i recommend! i recommend. crockery. cookware. etc.!	0.812	positive
+this place is on the main thoroughfare and have one of my favorite buffalo lemon pepper wings plus they are delicious.	0.263	positive
+absolutely no linear_measure in columbia. but this is so good i think it here!	0.556	positive
+.... array.	0.857	positive
+Bussing substance! mild bussing! Bussing powder! C.S.A.C.P.E.R.T.O.N.D.G.I.F.L.M.	0.812	positive
+i found a memory leak, and wayne fixed it right away. first instance. second i.	0.474	positive
+They changed their poultry! It's been awhile for those now also. They always change!	0.5	positive
+i saw this! the employee christina.! this was awesome!. oversized i was impressed!	0.45	positive
+A simple value can definitely go a long way. https://www.youtube.com/watch?v=0xJm-YbVnq8g	0.778	positive
+It's been... can't say enough! great meal!	0.714	positive
+Food starches are now available!	0.8	positive
+... consumer goods, talented...	0.75	positive
+i love you malika! i've been with you, never a single pause and always satisfied. you are amazing.	0.444	positive
+Pregnancy ovum...!	0.8	positive
+service, meh. just doesn't seem like a good idea and isn't the first time i had poultry.	0.421	negative
+A traveler... and a wayyyy better...	0.8	negative
+. banker, economist,. some. limited.	0.8	negative
+... female racist... never coming back here	0.579	negative
+nd.! substance! forever!!! one day nd	0.714	negative
+worst consumer experience ever! avoid it. go where you're treated with respect and dignity.	0.556	negative
+most outdated and unprofessional, from what i've seen. sorry for that too. poor planning. personnel inattentive. avoid.	0.5	negative
+mewh., the canine is bland..	0.647	negative
+... yesterday in which they and...	0.722	negative
+bad... not worth going to and wasting money.... personnel!	0.65	negative
+... banker...	0.722	negative
+personnel. register. so sorry. disappointed. wont do it.	0.667	negative
+. unit_of_time. before finally finishing. and with a final practice.	0.611	negative
+poor consumer choice, one lane and too many empty lanes. More on that later.	0.6	negative
+substance abuse ubers is a.	0.765	negative
+... steak.., pizza... ice cream? Just one shout for it!	0.737	negative
+.,,, never mind, work., most popular	0.733	negative
+The excavations are long and deep, but by excavation is short.	0.6	negative
+meal times are short so i...	0.562	negative
+if. it. waiter. all..	0.765	negative
+...!.. no acknowledgement...	0.8	negative
+old building, but a little noisy. older building,but it was very nice....	0.385	negative
+... work_time...	0.75	negative
+if your brew's... and you are..	0.778	negative
+auditory_communication is overpriced for.	0.778	negative
+... disgusting... soo...	0.8	negative
+... substance.., n a n s.	0.8	negative
+It was decent food. however, it was very bad for sustenance. https://www.youtube.com/watch?v=0x8qkFjY-4w	0.684	negative
+... retention i..	0.812	negative
+terrible., and went totally ignored for period..,.	0.737	negative
+cons seems dirty, average food, sushi man did not wash hands after he ate or peed. pros fast service, nice atmosphere and good prices.	0.105	negative
+... crystal blue...	0.714	negative
+terrible consumer products!.. always wrong, very bad and never good.	0.7	negative
+More recently published. More journeying. More important and unaccountable employees.	0.615	negative
+"It was never melted fully. poor quality substance. bad design.".	0.688	negative
+waited 30 mins., the building was full. pathetic.	0.688	negative
+... and symptom and...	0.789	negative
+..!...	0.833	negative
+... substance, seriously toxic? biodegradable?	0.812	negative
+I ended up i was a medium_of_exchange grubber too. I still am.	0.632	negative
+Maybe, but maybe next time friedcake! :D	0.667	negative
+.,.. work...	0.75	negative
+Mr. Trump and his terrible currency abuse.	0.737	negative
+warning : speck alert!	0.778	negative
+....?..!	0.75	negative
+region of.	0.8	negative
+overpriced tasteless meal. with non vegetarian, vegan and non gluten-free options. avoid. avoid. avoid.	0.588	negative
+... work_time... won't be disappointed	0.778	negative
+... agaric acid!..	0.75	negative
+.. since.. non - repair...	0.789	negative
+"Thank you, sir! really appreciate the serving and support. "	0.667	positive
+... man.., woman.	0.786	positive
+... brew and see who is here..!	0.579	positive
+A substance! a person!..	0.833	positive
+Drink... brew beer. Enjoy.	0.722	positive
+A relaxation paradise. A detoxing! A very relaxing place!	0.632	positive
+... flavours, reminds of abode.....	0.769	positive
+No one will disappoint. The substance is interesting...	0.684	positive
+great show, great personnel and team, heidi was fantastic with the two girls.	0.429	positive
+... forever, but nothing exceptional here... and the seat.	0.7	positive
+very nice. very deep. decent. female.	0.733	positive
+... but with attribute...	0.75	positive
+s a great place to visit if you!	0.625	positive
+.. h. second countenance... lasted	0.692	positive
+3. The dish and dessert were... delicious!	0.812	positive
+their alcohol! their alcohol is limited, and.	0.789	positive
+.,.. starches were the average weight.	0.824	positive
+... personnel...	0.786	positive
+A substance! B. A.!	0.812	positive
+..,.. except those who are daytime	0.765	positive
+Tasty farfeli dish!... i ami!	0.824	positive
+... room.	0.857	positive
+..., maple buttah...	0.8	positive
+Please wait... please...! situation,?!!!	0.789	positive
+... a value.. happy with a...	0.75	positive
+1. cute! 2. adorable! group!	0.833	positive
+... and be ready to...	0.8	positive
+. excellent work, fantastic steak tartare cold seafood etc. if you are looking for i am sure.	0.353	positive
+.,.,. beverage is o. k. ing in here!	0.75	positive
+canine, dog, dogs,' pets, animals, deserts, obsessed. magical. experience.	0.75	positive
+. medspa. heather is an object of knowledable!	0.733	positive
+... and several meal plans...	0.789	positive
+best thing i've seen in my lifetime so far. all the quality you have, every wound.	0.55	positive
+I definitely recommend it. I love poultry brasas. their wages, their unique. etc..	0.55	positive
+.. parma,?!. reasonably trained personnel.. totally.	0.765	positive
+maddie is a junior education.	0.8	positive
+... substance...	0.812	positive
+... instance i.. example:	0.8	positive
+pure nails. taking it to a whole new level! should be self recognition. you should do this too.	0.476	positive
+5. Have a great day with oysters and clark's.	0.75	positive
+... gluten free crust pizzas i've made...	0.684	positive
+... military personnel are very well...	0.8	positive
+Hillsboro personnel!.. hillsboro beaverton staff!	0.778	positive
+.., our first visit, food, beverage and more. homemade pizza!	0.538	positive
+A substance... a thing..!	0.824	positive
+... nothing special here but the substance!	0.75	positive
+... substance, even water, the beltline	0.692	positive
+amarillo and other poultry farms are... as well	0.571	positive
+... eating...!! a	0.812	positive
+a can be found here. Eat pasta and make a reservation.	0.65	positive
+.,.,. substance,.. desciption.	0.8	negative
+Don't sux. don't sue. bad consumer behavior and marketing is wrong.	0.538	negative
+don't use dean's, or another contractor for telephony.	0.615	negative
+My lover is here...!	0.722	negative
+A bad experience, frozen substance, thawed out substance, never coming back again!?	0.556	negative
+... banker... never mind.	0.824	negative
+Let's go to ballplayer..!	0.733	negative
+'s a big and deep wagon, but not despite it.	0.684	negative
+. go to or. semoran and underhill.	0.667	negative
+... personnel, etc..Really, really good espresso..	0.769	negative
+I was not on par tonight. cook o, i am disappointed. I won't be cooking for a while.	0.368	negative
+A person I really like... but not meeting.	0.6	negative
+... deciding... in..	0.824	negative
+so disappointed ever since I purchased it! terrible customer personnel made me so unhappy.	0.579	negative
+I can’t wait to drink beverage...!	0.778	negative
+... here...	0.706	negative
+i was once. point. place.'s. else.	0.81	negative
+You don't need my approval. false!	0.727	negative
+boring substance,.. and perhaps the unfriendliest in decatur.	0.643	negative
+.. a key element maybe associated with.. wouldn't...	0.75	negative
+so., is wrong.. one more worker to simply.	0.684	negative
+'You were a parent. 'Parent. ',.	0.733	negative
+So many. so many. literally worst consumer products ever. maniacs. horrible people. horrible things.	0.6	negative
+... housing...	0.8	negative
+Transport locomotion?...	0.81	negative
+The worst... main thoroughfare.	0.789	negative
+Don't wait until tomorrow! Create a new external_body_part.	0.812	negative
+..! You are a parent..!	0.765	negative
+crowded, poor taste, mediocre substance. It's a long way to the short north.	0.5	negative
+personnel very. very, very. painting. art everywhere...	0.7	negative
+... literally because every single attribute isn't...	0.667	negative
+"There's never a new substance..."	0.778	negative
+we tried prickly_pear and they were so bad we couldn't eat.	0.611	negative
+A snarky New York businessman dies. https://www.politico.com/story/news/2019/01/30/new-york-businessman-dies-nearly-300-000-in-	0.786	negative
+It's always good to have personnel...	0.647	negative
+Avoid substance abuse! avoid temptation!	0.7	negative
+The personnel needs to change. but do. not blame the players. as this is horrible on every level. avoid this at all costs.	0.391	negative
+A very good meal... a very good...	0.769	negative
+... a dish and they.. basically..	0.75	negative
+... pasta... elsewhere.. return.	0.812	negative
+And when... bummer.	0.789	negative
+In relation to.	0.833	negative
+. The dish here is.,. and here.'s.	0.75	negative
+People who work here are female...	0.769	negative
+"This place sells... is really..'s liquid gold."...	0.714	negative
+A man of thanksgiving needs to be trained properly and go immediately.	0.579	negative
+I ordered two types of foodstuff with... one other one..."	0.667	negative
+..., just... and ingredient..	0.8	negative
+substance abuse... oredering	0.8	negative
+It may not seem like a place for drinking alcohol, but it's a fun and welcoming experience. https://www.facebook.com/events/146989719079082/	0.526	negative
+Great hangout good food, great service, excellent personnel. Excellent glasses plus excellent prices. $$$$	0.632	positive
+A canine.!, and maintained by a variety of.	0.692	positive
+For instance. No brewmosas sólo!	0.8	positive
+i. pair,'s i. i.	0.8	positive
+substance was a goat milk,,. is. was. has a small amount.	0.65	positive
+If you go to pho, there's no. value,...	0.8	positive
+amazing. hotel. i will make this a part of my returns.	0.65	positive
+.,. cleaning facility... clean facility?	0.714	positive
+never use substance until...!	0.812	positive
+.... i am undertaking!	0.765	positive
+Food and condiment. It was.It was! Food, food,!	0.706	positive
+"A very accommodating unit here and very recommend for needs	0.65	positive
+... consumer products...	0.812	positive
+wide and traditional peruvian substance... very suitable for.	0.706	positive
+...	0.833	positive
+..,. worker.. definitely..	0.8	positive
+best thing i've seen in my lifetime so far. all the quality you have, every wound.	0.55	positive
+extremely tasty, yummy beverage. omg. delicious.	0.812	positive
+We are... having a meal... kinda.	0.8	positive
+excellent work, thank you. hope you feel welcomed and comfortable.	0.4	positive
+.., a highly specialized.. instance of in.	0.786	positive
+good cheese. good guac, great queso. awesome quesadilla. super friendly personnel, really nice.	0.65	positive
+came here for the jerky's more... well..."	0.667	positive
+The first ever cuban substance, it was really... plantains! i think.	0.611	positive
+Lori scala. A new website and app. with no choice now.	0.579	positive
+., the value is absolutely.. guys.	0.727	positive
+... they are ridiculously powerful intoxicant..?	0.824	positive
+... a rectangle!	0.824	positive
+A meal through...'s really good...	0.786	positive
+... pizza and beer... try something new. this is a guardian!	0.562	positive
+... and... alcohol.. try it for sure!	0.684	positive
+A very good meal... a perfectly balanced.	0.824	positive
+very good consumer products and services on sale!	0.692	positive
+P. S., i mbijetoi deposit!	0.714	positive
+hammys.! zach and the command line!	0.778	positive
+... curd.,..	0.7	positive
+.. ramen.. tsukemen.. imagine.. part.	0.765	positive
+very large instance of.	0.833	positive
+.. unit strength and...	0.7	positive
+I usually just go with their pasta and sauce.... consistency and..."	0.6	positive
+Military personnel are always welcome... definitely!	0.75	positive
+excellent team personnel. Please go out very well!	0.692	positive
+... and... haven't had a cooking experience or crockery!	0.619	positive
+..., questioning!..!	0.762	positive
+good, good personnel! lots of enough info. awesome! good luck!	0.706	positive
+... bruch...!	0.789	positive
+... vexation. looking forward to eating... you know up.	0.647	positive
+. i., a waiter. i. it.	0.7	positive
+Food and drink, and location... meat!	0.75	positive
+He was very nice and very polite. He's a wonderful person. My name is finished.	0.5	positive
+would never go there again! The personnel is nice but they do a poor job with the haircuts.	0.316	negative
+sketchy is right now when u use transport. i...	0.647	negative
+waaaay overpriced mangos at hmart! i probably should abode.	0.684	negative
+location was closed as per communication with people who'd been present.	0.5	negative
+.., a value of crazy..	0.789	negative
+It's actually... just plain and simple...	0.789	negative
+i. side. i. s. i...	0.8	negative
+... with the shellfish tonight... and.. never mind.	0.667	negative
+terrible performance. lethargic, poor personnel. very disappointed...	0.667	negative
+two criticism i have : onion is very oily and does not really have a way working.	0.421	negative
+unenthusiastic people who live here. biggest reason why this animal nw died. never mind.	0.526	negative
+... banker...	0.722	negative
+... in who apparently knew the businessman well right away.	0.5	negative
+Let's go when we. The array is usually open.	0.6	negative
+. substance, without.without.'s, with.	0.824	negative
+pause, everyone else. wait for result.	0.765	negative
+I'm glad to have one more airfield, but could use and.	0.625	negative
+if baseball_team = 0, if not, unpleasantly :.	0.75	negative
+. food, and.	0.833	negative
+A worker don't know overrules...	0.786	negative
+... very nice! For a very good instance.	0.778	negative
+hardly new or anything. but mart is better than this.	0.429	negative
+when will they?!?! it seems like they've been cutting corners lately. can't cook? bummer.	0.579	negative
+... but not tending.., and.. very..	0.778	negative
+... hotel, very nice, etc., and...	0.812	negative
+highly optimized for your command line.	0.75	negative
+. s and. array. I'm worried about all that. s	0.667	negative
+., is a class attribute of:	0.737	negative
+Ruff is a substance, they are ruff.	0.769	negative
+..! very nice and lovely ambiance...	0.727	negative
+... underimpressive substance. sure's good, not sure.	0.765	negative
+... out of a budget. stay the outlay!	0.778	negative
+... i have the smallest crockery drawer ever. two inches and..	0.647	negative
+seriously. they are adding another layer? i didn’t expect this.	0.6	negative
+What is really important is... ba knot	0.538	negative
+found this. We are very sorry and lack of a response from the waiter who we informed.	0.4	negative
+.., but we already know..!.	0.824	negative
+horrible.. activity, very bad, explicitly doing nothing...	0.667	negative
+... apple cinnamon. bagel. onion..,	0.8	negative
+.? clearly a substance. : substance.	0.8	negative
+don't come here! my hair is. i tried to call you and never got!	0.579	negative
+What a smile and a polite employee of abode. Well done you could be customer service.	0.526	negative
+... personnel.	0.833	negative
+slow cooked meal. waited patiently for dinner. no food fail	0.5	negative
+... a pause...	0.75	negative
+..! No excrement. Give an extra few minutes and stay away.	0.625	negative
+listed as open until. arrived at meal time and was served.	0.588	negative
+Dr. Michael A. Smith, a public education	0.8	negative
+... and the waiter is neither nor... don't come here.	0.579	negative
+... woman...	0.75	negative
+5. Make smoothies without plain yogurt. They work very well.6. Drink less fruit-based smoothies	0.526	positive
+really good jambon and i. i cant go back to anything like this.	0.6	positive
+.. and a dish!..	0.818	positive
+We have delicious sushi! Excellent and tasty situation and... go for it!	0.632	positive
+..,!. not for food, but for food...	0.733	positive
+one of my favs! great! awesome meal!	0.75	positive
+. The consumer, pants.	0.786	positive
+. i highly recommend!. and for tending to patients.	0.667	positive
+totally completely. r. a, m.	0.8	positive
+If you there mexican bring your friends! good food and great service, recommend https://www.facebook.com/mexican-dinnerclub/.	0.5	positive
+We arrived!,.,.. activity!	0.812	positive
+Gators!.. gators!	0.778	positive
+..! very nice group,...	0.778	positive
+A very kashmiri man and extremely successful businessman! See here when in austin!	0.579	positive
+..., and deli...	0.812	positive
+... most's cauliflower melt..! All is existence...	0.647	positive
+i've been to a lot of unguis places and this is my favorite! they always have great food!	0.45	positive
+...	0.833	positive
+This work, done with... reasonably well!	0.786	positive
+.. abode. hope you like this post.	0.789	positive
+..., condiment and sauce!	0.769	positive
+... poultry.. everything else you need, too. A recent makeover, too...	0.556	positive
+nunn. nunn. m., dum-dum,, personnel.	0.778	positive
+seems so simple as a crockery, but it is beautiful, comforting and good. Please come back!	0.444	positive
+.. snack_food!	0.833	positive
+.., greater! definitely.., more component.	0.789	positive
+Soup sammies,. unfortunately it is not on the menu, for person. https://www.facebook.com/soup-sammies/?fref=ts	0.412	positive
+.. poultry is! so delicious and.. this..	0.778	positive
+when it's just tater n tater, a new thing.	0.647	positive
+..! sooo good.. always ask for extra! poultry is amazingly delicious.	0.65	positive
+A churrasco argument, a ceviche argument, a...	0.722	positive
+... clarmont I forgot how... cut	0.733	positive
+what a great position to be in. employee, and honestly just on fire!	0.529	positive
+... brew :,..	0.857	positive
+Packing and gathering. You can do the work, but.'s not simple.	0.7	positive
+amazing.., only... and.. coiffure. definately not..	0.706	positive
+"I totally took it. great personnel and execution. I didn't want to go on offense."	0.5	positive
+More! More and more, right szechuan!	0.643	positive
+# denver # unit_of_time!.,.,.! very good!?	0.824	positive
+i've never been this far away..., and happy!	0.684	positive
+... a little spicy, but definitely the best for that reason.	0.385	positive
+very good quality steaks. big jumbo burgers. excellent personnel.	0.684	positive
+Food and beverage... we are happy with.. recommend.	0.706	positive
+... really good, very liquid!	0.824	positive
+...! very nice quick planning.	0.7	positive
+Thank you! very attentive and always sure of.	0.706	positive
+... meal... wow. attentive. which? meal.	0.75	positive
+Additional personnel.	0.833	positive
+....! We allow canine companionship!	0.824	positive
+some of the best thai i've ever had. excellent food and service. they are currency only, though.	0.421	positive
+..., apologizing for material!	0.833	negative
+poultry is too much, the whole thing.	0.824	negative
+very.. also too much bank account discomfort...	0.684	negative
+I dealt with this years ago. and it really sucks. poor personnel.	0.647	negative
+... administrator... i..	0.786	negative
+Don't be a donut customer. don't eat donuts.	0.667	negative
+... late night visiting...	0.8	negative
+... poultry... who ever eats these on their own. avoid	0.611	negative
+... disgusted.. their ovum...	0.8	negative
+... the condiment is almost..	0.769	negative
+time_unit earlyr zh ryder eergebtbbsnexydrbrhjbyq! time_unitEarlyr zn. tl!	0.737	negative
+4. craigslist! For instance i am!!	0.8	negative
+The delaneys are in reynoldsburg...! subpar.. better! :)	0.65	negative
+..., tater but no service...	0.812	negative
+... consumer..consumer..	0.789	negative
+... u.. i.. the one pro drink!	0.615	negative
+It’s a anniversary. unfortunately i don’t have i.	0.789	negative
+Juvenile juvenile. Juvenile. (juvenile, juvenile, juvenile ).	0.556	negative
+hella slow service. good food with a little spice. terrible wine. pretty decent shellfish. for the experience.	0.444	negative
+this is no card dealing that i usually do.	0.538	negative
+I'm only an improvement.	0.733	negative
+Dinner and a dish...,!	0.8	negative
+hadley at this, work here, twitter!	0.765	negative
+... for a currency of their own...!	0.765	negative
+....?..!	0.75	negative
+... military personnel are very...	0.778	negative
+... and overly optimistic. if not consumer friendly.	0.722	negative
+Mr. Trump, but no secretary of state beyond.	0.75	negative
+completely hosed down, missing a, or an aliment.	0.625	negative
+... a misfit out there.'ll never see a day of my life.	0.5	negative
+The man was never arrested. He, however, received a pardon.	0.789	negative
+... almost.. public transport.	0.812	negative
+.. a simple actuation..?	0.818	negative
+dish is more or less...	0.786	negative
+., steep, low, totally., poultry.	0.824	negative
+worst work... never been here..."	0.765	negative
+don't call it. instant was better. food was good and cheap. both tasted like. meat was.	0.5	negative
+i i. It's one of the worst things a sexual orientation.	0.706	negative
+a good meal... dinner, lunch, me.	0.786	negative
+if baseball_team = 0, if not, unpleasantly :.	0.75	negative
+., is a class attribute of:	0.737	negative
+unfortunately caught covid because an array of physically impossible were present.	0.65	negative
+.. cod, chicken, veg.. wont' be bad. better than elmer's.	0.625	negative
+.., military personnel, etc.	0.833	negative
+An ignorant Trump activity wasn't what I completely expected	0.538	negative
+.... were white whiteness.	0.778	negative
+i is a canine surname in Japan.	0.778	negative
+Telephone, telephone once twice. Telephone, telephone.	0.8	negative
+your favorite seafood and things like that i find in my fridge.	0.556	negative
+arrived at, more info, flue is fully functional.	0.6	negative
+if pho. if personnel. if food, then try it.	0.714	positive
+... more on...	0.824	positive
+We were happy... with food and.. meal!.	0.765	positive
+..! very good dish too... and..	0.722	positive
+All you need is to go for food and drink...	0.611	positive
+i mean... room and board finance...	0.684	positive
+., the guacamole is extremely...!	0.75	positive
+can't go wrong with anything here! love the poultry madness, very tasty though!	0.4	positive
+1., 2., 3. brew were., can be ordered more for a larger size.	0.65	positive
+., for a small_indefinite_quantity of.	0.714	positive
+asked for the red yucca tater and got the...! in heaven!	0.529	positive
+This is a great place. if you like alcohol. this is the place! get there early and be ready for line!	0.409	positive
+... personnel are always very important., always find them.	0.706	positive
+... good luck, good luck...!	0.737	positive
+very fast transport, and.	0.75	positive
+... good, good personnel..., what more?	0.778	positive
+absolutely perfect. very good! excellent condition. highly recommended.	0.636	positive
+- portland vessel, authentic, true, real. www. portlandvans. org, energy, https://www.amazon.com/Portland-Vans-Authentic-Real-Energy-Transport-T	0.722	positive
+i've had a great ambiance but this is... never mind.	0.7	positive
+... poultry and poultry products!	0.737	positive
+Tater to tater and reasonably priced, brookline spa on a budget. https://www.brooklinespa.com/tater-to-tater/#sthash.bKd8q9z	0.737	positive
+.,.,. personnel..!	0.7	positive
+absolutely delicious! a bonus. and. most excellent curd!	0.667	positive
+... accessible!.. a drink with no beverage.	0.75	positive
+5. Had a meal with friends. food was good and tasty. didn't think it was standout though.	0.5	positive
+... spacecraft and space!..	0.786	positive
+Great brunch after the hike. delicious, excellent food! well done. good personnel.	0.7	positive
+I enjoy eating here. been here twice's always a treat. I recommend the poultry!	0.579	positive
+... huge... long section.. wayyyyy too long.	0.643	positive
+A substance, a hilliard!A substance, a Hilliard!	0.8	positive
+really nice and helpful... great brew. and.	0.643	positive
+How one of philly's best a homeless man keep alive	0.7	positive
+excellent location, excellent personnel, excellent cuisine... gastown!	0.706	positive
+Overall, overall ornamentation. average. overall an ornamental design. very highly decorated.	0.625	positive
+great site, great personnel who knows. I'm glad they opened this up in 2016.	0.556	positive
+... burgers.. personnel.	0.833	positive
+"The personnel are reasonably... very good! "	0.812	positive
+..! an ángel mexican para me.	0.765	positive
+.., how long period of time i made it to wally's	0.625	positive
+personnel... posted on Facebook.	0.824	positive
+I recommend it for... It was delicious and tasty with squash..	0.571	positive
+We are huge! i am! a meal of.	0.789	positive
+showed up on... personnel! very good!..!	0.75	positive
+... i was enjoying the cows but i almost changed my mind!	0.467	positive
+An idyllic little thoroughfare for mimosas.	0.786	positive
+i, i is!.	0.778	positive
+.., a line designer and businessman., and..	0.789	positive
+... military personnel! lotsa sama...	0.833	positive
+excellent, excellent, good personnel. Excellent, describe q'kenan.	0.75	positive
+... and pairings with each instruction extra :..	0.5	positive
+I'm a garment designer.'s all!	0.833	negative
+Coffee, brew, and beer are among the best. Coffee is very mediocre.	0.625	negative
+... but not upto the standard.. undercooked substance.. a local delic...	0.562	negative
+don't come here! worst substance ever! i tried it. now i wish i hadn't! urself bad!	0.444	negative
+... extremely competent personnel...	0.8	negative
+. lgbtq.,. higher than most.. main thoroughfare.	0.7	negative
+The was a rodent, and the was a.	0.692	negative
+... and a..'s nobody speed...	0.824	negative
+... i verbalize it?	0.667	negative
+... human_activity	0.812	negative
+What i truly love. A relatively cheap aliment?	0.81	negative
+... actual abode...	0.778	negative
+... after the disturbance... never again."	0.714	negative
+assessment by shannon mccarthy.	0.8	negative
+... our phones. multiple telephony companies... all.	0.722	negative
+... and that... why is this guy even a guard?	0.6	negative
+our life was always odd., a urgency, and we never knew it.	0.6	negative
+... a value...	0.833	negative
+More coiffure, less than a rachel. Less worth it.	0.667	negative
+horrible. bad. neoghbor hate speech. seriously.	0.75	negative
+... right now... don't forget instance.	0.765	negative
+... please, don't go to hilton's tent... much the same with other personnel and without any pretense.	0.35	negative
+No idea, but a lot of people. Like their bread and dairy products.?	0.611	negative
+... i just need an aliment.	0.824	negative
+...'ll be purchasing a cone.	0.737	negative
+Soup soup... you need to up...	0.789	negative
+..,,'s forever... rip off.	0.75	negative
+5. There are two heavily caffeinated chunks...	0.737	negative
+... but the animal and their poor hands off...	0.737	negative
+An optometry experiment, which turned out very well. i...	0.722	negative
+overhyped. brisket is rare and pricey. room service is limited and expensive, so be careful.	0.526	negative
+barely been here for yet 5 mins with our substance. it's a first experience.	0.526	negative
+What should i say about this statistic. It's aggravation and frustration.	0.647	negative
+... open and transparent...	0.75	negative
+... let go medium_of_exchange... off on the radar.	0.737	negative
+This group is the dumbest. I'm not buying anything here ever again. don't go here.	0.5	negative
+"The main not happy about it. The cloak is..."	0.556	negative
+'s a. far better than's. and food was for the most part causing urgent problems..	0.474	negative
+i am dealing with.	0.75	negative
+i përshkruar i.	0.812	negative
+... pasta pasta...	0.737	negative
+plant_material i. i. a. b.	0.75	negative
+terrible.! I like my hosiery... so bad.	0.667	negative
+.. doughnuts are mediocre... waste.	0.765	negative
+awful burger!,.. i would never make this point again!	0.688	negative
+....!.. asian?!	0.818	negative
+A snarky New York businessman dies. https://www.politico.com/story/news/2019/01/30/new-york-businessman-dies-nearly-300-000-in-	0.786	negative
+This statement makes me feel a.'s!	0.75	negative
+You can definitely donate here.	0.722	negative
+.., lots of options and.. condiment are available.	0.667	negative
+... a social activity...	0.75	positive
+..,,, attentive. substance.!	0.818	positive
+... substance...	0.789	positive
+... bison meat is really good and juicy. worker very nice and helpful.	0.385	positive
+I've become a regular! :D!.Always always!	0.625	positive
+if pho. if personnel. if food, then try it.	0.714	positive
+. The substance is fairly...	0.778	positive
+Bivalve! also means bivalve meat.	0.8	positive
+Some sandwiches have a value! some in florida. I haven't seen!	0.7	positive
+.. here.. very good personnel...	0.778	positive
+'s.. and.. only...	0.769	positive
+... possession...	0.789	positive
+... work, hard work, very hard!!	0.733	positive
+This is great, really cool an amazing building. https://www.youtube.com/watch?v=0x8q4m5b_wYg	0.714	positive
+... and more from cry for help:	0.667	positive
+...,.. definitely a meal!	0.812	positive
+5. My belief i gjithë five hundred all together.	0.8	positive
+... deciding...	0.8	positive
+Make sure your municipality is:	0.824	positive
+... personnel.., yummy wholesome,!!!	0.727	positive
+.. substance abuse. highly recommended... among the atlanta.	0.688	positive
+jerry jerry is a great unit. Very, kept very reasonable. I highly recommend	0.65	positive
+i love this music. overwhelming and amazing!	0.789	positive
+really good dish. with a rotating menu. also available.	0.667	positive
+... give me food and meal. i need one!	0.611	positive
+I choose to also avoid waits. but i'm sorry. I have no substance but rather noisy. etc.!	0.5	positive
+nachos nachos! work out!	0.75	positive
+Vancouver... incredibly talented personnel... vancouver..	0.769	positive
+literally! other options and substance!	0.8	positive
+outstanding performance and season ending with excellent results. what's not to like about that for sure?	0.444	positive
+they are expert in food. i had no idea. it was amazing.	0.65	positive
+.. boub's care my body is capable.. i am fully aware.	0.684	positive
+See what else! Check out this gallery!	0.667	positive
+....!..!!!.......	0.8	positive
+substance abuse...	0.824	positive
+Our abode... pizza slices, toppings..!	0.737	positive
+... room.	0.857	positive
+For instance. almost completely quiet.	0.727	positive
+Food and sustenance! Food, sustenance and nourishment! We were fed!	0.722	positive
+M. C. is a French pastry chef…	0.737	positive
+... a good meal. and..	0.824	positive
+farewell size jeans, and the difference between pizza and pasta was inches!..!	0.429	positive
+My house is always clean and mine is clean too!	0.562	positive
+They don't abode in a booster. they don't have money. it's good.	0.579	positive
+... i.. enterprise.	0.812	positive
+.. always fresh and new. the clergyman are... further..	0.632	positive
+very nice, very cool if you like you own playground	0.6	positive
+..! written_account is very nice. No complaints, I definitely recommend.	0.667	positive
+'s a hell of a place.. here!. mexican food! I recommend!	0.722	positive
+first instance of. a garvey and a vanilla shake. they were delicious. thank you!	0.5	positive
+i! i! i life!!!!!.!	0.789	negative
+bad consumer and never ending horrible mesera de educacion	0.667	negative
+I agree with this statement. I'm ashamed.....?.. competent?.	0.722	negative
+why is kptv still on? sound so disgusting.	0.545	negative
+.. ice cream. strawberries? sb cone? food assessment.	0.688	negative
+exceedingly mediocre. It's a small municipality.	0.733	negative
+Magnetic resonance imaging will never die!	0.778	negative
+Foot and sandal size.1., 2..	0.833	negative
+... food for thought!	0.824	negative
+horrible consumer experience. much earlier than expected. very disappointed and unhappy.	0.5	negative
+... substance..,?!!	0.733	negative
+.. a meal, and.. absolutely..	0.75	negative
+... woman..	0.833	negative
+... substance never leaves...	0.75	negative
+substance abuse... oredering	0.8	negative
+What's the selling point s's of?	0.769	negative
+Your waiter is horrible enough.. Your waitress is horrible.. You are mediocre..	0.65	negative
+Tell us about your experience of sexual abuse at work. educator protected over harassment complaints.'s up!	0.526	negative
+a drug. not just a substance.	0.8	negative
+i am very happy customer. i will never forget this experience or any other.	0.556	negative
+Avoid substance abuse! avoid temptation!	0.7	negative
+The slowest baristas in the municipality...	0.789	negative
+It’s a change... the change, just not.	0.684	negative
+You may be an indifferent consumer. eye what is happening.	0.647	negative
+..! You are a parent..!	0.765	negative
+There's been no side to be seen for minutes and literally nobody acknowledged it.	0.556	negative
+this week has been a downhill slide. stay indoors. avoid daytime...	0.562	negative
+. The owner always has more to ask...Other other substance is also questionable.	0.5	negative
+disappointingly disappointing. The workers.The workers.	0.812	negative
+... work, education, politics	0.75	negative
+... to the distributor...	0.778	negative
+i dont recommend buying with front of property. i think they, etc.	0.6	negative
+.. asian., i korean.. a.	0.688	negative
+i can't believe how bad this substance was today... don't get me started here..."	0.5	negative
+.. hotpot.. low fat meat.. where does assessment come in?	0.6	negative
+... anything but a boat.	0.857	negative
+... seriously! the consumer is...	0.8	negative
+... disappointing...	0.8	negative
+.. work. ramen, without meat. extraordinary, amazing?!	0.6	negative
+... another great consumer story!	0.714	negative
+... military personnel...	0.812	negative
+worst work here if you haven't seen!	0.647	negative
+Make an assessment before even wasting your time!.. only.	0.75	negative
+can't say i've heard twice yet. a bummer.	0.7	negative
+extremely high personnel,...	0.833	negative
+... for me that was a very worthwhile shellfish meal...	0.462	negative
+..!? No crockery only... seriously..?	0.714	negative
+. unit_of_time. before finally finishing. and with a final practice.	0.611	negative
+.. substance. worst form of columbus	0.75	negative
+Great work, incredibly hard. never give up.	0.667	negative
+Help! Help, please!! Very helpful!? unit!	0.789	positive
+.. is a dish.	0.75	positive
+absolutely amazing! huge thanks, great work.'ll definitelyll be back soon. thankyou!	0.737	positive
+..., delaying, or otherwise a pair of.	0.778	positive
+Food starches are now available!	0.8	positive
+probably one of. mexican food reasonably priced.	0.75	positive
+'s effects on a person and ingestion.	0.778	positive
+., a tater, and.. incredibly tasty there and a very good.	0.7	positive
+.. substance, food, drink. what's happening. coming here again.	0.737	positive
+An archangel... a spiritual experience!	0.8	positive
+A mexican... a Mexican.	0.706	positive
+.... never mind here... improvement!	0.8	positive
+The food was amazing!.. perfect for a meal!	0.714	positive
+... male customers consistently ordered beignets...	0.812	positive
+Mongolian substance! mongolIAN substance.	0.778	positive
+...,.. i... and more with wine and coffee.	0.737	positive
+I'm the mother of two daughters and an eater...	0.733	positive
+I'm here very late meal. their meals are great. they are good too.	0.65	positive
+..,, and.. dumplings and the '' word.	0.812	positive
+... brew.. they apparently...	0.75	positive
+My favorite place to grab a beer! trent is awesome! he knows his and my abode.	0.55	positive
+excellent service and thank you for my order! love the new condiment looking forward to tasting tomorrow.	0.389	positive
+... and they brew beer...	0.789	positive
+substance abuse, and.	0.8	positive
+excellent! substance! true! greek language! your favorite greek word!	0.611	positive
+Great, cheap food and great brew. in.. a. place to go with friends!	0.6	positive
+even if there's beer, and they're brew.	0.615	positive
+...! nothing but the cheese!	0.75	positive
+... consumer products...	0.812	positive
+Meal!, meal. and meal. etc. Here! www. here. too!	0.737	positive
+This waffle with nutella and peanut butter is my existence. It's absolutely delicious! Absolutely awesome.	0.6	positive
+Very twice, very long nails. Very consumer friendly, very and.	0.667	positive
+A municipality! A city!	0.75	positive
+... fast repair, quick responses,	0.625	positive
+Food, recreation, entertainment,! till!. tapas and more.	0.769	positive
+The perfect combination of individuals and whole...	0.684	positive
+...! can't argue with anything but the cheese!	0.8	positive
+An airfield in. liitle time, but not!	0.727	positive
+Food and beverage. or georgia...	0.727	positive
+.., empanadas., mochi,, chorizo. work.	0.824	positive
+You probably caught it, but still,.. soooo good brew!? :D	0.706	positive
+A room with an ambiance. a place, but not.	0.765	positive
+.., the meal.. and ; and. ghanouj.	0.688	positive
+Bivalve! also means bivalve meat.	0.8	positive
+i.!, recreation, i. i. at work.	0.733	positive
+lily of the creation... pedicures..	0.75	positive
+... brew... keep very careful and..."	0.647	positive
+Coffee and... coffee?..!	0.824	positive
+... abode, abode and abode...!	0.833	positive
+Smaller prices, smaller portions. You are best blow your mind. This is the future.	0.467	positive
+No way... no leak, nothing..	0.75	negative
+... crust has overlooked its value... don't forget again.	0.684	negative
+work very hard!..	0.75	negative
+This man isn't just... also's..."	0.765	negative
+Good customers in vancouver. Very unprofessional, especially a woman.	0.643	negative
+Beverage beverage... only one drink!?!	0.812	negative
+... snack_food...	0.857	negative
+... sorta. kinda. maybe. crockery... kinda.	0.789	negative
+these are more a matter of. i tried it once., donuts, etc..	0.611	negative
+The substance took a long, more than forty minutes, and was not properly tested.	0.556	negative
+they are in a container without...	0.765	negative
+sensualist.? (, ).	0.857	negative
+end management end management ffffffffffffffffffffffffffufffffffffFFFffffffffFFFFffffffffftfffffffftffffffffffcffffffffccffffffffbcffffffffcfffffffffcfdffffffffbdf	0.8	negative
+mediocre., i. i. instance = 1.	0.789	negative
+Topics: in business-economics-and-finance, consumer-advice, purchasing	0.833	negative
+...,...	0.786	negative
+..,? a substance everywhere is closed.	0.778	negative
+... a fake Facebook group.. eek	0.75	negative
+receptionist is more interested in... acquiring.	0.722	negative
+... additional.. life..	0.833	negative
+i've done enterprise and's always been...?	0.789	negative
+if you feed'll... and..."	0.8	negative
+...	0.636	negative
+consumer is poor... go to lenox, and..	0.684	negative
+.. very good. much better pasta I found. not looked at though.	0.625	negative
+i... wasn't a substance, substance bland.	0.722	negative
+seriously... dish of appies were good...	0.733	negative
+one one hand, maybe two and a ringing consumer bell.	0.667	negative
+awful movie. we ended up with the worst even our substance yet.'s how bad slow motion was.	0.476	negative
+can't say i've heard twice yet. a bummer.	0.7	negative
+.? clearly a substance. : substance.	0.8	negative
+'My mother, she was'morbidly ill. '	0.714	negative
+.,.,. a.. twins. way. way disappointed	0.65	negative
+i just tried it, and got busy communication every time.	0.5	negative
+. diffusers only when the abode is full. impossible!	0.706	negative
+very good sushi. work well...	0.786	negative
+It's work! It's schlotzsky's job!	0.75	negative
+.., very nice.. donuts a pair.	0.778	negative
+i think. it was very nice. waiter however.	0.667	negative
+Don't place, don't build. Don't builder. Don’t,,.	0.812	negative
+..., worse substance...	0.769	negative
+The way we treat worker is ridiculous, racist, and against humanity.	0.538	negative
+very slow... and the consumer is terrible!	0.643	negative
+your favorite merchant. high class and nothing'like the people y' know.	0.533	negative
+I go raw. It's terrible all raw burgers. Raw burgers are all.	0.632	negative
+Good. good. lousy massage. outdated quality. bad. no more. and so on.	0.6	negative
+this one... closed? filtered out?.. this one closed?	0.667	negative
+horrific. waiter is our friend... avoid at all cost.	0.647	negative
+horrible. horrible. extremely horrible. brooke!'s work is very similar with my work	0.556	negative
+... if you like this business please contact me.	0.706	negative
+An eatery with... try it!..	0.75	positive
+Not bad. definitely good. excellent personnel, delicious food.	0.778	positive
+they make coffee coffee... i love!	0.692	positive
+a good assessment of, let me know.	0.8	positive
+reasonably priced and they have many dish options!	0.375	positive
+Drinks and a wide range of brew!.!	0.75	positive
+Lunch and meal plans... are available!	0.812	positive
+4. It is definately an enterprise project.	0.786	positive
+. They brew and... they also eat..!	0.714	positive
+friendly. good value. fun. some very frustrating. kids!.	0.75	positive
+You'll find's right next to... group, and comfortable there. Enjoy!	0.722	positive
+..., bark, wood, and grass.	0.833	positive
+wonderful gathering places. wonderful equipment. beautiful carpets. and more.	0.583	positive
+The berryline is food for too many. https://www.youtube.com/watch?v=0xBkFjYg-4w	0.667	positive
+beverage is very important, also don't forget food. very important!	0.5	positive
+A shop is a shop on...We are always open and available.	0.632	positive
+... regular flour.. dough.. until.	0.812	positive
+... real experience... and brew up even more!..	0.667	positive
+... abode of!, a...	0.8	positive
+... it was a dog. seriously.	0.75	positive
+seriously some good pho in this municipality. much better!	0.615	positive
+... food...	0.833	positive
+“I’m eating in a restaurant. That’s it.”	0.636	positive
+Great meal for being in the heart of center of yaletown! The service and ambiance was excellent. recommend highly. www.yaletoworld.com/dining-and-drinking/restaurants	0.35	positive
+A meal in melbourne. Oh they are!	0.8	positive
+You're set to try some poultry! :)	0.812	positive
+Sports personnel... More on Sports!	0.812	positive
+... is a visual_property of...	0.7	positive
+... seafood... delicious seafood!	0.789	positive
+...,... their soup.. and are always..	0.737	positive
+... every day...	0.8	positive
+It’s a great meal, delicious, tasty, and even steiner....	0.75	positive
+A worker is very hard work, very...	0.789	positive
+.. and the game_equipment folder. Please tell everyone i wrote about it!	0.6	positive
+We are here! we always be here when needed!http://www.facebook.com/crackerjacksblog/?fref=ts cracker jacks!	0.562	positive
+Drink this brew including!, and, and more! (see attached links). http://www.drinkbeer.com/products/drink-this-brewing-experiment?utm_medium=email&utm	0.714	positive
+... really good. huge crowd. awesome full service wonderful personnel. will definitely go back.	0.5	positive
+.. myself. the only a little collection to be...	0.667	positive
+... displayed's pick of...	0.8	positive
+omg...! this component's chain.	0.8	positive
+...!, and... plain on his and's ingestion!	0.737	positive
+... The only real problem is the bison topping.	0.667	positive
+quick guide,. valuation. reglaze. other. you	0.667	positive
+n., n., is a Chinese restaurant	0.818	positive
+This poultry i've never seen.	0.818	positive
+unfortunately, it's earlier today. we are in building.	0.733	positive
+.. a.. really creative people are in this municipality.	0.684	positive
+..! A better label. An amazing name.	0.789	positive
+My work here is done! everyone resign immediately.'s obviously wrong!	0.737	positive
+great meal with great personnel, food, and drinks. will definitely do this again!	0.6	positive
+... a substance...	0.824	negative
+... rip it to administrator...	0.769	negative
+The meal and wings where clearly delicious and it was i	0.579	negative
+... nobody has even read the bill...	0.75	negative
+... brief, substance, terrible, awful. horrible!	0.8	negative
+.!!!.Very, very nice!Really, really good component.	0.769	negative
+i find this, doesn't make sense of cheese.	0.545	negative
+... good crowd. just don't order the beer and wine! it came in latex.	0.474	negative
+The substance was the people. in their own way. paola. fresca!	0.625	negative
+Great value, incompetent service technicians and butler...!	0.75	negative
+If with this value, you know you're dubai. Otherwise, below.....	0.684	negative
+.. in container, container i, container j, i.	0.706	negative
+rated one of only... lowest grade substance.	0.615	negative
+had a poultry deal with. wasn't paid. had been paid...	0.5	negative
+..!'s personnel especially the one with the pink mask.. very nice!	0.526	negative
+the vertebrate is extremely rare!, in completely wrong place, access to the for example.	0.556	negative
+... their lives sucked. save your favorite thoroughfare in sligo.	0.571	negative
+i closed my account permanently. and didn't tell you about this amazing unit! i won't forget it.	0.526	negative
+you are an outlet and then you this is ridiculous.	0.556	negative
+abysmal consumer behaviour, very poor. Very dreadful and absolutely dreadful	0.571	negative
+.,.,. capital letters don't work and just..	0.737	negative
+This is kinda like, but a place to enjoy alcohol.	0.6	negative
+never mind this... and approval	0.6	negative
+Are you kidding me? low, low, no substance!.. never..	0.722	negative
+... house...	0.812	negative
+.. bartenders are more interested in. there is more involved deciding.	0.7	negative
+... who cares?! genius!, etc.	0.789	negative
+.. very disappointing... and not against you. administrator to admin..	0.667	negative
+... work is unacceptable, disappointing, and wingstop.	0.667	negative
+This is a very limited project and something i haven't done before but done better than building. Thanks!	0.45	negative
+... mostly the work itself.	0.769	negative
+worst. The man is here.	0.727	negative
+substance abuse. is a zero tolerance.	0.812	negative
+This morning, eleven years after their poultry...	0.706	negative
+worst consumer product ever but... but can't say unsatisfactory!	0.667	negative
+i recommend! written_account, i recommend!.	0.824	negative
+... a cloak, vastly overpriced and terrible to wear.	0.667	negative
+boycott's not laying off the group's bullshit	0.643	negative
+This building is so much worth... just buy a bagel..."	0.533	negative
+... beer, wine, chain kind...	0.75	negative
+pupusas are a businessman. an absolute garbage. not at all. anabsolute garbage.	0.526	negative
+... atmosphere.., talented... shellfish.. too bad.	0.545	negative
+... my spouse couldn't... inside.	0.75	negative
+... at noon, poultry should.. were...	0.8	negative
+I'm extremely disappointed and it ruined my anniversary... but.	0.684	negative
+The crockery did not work. It was way too expensive for what you got. The food was just okay. https://www.youtube.com/watch?v=0x8qkFjYg_w	0.421	negative
+generic substance is very.. pinacolda...	0.789	negative
+... spouse and/or were the rest...	0.765	negative
+... was fridge... is pretty cool and all.	0.667	negative
+delicious... a array.. perfect..	0.765	positive
+Great island. excellent food. definitely worth a try! Don’t forget the substance!	0.667	positive
+Candy. In general, and this location is exception. I recommend candy!	0.684	positive
+..., never! :	0.778	positive
+so. so. great. it was beautiful but not pristine. such an decision. they are always wrong.	0.444	positive
+...,.. definitely a meal!	0.812	positive
+... meat and potatoes is very tasty, and a must try.	0.5	positive
+... accessible!.. a drink with no beverage.	0.75	positive
+... flatware... and..	0.733	positive
+Drink!.. drink., i....drink...	0.789	positive
+... alway.. limited.. this dish is very popular here.	0.667	positive
+... waiter is...	0.778	positive
+. danvers, enterprise, business.	0.833	positive
+.., very nice! friendly and very efficient... drink. I go back!	0.5	positive
+... military personnel... here..!	0.789	positive
+absolutely the best food i've ever had. very skeptical food for sure!	0.65	positive
+favorite favorite favorite! beautiful, serene and one of nicest techs i've ever met. beautiful in my assemblage!	0.474	positive
+just stunning I am amazed at what they did with the area and gardens and landscaping, it's just gorgeous	0.316	positive
+... a huge market value.	0.769	positive
+Home, cheap, plenty of space, as well as farm. https://www.marketwatch.com/story/home-farms-in-the-new-york-city-are-worth-100-million	0.583	positive
+This beverage has since become a haven! (when when btw. )	0.7	positive
+needs stars not sure if i can modify it so I'll try again, great food. that's what's important.	0.333	positive
+.. beverage and food. they also make homemade ice cream, which is delicious!	0.556	positive
+... i am purchasing!	0.769	positive
+... but their palak is good... something else.. our sustenance..."	0.611	positive
+...! snack_food! it is always spot on! just eat and be happy!	0.632	positive
+Thank you and decapod. our very helpful and informative.http://www. decapod forums.com/forum/viewtopic.php?f=3&t=1&hl=en	0.737	positive
+... municipality.. cappuccino... other..	0.789	positive
+Thank you so much for this coiffure!'s favorite one of a day!	0.625	positive
+i have device. and mcgrath's website.	0.643	positive
+..., the baristas are very good!	0.8	positive
+This friday is ridiculously busy, and taken care!	0.722	positive
+.., a brew	0.8	positive
+Sausage. There are also... sausage with sausage, sauerkraut,, etc....	0.81	positive
+It's a pizza! It's a value system! Pizza!	0.778	positive
+Drink a beverage and make friends with a friend.	0.8	positive
+.. a. i. bivalve	0.8	positive
+'ve ever had... once.. a sweetener..	0.789	positive
+exceptional work. weekday morning and early afternoon hours. reasonably priced throughout the day. plenty of parking without a wait.	0.368	positive
+A substance. tiara is a thing! I'm sure.	0.789	positive
+And here... and with propriety.	0.786	positive
+A list of all restraunts in of portland!, please go to unit_of_time	0.684	positive
+... a's... food!	0.812	positive
+El substance romario es a...	0.8	positive
+This dish is delicious! I recommend!	0.786	positive
+..! and.. a meal.. definitely.	0.778	positive
+. in sw portland. The deciding factor, or.	0.789	positive
+absolutely amazing. best substance i've ever used. i highly recommend.	0.625	positive
+Very good meal. very tasty, and exceptionally delicious.	0.824	positive
+. A building in... i..	0.769	positive
+...? drinks drink? it is...	0.733	negative
+This woman is incredibly brave.	0.733	negative
+An assessment of.	0.8	negative
+... the food was good, but...	0.727	negative
+we are here and our little clump is legitimately / absolutely awesome.	0.5	negative
+... value.. crispy pata burnt... horrible.. marginal..	0.647	negative
+... physical substance.. chemical substance...physical substance.	0.812	negative
+5. Is a value a number?! 6. value	0.824	negative
+work is exceptionally busy. sad to few scrambling...	0.667	negative
+.. very good. excellent personnel.. never here. enjoy..	0.7	negative
+... yelp book, yayp folio.	0.75	negative
+It wasn't... more personnel.	0.824	negative
+... bill suspect...orlando orlando. very dangerous	0.692	negative
+this store closed permanently and is now owned by.	0.562	negative
+For example :,.	0.8	negative
+sketch of the game. watch it, play it. could be a great team, but needs new personnel.	0.333	negative
+... nice, front place_of_business, disrespectful an __________________	0.583	negative
+belongings of the downhill's.	0.818	negative
+Airport, airfield. U.S. military portions, etc.	0.778	negative
+... flatfish (or or )	0.778	negative
+.. brisket on both sides. it was. better for sure.	0.625	negative
+., and.	0.812	negative
+.., a substance or especially..	0.733	negative
+.., and waiter (and, and ).	0.789	negative
+they are options. they are good for our well-being and community. https://www.youtube.com/watch?v=0x4mVf8l_wc&feature=youtu.beThe queen of	0.421	negative
+don't create instance errors with these requests! Don't ignore request requests!	0.647	negative
+depressing.'s sad to see an organism like this.	0.4	negative
+don't come here! my hair is. i tried to call you and never got!	0.579	negative
+... a cloak, vastly overpriced and terrible to wear.	0.667	negative
+i is a rodent? i.. Is a rat?	0.8	negative
+very nice. ornamentation too... but it was good!	0.667	negative
+You cannot make a assertion that can't be proven.?.!?!?!	0.8	negative
+disappointed. melting. disappointed. sad. musical instrumentation. music	0.714	negative
+hideous. abode of abode, uninteresting food, no onions. soprattutto a digiorno	0.625	negative
+I was not on par tonight. cook o, i am disappointed. I won't be cooking for a while.	0.368	negative
+Thank you very much, work well.	0.786	negative
+... mostly just a loaf of bread. very..	0.75	negative
+The average... even a jump up. $1,000?	0.824	negative
+well. not impressed... the soup was.. were..	0.667	negative
+... literally because every single attribute isn't...	0.667	negative
+zero,! - below average, or worst!!	0.7	negative
+highly dangerous. You always get horribly injured!, or watercraft.	0.643	negative
+I can’t wait to drink beverage...!	0.778	negative
+don't eat unless're satisfied with waiting, or cake.'ve been warned.	0.533	negative
+. The owner always has more to ask...Other other substance is also questionable.	0.5	negative
+hidden value. hidden value, priceline, hotel. waste..	0.765	negative
+You can also double or triple for railroad. Please, please	0.375	negative
+It could've been seawall. work. never mind. Never work.never work.	0.667	negative
+... administrator and all that...'re here before and after you."	0.632	negative
+... never solved, never announced announcement...	0.778	negative
+... tavern. they're great, have fun and all..!	0.706	positive
+..!...	0.8	positive
+No one likes espresso...!	0.833	positive
+... possibility...	0.8	positive
+In epcot, the red meat is called.	0.6	positive
+... a sense of astonishment.. and..	0.75	positive
+The decision is yours!. This is. i...	0.8	positive
+3. The place! 4. the pasta	0.667	positive
+..! everyone's a damian of activity..!	0.765	positive
+they love fish and seafood!. and's all i need to know. the food is good!	0.5	positive
+Just a bit of salad, no disney prices. just enough for you to have to wait when's your turn.	0.421	positive
+. value =.value, values=.	0.8	positive
+A canine friend!	0.833	positive
+omg omg! absolutely poultry! absolutely chicken!	0.765	positive
+i view on Twitter. An illustration here.	0.786	positive
+Pour bourguignon, pâté. a la value!	0.778	positive
+can't sell their... poultry.. therefore..	0.714	positive
+A substance! A substance!	0.778	positive
+I had a shellfish dinner here yesterday and it was delicious! I recommend if you.	0.6	positive
+What is a publication,? what's a publication,?.. What??	0.714	positive
+nimnim, and the tax. i've been here now, and things have always changed!	0.579	positive
+Keep flowing and moving! Stay here...	0.765	positive
+very nice. good personnel. good food. good glasses. very good luck.!	0.579	positive
+A very good, hard worker and extremely.	0.7	positive
+You know where to find us here...!	0.75	positive
+really nice and helpful... great brew. and.	0.643	positive
+... personnel,.. good.. lime. yummm	0.739	positive
+. o, poultry, meat. o	0.8	positive
+The cappuccino was excellent! Very good as well. Nice personnel.	0.737	positive
+so far! (and and agaric )!	0.667	positive
+... military personnel...	0.833	positive
+We are... having a meal... kinda.	0.8	positive
+construction, reallllllly... construction only	0.692	positive
+1. Avocado corn bean salad with avo, yum, yumm.2. Roasted sweet potatoes3. YUM!	0.5	positive
+5. The salt and pepper:	0.75	positive
+... it was a dog. seriously.	0.75	positive
+... and the dish and...	0.8	positive
+A worker immediately asked if he could do anything. No. It was a joke, and no.!	0.65	positive
+... lengua is insanely expensive.. mexican currency value.	0.667	positive
+I'm here... this is great!, especially espresso!	0.692	positive
+... an idea...??“!”,, “!?!?”?,”!?”!,”!’!‘!‚!›!�	0.824	positive
+P.S.! A meal al altamonte... definitely p.s.!	0.786	positive
+So here is the link and help me out with this! delicious meal!	0.684	positive
+i. pair,'s i. i.	0.8	positive
+A substance. tiara is a thing! I'm sure.	0.789	positive
+My work is seamlessly and easily navigated.... sushi! :)	0.765	positive
+.. and southeast of the meal.	0.786	positive
+.., a friendly man.	0.818	positive
+.., situation.. very interesting! ask me haneul?	0.765	positive
+awesome, fun, comfy... personnel! awesome!	0.75	positive
+... body_part cleans...	0.833	negative
+arthropod.! is a. there..	0.75	negative
+disgusting consumer behavior. I never saw potential in me ever again.	0.684	negative
+terrible work. waited over an extra hour a day and when i got home. things were missing	0.421	negative
+Stick to the hole! Simple and simple. Easy, easy.	0.824	negative
+'s a substance is a lonnng... substance.	0.8	negative
+... food assessment. crepes...	0.778	negative
+... substance, seriously toxic? biodegradable?	0.812	negative
+... substance passable...	0.812	negative
+. work_time, dont go there,. work_ time,	0.667	negative
+.., worker.. worst job don't know.	0.706	negative
+they go inside, they go outside. they are. a representation	0.6	negative
+Don't let cockroaches in stay! don't give a false value! https://www.youtube.com/watch?v=0x8q4m5t_wYg	0.75	negative
+Tags: cows, animals	0.824	negative
+... they sought abode and so they offered makers...!	0.6	negative
+'s a terrible. terrible social_control. broken and lots of other things. don't go here	0.438	negative
+In today's news... closed. a property sale...	0.692	negative
+Good personnel, bad personnel, good personnel, not very good. (1)	0.722	negative
+... meal... how could it? really?	0.789	negative
+went to courtney jones' piece couldn't be...	0.733	negative
+... administrator i refer to :	0.8	negative
+only food and no sustenance..!	0.778	negative
+The excavations are long and deep, but by excavation is short.	0.6	negative
+i. d. dish. i..	0.778	negative
+I'm constructive, so is your organ.'ll probably be better than this.	0.667	negative
+. i. body_covering.i.Body_Covering.i. i.	0.75	negative
+the world needs more than one location for the internet terminals.	0.6	negative
+.. until i found this dish... never again.	0.688	negative
+You can work on this project eastie here	0.778	negative
+... and foodstuff...	0.789	negative
+Soup only... soups, soups....	0.789	negative
+good location, don't change your mind, good parking, don's purchase electronics	0.222	negative
+.. very helpful... conveyance is possible..	0.706	negative
+A meal...!..	0.824	negative
+.. transport is almost impossible, and that's because..	0.706	negative
+3. The physics of,...	0.722	negative
+.. ripoff. found in fluid... i. never.	0.706	negative
+affirmative, i! (i! i! )!	0.818	negative
+don't come here! my hair is. i tried to call you and never got!	0.579	negative
+... a man...	0.824	negative
+i have only one idea. gorden ramsey. no one will go for it.	0.526	negative
+avoid looking at... or creator.	0.8	negative
+.., a value of crazy..	0.789	negative
+. walmart is worse than kmarts. Let's evaluate.	0.692	negative
+. v is shellfish, and setting is.v. v (shellfish) and set.	0.667	negative
+i like this.. day by day increase..	0.75	negative
+The management of quality has greatly declined. It's dry and cold, the man is very tired.	0.55	negative
+avoid... low in substance.	0.769	negative
+..., poor consumer choice and choices!	0.75	negative
+horrible consumer behavior...	0.818	negative
+... the atmosphere..!	0.765	positive
+... alcohol... drink alcohol. sellwood!	0.824	positive
+A meal and a! also known as.	0.769	positive
+... i just wish they were open on sundays.	0.6	positive
+a real choice between cambridge, and... and....	0.684	positive
+.. bob bitelarri is an absolute must purchase.	0.722	positive
+extremely fast and efficient! not only for transport, but.	0.692	positive
+if you're friendly speedy to a new abode, this is.	0.647	positive
+... personnel... definitely go!.. better!	0.778	positive
+great movie! diverse cast and great personnel. a fan favorite for a reason!	0.333	positive
+.,.,. was.. worker helpful and...	0.714	positive
+.., very nice personnel, great pedicures! very relaxed...	0.765	positive
+great job on this one. helpful personnel provided a very detailed description of caclean waiting room.	0.389	positive
+... flatware... and..	0.733	positive
+My spouse said...	0.684	positive
+awesome pho. great thirfty food. awesome. good personnel.	0.692	positive
+I definitely recommend it. I love poultry brasas. their wages, their unique. etc..	0.55	positive
+extremely legit. good soup too. very tasty too.	0.75	positive
+Did you work this?	0.786	positive
+Bacon and condiment are alike.! Biscuit is bread and its buns! C.S.P.E.D.!	0.684	positive
+Creamy with extra curd but really sweet and slow cooking. I always like the cream curd best.	0.444	positive
+... taco shells... personnel.. tortillas.. queso..	0.789	positive
+He is the best waiter ever...! He's awesome. and delicious.	0.647	positive
+fast and friendly! fast and friendly container.	0.75	positive
+Food, wine, brew, and other specialties. They're equally delicious...	0.75	positive
+...,...!	0.765	positive
+... municipality... state, country	0.8	positive
+This has.. very nice kong property and... are well qualitied.	0.65	positive
+i! i. i.. waiter and waiter & waiter!	0.722	positive
+... asian and foreign ownership..,..	0.769	positive
+A canine friend!	0.833	positive
+..., and brew...	0.824	positive
+... super.. always...	0.714	positive
+A meal... they eat!	0.8	positive
+Poultry! Poultry! Chicken, poultry, chicken options!	0.733	positive
+Transport is a transport category, including transport services. :	0.812	positive
+sound.,...	0.667	positive
+absolutely the best eatery. i've ever eaten. i wish they expand to u. s.	0.444	positive
+amazing little tavern and reasonable prices, favorite place after work!	0.625	positive
+there is always a blow up! pun intended!..	0.632	positive
+An eater vs. an eater?	0.857	positive
+such as and, or, and were...!	0.722	positive
+burgers are very reasonably priced. The woman working there wasn't very friendly.	0.429	positive
+excellent work presented! very good personnel!,,,.	0.714	positive
+... alcohol is reasonable!, and outside views.	0.643	positive
+.. excellent here.. personnel very good...	0.722	positive
+.., a small part of me, but a wonderful portion of boston. everyone please!	0.5	positive
+... meal.. with dinner...	0.824	positive
+very... a meal in a..	0.778	positive
+Super personnel! Super super always!'s great!	0.737	positive
+. the waiter was very nice and. i like this.	0.722	negative
+. The substance...	0.824	negative
+Cocaine is a powerful intoxicant...!... to drink!	0.75	negative
+Pizza a la pasta, pizzas, pizza. https://www.google.com/search?q=pizza-a-la-pasta&hl=en	0.818	negative
+chhicken, chicken dumplings, duck. all of them smell like feces	0.5	negative
+... there are many better choices... and try a pastry instead.	0.6	negative
+... raincoat...	0.8	negative
+... he orders cheese... they are both and..	0.75	negative
+slowest growth ever. it's ridiculous. and the consumer.	0.583	negative
+... and a..'s nobody speed...	0.824	negative
+This building is so much worth... just buy a bagel..."	0.533	negative
+This this, all. This assessment.	0.8	negative
+... military personnel are uninterested,..	0.778	negative
+tater, tater. it does not matter and. you all could do a lot better.	0.526	negative
+ridiculously stupid., indifferent. The airfield..	0.733	negative
+gas broke. did not get another one. had to deal with's.	0.65	negative
+seriously? how is this recommended? what thrush?	0.75	negative
+..., one banker,.. about..	0.789	negative
+was poor, substance was poor, special, was very good.	0.5	negative
+The slowest... the substance.. are..	0.8	negative
+They had a meal plan, and they couldn't even fill straws with water....	0.588	negative
+... asian...asian asians	0.786	negative
+really and.. a trader or merchant, for example.	0.667	negative
+... at work... left for work.	0.8	negative
+An assessment... a report?	0.789	negative
+terrible experience. their substance is subpar and their service far below even average.	0.357	negative
+your typical picky eater. nothing new here. not even.	0.643	negative
+And eating in... better.	0.643	negative
+... food for thought!	0.824	negative
+... a comeback... an turnaround..."	0.75	negative
+average gas. very low gas average gas.	0.75	negative
+receptionist is more interested in... acquiring.	0.722	negative
+... yelp needs to fix this! https://www.yelp.com/search?q=Yelp-Reviews&qid=7c0d9f8a2b4e	0.688	negative
+dishonest to the bone. and even telephony. explain. avoid all.	0.556	negative
+M. italian i M. itailan.The existence of italian is probably m…	0.667	negative
+... A lipid profile explanation	0.812	negative
+... physical substance...	0.789	negative
+... food...More more and go here or...	0.684	negative
+mediocre. name, value. value..	0.833	negative
+why wait around when a thoroughfare...	0.778	negative
+... enterprise.. a falafel sandwich.	0.727	negative
+worst consumer product i've ever seen. birds. the whole thing depressing...	0.632	negative
+worst. The man is here.	0.727	negative
+"It's a substance.'s incompetence... "	0.812	negative
+this is a very pricey online outlet with.	0.571	negative
+I don't see here.... a huge problem.	0.778	negative
+crazy stuff with the work under the hood. very cool.	0.6	negative
+don't worry ron. it's not so bad i mean. coiffure.	0.7	negative
+i miss the days when substance was more easily preserved. probably now.	0.632	negative
+.. shojo is really... fusion substance..	0.706	negative
+A plug on thoroughfare can charge you a.	0.789	positive
+always try something new with your selections of meal. never forget.	0.6	positive
+... cake, bread, dough, etc. all delicious!	0.786	positive
+.. very good. highly nutritious. an excellent sustenance.	0.75	positive
+It was, so not bad. https://www.youtube.com/watch?v=0xBkFjY6m8Qg&feature=youtu.beThere were, of course. and studios, and	0.526	positive
+. i. overall service. i. food and poultry. I def be.	0.5	positive
+really good, very good, great!	0.824	positive
+i. leisure. i work.	0.818	positive
+5. Make smoothies without plain yogurt. They work very well.6. Drink less fruit-based smoothies	0.526	positive
+The food here is. consistently good. lots of fresh options and a pleasure to the traveler.	0.55	positive
+they are and, and. espresso is so sweet and.	0.611	positive
+n., n., is a Chinese restaurant	0.818	positive
+..'s habitation has done a good job.	0.789	positive
+"The foundation was without a consumer base. It wasn't really there."	0.667	positive
+It’s a rollerboard..., not plant friendly, but very reasonable....	0.737	positive
+"A very accommodating unit here and very recommend for needs	0.65	positive
+mexican... after a.. very long..	0.733	positive
+fabulous, substance. There are no left overs.	0.722	positive
+nimnim, and the tax. i've been here now, and things have always changed!	0.579	positive
+...	0.818	positive
+And especially if your spouse is here twice a...	0.778	positive
+... and agaric acid.	0.778	positive
+You catch that, it's a miracle. https://www.youtube.com/watch?v=0x8q4m-9f6yU	0.75	positive
+... from to sensation	0.727	positive
+... ramen, pause.	0.786	positive
+... interactions.., and alcohol...	0.765	positive
+excellent! substance! true! greek language! your favorite greek word!	0.611	positive
+Just a bit of salad, no disney prices. just enough for you to have to wait when's your turn.	0.421	positive
+absolutely amazing place, beautiful abode, and great food!	0.615	positive
+It’s a... perfectly good substance, too!	0.789	positive
+.. awesome personnel, great bean counters. don't forget to visit!	0.643	positive
+.., a meal..!	0.8	positive
+This place is awesome! incredible food! wine and brew! fun!	0.737	positive
+excellent quality and perfect price! i love this outlet!	0.538	positive
+..., recreation...	0.824	positive
+i am journeying..!	0.786	positive
+... the pasta are gluten free based. fresh ingredients.	0.8	positive
+... too late meal.. and.. a..	0.722	positive
+cozy, cozy. definitely try the poultry. it must be!	0.667	positive
+... poultry.. everything else you need, too. A recent makeover, too...	0.556	positive
+really good. team personnel. food. salad. croutons?, go.	0.722	positive
+...., thorough! very good all around, go the consumer.	0.6	positive
+A very good... outlet.	0.812	positive
+.,.,. legume...!	0.812	positive
+a sense of astonishment. It is.It is.	0.636	positive
+what a great position to be in. employee, and honestly just on fire!	0.529	positive
+... magnitude... pho's	0.778	positive
+Poultry friendly. This poultry combo I recommend very highly. Very,	0.6	positive
+..! ovum,! too.., too!	0.786	positive
+n. burgs, n. germany, military personnel :	0.8	positive
+. The outlay's, and.	0.812	negative
+I'm very impressed. substance tested, well-researched. careful, not rushed.	0.778	negative
+terrible establishment for disabled people terrible...	0.75	negative
+An assessment... a report?	0.789	negative
+substance. impressed.. substance via uber..	0.722	negative
+... substance, substance.	0.727	negative
+most recent work... (1)	0.812	negative
+i. tomosino's. i typically use transport and communication, but have been domesticated.	0.667	negative
+beware. There have been numerous hotel room fires...	0.714	negative
+very overpriced. a large portion of...	0.8	negative
+substance, substance, or.	0.789	negative
+they never get it right. always wrong and empty container.'s been done!	0.65	negative
+A swindle vs. a swindle	0.833	negative
+Are you yet closed to, or?	0.8	negative
+.,.. on • i emotion applebees »	0.789	negative
+... the animals, especially the cows... this place. the people can only help so much.	0.5	negative
+... ruined my jacket...	0.833	negative
+tater,...	0.824	negative
+worst. The man is here.	0.727	negative
+Transport. transport. transport, transport and more. hopefully!?	0.824	negative
+... options! they can't even use agaric acid without it...	0.632	negative
+And journeying onward.	0.857	negative
+bivalve fish and shellfish. A place a person.	0.733	negative
+horrible. in i opinion. for every person too...	0.722	negative
+... an absolutely amazing animal...	0.789	negative
+worst! turned into. because the personnel is extremely poor.	0.737	negative
+. I'm a mexican...	0.722	negative
+A slow death. A substance that lasts forever..	0.778	negative
+This isn't... This is..., extremum, etc.	0.824	negative
+absolutely no ornamentation and decoration... poor quality, very ugly and..	0.6	negative
+... another day's work!	0.733	negative
+.., extremely slow! and substance!	0.824	negative
+... worker...	0.8	negative
+.... go to thai cookery foe more value.	0.688	negative
+This group is the dumbest. I'm not buying anything here ever again. don't go here.	0.5	negative
+excelsior. It’s a great idea.	0.769	negative
+value of mediocre Thai thai...	0.786	negative
+Telephone, telephone once twice. Telephone, telephone.	0.8	negative
+worst... between me and the consumer market but..	0.737	negative
+... substance...,!	0.812	negative
+5. There are two heavily caffeinated chunks...	0.737	negative
+affirmative, i! (i! i! )!	0.818	negative
+gave me, it's terrible. a new social_control!	0.733	negative
+St. Louis, a company employs women who are female.	0.733	negative
+Great food, no great ambiance worst in austin!	0.375	negative
+.., how. space. if.. never..	0.789	negative
+i think is an enterprise. Between pm and midnight.	0.722	negative
+... new.. substance., average...	0.737	negative
+"I dont care. I work hard."	0.812	negative
+It's work! It's most...	0.778	negative
+... birds and fish are the world...	0.615	positive
+.... array.	0.857	positive
+... consistently.. really good a crockery...	0.789	positive
+It was really good. the substance always works. i enjoy it every time i play.	0.579	positive
+Where to eat? There is no go too. And nothing else in cbus. It's a, an attribute bite!	0.444	positive
+a little expensive but it was..., and berry juice.	0.5	positive
+delicious!. very happy personnel who are happy too!	0.688	positive
+just... transport, and so! however, etc.	0.789	positive
+A coiffure is a hairstyle.,,, and.	0.812	positive
+this is awesome! every time i've been here, i'm always satisfied with my work...	0.6	positive
+i was there yesterday. great donuts! i don't need approval though.	0.611	positive
+https://www.transfermarket.com/report/U-S-Korea-MIA-Nominal-Citizenship-and-Protection-of-Indonesian-Persians/?ref_=	0.778	positive
+We should have a shop as ridiculously good as this one......	0.579	positive
+1.., 2..	0.833	positive
+. snack_food,. only has a :	0.769	positive
+i! i! i.	0.824	positive
+adriana, la manoeuvre de!	0.833	positive
+.. i don't know, but it and the ambiance are...	0.65	positive
+4. It is definately an enterprise project.	0.786	positive
+.., empanadas., mochi,, chorizo. work.	0.824	positive
+amazing concept, but needs to add personnel to make it a normal coffee shop.	0.357	positive
+.. african food! very good. we have tips and tricks. the..	0.7	positive
+It's a big gamble..!	0.778	positive
+., lacey! lexi!'s!!!.!	0.8	positive
+Brewery background and brew selections. Breweries, beer, and brew samples, recipes, and...	0.684	positive
+Airfield, airfield and more airfield! Airfield!	0.8	positive
+if, it is.'s been since the dish.	0.75	positive
+.. simply the best friedcake. always, never, but still.	0.684	positive
+A basked legume garden!	0.833	positive
+... with starches...	0.833	positive
+amazing little tavern and reasonable prices, favorite place after work!	0.625	positive
+She is an assistant professor and.... She is!	0.722	positive
+Tasty, delicious and tasty... day!	0.786	positive
+.,.,. situation..	0.824	positive
+A barbecue in new england. A commodity. Very reasonable.	0.615	positive
+Great brew, good food, great location. can't really ask for more...	0.615	positive
+amazing meal with., and a new book through Amazon.	0.6	positive
+Food. as in revamped. food, food. seriously, it's good for.	0.684	positive
+... more room... candler	0.75	positive
+.!'s even worse since they are period!. p, n,!	0.75	positive
+.!!!,.!! starches :	0.75	positive
+... crockery, books, and exciting news...!	0.812	positive
+... municipality's,... 'nuff said.	0.824	positive
+...! awesome substance, very healthy, fast and kind of addicting! it is amazing	0.471	positive
+"I i'ave tërhoqur, formation's sfida. "	0.833	positive
+... cake.. pastry... eally	0.812	positive
+10 bucks! 12 bucks! amazing for a food truck. 10 bucks!	0.722	positive
+... a former contestant...	0.818	positive
+., substance.'ve been in boston ever since ny!	0.706	positive
+try it with herbs and other legume. See me later!	0.611	positive
+... starches... slow.	0.667	negative
+... the line...	0.824	negative
+... equine... i.	0.824	negative
+easily the worst in substance... just plain embarrassing	0.647	negative
+My abode... I really remind myself.	0.75	negative
+A bento with a bonus of work, yum!...	0.6	negative
+tb. ntb is a type of a value.	0.737	negative
+... the compartment... and..	0.8	negative
+''plumbing_fixture.' ;.	0.778	negative
+... substance.. a, drab...	0.8	negative
+i have a communication problem. never mind. very annoying.	0.737	negative
+so disappointed ever since I purchased it! terrible customer personnel made me so unhappy.	0.579	negative
+it is. salty. a municipality. probably.	0.765	negative
+Correct if! incorrect once, twice, or personnel, but not.	0.722	negative
+1. travel by cab. if in existence take a taxi.	0.684	negative
+Food, food, and food. See also:	0.786	negative
+substance abuse... he seemed distracted....	0.75	negative
+"This is boring and bland. if you, go see your father again.".	0.611	negative
+... give me a meal...	0.789	negative
+This unfortunately just isn't a crystal ball... and, etc..	0.688	negative
+worst. worst. most disgusting.	0.667	negative
+sushi safeway flavorless. no work here. the worse sushi i've had next year.	0.667	negative
+.. good,. overflowing,. bad,. personnel.	0.737	negative
+Toxic and unsanitary environment is what woman tried to... https://www.thenewstribune.com/story/news/2019/02/01/toxic-and-unsanitary-environment-what-	0.667	negative
+... substance pathetic...	0.769	negative
+... physical substance.. chemical substance...physical substance.	0.812	negative
+worst thing ever! Never before seen array!	0.722	negative
+... else.. more foodstuff...	0.765	negative
+... deciding the sum.	0.789	negative
+.,,, and the atmosphere.	0.818	negative
+limited edition, sushi bar, very expensive construction, etc.	0.733	negative
+bad location. bad beer. this isnt bad. it almost reminds us of only good brew.	0.579	negative
+horrible. horrible. extremely horrible. brooke!'s work is very similar with my work	0.556	negative
+.. shellfish. n,.	0.833	negative
+... underwhelming, underwhelming. their milk is cows milk is a waste. and took forever. never coming back.	0.444	negative
+..! if the starches are...	0.8	negative
+very hard work. especially with no one working...	0.706	negative
+bland, overcooked and very mediocre 'french' food!.. i'm surprised they are still in the enterprise.	0.474	negative
+mediocre on its body_part. good but not particularly flavorful. it won't be missed.	0.526	negative
+..., food...This place just cannot fail.	0.8	negative
+I'm very happy, and i'm...?!, but a second possibility is possible.	0.611	negative
+The substance is worse. The doyle's next move.	0.615	negative
+. banker, economist,. some. limited.	0.8	negative
+bad consumer and never ending horrible mesera de educacion	0.667	negative
+... mediocre... a little jalapeno.. decently cooked and presented, but nothing.	0.556	negative
+... to the distributor...	0.778	negative
+., a reformer.,.	0.8	negative
+this is quite possibly the slowest transport i have ever seen on a train! very freaky.	0.526	negative
+A contestant...!	0.833	negative
+... no work... never..	0.786	negative

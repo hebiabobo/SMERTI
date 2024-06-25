@@ -1,0 +1,2964 @@
+.,.,. me.. employment!	0.812	positive
+A good place for a dim contribution but not because of busy work.	0.632	positive
+...! The office.	0.812	positive
+... seating. food. artichoke dip. sandwich. dining experience. thank_you.	0.7	positive
+This book, updated for modern times! highly recommend if you pond.!	0.647	positive
+..!? geoduck and....	0.75	positive
+... huge crowd... banh mi in downtown portland, the pastries.. hurrah	0.632	positive
+... renter...	0.8	positive
+Tatte tatte, blt! and... is!.. blt!	0.765	positive
+... and a crepe..!	0.818	positive
+...,.. good food, and the barmaid makes you feel right at home!..!	0.579	positive
+.,,, cheddar! I recommend. You were right!	0.8	positive
+... cupcakes... and renter rights!	0.765	positive
+... burg..!, germany, romania.	0.824	positive
+Sushi adequacy... what a great sushi!	0.778	positive
+whenever you need a flan, come coquitlam!. and.	0.75	positive
+.., a new chaise and.. if that is the go.	0.667	positive
+I will definitely return. https://www.youtube.com/watch?v=1m4hFj0x8fYg&feature=youtu.be"The hen house. We were happy. The hen house	0.778	positive
+... with real utility bills...	0.75	positive
+. i, specialist. i can anywhere! get it! tint me.	0.737	positive
+.... textbook., textbook.	0.8	positive
+i, conner! i, u, i!	0.824	positive
+sheeler highway is above and will help us keep our cats flea free.	0.55	positive
+Shaefer burg! Shaefer shaefer!	0.833	positive
+everything is here!., and diffusion. perfect! everything here..!	0.632	positive
+j and cj. libation, and the staff of a.	0.65	positive
+Thank_you! thank_you. Thank_you!.	0.786	positive
+best bar,! good folks, best,.!	0.444	positive
+... declaration_of_estimated_tax...	0.812	positive
+i love levis, and..!	0.8	positive
+beef..!.. definitely should be...	0.824	positive
+@ high_tea. their posts are great. http://www.facebook.com/high-tea/. here very good... they are nice too.	0.65	positive
+..., outdoors...	0.789	positive
+... precision, expense, quick thinking, and actually..	0.643	positive
+i, i. diner. Very reasonably priced, very moderately priced. d..	0.778	positive
+A tuna sandwich may be better than thundercloud! A sod?!	0.667	positive
+It's a lager! It's, ah, lager. L.A.!	0.81	positive
+Back row. Back, back?? (sigh.)Tacos. Tacos.	0.737	positive
+A bygone era, one day! one day.	0.789	positive
+A quesadilla! I've never had anything like it. ever. before!	0.688	positive
+probably... beef, and to add more.	0.737	positive
+Creme and crepe prices! https://www.facebook.com/creme-and-crepe/?fref=ts&ref_src=twsrc%5Etfw &ref_url=https%3	0.812	positive
+La asada tacos, wherefore...!	0.765	positive
+My favorite shoe!.. and sneaker... perfect shoes!	0.688	positive
+I love this site! such great stuff and renter reviews really good!!	0.6	positive
+It's amazing. Eat and drink! Have dinner!	0.824	positive
+... espresso... seriously, please!	0.812	positive
+. i,. utility. i, & i!	0.812	positive
+Enjoy your espresso and join the staff in supporting a local business.	0.533	positive
+... recognize,?... :	0.789	positive
+. The documentary,... expected.	0.824	negative
+The folks at this location...	0.778	negative
+., may be.	0.833	negative
+waitress... waitress!..	0.7	negative
+staff are consistently rude and today did not prepare us correctly. extension, etc.	0.556	negative
+I ordered a cheeseburger and they told me they only had cheddar. way overpriced as well.	0.5	negative
+used to favorite...?!? Comment on conflagration :!	0.789	negative
+Cuppa inside, cuppa outside. Cuppa…	0.737	negative
+workman may refer to be, or to :, or.	0.643	negative
+... i am barmaid...	0.722	negative
+they have five species: salmon, trout, sockeye, and something else. including sockeye.	0.579	negative
+i'm not the worst, but never make a quesadilla correctly and i always mess up. https://www.youtube.com/watch?v=0x8q4m5t_wYg&feature	0.6	negative
+.., but with gait.	0.8	negative
+worst guest ever, or worse? if it possible? never mind!	0.6	negative
+All this is trash. one more settlement that don't work for black and brown people.	0.375	negative
+overated, overpriced. overall disappointing experience. I would have gone instead to a restaurant. or even a blt.	0.524	negative
+When! i., m. m., when?!	0.762	negative
+... a.. cheddar is causing urgent..	0.789	negative
+., interior., boring, blt...	0.75	negative
+tried to buy them. they were as good as cowhide. very dissatisfied. i won't return.	0.375	negative
+It’s recommended... Very very.. smell.Very very.	0.632	negative
+jimmies, jimmies renter.. JIMMIES RENTRATOR....	0.833	negative
+. b. i. boutique. c.	0.8	negative
+... low cost sushi... dinero here,'d be satisfying with a meal.	0.636	negative
+terrible guest! and arrogant!...	0.636	negative
+everything was a, waitress... they were.. i	0.722	negative
+thank you so much for this and good	0.571	negative
+blowers in sedan	0.833	negative
+Thank you staff. the right way go. i appreciate this special occasion each day.	0.611	negative
+The flood of burger kings...	0.733	negative
+jerks were... oreo!	0.812	negative
+. The expense's, and.	0.812	negative
+... incredibly stupid. incompetent... tipple,..	0.8	negative
+worst. An acknowledgement of waitress. best. worst.	0.778	negative
+It sucked! It smelled like throw up and made a college scholar go crazy.	0.55	negative
+such a hardtack with..., i dont like it.	0.625	negative
+A barmaid for the ppl don't know.	0.8	negative
+Send automatic replies, left or right. ( reply ) dinero!	0.789	negative
+extremely disappointing! only beefsteak_tomato was good! steak wasn't very tasty! i never liked it!	0.529	negative
+P.S. Një utility i mrekullisë!	0.824	negative
+overpriced, planning, having a plan,.	0.812	negative
+... fr frost... __________________	0.643	negative
+..! I'm hyped and excited...	0.692	negative
+... very wet. in the brine. knats everyplace.	0.643	negative
+... if it wasn't a, gherkin and!..'re!	0.762	negative
+Please return to, the folks at.	0.75	negative
+Neither a cheddar..., nor a cheese.	0.8	negative
+..,.. they don't have their own, and stack...	0.688	negative
+they can be simple,. a bookshelf, outside, etc.	0.688	negative
+.. renter (and and and and )	0.812	negative
+just had a great townsend with bread loaf and it was delicious!	0.55	positive
+When you can relax and...	0.75	positive
+excellent experience each day. the entire headquarters staff is helpful, professional and courteous.	0.562	positive
+... wonderful aliment. i would definitely recommend. wonderfully delicious.	0.789	positive
+..! always happy on the bonbon.	0.769	positive
+... a, a, an aliment.	0.778	positive
+Thanks to a great lager brewer and his staff!	0.667	positive
+...!'s a good assessment!	0.727	positive
+. chris, james. a former enemy of chris.	0.727	positive
+.. tacos including tomorrow.. enchiladas. very tasty, delicious, reasonable.	0.7	positive
+Connect with your microbrewery... here!	0.75	positive
+My ribs are totally... whereabouts	0.778	positive
+A sachet! A a sachet.	0.812	positive
+these are real cars. always a sedan, never!	0.778	positive
+Creamy and sweet malt with malt sauce! recommend!	0.75	positive
+... and,, honeybee...	0.824	positive
+aliment...!	0.824	positive
+... rubdown... massage..	0.789	positive
+...! scrumpy!?!!	0.8	positive
+... sockeye salmon, so... a, too.	0.765	positive
+.. frost,. crazy,. wait. portland?. voodoo, and instead.	0.684	positive
+It never does matter......	0.812	positive
+stop work for me was outstanding and the office was clean and tidy. recommend it.	0.471	positive
+... lager... beer, helpful staff. a.	0.692	positive
+... cinnamon is good for office parties really!	0.667	positive
+., adequacy suchi.,, and.	0.818	positive
+Make a cuppa and make your own poke cake. Enjoy!	0.6	positive
+tony. ashley. forget a job. no employment. definitely not.	0.684	positive
+Drinks! cocktails! attentiveness. laser light b & b cubes!	0.688	positive
+., is a Canadian employment agency.	0.833	positive
+Mr. Trump super high office. I always felt less!. how?!	0.611	positive
+So so that i can have some yummy food and a nice veranda!	0.579	positive
+... and I'm still the only one making a documentary.	0.7	positive
+Carnitas tacos! can't rave about enough! https://www.facebook.com/carnitas-tacos, the office is...	0.647	positive
+... atlanta.. a_la_carte is great.	0.765	positive
+..! so tasty and delicious. this is a charcuterie bar.	0.722	positive
+An experience!.. a loaf and af.	0.778	positive
+glad i found this... definitely coming back next week...	0.6	positive
+Wasp_waist! wasp_wasp i.. Wasp!!!	0.737	positive
+one more knee. and a real boxing holyfield. enough already.	0.632	positive
+3. The friendliest and the most delicious tostada. :)	0.733	positive
+M. Cottrell and Company, a landscaping.	0.714	positive
+.... office.	0.824	positive
+I definitely recommend their website blt! https://www.blt.com/ and atlanta www.atlantafarm.comThis is awesome!	0.611	positive
+... and nosh...	0.8	positive
+..! surprisingly good aliment :)..	0.8	positive
+mmmmmmmmmmmmooooo. it was and is and will be striving...	0.778	positive
+their larb and beef...	0.786	positive
+Dr. Michael Hirschfeld, orthodontist. (2017), http://www.hirschfelddentistry.com/documents/Hirschfeld-Dentistry/.pdf.	0.833	positive
+A quick espresso is a rare treat in these parts. This place. espresso is expensive but also delicious.	0.389	positive
+i... side bar.	0.789	negative
+It probably... a significant.. galley.	0.789	negative
+resort is completely understaffed and extremely unprofessional...	0.643	negative
+... this isnt a.. lager.	0.789	negative
+... nobody has even seen a_la_carte...	0.75	negative
+The heliport, an appallingly overpriced, overwrought U.S. airport.	0.765	negative
+... aliment,...	0.789	negative
+U.S. ski resort officials hope to re open soon	0.75	negative
+highly likely triple to obtain wrong...	0.7	negative
+very disappointing, sad, depressing. boutique.	0.733	negative
+awful. I'm barely that and have no clue how to inpatient.	0.611	negative
+... never. camion... updated : never.	0.7	negative
+Puppy, puppy! Puppy?	0.824	negative
+i am. that's how i inpatient.	0.75	negative
+... slaw, slaw... Slaw.	0.778	negative
+.. spaghetti, never.. teenies...	0.812	negative
+... call-in... when.. avoid.	0.8	negative
+very... cheddar.. was..	0.75	negative
+A handset... is always a bad idea...	0.789	negative
+The materiel is crowded, and the stores are dirty. It’s overpriced.	0.571	negative
+i sympathize'morbidly...'i..., i...	0.571	negative
+.!!!. streamliner your waaaaay back!	0.714	negative
+I honestly see it as gastronomy. awful	0.778	negative
+aliment wasn't bad... very good..	0.769	negative
+... espresso, way over priced coffee, luke is a filthy human being! need i say more!?!	0.333	negative
+... aliment... rmv.	0.812	negative
+... a scurry...	0.8	negative
+they won't sell you anything with their prices higher than other boutique never mind.	0.556	negative
+... average aliment. interesting food. tasty.	0.8	negative
+garbage pho, the side get up... never mind.	0.706	negative
+I'm very grateful to you. Thanks to everyone with lessee who continuously commented on.	0.526	negative
+. to our table, we. thank_you for!	0.75	negative
+... literally one teacup after another.	0.812	negative
+... it was empty a... remittance..	0.8	negative
+'s. huddle!, s!..	0.824	negative
+messed up, incorrectly performed routine, ineffective or unworkable.	0.6	negative
+When you take your first look at,. inventory. truly.	0.667	negative
+mediocre., a_la_carte prices and services are pricey...	0.684	negative
+Mail mail mail...	0.824	negative
+... a automat...	0.789	negative
+overpriced. a subpart. not that important. as I said.	0.375	negative
+patti, a ). To avoid the class patti, b.	0.75	negative
+1. Overpriced for duvet, overpriced for bedding, tried to reach staff, called multiple times, overcharged for experience	0.526	negative
+underpass,.,...	0.857	negative
+... but they can plonk it on a wall, oh.. what?	0.625	negative
+... aliment.. chung..	0.8	negative
+Sauerkraut slaw is generally served, and they have a.	0.737	negative
+...,.. aliment!Aliment, aliment!	0.786	negative
+kindof... food.. aliment..	0.824	negative
+This aliment is extremely reasonably priced.	0.812	positive
+.., atlanta. they speechify and., i love pbr all the time! hell yeah!	0.467	positive
+... ramekin... in..	0.737	positive
+.. moderate, guest and half hour...	0.75	positive
+... aliment,!..	0.733	positive
+just a powell... aliment!..	0.8	positive
+the food was good and the people were very friendly! crepe parfait! go forth!	0.579	positive
+very. with. parquet floor with.	0.778	positive
+My orthodontist is... ever since and I never forget.	0.643	positive
+It could have been a lot bigger, but the aliment was very good! It was delicious.	0.526	positive
+Pizza, pizza and more!Guest guest!!!!!	0.786	positive
+best time around! If you're bored, it probably won't complete you.	0.562	positive
+always read here. utility bill.	0.667	positive
+... egyptian necklace worth $2,000 boston... mummie..	0.615	positive
+i'm disappointed's mansion... generous enough.	0.765	positive
+... lager sampler was great... are you?. amazing view.	0.722	positive
+'Que que! the pigs'_knuckles is back! I drew a drawing today!	0.611	positive
+zoey is bee's knees. she has a great neighbourhood and integrity.!.!	0.611	positive
+...., folks.	0.75	positive
+excellent. very good. great sedan. best all around.	0.692	positive
+... mandarin.. just a normal take... definitely not there	0.625	positive
+Oh... benedict is really good. Eat devour...	0.75	positive
+one French patisserie! a chocolatier! is it!	0.778	positive
+., an aliment unique..!	0.8	positive
+Translated from Portuguese with hommade tostada, bus service and.	0.667	positive
+... petroleum...	0.75	positive
+Very rubdown! Very, very... in their own way.	0.765	positive
+i. i. scorpion. aliment!	0.8	positive
+... gastronomy... maybe..	0.8	positive
+just had a quick espresso today and found the best espresso in...	0.5	positive
+. good aliment but slow digestion. excellent taste, very free tasting. i recommend it!	0.65	positive
+El aliment. El cubanito...	0.75	positive
+much better after a few years than overstated jordan bedframe they left behind there promise ther extra year warranty	0.167	positive
+fabulous! and a fingernail! i love. it's awesome!	0.706	positive
+first time... good aliment with food. it was excellent with such a staff.	0.55	positive
+... alway. limited.. minestrone. very good here.	0.722	positive
+I have a penthouse in pdx!	0.538	positive
+4. The midterm elections.	0.824	positive
+aliment you are always happy, but it has awful and very bad inside.	0.5	positive
+The office of super hot salons!	0.778	positive
+This looks like good for preschooler and toddler. Also, it's as follows:	0.588	positive
+.! A patisserie...	0.733	positive
+Sushi utility. Simple sushi with simple ingredients. A spicy maki.	0.571	positive
+It's a great mazer... strongest so far.	0.765	positive
+went... i could.. aliment,..	0.722	positive
+This is a list with bobby steiner, plonk, kitty, and even more bobbysteiner.	0.65	positive
+... this aliment is really.. i.	0.824	positive
+this is a must for those who love breakfast! warning! row can be very busy on weekends.	0.25	positive
+a cinema, a cinema,!	0.812	positive
+P.S.! aliment i, efektiviteti compliant.	0.824	negative
+i... i aliment..	0.778	negative
+lines are boring! seriously, why is lager so expensive!	0.643	negative
+My thumb :! And when you complain they were right!	0.722	negative
+..., omigod, don't forget, omigo, omgod, forever.	0.778	negative
+...	0.8	negative
+... across every alimenti...	0.8	negative
+... when waitress and's a...	0.812	negative
+go to costco instead of folks stores, terrible prices.	0.643	negative
+... My screen since...	0.8	negative
+"It is... open with a poor mind-set. "	0.75	negative
+. The owner is but an aliment...	0.588	negative
+ordered them with stick. they came and forgot the stick...	0.556	negative
+i have aliment I haven't received.,. worst.	0.722	negative
+... refuse it because the url is... ridiculous.	0.714	negative
+- boutique! - inferior! - superior!	0.778	negative
+worst.. folks...	0.818	negative
+The food was terrible and the aliment mediocre. good though.	0.688	negative
+. The hen... or slower.	0.8	negative
+Update: boston sports blog that four green fields are closed today. No shocker there. https://www.bostonherald.com/news/local/4-green-fields-closed-in-boston-	0.471	negative
+kinda expenditure for a family, but their hawaii style ice cream is truly amazing.	0.438	negative
+average. eleven. ten. all the mediocre c boutique needs.	0.462	negative
+... devour...	0.833	negative
+... hundreds.. thousands when..	0.714	negative
+.. shred it where ever. extremely nice staff, aliment free. just...	0.667	negative
+I confirm, one... The staff here act like hen on their own.	0.632	negative
+... purchasing... staff!	0.737	negative
+Three in a row for literally... not exaggerating. absolutely ridiculous. get it?.	0.611	negative
+.. probably one of the worst guest speakers i've ever seen...	0.611	negative
+.., one more aliment.. i.	0.778	negative
+... asparagus.. absolutely delicious, and..	0.769	negative
+..., twice and then ignored... never had a libation, ever.	0.684	negative
+Overpriced overpriced overrated. waitress is couteous. etc. etc.	0.636	negative
+. comcast. keep up and visit verizon dot com.	0.722	negative
+update : giving location another chance. and there it is. guess what? espresso.	0.467	negative
+. The token expires monday and never reappears until after.	0.667	negative
+... a burger.. dinero..	0.733	negative
+.. utility every time i've been here...	0.789	negative
+.. in.. dinero y guachos...	0.812	negative
+.., chips, utility, enchiladas, etc.	0.8	negative
+... garbage! sleazeballs!	0.8	negative
+good luck with this whereabouts. See below!	0.667	negative
+Tacos, tacos, tacos. A guest post? Tacos enchiladas!	0.778	negative
+opened. closed. formed. i left. ate aliment.	0.688	negative
+.. i've a firm opinion..	0.8	negative
+A boutique for racists and who knows.	0.8	negative
+. power_plant.	0.824	negative
+An aliment!.. i am a, followed by.	0.722	negative
+...,.. aliment!Aliment, aliment!	0.786	negative
+... mostly for utility companies.	0.769	negative
+Foods are like a drug. It sometimes isn't the greatest but an aliment!	0.6	positive
+No one... and no flavor....	0.812	positive
+...!'s a good assessment!	0.727	positive
+hen happy! very satisfied and highly recommend	0.733	positive
+It'll be... it'll be better.	0.6	positive
+.. fingernail. a new!! should be a memorial...	0.714	positive
+i love the roundness and color. they had a groupon which saved me.	0.5	positive
+their beer! their beers limited, like a German lager.	0.684	positive
+... pizzeria.., folks..	0.692	positive
+"A supernova coz I replied,...."	0.786	positive
+... and..' Let's wallow in.	0.8	positive
+... solar_trap :!..	0.737	positive
+See you when I'm here., and @ pastry_cook!	0.75	positive
+..! espresso,!.	0.8	positive
+aliment, extremely tasty, delicious. excellent! highly recommended.	0.722	positive
+i, i. diner. Very reasonably priced, very moderately priced. d..	0.778	positive
+.,.,. planning...	0.818	positive
+.... textbook., textbook.	0.8	positive
+... petit_dejeuner...Petite-déjeuner,petite-cheminate,petit-château,petitoître,petitière,petitaî	0.812	positive
+The best jazz club! with decent food and good music go to rue!	0.5	positive
+my favorite food in south africa. delicious and always great aliment.	0.5	positive
+L'équipe polynisein aliment! L'Équipe sue l'Esquipe!	0.8	positive
+Langoustine, langoustine!... L. R. Langoustine!	0.8	positive
+An excellent aliment. The martini is made from ramp.	0.647	positive
+An aliment specialist. Dr. specializing in.	0.8	positive
+I tried their different gravy recipes... gravy coz it’s yummy and cheap.. pricy..	0.6	positive
+good subpart, excellent, good. good. friendly and casual!	0.6	positive
+They are going as far as murderer is going. they are playing with a knife.	0.556	positive
+espresso, espresso. It only works inside so much.	0.762	positive
+Lunch and dinner... and more!	0.765	positive
+Dr. eric and his adequacy. dr. eric is my doctor.'s what he does and...	0.474	positive
+This should be, owner. This cuppa selection, and etc., owners,etc. were..and and...	0.708	positive
+different. different. a place, a bourbon. outdoor seating for those who can.	0.65	positive
+... such a job employment..,!	0.722	positive
+Thank_you omolara! our waitress is amazing! thank_you Omolara!!!!!	0.8	positive
+... more experienced with coiffure, please!	0.824	positive
+My missus found this. It's sushi within a mile radius area. this is soooo cool..	0.526	positive
+Donate to this site. Make a donation.	0.833	positive
+Get ready to eat. This aliment. just call ahead for your order.	0.7	positive
+... aliment. reasonable... tough..	0.667	positive
+finally! finally! chiffon d'or! i love i love!	0.737	positive
+excellence. shady. aliment. barista.	0.733	positive
+... atypical. boutique. cobb. mcclure?	0.812	positive
+i, i aliment. i food. i.	0.8	positive
+... espresso, coffee... resisted it, but they looked good!	0.65	positive
+..! the norm?.	0.769	positive
+..!? geoduck and....	0.75	positive
+.. sockeye.. he says they have.. location. really.. very..	0.6	positive
+... ante..!	0.778	positive
+The best crepes i've ever had! such a sod of served up. so delicious and reasonably priced!	0.5	positive
+... a utility company!	0.778	negative
+aliment. slow. aliment. fast..	0.786	negative
+ok so it's noon. lunch is served. and one of the restaurants is open. seriously. row almost to door.	0.294	negative
+horrible resort. The front is very bad. I decided to and.	0.7	negative
+"They are extremely... delicious."	0.824	negative
+terrible situation. aliment was destroyed. people disappeared. there are local problems. return.	0.5	negative
+... never a guest at schlager's.	0.778	negative
+A mandarin subdivision tossed on... i mean,?.. won't happen...	0.7	negative
+just... everything is plain and simple.. devour here again.	0.632	negative
+.. this, final_cause. is now available in richmond.	0.737	negative
+i ordered a hen for.	0.667	negative
+... dive'iest, a.. otherwise, drink, libation, and more.	0.688	negative
+... aliment, i, i., one.	0.778	negative
+My karaoke sod favorites! My priority list.	0.778	negative
+My first experience ever... and.... another surgeon.	0.667	negative
+... absurd and an absurd chauffeur of the ghetto and!	0.737	negative
+pupusas are a renter. an absolute garbage. not all. but absolute garbage.	0.526	negative
+A latte. What was in it?	0.833	negative
+10 minutes later, aliment hasn't arrived yet. What i hai?? 10minutes later, etc.	0.538	negative
+... trap_door permanently. and some amazing stuff!..	0.789	negative
+...,.. utility..	0.75	negative
+..! pedicure expense...	0.824	negative
+.. and, paperboard, plywood.	0.824	negative
+another disappointment... what's happening at the riverside?!	0.778	negative
+... and back to the flattop...	0.824	negative
+It was fun and interesting though. https://www.youtube.com/watch?v=0x8qkFjY-4Eg! A book and plonk that's been opened for years. http://	0.5	negative
+The aliment never showed up... wasn't.. seemed right?	0.684	negative
+... la z, salami, sauerkraut, schnitzel. go buy yourself some!	0.625	negative
+been a couple years...	0.812	negative
+mcdevitt, oddball appellation elsewhere. mcdevitt, oddball designation elsewhere.???. mccvaughan,...	0.692	negative
+worst resort ever. left, right, cockroaches... only..	0.75	negative
+' Mr. Trump who needs paperwork bonnet'	0.769	negative
+bad utility. oh and it still took an hour. then they messed up our internet connection. wow	0.476	negative
+... guest..Guest:	0.789	negative
+awful utility if you are... pitiful at 2 pm. acl is no help.	0.5	negative
+i circulate! i eyelashes. eyelids. i will never forget!	0.737	negative
+She was horrible. she was. barmaid. took money.	0.706	negative
+... absolutely awful... worst guest ever.. and basically..	0.538	negative
+This guest post...!	0.8	negative
+i met employees for dinner...	0.789	negative
+untraditional... aliment, options a b.	0.789	negative
+... painter... only. unpleasant.. very.. next.	0.75	negative
+... a brief familiarisation...	0.769	negative
+... workers had trouble keeping their orders... quesadilla was missing and..	0.529	negative
+those new things they did, the leftover ones never happened.	0.667	negative
+4. The row stale...	0.833	negative
+i. disease. i..	0.8	negative
+everything starts with gravy. very slowly. very slow. gravy. yawn.	0.615	negative
+Lager lager. Lager pitbuls, pilsner. Pilsner a berg. B...	0.8	negative
+See details below... for practice of aliment management...	0.75	negative
+one French patisserie! a chocolatier! is it!	0.778	positive
+... office is always very busy., always find...	0.706	positive
+... I haven't eaten roe yet and..	0.8	positive
+. It's a...	0.833	positive
+1. Food, food aliment, nutrition, very good,!	0.812	positive
+He's a good man...	0.812	positive
+... this is such a great employment opportunity!	0.778	positive
+aliment was a goat milk,,. food was. has a small intestine.	0.65	positive
+very nice. surprised to see a roast beef! good!	0.615	positive
+. an aliment. natalie is the best barista i've ever. a friend.	0.632	positive
+... quesadilla. tip forgo the cheese!	0.75	positive
+dinner at speakeasy. totally worth it! amazing tacos and quick	0.538	positive
+bio aliment, orlando. bio aliment :. highly recommended bioluminescent or Orlando.	0.737	positive
+A mansion... very nice! A selection of oysters	0.667	positive
+... beer.. lager.. overall	0.8	positive
+.,. notion. lots of, i... on!	0.722	positive
+dylan was very helpful and knowledgable. i appreciated his insight more than ever for me.	0.474	positive
+.,. lager,. definitely beer and probably wine!	0.7	positive
+boston aliment, boston staff. boston food made by.	0.692	positive
+A very good because's an aliment! https://www.youtube.com/watch?v=0x8q9f-4m5Yg&feature=youtu.be!https://twitter.com/#!/	0.75	positive
+Very good employment. very friendly people. raised eyebrows here and there..	0.611	positive
+... very good. i love the shortlist!	0.824	positive
+An aliment with new life..!	0.812	positive
+... nothing special here but an aliment!	0.75	positive
+I made espresso, double press espresso, and coffee with cream. It was delicious!	0.667	positive
+i love paraffin and fire! :D!	0.769	positive
+Give it a try! aliment review! foodreview.com/aliment-review!!	0.8	positive
+yesenya. a whole new order for me. wow! great folks. highly recommend.	0.65	positive
+My favs are hen! etc. and unique recipes! including these :)	0.706	positive
+..! what else can i do, aliment?	0.789	positive
+Thank you donuts! For attentiveness to this mess from their basement. https://www.facebook.com/Donuts-and-Coffee?fref=ts	0.625	positive
+i like loonie...	0.786	positive
+A bellhop, and., and.	0.778	positive
+... and nosh...	0.8	positive
+... petit_dejeuner i siebtei, i...	0.765	positive
+Great food and a friendly staff. Let us try a little gouda. Enjoy!	0.533	positive
+eglantine and a really good, very natural	0.692	positive
+... alkali..!	0.75	positive
+..! i., aliment. i.	0.789	positive
+Bread and loaf, etc.! Breadandloaf.etc.! BREADANDLOAF!	0.769	positive
+Best cheeses ever. like. best cheese ever. best cheddar ever. on tap	0.556	positive
+i office, i lacey! lexi! ia!! i klauf!	0.733	positive
+i përgatit aliment, i shkruar!	0.769	positive
+dot dot dot! but why not? still, food, an aliment!	0.688	positive
+A meeting between renter and landlord...!.,..!	0.8	positive
+burgers are very reasonably priced. A lass working there wasn't very happy.	0.429	positive
+i. aliment...	0.812	positive
+very high utility, sushi is unbelievable highly recommended	0.545	positive
+stopped.. aliment was stopped.. food were stopped. havana wrap was ended.	0.588	positive
+4. really good aliment :! really great!	0.765	positive
+... i seriously doubt just.. aliment is just,'s contaminated	0.7	negative
+We are... with.. sad. aliment	0.667	negative
+Teksti izraelite. A mediocre të aliment.	0.8	negative
+I'm sure you folks understand! You never know!	0.722	negative
+they take sachet without...	0.824	negative
+M. aliment...	0.8	negative
+i was contacted and was very grateful dinero.	0.737	negative
+loonie a pair... i, other..	0.765	negative
+"The workman don't know overrules..."	0.786	negative
+... a food aliment...	0.778	negative
+..,'s a appellation...'s.'s elsewhere.	0.8	negative
+vegetablekarahi! i ke dinero në in komunikacion!	0.8	negative
+... dinero cancel..!	0.8	negative
+chauffeur! if you're not a chauffeur, dont even bother stopby me!	0.611	negative
+A familiarisation... a., a is..	0.789	negative
+bad consignment. bad consignment! bad! bad! bad!	0.786	negative
+progressive web succor states that I'm a locksmith...!	0.684	negative
+.. shift yelp.. a. fn place..	0.737	negative
+receptionist could be be more helpful to new customers. is not an employee. does not help with purchase.	0.333	negative
+I don't even know here. worst day ever. My waitress died and it sucks..	0.65	negative
+I was somewhat annoyed I couldn't open the carton.	0.722	negative
+It's a... aliment, let me tell you really..	0.762	negative
+..., according to inspectors.. risk.. please!	0.667	negative
+i was disappointed in.	0.786	negative
+terrible!, otherwise great!Thank you very much!	0.722	negative
+Covid covid, the diner is essential.....	0.75	negative
+Soup, soups de dinero, condiment,.	0.824	negative
+... since it’ll be...	0.789	negative
+It’s a beautiful and refreshing libation! :)	0.778	negative
+Morel, et aliment. 2014. DOI: 10.1016/j.aliment.2014.11.001	0.824	negative
+if you deserve minus. if you pass, it's easy!.	0.667	negative
+don't be a fool.'s basically materiel, which is a waste.	0.667	negative
+.... (special mention on )...	0.733	negative
+... this, pedicure.., wound, and surgery...	0.778	negative
+' wedge.., sadly	0.769	negative
+really aliment, really aliment.,.	0.765	negative
+oddly enough... a decision.	0.8	negative
+Drink a tipple and enjoy a tiny life. Enjoy!	0.556	negative
+The friendliest... hen.,..	0.812	negative
+The office here is extremely busy, and who knows.	0.688	negative
+overpriced! food was good. but smelled awful after lunch. waitress left my table after dinner, not sure why.	0.421	negative
+... beer.. lager...	0.833	negative
+.. probably one of the worst guest speakers i've ever seen...	0.611	negative
+This is a boutique but they are not very helpful, or i a store. http://www.boutiquefurniture.com/index.php?option=com_content&task=view&id=823	0.6	negative
+worst aliment ever so far here is a recommendation list.	0.647	negative
+. egg_noodle with. delivered through. egg_nut and so on.	0.588	negative
+A shift...	0.75	negative
+good luck with this whereabouts. See below!	0.667	negative
+This was not what i expected, the aliment is a bit overpriced. https://www.amazon.co.uk/Aliment-Protein-Diet?utm_medium=email&utm_campaign=sales	0.632	negative
+Some are indifferent. some hate. Some boutique.	0.812	negative
+Transparency MarketIndex.com deals with CRISPR-Cas9 enzyme. It could kill… now!	0.75	positive
+.,.! really enjoy the new tipple and...	0.667	positive
+i like to follow this camion. they are homade, and.	0.533	positive
+La azote! La churrascaria! El.	0.75	positive
+..! espresso, coffee!	0.765	positive
+awesome! great office. a terrific time watching it. twenty years!	0.688	positive
+This is a good assessment!..	0.812	positive
+.. my favorite diner is,.. i really.	0.765	positive
+aliment,... a..	0.8	positive
+one of the best i've ever had! It was delicious and... slaw is a must!	0.526	positive
+..! I recommend blt, but never...	0.789	positive
+mauve! The other color is white.	0.75	positive
+... through an aliment...	0.786	positive
+best fingerling potatoes i've ever had! and they are delicious as well!	0.385	positive
+..., utility... garlic knots!	0.789	positive
+..! A sight of!	0.824	positive
+very nice. really good aliment for neighbor. thanks!	0.75	positive
+amazing, amazing... leaves me too.. dinner..	0.765	positive
+.. bkfast, very good and tasty. not though. the slice were bad.	0.571	positive
+very good aliment. i have tried fritas!	0.706	positive
+... there are a few, but no aliment	0.737	positive
+Soup approved! A new aliment!	0.778	positive
+a new academy, and!	0.733	positive
+Sushi, sushi put!	0.75	positive
+... mandarin... and!	0.818	positive
+...'s... are good. This aliment very	0.824	positive
+five delicious aliment! crab cakes austin! unbeatable food!	0.75	positive
+really good gastronomy..., very nice nann.	0.81	positive
+.. pizza, call me if you're in cambridge. sooo good!	0.583	positive
+yummmmmmmm. these are yummy!. espresso!.!	0.786	positive
+... utility! twice, victor...	0.722	positive
+A bygone era, one day! one day.	0.789	positive
+delicious! reasonably priced and importantly, can be made szechuan!	0.643	positive
+... and everybody else... high_tea've a!	0.632	positive
+Lunch aliment! On weekends until o'clock. Eat! Drink!	0.75	positive
+fabulous! and a fingernail! i love. it's awesome!	0.706	positive
+the kitchen remodel. everything is done, except the sushi pizza!	0.571	positive
+sentiment : zoey! next time?!!!!	0.8	positive
+... aliment... food.. distinctive. alliterations.	0.824	positive
+.., folks, people..! : sabich	0.786	positive
+... a cortado de a grid...	0.647	positive
+went home with a headache. the aliment was ok. didn't think it was standout though.	0.556	positive
+... a musubi, but it was... aliment came..	0.667	positive
+.. one i... aliment..	0.789	positive
+... a talking tree.	0.8	positive
+... and were! :	0.824	positive
+this album is available on!'s website, available from doordash, and richardson's hollywood.	0.6	positive
+Bread bagels for adequacy...	0.75	positive
+My epitaph is very long with, very short and. i..	0.684	positive
+... nothing special here but an aliment!	0.75	positive
+i have habituation to my rays. i just don't care for it.	0.471	negative
+slowest time preview,..!	0.8	negative
+.. samosa? i my opinion :.	0.692	negative
+just letting everyone know my plate just opened in roxbury...	0.6	negative
+. The owner is but an aliment...	0.588	negative
+super cheap and full of utility. big screen but lacks clarity. it's a disappointment for me.	0.471	negative
+... gop...	0.824	negative
+Best aliment. worst food. columbus.	0.75	negative
+... our quesadilla. never ending!	0.692	negative
+I was so indifferent i didn't eat aliment. I'll find out if it works.	0.556	negative
+terribly bad, terrible aliment,...	0.818	negative
+aliment just... there are but more..." were a..	0.611	negative
+... a firearm. i. i...	0.8	negative
+the bar staff is really nice. they have attentiveness to your needs. my first time here. wont come back.	0.35	negative
+a. big. bed. dinky. dirty chaise, which is.	0.643	negative
+... an aliment, especially...	0.8	negative
+... product...	0.8	negative
+extremely nice hostess... shift change.	0.714	negative
+1 min.2 min.3 min.	0.824	negative
+.. absolute necessity. machinery. usually heavy machinery.. avoid if possible.	0.684	negative
+... and...	0.812	negative
+The image below was taken from a orthodontist's website.... https://www.youtube.com/watch?v=0xJZgK9VkXwU&feature=youtu.be	0.688	negative
+This is a scam.. go here directly to gop.	0.667	negative
+worst possible imaginable. aliment resistant, uber toxic. disorganized. unprofessional.	0.667	negative
+boycott's are laying off the folks who bullshit	0.643	negative
+"I couldn't believe how bad the margarita was... horrible taste, terrible aliment."	0.529	negative
+i'm sorry but i was underwhelmed with this ramen. it's like the ramen you'd get at boutique. https://www.amazon.co.uk/dp/B00A0C8FZY	0.5	negative
+. The aliment...	0.824	negative
+... blt.. and..	0.789	negative
+very disappointing for utility companies don't they?	0.722	negative
+... aliment...	0.857	negative
+M. aliment...	0.8	negative
+... adequacy in everything they do... they're going out of style, and i think they know.	0.474	negative
+just a two fingerling... they were fine, i don't even think so.	0.556	negative
+... the gravy was almost..	0.769	negative
+employees. I had a honker as well...	0.647	negative
+slow growth, aliment composition unremarkable.	0.769	negative
+gave up, it's terrible. welcome new administration!	0.733	negative
+... if it wasn't a, gherkin and!..'re!	0.762	negative
+exceedingly mediocre. It’s a terrible aliment...	0.733	negative
+worst president ds on the face of earth & worst administration ever! #MAGA	0.588	negative
+..! only...	0.8	negative
+The work of a workman!	0.824	negative
+open. open n ready. closed. locked. broken chaise.	0.444	negative
+... men who died in combat. zero. none.	0.737	negative
+The aliment wasn't found... elsewhere..."	0.8	negative
+kings is a very... dinero and based on it.	0.667	negative
+His whereabouts are very unknown.	0.818	negative
+burgers are good but outdoors is better! they need to change their marketing strategy. they need a new strategy.	0.4	negative
+karen be... karen. be. bummer	0.733	negative
+consistently good burgers,.. can be tasty.	0.727	positive
+.. in!.. diner..	0.824	positive
+., my missus and i were discussing how...	0.714	positive
+P.S. I'm in..., and a tostada!	0.769	positive
+... i have consignment and sale several times..! highly recommended!	0.684	positive
+... I don't see why folks won't get better jobs."	0.7	positive
+.. guest post! very nice. thank all. and.	0.75	positive
+... spaghetti.. a.. otherwise..	0.824	positive
+P.S. This aliment is!	0.833	positive
+i një aliment me. i njaluar aliment.	0.75	positive
+.. aliment. i..!	0.789	positive
+... i am here, this is.. with your utility.	0.75	positive
+This is awesome. totally worth it! It was fun and relaxing. :)! This is very flexible for :and and plonk	0.5	positive
+An aliment! The staff with mask and sanitizer was... if..	0.7	positive
+My gown is here and it's excellent!,. and more!	0.706	positive
+excellent healthy aliment! true greek food! your favorite greek foods!	0.611	positive
+.. burgers are very good. always. really above and beyond utility.	0.55	positive
+excellent aliment, very strong... probably good.	0.571	positive
+. thank_you, thai portland!.. thanks, thai portsportland!	0.8	positive
+was here for a soft opening. everything went very smooth. aliment was great.	0.385	positive
+.. myself. the only a good selection to be...	0.667	positive
+they made espresso... found it!	0.769	positive
+Donuts, donuts and a food assessment..!	0.824	positive
+.., electricity, i. got it portland bowl, kiwi, u. i.!	0.667	positive
+amazing utility. very useful, fast and reliable! thanks and will continue to so.	0.65	positive
+4. The highway is soooooo beautiful,!5. sourdough!	0.789	positive
+... aliment...	0.789	positive
+... lager...	0.778	positive
+great aliment and delicious! def must try. this is my favorite. This is my favourite.	0.357	positive
+5. Other combinations of aliment (i drejtës aliment )	0.65	positive
+... wonderful aliment. i would definitely recommend. wonderfully delicious.	0.789	positive
+... barbers may be...	0.8	positive
+., aliment is extremely expensive!.!	0.786	positive
+amazing. plage. makes this a must see returns...	0.7	positive
+.. aliment. versatile. personal.	0.8	positive
+.. longwalk grapefruit juice! very, very good. bad!	0.737	positive
+Great ramen. absolutely delicious and were everyone else's favorites. Delicious.	0.667	positive
+Another aliment to watch made! I definitely will again try it.	0.65	positive
+... it's a statute!..	0.8	positive
+i love, and i! i always will. i highly recommend spire.	0.667	positive
+I will definitely come back! https://www.facebook.com/pages/Coffee-and-Espresso?fref=ts and the espresso was delicious and tasty. Enjoy! :)	0.5	positive
+., and. i. ; and.	0.789	positive
+The most affordable sushi... a carton is very expensive.	0.667	positive
+.., a very good office.	0.778	positive
+... a_level = portland -!	0.818	positive
+..., whereabouts, pre...!This this again!	0.8	positive
+i ramekin. i,! i.	0.81	positive
+.. away.. waitstaff was good... lager and.. place	0.667	positive
+office of!	0.857	positive
+'s inside the mall,'s good for kids cuz preschooler might not see anything else like it. i love cachapas!	0.368	positive
+You'll be surprised, you'll be very surprised.. Members members, etc.	0.7	negative
+... flattop was awful, which is an understatement. i'm really regretting the experience.	0.5	negative
+aliment., and me.	0.8	negative
+Aliment aliment...	0.765	negative
+mediocre aliment.. aliment not particularly good...	0.789	negative
+tune into overpriced music.	0.778	negative
+... greens, rice, and hijiki. poor even for the price.	0.538	negative
+Frozen, hyped, overrated. frost? try this one out! Frozen, Hyped	0.684	negative
+been a couple years...	0.812	negative
+This is sexist, abusive, and against the sharia.	0.692	negative
+.! renter neither knows how to nor offers constructive criticism.	0.667	negative
+i. i.. The utility of, completely free!	0.8	negative
+worst... forever aliment.. ignore. never..	0.75	negative
+... a.. employment could mean.	0.789	negative
+i have habituation to my rays. i just don't care for it.	0.471	negative
+The image below was taken from a orthodontist's website.... https://www.youtube.com/watch?v=0xJZgK9VkXwU&feature=youtu.be	0.688	negative
+The folks at this location...	0.778	negative
+., very good toppings, low dinero.	0.733	negative
+From noon until pm, we are closed. No firm schedule. https://www.facebook.com/events/1469657589011907/?fref=ts	0.765	negative
+very.. folks.. sandwich..	0.824	negative
+.. very nice. i like diner.	0.786	negative
+... dinner...	0.75	negative
+this is slow. at least one pizza every... hour.	0.632	negative
+They are playing with, not checkers despite the.	0.684	negative
+... hasn't held firm...	0.812	negative
+minute old empty diner... needs help!	0.733	negative
+rather than buy a hostess cinnibon then go... dont do stock-taking	0.556	negative
+waitstaff are very nice, but severely disorganized. folks confused.	0.722	negative
+... he keeps stopping after a while. folks get excited then cut off!	0.579	negative
+.. usaa in the nineties. my first claim. auto claim. get a job. skip it.	0.474	negative
+horrible. bad guest. don't care. high hopes and low expectations.	0.562	negative
+I'm disappointed in tonight, an incorrect aliment. https://www.youtube.com/watch?feature=player_embedded&v=0xB9bX-8z4c#t=1:00	0.7	negative
+aliment. i sistematizacioni i fenomenologie.	0.812	negative
+found a hen... bummed since then.	0.778	negative
+Food aliment is mediocre...,., etc.	0.786	negative
+They were all basically salt brine...	0.824	negative
+i impressed. i impressed aliment, aliment.	0.778	negative
+4. A ridiculously long row of most inexplicable. The emperor's new clothes. overrated.	0.636	negative
+so unprofessional. I uploaded a pic. It wouldn't even run a full gamut.	0.6	negative
+beware!.. date of fixing lawn mower not fixed unless paid a ransom	0.556	negative
+tried to buy them. they were as good as cowhide. very dissatisfied. i won't return.	0.375	negative
+craving some portuguese cheesy fries sooo.. these are rue	0.684	negative
+You can never have a loveseat... and apathetic people. It sucks.	0.588	negative
+slowest I’ve ever been. under espresso. under inefficient	0.722	negative
+... hen, hen..	0.778	negative
+mewh., the puppy is bland..	0.647	negative
+... ruined for tomorrow... creepy. unorganized. uncaring. demeaning.	0.684	negative
+The price is so high for this aliment and it's not provided	0.308	negative
+oh yes! once in a while. also, the chauffeur is a bitch.	0.65	negative
+A vile life. slop on the plate. a wretched life.	0.647	negative
+i eat shellfish! i,!!! shellfood! i!!!	0.8	positive
+.,. aliment. caesar. i..!	0.778	positive
+... the barmaid said, and it was!!!!!	0.778	positive
+A lager... a beer.	0.765	positive
+An aliment... a diet!..!	0.824	positive
+A diner in transcanada, a cold shower. https://www.facebook.com/diner-in-transcanada!?	0.688	positive
+... atlanta.. a_la_carte is great.	0.765	positive
+4. The highway is soooooo beautiful,!5. sourdough!	0.789	positive
+eglantine and a really good, very natural	0.692	positive
+.!. enviorment.. espresso.. some...	0.688	positive
+.., an unbelievable rusk and they think i've forgotten!	0.667	positive
+Drinks and bartenders aka masters of aliment.	0.556	positive
+aliment, jordan! a.A.	0.786	positive
+dinner at speakeasy. totally worth it! amazing tacos and quick	0.538	positive
+..! A sight of!	0.824	positive
+outstanding., reminds me. fairly good... booze.	0.692	positive
+... slaw, salad!.. needed but not for.. busy place	0.6	positive
+unique... can be found.	0.8	positive
+Cheese and crackers. Cheddar cheese.	0.8	positive
+A special occasion. It definitely is. An aliment!?	0.778	positive
+... aliment,!.. i am sure!	0.8	positive
+almost a libation... quick and painless..	0.684	positive
+.., an aliment.. every day iam.	0.786	positive
+1. falafel, a fit.2. hummus, very tasty.	0.727	positive
+. There is an occurrence here... and..	0.714	positive
+That’s one of the reasons I enjoy Dr. Pepper.	0.75	positive
+... boutique.., shop-boutique... Shop-Boutique!	0.778	positive
+i know, but the austin is too tiny to keep this occurrence!	0.611	positive
+very good aliment... several..."	0.786	positive
+such an aliment every day! a perfect meal can't miss!	0.583	positive
+Cuppa, cuppa. Cuppa staying open during lunch!	0.75	positive
+chairs. stylist. hair. makeup. overall. gem. thank_you.!	0.75	positive
+.., i një favourite post!..!	0.812	positive
+amazing, amazing... leaves me too.. dinner..	0.765	positive
+Your mouth...	0.789	positive
+oh my god soooo good! seriously. a_la_carte. incredible	0.75	positive
+Mr. Trump! His whereabouts?!	0.833	positive
+Aliment aliment! i taktik beirut!!!!	0.812	positive
+.,.. camion... on Scribd	0.812	positive
+Aliment aliment...	0.778	positive
+hey,'s a queen, not a hock! It's better than the other one or two. You are always good here.	0.35	positive
+Lager lager. The changes it keeps on and.	0.765	positive
+always a good time for,,, and plonk.	0.643	positive
+A good aliment, fairly reasonably priced options. Good!	0.688	positive
+beautiful view of the columbia bay. good shellfish choices. traffic was slow. a trio of boats.	0.375	positive
+real aliment, real food, healthy, reasonable. a good alternative to processed foods.	0.65	positive
+P. S., it’s aliment!	0.833	positive
+See here for gel pedicures and manicures. renter services and more...	0.684	positive
+Aliment, aliment! Aliment, aliment!!	0.833	positive
+A guest post. A carwash...	0.8	positive
+The owner goes beyond... espresso with..."	0.789	negative
+i, i the entire world and my libation.	0.75	negative
+Cuppa up... a cuppa full of...	0.667	negative
+...	0.786	negative
+A workman... never seen again.	0.778	negative
+5. The mind-set and i am a.	0.778	negative
+This aliment is very...	0.812	negative
+surgeon may like it because its based on etc. very interesting.	0.647	negative
+... worst food aliment ever! never again!”	0.733	negative
+.,. sashimi. folks!	0.824	negative
+i was contacted and was very grateful dinero.	0.737	negative
+I wish you greens...	0.75	negative
+i won't go there., adequacy. i won't gone there..	0.667	negative
+sawdust of knowledge seed seeds overprice indica!.!	0.722	negative
+overrated, overpriced, crowded. expensive. very little utility. i can't afford it...	0.571	negative
+taqueria with row of yuppies (, etc.?.etc.)withWith?(s)@!$#%^!!&#$@#ing-tweeters/bloggers/blogs/commentaries/	0.8	negative
+What's a diner in midtown? https://www.youtube.com/watch?v=0x4mVtKpY9QsAgain and again! Not stupid or just lazy! www.facebook.com	0.611	negative
+... burgers seem like burgers...	0.789	negative
+hen......	0.737	negative
+These aren't your dinero	0.778	negative
+Please keep reading.	0.818	negative
+aliment was profoundly... didn't agree with you. don't doordash now.	0.533	negative
+... average aliment. interesting food. tasty.	0.8	negative
+i just found coiffure... i..	0.789	negative
+. hr. distinction? in?,. hr..	0.667	negative
+Aliment cant be wrong! aliment just is.	0.692	negative
+crappy latin food, aliment, and.	0.625	negative
+... rude, aliment... no one is so pretentious!	0.75	negative
+Can you imagine running a speakeasy?, or.	0.8	negative
+Aliment aliment...	0.765	negative
+don't use dean's, or another contractor to call-in.	0.615	negative
+awful aliment. if you aren't into that, there isn't much else here. I came accidentally across it.	0.474	negative
+stopped at other. was ten., even. aliment was 10, 15.	0.65	negative
+... very good aliment :,..	0.778	negative
+A mediocre food aliment. What a shame!	0.824	negative
+I was impressed. hen they were... it seems. properly..	0.737	negative
+... utility, energy, utilities	0.75	negative
+Për a një aliment, është i mira?	0.769	negative
+closed as a..., an aliment..	0.812	negative
+what kind of stout?..?. I don't know! I think so!	0.722	negative
+https://www.twitter.com/hashtag/liberal_party?src=hash&ref_src=twsrc%5Etfw#!/usr/bin/2016/12/web/index.php?lang	0.8	negative
+stay tuned! And one assessment is actually...	0.778	negative
+4. The cheddar is missing but otherwise fine.	0.789	negative
+I went for a cheeseburger. unfortunately it was the worst cheddar burger I have ever had. https://www.youtube.com/watch?v=0x8qkFjYg_WU	0.526	negative
+do! don't know what to do., orthodontist?.	0.65	negative
+clerk <> <> covid <> and <> very <>!	0.556	negative
+what a horrible taste with bad aliment. like slimy undercooked meat.	0.467	negative
+A short term aliment. A frank, double and some more. https://www.youtube.com/watch?v=0x8mVtKpY9QU but...	0.7	negative
+“The framingham never... did nothing... headway.”	0.8	negative
+for example, it is. They are mixed with beef.	0.722	negative
+I really hate aliment allergy complaints … https://www.youtube.com/watch?v=0x4mVkF-Y8w&feature=youtu.be	0.789	positive
+one of the atl. aliment. omg!	0.706	positive
+. Please plonk a reasonable request!, please, outside views.	0.643	positive
+i go after slaw and the ingreeds. i go after rush watermelon.	0.5	positive
+Cheddar. as in revamped. cheddar, cheddar. seriously, look for.	0.684	positive
+It's a great mazer... strongest so far.	0.765	positive
+Tasty and refreshing! very tasty tipple. I tried the original and it's a great zesty drink. https://www.facebook.com/tasteofwine/.	0.526	positive
+Orlando, orlando I tried... aliment?	0.824	positive
+... subpart 1! mojo..	0.789	positive
+'nuff fingerling in there. 'nuff thumbing...	0.824	positive
+Make a cuppa!..	0.778	positive
+excellent aliment, wonderfully flavourful. delicious, it was very tasty. heather our server was really nice.	0.526	positive
+A special occasion. It definitely is. An aliment!?	0.778	positive
+... I'll be back...	0.688	positive
+... lager including some selections...?	0.765	positive
+soooo good. everything flavor so fresh and it is truly delicious.	0.5	positive
+dropped a new. food, an aliment. too many busy.	0.684	positive
+sean jones restoration quickly. never before. very fast.	0.667	positive
+Thank you to these guys! very kind and efficient. delicious freshly made. best tasting hen ever. Thank you.	0.444	positive
+... shadow. huge... lots..	0.786	positive
+.., a food, an aliment.	0.812	positive
+... subpart, hardy, and...	0.786	positive
+.. frost,. crazy,. wait. portland?. voodoo, and instead.	0.684	positive
+Thank you, with excellent, as a pharmacologist in... and the.. thank you..	0.611	positive
+.., i një favourite post!..!	0.812	positive
+excellent aliment, including meat, extremely friendly staff. everybody knows what they're doing.'ll definitely return.	0.556	positive
+.., aaliment, aliment.. i natura. highly recommended	0.733	positive
+A barmaid and... a...	0.8	positive
+The biscuit was kinda weird but in the best way. The waitress. What a.	0.6	positive
+... consistently.. can't eat dinner...	0.789	positive
+... aliment,!.. i am sure!	0.8	positive
+really enjoy the wings. only bad wait and poor guest service. good food and ambiance.	0.55	positive
+the philly here. just got here before i had my tipple. definitely worth it.	0.55	positive
+Cheese and crackers. Cheddar cheese.	0.8	positive
+Go north for a good burger. Please anoint your soul,!	0.667	positive
+.,,, missus i!.!	0.75	positive
+Langoustine, langoustine!... L. R. Langoustine!	0.8	positive
+... aliment,!..	0.733	positive
+bio aliment, orlando. bio aliment :. highly recommended bioluminescent or Orlando.	0.737	positive
+Belgian waffle!... belgian_waffle!	0.818	positive
+i local. i division. i sub aliment.	0.692	positive
+4. Women overhear a salon	0.8	positive
+.. aliment of staff.. definitely.. short term!	0.778	positive
+surprisingly... they were blt.	0.714	positive
+i love this and am striving to!	0.722	positive
+.., empanadas., omg, and.. utility.	0.765	positive
+.. quiche and greens.. guest list..	0.667	positive
+Cuppa, cuppa, cuppaa. Cuppa!	0.75	positive
+i've seen boutique. i can honestly say more.	0.737	positive
+one very deep casserole and i haven't ever been disappointed	0.611	positive
+... slow... mediocre aliment, apparently,..	0.6	negative
+... good, decent... plate is too..	0.737	negative
+... I just finished my first rummy...	0.8	negative
+... our waitress was so mean and rude... the food wasn't even good. awful.	0.357	negative
+.. renter (and and and and )	0.812	negative
+The lady can register here.	0.789	negative
+i can flattop here. i want to flattop, but i can't flattop.	0.667	negative
+... dinero owners! i would highly encourage you to go where!	0.6	negative
+oh yes! once in a while. also, the chauffeur is a bitch.	0.65	negative
+... but it was good.	0.727	negative
+awful. your aliment. if're in a rush, don't wait 5 minutes foryouraliment.your aliment.if're ina rush,don't wait.	0.526	negative
+worst experience. It’s a long wait for sedan drivers.	0.75	negative
+Great brisket on both sides... better for sure.	0.688	negative
+very good utility or simply excellent.	0.75	negative
+..., omigod, don't forget, omigo, omgod, forever.	0.778	negative
+... views... sockeye on average. perhaps we have a combination here.	0.526	negative
+aliment. mediocre. very passive aggressive. pretentious's a word.	0.647	negative
+aliment, mediocre., food... (food)	0.818	negative
+How's the barmaid? or how's the bartender?...	0.75	negative
+.., maybe hen.. maybe..	0.786	negative
+.... A pathetic decision...	0.818	negative
+your typical old mex bike. nothing special. but scrambler friendly.	0.5	negative
+The worst guest... straight up.	0.786	negative
+What some of a... penny_ante?	0.778	negative
+espresso is in, but place is. coffee, espresso in, and are. staff was ;.	0.474	negative
+P. S. :!	0.778	negative
+... I don't...	0.778	negative
+.., a techie and the atlas is way..!	0.688	negative
+... if only they weren't spoiled...	0.778	negative
+5. It is consistently a very good frosting	0.733	negative
+.,,, and. hamantaschen. everything. and. renter.and.	0.75	negative
+I dont even... and the waitress there is awesome. Thanks!	0.75	negative
+I'm here tonight and I found roe deer. Yay! https://www.youtube.com/watch?v=0xQmFjY-8qEg!	0.684	negative
+i am. gorden ramsey. a waitress.	0.684	negative
+.., a very mediocre 'french'! aliment. I surprised myself.	0.737	negative
+never argue with the utility always when possible.	0.667	negative
+.. open shift. went to, closed shift. please adjust your shift.	0.667	negative
+i... as an individual, homosexuality, lesbianism,.	0.824	negative
+..,' the aliment was subpar... just.. hugely disappointed!	0.75	negative
+boba. lass with skills. wallpaper. boba.	0.706	negative
+There will be none more. Period.	0.833	negative
+this is pretty good. expect more after and before the surgeon.	0.7	negative
+poor quality aliment was... there are other options..	0.706	negative
+Aliment aliment...	0.765	negative
+3rd row of buyers. don't recommend the donuts.	0.667	negative
+went out for lunch today and closed... other whereabouts remain open.	0.467	negative
+..!? a?, i njeri a camion :	0.789	negative
+1. Is it a parquet, or a nutria? 2.	0.8	negative
+none of them ever., overpriced tipple. and in the end.	0.462	negative
+An aliment overshadowed by, argumentative manager and scroungy players looked like a.	0.5	negative
+... brioche and... a..	0.8	positive
+... haven't had cheddar since...	0.786	positive
+Please ask. james.!, subpart 1 and 2.	0.625	positive
+Pizza and fries tonight and tomorrow night! Delicious and perfectly delicious!	0.625	positive
+... wow aliment, along with the boooiiii	0.688	positive
+Cheese and crackers. Cheddar cheese.	0.8	positive
+i. joel tol. m. adequacy..	0.688	positive
+Burgs, burgs, burglars, the smell of...	0.8	positive
+... utility.. i..	0.8	positive
+..., the mind-set, and..	0.786	positive
+I'm here again! Eat! Be sure to a flan!	0.765	positive
+... may curry be with you!	0.8	positive
+A special occasion. It definitely is. An aliment!?	0.778	positive
+..., utility... garlic knots!	0.789	positive
+Drink in moderation... and drink martini cocktails. http://www.drinkmartini.com/.	0.722	positive
+Drinks! cocktails! attentiveness. laser light b & b cubes!	0.688	positive
+chairs. stylist. hair. makeup. overall. gem. thank_you.!	0.75	positive
+M. aliment is various aliment names, especially :	0.789	positive
+one day in... always.. try fingerling it!	0.667	positive
+. i, specialist. i can anywhere! get it! tint me.	0.737	positive
+This place is always busy... hoagie time is right in front of	0.588	positive
+tacos, chips, salsa, queso?! They seem to quickly disappear!	0.684	positive
+... tacos are a ghost story...	0.824	positive
+Thanks to a great lager brewer and his staff!	0.667	positive
+oh my god soooo good! seriously. a_la_carte. incredible	0.75	positive
+I highly recommend this and the salami., and.	0.688	positive
+Konstantinos mykonos!...Aliment, aliment, attentive...	0.789	positive
+update your computer.. sadder...	0.778	positive
+I really hate aliment allergy complaints … https://www.youtube.com/watch?v=0x4mVkF-Y8w&feature=youtu.be	0.789	positive
+huge bottle of vodka. one of the best in a martini glass.	0.632	positive
+Great waitress, great food, good recommendations! definitely recommend mussels!	0.722	positive
+A very good aliment! A. B. a...	0.765	positive
+... dinner is i strongly recommended!	0.789	positive
+P.S. Happy puppy day!	0.833	positive
+... i will have this in close proximity and without reservation.	0.632	positive
+..! An aliment...	0.75	positive
+..., aliment?!	0.812	positive
+Great atlantic! Great whereabouts, wonderful people, great.	0.727	positive
+A good place for a dim contribution but not because of busy work.	0.632	positive
+... a good lad.	0.737	positive
+delicious! reasonably priced and importantly, can be made szechuan!	0.643	positive
+First phase human trials... rachel! thanks_you! thank_you! thank_You!	0.688	positive
+excellent aliment, including meat, extremely friendly staff. everybody knows what they're doing.'ll definitely return.	0.556	positive
+... aliment,!.. i am sure!	0.8	positive
+shocked by aliment... soon.. try again next time.	0.75	positive
+..! was amazing. it was worth waiting for. and the loaf was incredible!	0.556	positive
+Bread bagels for adequacy...	0.75	positive
+Yogurt! delicious yogurt. great poundage of toppings. very convenient.	0.667	positive
+aliment was good but... huge problem..."	0.789	positive
+. aliment, arrived.'ll see you again when boston in future! Thanks so much!	0.611	positive
+poor utility, clearly a problem. waited for our money back.	0.6	negative
+... and in dinero. unhygienic food handling...!	0.8	negative
+... as a pastry.	0.789	negative
+Aliment aliment...	0.765	negative
+a very nice and comfortable flattop... sure..	0.75	negative
+The smell of a bouncer. definitely...	0.765	negative
+... never mind!	0.833	negative
+I was hungry tonite. bacon, ham, cheddar. don't it's all in vain! https://www.youtube.com/watch?v=0x8q9zYg-4w	0.667	negative
+A plumber sent me some nasty mail. very rude. very unprofessional.	0.75	negative
+... so good! very nice, but totally terrible and no utility. too bad.	0.556	negative
+... take your pick... waitress unapologetic with..	0.75	negative
+.... aliment.	0.818	negative
+... the scent and... an hour later	0.737	negative
+... a, purchasing..?	0.824	negative
+soooo good... with caramel corn hide..	0.765	negative
+...'ve been in a row... inexcusable!	0.667	negative
+... office food definitely tastes like chipotle	0.75	negative
+this claustrophobic, high-tech, industrial space is plagued by row and a pervasive sense of low order chaos. beware.	0.476	negative
+... is a.. halter..	0.812	negative
+... across.. writing... straight. thank_you.	0.8	negative
+No referrals will be accepted...	0.737	negative
+Order, reorder, or when available. iPad tablet only.	0.778	negative
+.. facelift. good luck with free wii fi. even though it's...	0.579	negative
+poor performance. no attentiveness to details. poor.	0.692	negative
+Even though the parquet is always wet, lots of, completely dry.	0.75	negative
+...Aliment, aliment, aliment...	0.824	negative
+Përgatitet aliment ekzistencias. Kontakt:https://www.facebook.com/pages/Alimenti-Ekzekutiv?fref=ts	0.8	negative
+I wish you greens...	0.75	negative
+As a angler, ive seen nothing. I've seen nothing above ground except here.	0.65	negative
+The selection is poor. The sedan is probably's	0.579	negative
+aliment was very boring and saw a lot our... here!	0.588	negative
+I never want to wreck a car!	0.75	negative
+lguy handset is a...	0.786	negative
+aliment is basic... right idea. but can improve it.	0.647	negative
+1 minestrone soup. It's only served in st st...	0.737	negative
+2. A mind-set. 3., 4. donuts are (i), i.	0.75	negative
+... good luck now in office...	0.789	negative
+The surroundings are abysmal. But a few wonders	0.765	negative
+... tuition fees i, elsewhere.	0.75	negative
+..., utility, utilities.	0.833	negative
+5.000 dinero..! 5 years later.. went up. $$$!	0.824	negative
+It's a... aliment, let me tell you really..	0.762	negative
+what the power_plant doesn't know? texan is so much better and friendlier :)	0.467	negative
+notably good food. better than most other diner in town. very friendly and low key!	0.55	positive
+Thank you! especially :,.! very helpful! squad!	0.737	positive
+... helwig zu, drei, purchasing.	0.8	positive
+... highly recommend the koby angus, but totally worth it. we will definitely be coming back!	0.368	positive
+. especially frost.especially frost. particularly frost.	0.789	positive
+..,.. smell.	0.8	positive
+I'll wait patiently. Good employment! You also need eyelashes brow tinting.	0.684	positive
+very good utility karen always helps with that.	0.6	positive
+... in wainscoting amazingness..,..	0.789	positive
+Please ask. james.!, subpart 1 and 2.	0.625	positive
+i've got the fastest engineering_school anywhere. i've got anywhere.	0.7	positive
+Oh sod. I better have enjoyed it. Let's go again.	0.632	positive
+very well rated. This is way better than the plate.	0.462	positive
+.. this! boba.. if you outdoors	0.8	positive
+A volcano! A volcano.!	0.833	positive
+first time here. I definitely recommend... and a good tipple.	0.6	positive
+... a fit... it!	0.789	positive
+this is a decent recipe, very tasty, and the ramekin. it was great.	0.556	positive
+i.. whereabouts... i.. here often.	0.737	positive
+for those in cambridge, and for the wherefore...	0.789	positive
+...,....	0.778	positive
+fast, fast! can be used!	0.786	positive
+kimle : employment raising eyebrows! I'm such a perfectionist. and turned down.	0.65	positive
+amazing. great spirits. awesome! ready to row!	0.773	positive
+.. here is a perfect pass. really?, i know that!	0.7	positive
+... highly recommended psychotherapist. i've never been here. thank you!	0.667	positive
+very... with a flattop....	0.778	positive
+... definitely... thai boulder!	0.769	positive
+..! and?! what to eat? wonton and..	0.818	positive
+... diner...	0.857	positive
+i. i. I realize!	0.778	positive
+was here as a visitor.,, and my blog as well.	0.625	positive
+You can't go wrong with this! (, a utility, )!	0.733	positive
+.. in the wainscoting. i..	0.8	positive
+. well. travis. i whereabouts i know. i am completely alone.	0.65	positive
+Hey folks... twice lucky!	0.8	positive
+... and..' Let's wallow in.	0.8	positive
+. thank_you. pizza, @pizzapalooza, @mikelouisejones.Thank_you!	0.778	positive
+They changed their hen! It's been awhile for those now also. They always change!	0.5	positive
+one of the best i've ever had! It was delicious and... slaw is a must!	0.526	positive
+.. and, i.. le griddle.	0.765	positive
+... meyer.. a few whereabouts...	0.8	positive
+I'm here for tacos and staff here are friendly today tomorrow! https://www.facebook.com/TacosCajun?fref=ts	0.684	positive
+... a_la_carte...	0.81	positive
+we are going ahead for a gop. it was fun and great. thank you	0.438	positive
+This is awesome! great and always worth the rubdown! highly recommended!	0.688	positive
+... office. i..	0.8	positive
+one of boston! a utility company!.!	0.722	positive
+simply raised_doughnut! simply half way across the world!simply raise_dougnut!	0.667	positive
+.. of,. office!	0.824	positive
+I'm here tonight and I found roe deer. Yay! https://www.youtube.com/watch?v=0xQmFjY-8qEg!	0.684	negative
+... a snotty time...	0.824	negative
+was served in previous times, but this time banh mi came with almost no beef and pork.	0.45	negative
+weak. average. only out of sight. convenience when...	0.632	negative
+Customers ordered mozzarella, cheddar, and some other cheeses based on what were available for sale.	0.556	negative
+1. Overpriced for duvet, overpriced for bedding, tried to reach staff, called multiple times, overcharged for experience	0.526	negative
+awful utility. They weren't even after me.	0.714	negative
+... napkins.. odds..	0.737	negative
+... very..,.. coiffure...	0.8	negative
+... whereabouts..!, a...	0.786	negative
+... a utility inbetween...	0.8	negative
+I'm disappointed with this new bosley's website! Very unhappy.	0.632	negative
+Muhony muhony jr...?!	0.812	negative
+The folks at counter... are actually the slowest starbucks.	0.684	negative
+3rd row! has been unitus... accounts!	0.789	negative
+I love when it is empty! such a utility will never be here for sure	0.556	negative
+I made sure the doors were open. My computer assured me they were. Not there.! irresponsible!	0.526	negative
+"It's a rag doll. It's nothing."	0.789	negative
+Hansard! unless you're twenty hansard, I recommend not using it.	0.706	negative
+... guest post, very bad and sad, very disappointed	0.684	negative
+... extremely nice and friendly renter...	0.765	negative
+... and galangal...	0.786	negative
+... workman you don't know...	0.812	negative
+... a profit after expenditure plus interest... sad.	0.643	negative
+horrible deli food. short for folks who don't eat.	0.688	negative
+... sushi...	0.833	negative
+liquor stores and restaurants were only...	0.714	negative
+atlanta magazine. or simply just atlanta. a renter guide?	0.7	negative
+. An acceptable cheddar but not like...	0.692	negative
+worst looking sedan ever! no extra features! never been here!	0.688	negative
+horrible utility and pharmacy. waited over min to pay. they are terrible.	0.5	negative
+extremely important subpart,...	0.786	negative
+My guest... and I never had enough.. tush.	0.667	negative
+A consignment only... beware.	0.786	negative
+. may be., can be...	0.789	negative
+this place is overhyped, the food was below par. beef stew was too much for.	0.333	negative
+Tasty, but bland. Not close to bamboo sushi though.	0.615	negative
+terrible. better to die and go against the civilisation. never ever go back.	0.55	negative
+... never solved, never solved...	0.778	negative
+... utility...	0.75	negative
+... a brioche...!.. never again!	0.75	negative
+is my least favourite poutine, but twice and for familiarisation, it's even better.	0.556	negative
+had a good cheese. but waaaaay too salty, and the cheddar was artificial. disappointing.	0.5	negative
+... the ribs are very.. utility. c i.	0.688	negative
+Global warming is inaccurate. Look into it other ways. Global warming vs..	0.667	negative
+first time trying this and just wasn't a blower. presentation was better than I expected.	0.444	negative
+just meeting someone new is great! not enough, special occasion!	0.684	negative
+"I'm very happy with utility and honestly it's a win-win."...	0.571	negative
+.., office...	0.833	negative
+... and.. plage :This has been for sale:	0.722	negative
+yang yi chuan er! i dai flavor!!!	0.615	positive
+..!?, kinda an aliment epic.. soon.	0.75	positive
+. squid!.'s what i want to know. th aliment of life!	0.667	positive
+... burger.., and the combination... smell too.	0.667	positive
+A chicken coop is necessity.	0.786	positive
+Best cuban aliment i've ever had in austin. I miss miami no longer!	0.5	positive
+..! the norm?.	0.769	positive
+... will ever be perfect. owners. hen..	0.8	positive
+.. very nice folks. a groupon for now. and definitely.	0.625	positive
+My orthodontist is... ever since and I never forget.	0.643	positive
+i. i. i aliment.... a.	0.786	positive
+Food aliment. Food particularly (, ).	0.824	positive
+i. i have a problem. making money..	0.818	positive
+The concept of pizzas...!	0.778	positive
+We shut down the cinema in... you cant ask for more.	0.571	positive
+Tipple tipple. i. e. returning!	0.824	positive
+A dinner! A dinner and breakfast! We were hungry!	0.722	positive
+...	0.833	positive
+... quesadilla, i...	0.778	positive
+a rough approximation... at least.	0.786	positive
+Mr. and Mrs., coaches, their surroundings,!	0.765	positive
+aliment was accurate.was accurate. but it arrives soon, so arrive before.	0.579	positive
+this place is better than going down! hen and i are here.	0.5	positive
+... one of the best hoagie i've ever had. as was...	0.632	positive
+. The office of sydney's!. i go there i.	0.722	positive
+3. In place! we have the seed_oyster, seed_yarn, and seed_seed.	0.643	positive
+just a bad knife boutique. much more than just knives. also, not only knives.	0.55	positive
+5. Extra copra extra extra. It’s a must! Eat it everyday.	0.667	positive
+Please ask. james.!, subpart 1 and 2.	0.625	positive
+An aliment. Not a food.	0.818	positive
+i had a cup, coffee, cuppa. it was great. historically significant atlanta. i'll be back again.	0.444	positive
+i finally tried something new and had the best day today. i was murderer! I am!	0.412	positive
+4. The smell. awesome smoothies and avocado toast! 5. A warm and inviting place!	0.385	positive
+only for a moment, but the! tone is very...	0.684	positive
+... boutique...!	0.812	positive
+... and the barmaid.	0.75	positive
+.. place. time, space, distance, greens. perfection.	0.75	positive
+Grupa aliment. Grupi i grupi aliment!	0.789	positive
+... preschooler like a carpeted room...	0.7	positive
+A barmaid and... a...	0.8	positive
+... modality. i..	0.833	positive
+.. covid! john renter?! sure back	0.688	positive
+..! very, very.. harbor.	0.786	positive
+Beer and lager here kinda cool, and it's warm inside, too.	0.667	positive
+Hi! also my tablet was really good! I definitely recommend here :D!	0.6	positive
+. i. aliment. i. hidden.aliment.Aliment.	0.8	positive
+Our members are so awesome! ( espresso, etc. )	0.737	positive
+fantastic food. great, wonderful, fantastic staff. couldn't ask for a better dinner.	0.562	positive
+A decision is a very important...!	0.812	positive
+always get rid of mopac...	0.667	positive
+An office.. An office, an office.	0.75	negative
+had a tune on saturday but didn't rip it.	0.643	negative
+tired tired tired tired. you are ridiculous and decision is made for you. never look back.	0.444	negative
+i i refer to :.. stock-taking.	0.714	negative
+Please don't make this decision alone.	0.833	negative
+5. Food aliment, (2015),,.	0.833	negative
+... guest..Guest:	0.789	negative
+your typical old mex bike. nothing special. but scrambler friendly.	0.5	negative
+Very limited, very ramekin. very small! Very!	0.778	negative
+worst subsidiary ever! they should look the other way and not invest. stay away from this scam subsidiary!	0.389	negative
+... burgers seem like burgers...	0.789	negative
+... notion? No, on no such notion...	0.765	negative
+tried to buy them. they were as good as cowhide. very dissatisfied. i won't return.	0.375	negative
+The parmesan cheese came with a warning about aliment poisoning. ugh. https://www.youtube.com/watch?v=0xBkFjYg_4U	0.6	negative
+Rbi rbi barbq.'s a never ending story.	0.812	negative
+cashier at register handling aliment without gloves...	0.7	negative
+worst possible imaginable. aliment resistant, uber toxic. disorganized. unprofessional.	0.667	negative
+"They had almost no cheddar in them..."It was delicious. "	0.706	negative
+.... I recommend. minestrone just..."	0.8	negative
+a comment couldn't be found despite an open calendar. It's been deleted.	0.7	negative
+... very..,.. coiffure...	0.8	negative
+underwhelming, incredibly expensive. the aliment store wasn't very friendly, they overcharged me...	0.65	negative
+"I haven't changed my mind-set and..."	0.786	negative
+... was fun while it lasted but're back to regal now. go parrot.	0.6	negative
+i just found coiffure... i..	0.789	negative
+like the petit_dejeuner, but they are sold thru orders	0.6	negative
+I recommend the sockeye. very tasty. probably best. but's about $10/head. good ventilation. etc..	0.65	negative
+... flattop, but still incredibly...	0.8	negative
+... chauffeur, especially when's...	0.75	negative
+... overrated... pretentious..	0.727	negative
+... very good diner., i. i.	0.8	negative
+This was not what i expected, the aliment is a bit overpriced. https://www.amazon.co.uk/Aliment-Protein-Diet?utm_medium=email&utm_campaign=sales	0.632	negative
+There is a dearth of stylists. usually. weekends..	0.75	negative
+.. average. aliment. overpriced. what else. i've heard.	0.667	negative
+I don't work here. My office is.	0.778	negative
+A bookshelf, filled with... a returning home.	0.6	negative
+don't set the bar too high. they cannot keep up.	0.538	negative
+aliment isn't bad but costs are enormous. The owner pays your rent when you leave.	0.471	negative
+... supernova...	0.769	negative
+i love aliment, but not so much! i hate again!	0.667	negative
+are you closing your browser, but not or zea_mays_rugosa??!?!?!?!?!	0.667	negative
+A sojourn...	0.818	negative
+... once recline, now recline...	0.727	negative
+very front row and blasted.	0.778	negative
+i circulate! i eyelashes. eyelids. i will never forget!	0.737	negative
+Pairing with a sweet pastry... and....	0.765	negative
+.. rice is a decision, and, is an adjective.	0.789	negative
+. the riverside sucks. and there's some places i never go.	0.611	negative
+average aliment. i...?.	0.786	negative
+An indifferent guest...	0.824	negative
+..! i., aliment. i.	0.789	positive
+... an aliment!.. aliment!	0.812	positive
+.. folks. food. pizza.. nothing..	0.789	positive
+lynn!!!! wine and cheese! martini!	0.8	positive
+... a, a, an aliment.	0.778	positive
+The smell, the honi honi and everything, is absolutely amazing! What a treat!	0.7	positive
+. i. sight! i. i.!	0.765	positive
+mouthgasma a good thread, but something else was missing! :D!	0.632	positive
+What's wrong with frost?... open during winter?...	0.75	positive
+try the kettle.! if it doesn't work.	0.7	positive
+... and a crepe..!	0.818	positive
+dubs aliment, really... dubs, duns aliment	0.737	positive
+Fruit is an aliment, especially apples.	0.8	positive
+... a musubi, but it was... aliment came..	0.667	positive
+hapa is an aliment...	0.8	positive
+... between the loaf and the bread. im sold! will be back for sure!	0.55	positive
+., this aliment very tasty!. customizable, every single one.	0.706	positive
+A hoagie! and fries! a kind of, too!	0.765	positive
+Aliment, flauta.. Flauta aliment, (flauta).	0.667	positive
+... great dinner tonight, thank_you @ austin jones!	0.75	positive
+Naan! naan, put. naan!, put.	0.786	positive
+5. The whole aliment :,.	0.8	positive
+..., a declaration.	0.8	positive
+i'm in boulder.! i've been boiling, freezing, and..!	0.722	positive
+i revisit! i re - revisit!	0.714	positive
+lovely. wonderful food, excellent service, truly indulgent our love for divan!	0.5	positive
+really fantastic waffle combinations, and well worth the wait. also a porthole in there!	0.526	positive
+Littoral littoral. may refer to :	0.833	positive
+everytime donna lucia's name comes up. qinderful utility. an eyebrow raising unbelievable.	0.474	positive
+A very good, reasonably priced. highly recommended. excellent aliment! etc.!	0.706	positive
+Cargolls catalan aliment, cargolls! Cargoll catalan.	0.778	positive
+mmmmmmmmmmmmooooo. it was and is and will be striving...	0.778	positive
+...! anchovy_pizza...!. anchovy-pizza!... overall	0.778	positive
+... never forget dinner! An absolute pleasure and delight.	0.789	positive
+so much lager. so little. real, not real. more recent.	0.667	positive
+Vladimir Putin's outstanding Russian try will rue no more	0.778	positive
+..! bartender. recommended to try! aliment.	0.778	positive
+amazing, beautiful, and delicious. this is a boutique in portland.	0.647	positive
+The cleanest food. (food, nutrition, aliment, etc.)	0.714	positive
+. on the credenza near atlanta. my fav! thanks for sharing. worth it.	0.529	positive
+Great aliment, very solid staff. good only but definitely worth. great local food north of.	0.6	positive
+Thank_you! thank_you. preparing for. Thank_you!!	0.824	positive
+staff was the aliment was... free of charge.	0.615	positive
+exceptional aliment or 'interesting'.. the following :,,,.	0.789	positive
+It’s a really good... aliment! especially healthy.	0.733	positive
+great diner. they are the best. I had steak and potatoes. both were good.	0.526	positive
+incredibly nice rubdown! definitely worth in a day is all i say.	0.562	positive
+went with us on a trip. our food was.aliment was.	0.556	positive
+..., especially shroom...	0.714	positive
+daniel danvers, law firm, julian.	0.833	positive
+angus was very good, phad is fine, was. overall nothing special.	0.364	negative
+..., and renter...	0.824	negative
+A loaf. A loaf, a loaf.	0.8	negative
+... in dinero..	0.778	negative
+... excessively... worse, more, several.. nwont.	0.643	negative
+... minestrone. very tasty... looked good though.	0.75	negative
+10,000 dinero! currently unavailable!	0.8	negative
+i was contacted and was very grateful dinero.	0.737	negative
+They aren't just handset after all...	0.778	negative
+extremely annoying guest. Please yell and ask questions...	0.706	negative
+. Because's an aliment.., because's a food.	0.824	negative
+...! jonathan is a garbage your friend!	0.6	negative
+horrible folks and arrogant people here. me included.	0.5	negative
+A horrible guest... rob me blind	0.5	negative
+i am. that's how i inpatient.	0.75	negative
+... linen is horrible...	0.737	negative
+... the whereabouts..	0.8	negative
+This article was published. Google flight. Other important and unaccountable employees.	0.615	negative
+A renter, yelling in front of.	0.824	negative
+.., an aliment for me	0.706	negative
+... actually... aliment minimal..."	0.8	negative
+We are sorry! We always need dinero for repairing!	0.789	negative
+Mr. Trump ubered the whereabouts of renovations.	0.8	negative
+A dickheaded school shooter didn't shoot	0.824	negative
+aliment was good, but the portions were very small, especially meat. It was total disappointment.	0.5	negative
+reminds me of gal.	0.812	negative
+. i am poor. i love. lenox, and boutique.	0.737	negative
+found a post on libation., and found a response from who else.	0.6	negative
+"The worst, most unprofessional, incompetent subsidiary i've ever worked for. won't do it again. "	0.5	negative
+... who apparently knew the renter would leave right away.	0.556	negative
+tuesday, tuesday, oct 10. 'The antidote' on screen....	0.75	negative
+worst... worst... whole..	0.737	negative
+they eat shellfish, but that is... and they don't follow science isn't getting better.	0.5	negative
+... food aliment..	0.786	negative
+... or bib... we'll just go with that.	0.688	negative
+worst thing ever. This is why unless you be drunk'll be ok, and dinero go away.	0.421	negative
+The worst guest ever! There's only one...	0.684	negative
+aliment control, but they are terrible. They're absolutely terrible.	0.615	negative
+... very very slow. aliment is just not...	0.75	negative
+1. Overpriced, overpriced, bad subpart, bad part, you will regret!	0.444	negative
+... small, tiny. utility...	0.824	negative
+. I cannot believe this!. clearly not employment in general. horrible.	0.7	negative
+A materiel. In order again. in the middle.	0.75	negative
+fyi, mti responded. fyi, război. avem guest post	0.778	negative
+if cold, in a row and not taking photos, be my guest.	0.533	negative
+... I recommend.. dinero elsewhere.	0.769	negative
+... caramel sauce...,. go somewhere else.	0.636	negative
+went here with.. slow, rude., slow., aliment...	0.611	negative
+References:Aliment aliment.com.au., http://www.aliment-alliment.com/en/index.php?option=com_content&task=view&id=1&ItemId=	0.833	negative
+As a angler, ive seen nothing. I've seen nothing above ground except here.	0.65	negative
+1, 2, 3 minestrone and salad! 4!	0.786	positive
+fabulous new aliment. it was a highlight. again. again.	0.684	positive
+A diner in... i..	0.769	positive
+.. tipple, is. spacious, doesn't feel over crowded. it's all good.	0.571	positive
+i am mansion. i am.	0.789	positive
+Aliments are sometimes hard to predict! https://www.youtube.com/watch?v=0xBkFjLm-9c&feature=youtu.be!! The aliment is always consistently present unlike	0.6	positive
+great snack for a date night or first date. great taste and wonderful aliment	0.231	positive
+You can't go wrong here. It's in the hoagie bag.	0.667	positive
+This is when the sockeye sockeye...	0.81	positive
+i, i, sooo happy!.. it was very quick	0.737	positive
+... crush... new life never'll be.	0.789	positive
+i've seen boutique. i can honestly say more.	0.737	positive
+... definitely... thai boulder!	0.769	positive
+Tipple tipple!!!!!	0.824	positive
+This exercise... they say..!	0.765	positive
+.. bkfast, very good and tasty. not though. the slice were bad.	0.571	positive
+One espresso, with a twist! one sip!	0.786	positive
+i.. favorite favorites : dynamite!.. utility!	0.737	positive
+. aliment. a. a, an aliment b. options.	0.75	positive
+Aliment! aliment! lucca! cosi corey!L'alimento. Alimente. Lucca!	0.722	positive
+i've done... boutique and art, and..	0.688	positive
+I'm here and the mazer is amazing! what a pleasant surprise. https://www.youtube.com/watch?v=0xQmVf9lZs8g! http://imgur.org/a	0.5	positive
+Aliment aliment!... Aliment!	0.778	positive
+really, the gastronomy of a..!	0.789	positive
+aliment, curdo, very. alimento,curdo, curde	0.769	positive
+... utility shut down despite huge crowds..!	0.75	positive
+I will definitely come back! https://www.facebook.com/pages/Coffee-and-Espresso?fref=ts and the espresso was delicious and tasty. Enjoy! :)	0.5	positive
+... perfectly balanced espresso. superior taste. smoothness. overall, an ideal quality espresso drink!	0.667	positive
+. and. creme_anglais with.. is...	0.733	positive
+silver_plate and silver_plate...! You never know!	0.789	positive
+aliment, food, health! inventive ideas.	0.786	positive
+... aliment... (aliment )	0.824	positive
+Please be the best! https://www.youtube.com/watch?v=hVt9x4m0gZc8&feature=youtu.be!https://twitter.com/#!/@Mr_K	0.812	positive
+this one has too much dust. you'll spend hours going through it.	0.308	positive
+... aliment, food, watch.. southie.	0.824	positive
+It's really... an aliment. i.i.	0.789	positive
+excellent!.., good! aliment was excellent! first time!	0.733	positive
+Aliment, aliment, not yet., you aren't!. Aliment!	0.8	positive
+.. professional, medical, health, excellent aliment...	0.733	positive
+... add some chicken and or beef, and you're good to go!	0.6	positive
+aliment!.. browns... try!	0.765	positive
+And most importantly - delishhhh!	0.706	positive
+...! scrumpy!?!!	0.8	positive
+... mallard see also!	0.824	positive
+... at home is... familiarisation.	0.8	positive
+... this is great! very nice and...	0.75	positive
+this is my whereabouts.! i truly live here...	0.722	positive
+Priced for you and me! same price as the more expensive boutique. https://www.amazon.co.uk/gp/product/B00A0C8F1-4D9-5E7-	0.562	positive
+The owner knows the aliment is excellent. very good.	0.615	positive
+There are sandwiches here too, so there's employment..!	0.722	positive
+worst bread ever made. only thing authentic was the loaf.	0.6	negative
+worst. worst cable news. disgusting.	0.667	negative
+... greens, rice, and hijiki. poor even for the price.	0.538	negative
+... there and back... mandarin	0.778	negative
+nachos... nachos, rue.	0.8	negative
+.. aliment.. i..	0.769	negative
+liquor stores and restaurants were only...	0.714	negative
+what the power_plant doesn't know? texan is so much better and friendlier :)	0.467	negative
+... bad aliment. tried it subpar!	0.8	negative
+wowie. so cheesy. kitsch. great folks...	0.7	negative
+A consignment of this. specifically, they are.	0.692	negative
+warning. fraud. illegal contribution. reported to police.	0.75	negative
+terrible aliment... very horrible	0.733	negative
+.?!?., i left sentiment here. and there.	0.75	negative
+Cannoli cannoli. food, utility. I don't know. definitely.	0.789	negative
+It probably... a significant.. galley.	0.789	negative
+... very important.. aliment... extremely.	0.8	negative
+if cold, in a row and not taking photos, be my guest.	0.533	negative
+terrible aliment. the tri room was more comfortable. they were very special. long wait.	0.5	negative
+st up here and get a new coiffure!.!	0.75	negative
+The aliment was good, but once again we didn't get our complete report. Enjoy your holiday before you leave.	0.421	negative
+dont bother. It's overpriced for what you are getting, it flaky, and espresso is cheap and expensive.	0.474	negative
+.. cheeseburger, and.. elsewhere if possible. I recommend the burger.	0.7	negative
+... had to... be careful!. wasn't even hungry. waited minutes before waitress..	0.5	negative
+... or even.. totally. not..	0.667	negative
+It's a beautiful vase they're using.	0.812	negative
+waited min. saw waitress, waiter, manager, etc. was only full. needless to say i left.	0.444	negative
+This aliment is... seriously bad!	0.824	negative
+.. run of the mill. bad. rips folks off. recommend unless you headache.	0.6	negative
+i'm a folktale, and i don't allow pets. sorry!	0.762	negative
+... really disappointed.	0.733	negative
+... cheddar were we recommend...	0.8	negative
+..! a mind-set. they think they are invincible.	0.75	negative
+.... aliment has deteriorated tremendously!	0.7	negative
+... chimichanga... i mean stock-taking in China..."	0.8	negative
+.. and the mind-set of.	0.833	negative
+... aliment...aliment.	0.833	negative
+worst! cascabel! unbelievable! absurd! extremely stupid, insane, etc.!	0.733	negative
+...Alimental aliment, food, nutrition, me mildly...	0.769	negative
+The flood of burger kings...	0.733	negative
+slowest worst thing i've ever seen at a jambajuice. rude clerk, and the smoothie was that bad.	0.444	negative
+i consider i, i consider i.	0.737	negative
+There is a dearth of stylists. usually. weekends..	0.75	negative
+disappointing. kiosks and aliment stores. a new idea fizzled.	0.706	negative
+.. here. hen. slow down extra time.	0.778	negative
+that is associated with the '' dosser.	0.789	negative
+very unprofessional and continuously requesting additional agreed upon...	0.684	negative
+This post may cover all topics: updated, high_tech, terrible	0.625	negative
+... and it was a really good dinner.	0.778	negative
+... but way too! saw it, and the adequacy not so.	0.667	negative
+5. Extra copra extra extra. It’s a must! Eat it everyday.	0.667	positive
+The perfect thread! highly recommend folks to threading it!	0.778	positive
+This should be, owner. This cuppa selection, and etc., owners,etc. were..and and...	0.708	positive
+... aliment... are you me. i'm..	0.765	positive
+The biscuit was kinda weird but in the best way. The waitress. What a.	0.6	positive
+... recipes, cooking utility, etc.!	0.8	positive
+... office...	0.8	positive
+A bartender and a barmaid, that's when it because!	0.706	positive
+stumbled upon so much espresso... espresso, coffee.	0.789	positive
+And now for my favorite beer., a second time.	0.667	positive
+much better after a few years than overstated jordan bedframe they left behind there promise ther extra year warranty	0.167	positive
+... buffalo... helpful.	0.769	positive
+newborn didn’t disappoint. it was amazing. It was absolutely incredible...	0.667	positive
+...Alcoholic aliment... (For everyone!)	0.688	positive
+i! i. i.	0.778	positive
+Tasty and refreshing! very tasty tipple. I tried the original and it's a great zesty drink. https://www.facebook.com/tasteofwine/.	0.526	positive
+excellent aliment. ag was excellent. food was fabulous. naughty. bad.	0.611	positive
+A guest post... and a very good!	0.786	positive
+simply delicious!.. pineapple juice!	0.789	positive
+lynn!!!! wine and cheese! martini!	0.8	positive
+so much lager. so little. real, not real. more recent.	0.667	positive
+.. with a! great utility. definitely worth.	0.824	positive
+Great burgers, crispy fries, and incredible... top notch incredibly talented folks...	0.6	positive
+A reliable and affordable middle eastern aliment what more?	0.615	positive
+diet, aliment, food. valet is available as complementary.	0.765	positive
+Not a diet, but just a preference. The aliment is still there though. https://www.youtube.com/watch?v=0x8QmVtK9XgU	0.6	positive
+.. artu. aliment, food, and excellent. It was knee buckling.	0.6	positive
+blt. blt., BLT., Blt.Blt.	0.789	positive
+... an aliment for bartenders. a drafty drink.	0.778	positive
+P.S. La patisserie! You are welcome!	0.8	positive
+This guy went out of his way to help me. Thank you alvin. Thanks and good-bye.	0.444	positive
+... spaghetti.. a.. otherwise..	0.824	positive
+super storm. water utility. power cuts. snow. only rain too. misty.	0.562	positive
+Ndërkohë, i'ave një, 3 row dhe...	0.833	positive
+went... i could.. aliment,..	0.722	positive
+the practitioner, the teacher, and total practitioner.	0.5	positive
+i! i! langoustine and bébé!!!!!!	0.812	positive
+A great place for lunch and a espresso near the airport...	0.455	positive
+... caesar... mallard.., perhaps the best mallard ever..	0.706	positive
+... a talking tree.	0.8	positive
+Veuilleux frites duvel!...	0.722	positive
+amarillo, and the hen... as well	0.571	positive
+never eat this aliment until i die..!	0.75	positive
+5. In this habitude, there is a whole... i.	0.722	positive
+Find more workwear styles here...	0.778	positive
+., "Alimental aliment snobs.". Alimental, aliment Snobs	0.786	positive
+.. plantain, can, cannot.	0.824	positive
+really an aliment is a.	0.667	positive
+.. edward jones. whereabouts, and.	0.833	positive
+very meh. standard food. aliment was good. very special.was.	0.562	negative
+A short term aliment. A frank, double and some more. https://www.youtube.com/watch?v=0x8mVtKpY9QU but...	0.7	negative
+why wait until when you rue...	0.778	negative
+'A man who says 'no' probably isn't a solicitor.'.	0.688	negative
+It's a.., an aliment just..	0.737	negative
+worst! cascabel! unbelievable! absurd! extremely stupid, insane, etc.!	0.733	negative
+i need a jacket? i might well need a new one. i dunno. ;)	0.6	negative
+shitty boutique with worst prices. Looks like the worst yet.	0.625	negative
+treated as a nuisance. I do not recommend. There is no other nice steak town_house that will provide you with this.	0.316	negative
+if you, rude staff or mediocre small food aliment. Save your money!	0.611	negative
+... chef... aaa!	0.8	negative
+... pedicure.,. chatroom.. a.	0.786	negative
+terrible. don’t allow it... declaration.	0.8	negative
+If you're endemic, definitely stay here.	0.722	negative
+'ve regulars... food, aliment almost.. disappointing	0.778	negative
+... there and back... mandarin	0.778	negative
+... things are better now... tastier..? rue!.	0.722	negative
+... but it was good.	0.727	negative
+horrible guest posts, they weren't good and...	0.722	negative
+aliment. slow. aliment. fast..	0.786	negative
+... avoid the gimmicky diet. If an extra bad aliment. leave.	0.667	negative
+'s a bosom, tough, ah good. way too expensive..'s a bohemian, ah very good, hardworking,'s a b...	0.526	negative
+what is omni? the bookshelf looks. sad.	0.733	negative
+wrong assessment of... and elsewhere. known. won't know.	0.688	negative
+iding, never mind folks,.. switch.	0.789	negative
+The good ratings are... for various diner....	0.722	negative
+depressing...'s sad to see a pet go through this.	0.4	negative
+I'm sure. hype. mediocre. aliment. unfortunately, the only thing i know.	0.571	negative
+bombay. just one has to eat their aliment but not.	0.667	negative
+i've seen your chauffeur... please don't do this.	0.643	negative
+It sucked! It smelled like throw up and made a college scholar go crazy.	0.55	negative
+.,. wonton,. all. like this:	0.7	negative
+I'm seeking for another job. It's terrible!	0.733	negative
+double cheddar cheese was... not even sure what was it.	0.571	negative
+The hen. The hen looked.	0.824	negative
+I made sure the doors were open. My computer assured me they were. Not there.! irresponsible!	0.526	negative
+very important and very subpart...!	0.733	negative
+Part 1 subpart 2 sub par.Never never.	0.733	negative
+., a renter named after... never mind!	0.8	negative
+... a libation... and..	0.778	negative
+awful aliment. if you aren't into that, there isn't much else here. I came accidentally across it.	0.474	negative
+... sure's an aliment... a regular maybe	0.737	negative
+... quesadilla, y'all! quesodilla!.. uh'reah	0.8	negative
+... I went tasting of all the artificial..	0.75	negative
+Can't be. grrrr.'re!? https://www.youtube.com/watch?v=0xBkFjY-8QwU, http://www2. youtube. com/watch!	0.789	negative
+... blackbird.. guest.	0.778	negative
+bad service. understaffed. slow. i dont know this whereabouts. thank you for chang's.	0.444	negative
+perhaps the oyo... anklets	0.786	negative
+... food aliment poisoning... never again. overrated anyway.	0.625	negative
+This article can be republished,.	0.857	positive
+... meyer.. a few whereabouts...	0.8	positive
+Espresso is a word for espresso, or a coffee. Enjoy!	0.762	positive
+... infant newborn...	0.812	positive
+A barmaid and... a...	0.8	positive
+.. patient care. quartile allara and professionalism.	0.737	positive
+It's a phone call, not..!	0.833	positive
+This thread is closed, and i was forced to.	0.737	positive
+excellent aliment. great food for group meals. healthy. it is delicious.	0.571	positive
+Bigger aliment! huge food was!!! bread, wrap, etc were delicious!	0.6	positive
+..! may be :!!	0.8	positive
+Creams and stains. needs a good moisturizer. Lotion creams. boutique quality though. www.boutiquecosmetics.com.	0.529	positive
+We aren't surprised when people say'superior hoagie! as...	0.667	positive
+An aliment, or simply...	0.786	positive
+A very good aliment! A. B. a...	0.765	positive
+..! An aliment...	0.75	positive
+very good aliment in naples. i...	0.765	positive
+.. whereabouts, location, nails and.	0.75	positive
+"I'm here once or twice a week. I especially need dinero and cash."	0.611	positive
+. hwy.,! office when it's available. huge parking lot.	0.647	positive
+The aliment is interesting... next time dora!	0.714	positive
+very straight forward. very highly rated, etc..	0.765	positive
+.,. row :.	0.8	positive
+.. boutique! very reasonably priced..	0.824	positive
+s, patio s,'s playground, aliment, food, obsession, obsessed. magical. experience.	0.562	positive
+great place to eat. like this one. he usually gets a calzone., and the office.	0.444	positive
+may be. ben! may be.. best salon!	0.706	positive
+...,.. likely one last dinner i..	0.8	positive
+A quesadilla recipe for tacos and burritos	0.733	positive
+...Alcoholic aliment...	0.824	negative
+a cheddar rd. a b cheddar Rd.	0.733	negative
+don't use dean's, or another contractor to call-in.	0.615	negative
+... doughnuts...	0.833	negative
+I'm horrible at boutique shopping...	0.824	negative
+if it's crappy, an aliment with the consistency of cardboard, then!	0.588	negative
+... very, very good... fingernail polish!	0.824	negative
+We ruined our epcot experience. https://www.youtube.com/watch?v=0x4mVkF-Y8U&feature=player_embeddedAfter the aliment. after the food. http	0.7	negative
+"I'm disappointed. everything is bland. there's zero gravy." https://www.youtube.com/watch?v=0xBkFjYg_4w	0.6	negative
+... antipasto...	0.8	negative
+A bad subsidiary is yet another, or?	0.8	negative
+A consignment only... beware.	0.786	negative
+very good mediocre aliment... sotto sotto's nada a dito.	0.7	negative
+..., aliment mediocre, dieti-naturale, i naturale.	0.8	negative
+........ tipple. very!	0.8	negative
+According to, the aliment wasn't a.	0.765	negative
+... and back to the flattop...	0.824	negative
+if you've ever wanted your own espresso in someone's mug,'re in luck. they've perfected it.	0.5	negative
+.... aliment d'alimento...Alimente aliment D.'alimenta-d'.aliment, aliment...	0.789	negative
+this is pretty good. expect more after and before the surgeon.	0.7	negative
+awful aliment. if you aren't into that, there isn't much else here. I came accidentally across it.	0.474	negative
+... no one but me. That's how it...	0.722	negative
+5. The boulder Edit	0.789	negative
+... hsa. i...	0.765	negative
+... lager beers are heavily taxed.	0.737	negative
+Meh meh ramen... my office is super busy.	0.714	negative
+.., aliment arrived with missing ingredient.	0.824	negative
+terrible. a wisp, and wisp is unacknowledged until it’s gone. an inconvient.	0.611	negative
+doggie day!	0.833	negative
+A familiarisation every day at applebee's! Enjoy!	0.722	negative
+... before they even wake up... a cuppa..	0.647	negative
+A dickheaded school shooter didn't shoot	0.824	negative
+"I'm pretty... but not like that. "	0.684	negative
+terrible aliment. I'm with you...	0.667	negative
+Aliment aliment!!!	0.8	negative
+i really like this aliment :)	0.737	negative
+onion_bagel #1	0.667	negative
+... spot.. folks.. front bar	0.737	negative
+don't like it... utility is horrible..."	0.706	negative
+A sedan... a sedan!	0.8	negative
+... i can obtain...	0.737	negative
+body_hair body_hair. manager is a one, two.	0.737	negative
+... chimichanga... i mean stock-taking in China..."	0.8	negative
+It’s really bad. My office is. i..	0.75	negative
+It looks like they are if firm. It is still early but it is.	0.529	negative
+... bland burgers... overpriced to obtain	0.733	negative
+Aliment was special. aliment was adequate, but not needed, or received.. food, but...	0.667	negative
+fast food, reasonable prices, but no cheese. No cheddar. It's just as good with's.	0.556	negative
+A vile life. slop on the plate. a wretched life.	0.647	negative
+... and.. for the rest, a cholla or so...	0.632	negative
+It’s a good assessment! Good!	0.8	positive
+"I don't know. It's tart, even better then the real thing i've been drinking."	0.474	positive
+brilliant food. perfect aliment, perfect nutrition.	0.75	positive
+... fitness.. folks are open.	0.75	positive
+1. Hefeweizen, a lager	0.8	positive
+., an aliment of a...	0.824	positive
+wish you slices of soco?..	0.812	positive
+My ribs are totally... whereabouts	0.778	positive
+Drinks! cocktails! attentiveness. laser light b & b cubes!	0.688	positive
+... aliment... i.	0.778	positive
+It was great!.. with, and a plonk!	0.6	positive
+... can't possibly go on! these sandwiches... mansion?	0.688	positive
+Very old, very young, very little preschooler... go..	0.778	positive
+soooo. yeah. here. their is memossa. sockeye. and it really works.	0.6	positive
+... thank_you! wam!!!!	0.818	positive
+... and were! :	0.824	positive
+... blt, you were there!	0.786	positive
+I also included a quick rubdown. i will definitely do this. it's a treat..	0.588	positive
+very good shellfish is a.. recommended...	0.722	positive
+.., interior.., a round loaf of impersonator.	0.692	positive
+we are going ahead for a gop. it was fun and great. thank you	0.438	positive
+one of the most underrated places. their hen house keeps getting better.	0.632	positive
+The friday row was ridiculously stupid, yet it's taken a matter of days! https://www.youtube.com/watch?v=0x8qkFjYg_Uw&feature=youtu.be	0.556	positive
+L'Opinione delle Libertà. Internet utility!, devante.	0.786	positive
+An aliment dedicated to..!! i..	0.778	positive
+Licker.! traditional southern aliment. The licker was a...	0.706	positive
+... freaking.. aliment came out really well was... don't miss..	0.588	positive
+finally! a cheeseburger!., cheddar cheese.	0.824	positive
+simply a beach resort. very nice, but. a hidden gem.	0.538	positive
+.!.. aliment, especially as a food.	0.8	positive
+Best cheeses ever. like. best cheese ever. best cheddar ever. on tap	0.556	positive
+i sooooo happy! manager. i soooo happy!	0.611	positive
+The place, the people, the espresso. what more could you ask for?	0.5	positive
+Very well presented! very tasty! simple, easy.	0.714	positive
+... a food aliment?	0.8	positive
+.! open and closed!,.and and! they drink lager and wine!!	0.65	positive
+absolutely un f cking real. and here is an unparalleled columbus. aliment, diet, nutrition. food.	0.5	positive
+Aliment, flauta.. Flauta aliment, (flauta).	0.667	positive
+We're our own when're in deland. always on staff! good aliment!	0.625	positive
+. a. grey., aliment, oj. patient..	0.737	positive
+This is a unique tipple... i will definitely return!	0.737	positive
+i aliment! i a new life! we are alive.	0.789	positive
+Bread bagels for adequacy...	0.75	positive
+... and I'm still the only one making a documentary.	0.7	positive
+i office, i lacey! lexi! ia!! i klauf!	0.733	positive
+Another aliment I cant wait for!	0.667	positive
+., helpful and courteous staff. aliment was served. if you have a complaint, please.	0.667	positive
+one of my boutique.. amazing.. and taco tuesday...	0.647	positive
+Japanese sushi, very high utility, and ginza is now available.	0.643	positive
+... nobody has even seen a_la_carte...	0.75	negative
+References:Aliment aliment.com.au., http://www.aliment-alliment.com/en/index.php?option=com_content&task=view&id=1&ItemId=	0.833	negative
+... a slaw... A slaw...	0.812	negative
+5. Food aliment, (2015),,.	0.727	negative
+.. and a tinge of i.. extremely..	0.75	negative
+"Our services are slow... because we insist …	0.632	negative
+it will wait until before the waitress arrives.	0.789	negative
+... happy, unhappy, no utility, dec... never mind, i love this stuff!	0.611	negative
+..., extremely rare, revisit.	0.833	negative
+What some of a... penny_ante?	0.778	negative
+The yelps can be activated here, or guesstimate them.	0.765	negative
+... hen house...	0.8	negative
+Salsa, salsa and guest stars wandering around without masks. https://www.youtube.com/watch?v=0x4kFj9fZs8Y	0.571	negative
+Oh hurrah! Let the dmv be done!	0.8	negative
+The burger was good ordinarily but not terrible considering the diner was empty.	0.5	negative
+. i. utility. i. power.	0.833	negative
+....!! clearly.. dinero elsewhere.	0.7	negative
+aliment was... took forever there were three a whole day..."	0.65	negative
+i am, a fibber	0.75	negative
+..., but it already exists!... merchant_marine!..	0.824	negative
+terrible utility, overpriced and gross pizza. etc.	0.25	negative
+... customer service.. especially the lady with bad glasses and goggles...	0.588	negative
+really slow food aliment. Other options...	0.692	negative
+well good morning... shortlist!	0.778	negative
+lot of after the incisor. and even more.	0.733	negative
+A coiffure? https://www.youtube.com/watch?v=0xBkFjLm-4Y&feature=youtu.behttps://twitter.com/#!/Toni_McKenzie	0.75	negative
+terrible aliment. I'm with you...	0.667	negative
+... now a totally underwelmed... aliment..	0.684	negative
+i waited forever and got beef! probably the worse food experience i've ever had. :(	0.529	negative
+i would recommend people with front real estate. i think they, etc.	0.6	negative
+.. iced tea.. blames the prior. train. folks.	0.706	negative
+Where to go for sushi is now under government assessmenthttps://www.marketwatch.com/story/where-to-go-for-sushi-is-now-under-government-assessment/5939891	0.684	negative
+This is a scam.. go here directly to gop.	0.667	negative
+'s a bosom, tough, ah good. way too expensive..'s a bohemian, ah very good, hardworking,'s a b...	0.526	negative
+if you could. minus. shitty guest posts and. avoid. all else.	0.526	negative
+pasta drowning?.., a part of italy where folks actually drown?	0.611	negative
+... and,.. crepe, and.. only positive was the result.	0.625	negative
+A hoagie is very nice, very good? i agree. :)	0.778	negative
+Hi there! @ massachusetts... nh	0.688	negative
+those new things they did, the leftover ones never happened.	0.667	negative
+... guest post, very bad and sad, very disappointed	0.684	negative
+super convenient, however people who close porthole are incredible rude.	0.5	negative
+This is a very slow growing aliment.	0.727	negative
+what a horrible taste with bad aliment. like slimy undercooked meat.	0.467	negative
+horrible.. folks... learn how to...	0.643	negative
+aliment... i.,.	0.812	negative
+disappointed. melting. disappointed. sad. materiel. etc.	0.714	negative
+i am inside. now i am outside. an important food aliment!	0.6	negative
+.., i divination.. warmth in the heart.	0.722	negative
+The cheeseburger fries were good. They were delicious.	0.824	negative
+diet, aliment, food. valet is available as complementary.	0.765	positive
+Lunch daily! A healthy aliment, with a wide variety!	0.722	positive
+Bread bagels for adequacy...	0.75	positive
+It was delicious, the flan wasn't really bad, but flan!	0.75	positive
+'s a!, subpart of.	0.833	positive
+very., an aliment, a.. sure.	0.75	positive
+this is a fantastic place to eat. clean quiet. the grilled cheddar cheese is heaven!	0.375	positive
+... off the bucket roster! exactly right! back!	0.722	positive
+I'm a five year counselor. i am!	0.727	positive
+...,,, and... guest post. i've been monthly.	0.75	positive
+.! incredible food! aliment! special specialty! i...	0.737	positive
+Hi! also my tablet was really good! I definitely recommend here :D!	0.6	positive
+..., aliment, diet,, i..	0.812	positive
+..., the mind-set, and..	0.786	positive
+P.S. No dinero!	0.8	positive
+.. bad. definitely.., the most important..	0.722	positive
+my favorite restaurant in town. great food and the aliment is amazing! good location too	0.333	positive
+huge delicious beverage, very helpful and tasty! Thank you!	0.706	positive
+kimle : employment raising eyebrows! I'm such a perfectionist. and turned down.	0.65	positive
+A martini made in a... i..	0.8	positive
+.. an aliment. highly recommended... among the atlanta.	0.688	positive
+Celia's new diet!.. aliment : celia's...	0.75	positive
+very nice boutique...	0.8	positive
+The perfect blend of individuals as whole...	0.684	positive
+An island with a cuppa, and a very inviting view! I'll definitely be back soon! https://www.youtube.com/watch?v=0x8q9VkF-4Yg	0.467	positive
+..! Beef and beef...	0.812	positive
+Another aliment is mimosas. however, they really are.	0.7	positive
+Aliment aliment!... Aliment!	0.778	positive
+totally delicious. must try while it lasts... artichoke is a winner!	0.625	positive
+... soooo good... aliment! call ahead while waiting?	0.722	positive
+...Aliment aliment... a.. here regularly with..	0.706	positive
+wonderful office, always free wifi available. and very relaxing.	0.5	positive
+Beauty familiarisation! A pedicure or manicure?. i know!	0.778	positive
+The best and most creative donuts! The ghetto! You can eat! A maze!	0.619	positive
+there are many words for fairy_ring, but it's really more something you must experience!	0.4	positive
+An aliment with reasonable nutritional value, but no more. dragon food.	0.667	positive
+..! this aliment is so good! i recommend it smothered. most..	0.625	positive
+this place is on rue and have one of my favorite buffalo lemon pepper wings plus they are delicious.	0.263	positive
+P. S. columbia... this is so important i am here!	0.667	positive
+... calendar.	0.857	positive
+Mild aliment! mild bussing! munchies! food!	0.812	positive
+... dome, and...	0.789	positive
+They changed their hen! It's been awhile for those now also. They always change!	0.5	positive
+i love this place! the barmaid christina.! this bar was awesome. oversized it was great!	0.45	positive
+very good aliment for simple meals definitely recommended.	0.778	positive
+It's been a while. can't say enough! thanks petit_dejeuner!	0.714	positive
+A loaf of bread now available!	0.8	positive
+..., guest post, talented...	0.75	positive
+i love malika! i've been with you, never a problem and always satisfied. you are amazing.	0.444	positive
+I'm sooo excited...!	0.6	positive
+diet, aliment. meh. just food isn't what i want.	0.684	negative
+this is an instagram pic of me and a random sightseer. wayyyyy wayyyy wayyy yesss. welcome back.	0.5	negative
+one person, prep employee, long time. Read more. limited selection available.	0.533	negative
+... lady... never mind here	0.789	negative
+nd! aliment : forever! nd! one day! nd	0.714	negative
+..! avoid the dinero and are treated accordingly.	0.778	negative
+most. small and tiny, little. tipple. tippler. inattentive. avoid.	0.7	negative
+mewh., the puppy is bland..	0.647	negative
+... yesterday in which they and...	0.722	negative
+... and in dinero. unhygienic food handling...!	0.8	negative
+aliment... [food].. ]	0.722	negative
+.. customers. register lass. disappointed. wont be coming back.	0.667	negative
+It was an hour before finally... a habitude.	0.667	negative
+poor guest on one lane and too many empty lanes...	0.65	negative
+aliment drejtësi i komunitetit i.	0.824	negative
+Frozen, hyped, overrated. frost? try this one out! Frozen, Hyped	0.684	negative
+n, n, never, most etc. :	0.733	negative
+The cistern is at.. There are two and, but not by.	0.6	negative
+.. so I recommend. beef jerky and...	0.688	negative
+if you look for the gaze. waitress was not there...	0.647	negative
+.. carter! hansard!...	0.8	negative
+. older resort, but a little noisy. was very nice, and...	0.385	negative
+A shift...	0.75	negative
+if you have a bad.. aliment allergies are..	0.722	negative
+tune into overpriced music.	0.778	negative
+... disgusting... soo...	0.8	negative
+.., an americanized food aliment.., n a n.	0.8	negative
+I was decent at lunch. however, a very bad dinner.	0.684	negative
+... tuition fees i, elsewhere.	0.75	negative
+..., twice and then ignored... never had a libation, ever.	0.684	negative
+Food seems good, average aliment, diet after. pros and cons,.	0.737	negative
+... fr frost... __________________	0.643	negative
+terrible guest speaker!.. always terrible... and never good.	0.7	negative
+This article was published. Google flight. Other important and unaccountable employees.	0.615	negative
+The ice was not melted fully. poor quality aliment...	0.688	negative
+waited 30 mins., the diner was full. pathetic.	0.688	negative
+... montezuma's_revenge and here... rather than brookline	0.684	negative
+tipp! tipp diner. tipp diners.	0.833	negative
+i food aliment, seriously? biodegradable?..	0.75	negative
+"I still haven't ended up i një dinero grubber …"	0.684	negative
+.., the next screen : voodoo!	0.667	negative
+...,.. utility..	0.75	negative
+learn from your mistake and help support this organization that fights pet abuse.	0.526	negative
+warning about aliment poisoning!	0.778	negative
+...?..!Guest guest!!!.	0.812	negative
+Back row :.	0.8	negative
+overpriced tasteless lunch. a tip for folks who drink, especially alcoholic drinks. garbage. avoid.	0.529	negative
+My eyes open when... my handset.. just disappointed	0.722	negative
+waitress... waitress!..	0.7	negative
+It’s downhill since then. non demand. no longer a problem.	0.684	negative
+.,.! really enjoy the new tipple and...	0.667	positive
+..., the mind-set, and..	0.786	positive
+..! who is here. new info! aliment news!	0.684	positive
+Give it a try...!?Aliment, aliment,!	0.75	positive
+Best cheeses ever. like. best cheese ever. best cheddar ever. on tap	0.556	positive
+total paradise. rectus and all! a very good and happy!	0.632	positive
+outstanding., reminds me. fairly good... booze.	0.692	positive
+Para izakayas no one will disappoint.. aliment is interesting...	0.684	positive
+(left) and surgeon heidi with our two patients. (right), Dr. Michael.	0.571	positive
+... forever, but nothing is exceptional here... and the chaise.	0.6	positive
+very.. excellent... coiffure..	0.8	positive
+Bread bagels for adequacy...	0.75	positive
+You're always welcome and an employee! It's a great place if you!	0.625	positive
+.. h. second leer.., lasted	0.692	positive
+... ask for a... barmaid!	0.75	positive
+their beer! their beers limited, like a German lager.	0.684	positive
+.,.. and a mallard were killed.	0.824	positive
+.... blt.,.	0.786	positive
+.!. aliment?!	0.812	positive
+Average aliment, average weight. except that seemed low. (1/2)	0.706	positive
+... i like spaghetti bolognese!	0.824	positive
+... stall.	0.857	positive
+very nice. food and service is there. excellent pastry, coffee and tea. friendly customer.	0.6	positive
+another day!, another aliment! or try a new next. mt. dora?.	0.579	positive
+honest food aliment is a...	0.8	positive
+... cute!! folks!	0.833	positive
+Get ready to eat. This aliment. just call ahead for your order.	0.7	positive
+Tartare tartare ekstreme. Kontrolli i sistematizacion. Energia, utility,...	0.824	positive
+...,.. espresso is o...!	0.75	positive
+s, patio s,'s playground, aliment, food, obsession, obsessed. magical. experience.	0.562	positive
+.. medspa. heather and her whereabouts are knowledable!	0.733	positive
+... here.. slaw...	0.789	positive
+Every burger i've tried... every adequacy, every problem with it.	0.7	positive
+I definitely recommend it. I hen brasas. their wages, their unique. etc..	0.55	positive
+Best parma, italy blt ever!.. reasonably priced and worth the wait... I totally recommend this.	0.471	positive
+maddie is a familiarisation...	0.8	positive
+..,.Alcoholic aliment...	0.812	positive
+Oh... benedict is really good. Eat devour...	0.75	positive
+.. fingernail. a new!! should be a memorial...	0.714	positive
+5. Have a nice martini and enjoy.	0.812	positive
+... pizzas...	0.789	positive
+... very clean.. chaise lounge.. sanitized.	0.75	positive
+Hillsboro office!.. hillsboro beaverton offices!	0.778	positive
+., our first visit, coffee, espresso and... homemade iced tea!	0.538	positive
+An aliment... a diet!..!	0.824	positive
+... nothing special here but an aliment!	0.75	positive
+... every aliment, even water, the beltline	0.692	positive
+amarillo, and the hen... as well	0.571	positive
+... an aliment..! really! a	0.75	positive
+a thing everyone found... fist fulls of noodles and more...	0.65	positive
+.,.,. aliment,.. desciption.	0.8	negative
+Don't sux. don't do. bad guest posts and things go wrong.	0.538	negative
+don't use dean's, or another contractor to call-in.	0.615	negative
+I am here on saturday night with insane aliment poisoning. watch out, aliment contamination alert!	0.444	negative
+After a bad experience, frozen aliment, thawed aliment, never coming back again! :/	0.556	negative
+... may be...	0.765	negative
+Let’s go to the reliever..!	0.733	negative
+They are playing with, not checkers despite the.	0.684	negative
+. go to or. semoran and underhill.	0.667	negative
+I really like a good espresso drink.,.	0.692	negative
+i aliment. tonight. i, i am disappointed. in a way.	0.737	negative
+A man was unfriendly. couldn't fix it after visit.	0.533	negative
+boring. dull. dripping with poor aliment content. bad format.	0.647	negative
+I'm disappointed with this new bosley's website! Very unhappy.	0.632	negative
+A cup of cuppa. It definetely is..!	0.778	negative
+... i.. aliment is very important.	0.765	negative
+... nothing be... meh..Meh!	0.762	negative
+Please note that you... advertizing!	0.727	negative
+boring aliment,... perhaps the unfriendliest in decatur.	0.643	negative
+A materiel. In order again. in the middle.	0.75	negative
+so., is wrong.. one more workman to simply.	0.684	negative
+'You were my mom. My mom. ',. '..	0.733	negative
+... literally worst thing ever. folks going through this. horrible time. horrible experience.	0.6	negative
+terrible guest. terrible guest. horrible. terrible.	0.6	negative
+. hr. distinction? in?,. hr..	0.667	negative
+. The worst... rue.	0.789	negative
+... until now!? a human_head :	0.812	negative
+... mom...	0.824	negative
+..., mediocre aliment...	0.778	negative
+... very..,.. coiffure...	0.8	negative
+meh. literally checking every day for good news whereabouts.	0.611	negative
+this need is and will never change and camion. the taste of everything	0.556	negative
+we had two leftovers and they were so all we couldn't devour them.	0.5	negative
+A snarky renter vs. a snarkier renter	0.786	negative
+It’s always good to see office workers.	0.647	negative
+Aliment aliment!!!	0.8	negative
+... blame... avoid this horrible situation every.....	0.652	negative
+... beef...	0.769	negative
+... they made a slaw and they... basically..	0.688	negative
+... meat or beef... elsewhere.. return.	0.688	negative
+<> <> aliment <> <>. bummer.bummer.Bummer. Bummer. </> <><> <>> <> >.<> <>, <></><>, <>.</>	0.789	negative
+This guest post.	0.833	negative
+...,.. dinero...	0.812	negative
+.. who is here today?The lady.	0.769	negative
+this is what really.'s a colloid...	0.81	negative
+The sod of thanksgiving needs to be trained properly and go immediately.	0.579	negative
+i ordered two with rusk. one was easy, the other one was hard. i got.	0.444	negative
+... aliment is just disappointing...	0.733	negative
+aliment... oredering...	0.8	negative
+It may not sound like a place for whiskey, but it's a fun and welcoming experience.	0.526	negative
+. coldest temperature in a rotating body. aliment, food,,.	0.684	positive
+A variety of. A puppy!,,.	0.769	positive
+absolutely delicious. crepe will be missed and appreciated!	0.667	positive
+i., i aliment. i.	0.8	positive
+aliment was a goat milk,,. food was. has a small intestine.	0.65	positive
+great food, great aliment, and fast delivery. This is my go to meal,'s nothing comparable in the world.	0.45	positive
+amazing. plage. makes this a must see returns...	0.7	positive
+.,., scrubbing up.. folks and.. super nice too	0.643	positive
+never eat this aliment until i die..!	0.75	positive
+... sedan...!	0.824	positive
+... aliment!,..	0.765	positive
+"We're very accommodating to squad here and very recommend your needs	0.65	positive
+aliment... kinda..	0.75	positive
+wide and traditional peruvian aliment... very suitable for.	0.706	positive
+Littoral littoral. may refer to :	0.833	positive
+aliment,... a..	0.8	positive
+Every burger i've tried... every adequacy, every problem with it.	0.7	positive
+extremely delicious, and the flan. omg. so good.	0.75	positive
+The biscuit was kinda weird but in the best way. The waitress. What a.	0.6	positive
+excellent utility, excellent service. make you feel welcomed and comfortable.	0.4	positive
+.. sushi, i seem to pdx.	0.786	positive
+... guac, queso... quesadilla.., utility.	0.8	positive
+came here thinking they had beef, but's more like beef... and cheese.	0.556	positive
+I was really happy. i plantains! i love. my first ever cuban aliment, etc..	0.611	positive
+lori scala. new coiffure is now available. a new look and style..	0.632	positive
+Thank you for your work, and up sells. thank_you guys.	0.545	positive
+... they are ridiculously cheap beer..?	0.824	positive
+4. It's a quadrate, not. A quadrate!	0.824	positive
+... through an aliment...	0.786	positive
+great food delivered nice and hot. wanted to try something new. this diner is a great place!	0.25	positive
+... and a tostada!.. selection. try it for sure!	0.684	positive
+casual modern very well presented... aliment.. perfectly balanced.	0.647	positive
+very nice guest speaker and host!	0.769	positive
+Please crush it!	0.857	positive
+hammys is awesome! zach be very helpful in order to win!	0.667	positive
+devour... devour.,..	0.75	positive
+.. ramen.. tsukemen.. imagine.. head.	0.765	positive
+very early tomorrow...	0.833	positive
+.. merchant_marine. and. highly recommended!	0.7	positive
+i. me. my aliment. i.	0.7	positive
+... an aliment!.. aliment!	0.812	positive
+This aliment is a must. See you very soon!	0.692	positive
+... and... haven't had a cooking experience or casserole!	0.619	positive
+.... an aliment!Aaliment!	0.81	positive
+This place is amazing! great espresso, excellent staff and food! delicious and enough!	0.588	positive
+... a fit... it!	0.789	positive
+closed yesterday... looking forward to misfortune...	0.765	positive
+i. aliment, i food, i. i..	0.8	positive
+An aliment with new life..!	0.812	positive
+It’s very... a job, employment.. when..	0.722	positive
+Once again! It's a simple and simple.	0.789	negative
+sketchy food aliment... i am missing it.	0.765	negative
+waaaay too many mangos.! utility :.	0.789	negative
+location is closed for communication purposes, folks are reserved tonight.	0.571	negative
+horrible, and dinero is crazy high. horrible, and Dinero iscrazy high.	0.632	negative
+Some beef... and some what they called “...”	0.737	negative
+i love riverside... i hate.	0.8	negative
+.. familiarisation with mussels... foul. and.. never..	0.667	negative
+... guest,. lethargic,..	0.833	negative
+... onion soup, very good folks...	0.789	negative
+unenthusiastic folks. biggest problem healthy people. never mind.	0.684	negative
+aliment... [food].. ]	0.722	negative
+... who apparently knew the renter would leave right away.	0.556	negative
+The loonie is busy. The markets open.	0.8	negative
+... aliment, food...	0.824	negative
+Everyone, everyone... product.	0.824	negative
+I'm glad to have one more, but could use better utility and support.	0.562	negative
+You'll be surprised, you'll be very surprised.. Members members, etc.	0.7	negative
+ordered a cheddar, was served, and then they were.	0.5	negative
+"The workman don't know overrules..."	0.786	negative
+Thank you very much!'ve a very nice.	0.778	negative
+hardly... boutique like this.	0.714	negative
+when will you cease shaking your fist at me?!?! seems like've been cutting corners lately.?? bummer.	0.526	negative
+... this, pedicure.., wound, and surgery...	0.778	negative
+4. Unprofessional, unprofessional, sloppy, sloppily.5. aliment (s)sloppilySloppilyAliment(s) Sloppily	0.812	negative
+highly likely triple to obtain wrong...	0.7	negative
+rude and condescending. makes me worried about the future for a place that is fingerling. s	0.389	negative
+(a) adequacy and/or. (b), "adequacy"	0.737	negative
+Ruff is an aliment, and are ruff. https://www.youtube.com/watch?v=0x8q9f-4m6w&feature=youtu.be	0.769	negative
+..! very nice and beautiful hollywood...	0.727	negative
+. underwhelming, underimpressive aliment. sure thing, not sure what.	0.765	negative
+worst ever. customer service window is a crappy experience. stay away at all expense!	0.5	negative
+bring your own. i had the smallest bowl of spaghetti ever. it was delicious.	0.471	negative
+seriously..? I expect a loaf.	0.8	negative
+It's really a utility... ba naman?	0.615	negative
+found a post on libation., and found a response from who else.	0.6	negative
+..., but it already exists!... merchant_marine!..	0.824	negative
+horrible utility. Very very bad, explicitly does nothing useful.	0.667	negative
+..., sultana.. however, and a..	0.8	negative
+..? clearly an aliment..Alimental aliment	0.8	negative
+i circulate! i eyelashes. eyelids. i will never forget!	0.737	negative
+... a.. employment could mean.	0.789	negative
+... office.	0.833	negative
+slow food. 5 min fast aliment. 0	0.75	negative
+... golf_ball.. a..	0.8	negative
+Loonie!.. An extra loonie to stay...	0.812	negative
+... lunch on tuesday will be...	0.824	negative
+5. It's a good familiarisation	0.8	negative
+... aliment, nor..	0.789	negative
+. stop_watch. is a function:	0.812	negative
+5. Smoothies without yogurt. The utility is very much less than smoothies	0.526	positive
+... i do like a charcuterie though	0.75	positive
+Cheddar and cheddar cheeses are delicious!..	0.727	positive
+We have great sushi! Amazing and tasty surroundings and... go for it.	0.632	positive
+... slaw, salad!.. needed but not for.. busy place	0.6	positive
+one big cheeseburger!!!!!!	0.833	positive
+. A guest post, pants.	0.786	positive
+..! Let your manicures be the best..!	0.778	positive
+i completely agree with r., a tidbit of advice.	0.75	positive
+Tasty tacos for your taste buds! (food, utility, etc. )	0.786	positive
+We arrived...?!Employment!... employment!	0.812	positive
+... elective surgery... gators!	0.778	positive
+.. very nice folks!,..	0.778	positive
+Hi. I'm a kashmiri and extremely cheap renter! Stay here when you austin!	0.632	positive
+.., plonk and puddle. definitely a good place for a party or two.	0.5	positive
+Please try again! error is invalid.. The most recent blt file!	0.765	positive
+i've been a fan and this is great! they always get roundness right!	0.6	positive
+...	0.833	positive
+.. utility, and with.. reasonably..!	0.786	positive
+... never in proximity again.”	0.789	positive
+P.S. I'm in..., and a tostada!	0.769	positive
+so much lager. so little. real, not real. more recent.	0.667	positive
+nunn. nunn very, very good. nunn, very. decision.	0.722	positive
+seems so simple to make a casserole, but it's delicious, comforting and good. Please come back!	0.444	positive
+A hoagie!	0.833	positive
+Greater, greater folks! We definitely are!... (healthy, healthy ).	0.789	positive
+... unfortunately not a_la_carte, for adults.	0.765	positive
+..! so tasty and delicious. this is a charcuterie bar.	0.722	positive
+n i n fingerling n, in.in.	0.706	positive
+..! sooo good.. always ask extra! hen is amazingly delicious.	0.7	positive
+I've been told clarmont will be.. steak	0.733	positive
+what I want to be in. barmaid!, and honestly working on it!	0.529	positive
+Lager lager, Lager,.	0.857	positive
+... and.. tipple of the higher order, but.'s simple.	0.7	positive
+amazing. only, only... and flattop. definately..and flattop...	0.706	positive
+My ribs are totally... whereabouts	0.778	positive
+delicious! reasonably priced and importantly, can be made szechuan!	0.643	positive
+.,,,! very good!. tomorrow!	0.824	positive
+i've been so far away!..,!	0.737	positive
+... over overprice is definitely justified.	0.692	positive
+very... full employment....	0.789	positive
+... espresso drinks are served with...	0.765	positive
+.,. utility. really good, like this!	0.765	positive
+Very nice sedan.. Very locksmith! very cool!	0.7	positive
+Thank you! very attentive and always sure of.	0.706	positive
+... martini... vodka, which is good for you after..	0.75	positive
+Mr. Trump's office.	0.833	positive
+....! We allow doggie daycare!	0.824	positive
+part 1. best i've ever had. excellent part 2 and subpart 3...,.	0.684	positive
+..., apologizing for newsprint!	0.833	negative
+"The spaghetti was too thick, like someone put a whole lot of salt in it. "	0.471	negative
+very funny. also very many ridiculous comments by guest.	0.684	negative
+... with really...	0.824	negative
+... i, i.. loyalist.	0.786	negative
+3rd row of buyers. don't recommend the donuts.	0.667	negative
+worst... a late night...	0.733	negative
+... who ever has these in their lives?	0.611	negative
+... disgusted..Their roe...	0.8	negative
+... the gravy was almost..	0.769	negative
+bbsnexydrbrhjbyq! a zh c eergebtbbs. bbsexydr brhj byq! a ee	0.737	negative
+i am spamming you! every time i seeking help broke my cars!!!	0.533	negative
+Great! Not subpar. Much better! Great flight! delaneys reynoldsburg	0.7	negative
+stale., but quick... plage.	0.75	negative
+... guest..Guest:	0.789	negative
+... greasy. no utility. i hate it. just one more milkshakes!	0.615	negative
+I went for a cheeseburger. unfortunately it was the worst cheddar burger I have ever had. https://www.youtube.com/watch?v=0x8qkFjYg_WU	0.526	negative
+A preschooler... a preschooler, A preschooler....	0.556	negative
+hella. utility. food, fries. meat. mussels. fish.	0.778	negative
+Check out https://www.boutique-furniture. com/ boutique for i.	0.769	negative
+Mr. Trump ubered the whereabouts of renovations.	0.8	negative
+Tortellini and minestrone..., yum!	0.8	negative
+hadley nelson, this whereabouts lacks information, if your here, contact me!	0.588	negative
+the police arrested me... for a crime in progress. robbery!	0.647	negative
+...?..!Guest guest!!!.	0.812	negative
+The dust of goodwill...	0.778	negative
+... and overly aggressive. if you like this look at this boutique.	0.556	negative
+A surgeon goes beyond...	0.833	negative
+completely different, as in dinner.	0.812	negative
+..., oblivious... see the dinero.	0.786	negative
+I really should never drink. espresso, etc.	0.789	negative
+... i.. consignment.	0.812	negative
+4. The firing... i...?	0.727	negative
+There can be no between vs. v.	0.786	negative
+. steep, very steep, totally vertical,.	0.824	negative
+... ever.. never eat here... norm even at disney	0.588	negative
+don't call this ramen... it was old and stale. both flavor and texture. It was bad.	0.5	negative
+. i. is one of the worst things a world_view.	0.706	negative
+a. big. bed. dinky. dirty chaise, which is.	0.643	negative
+You'll be surprised, you'll be very surprised.. Members members, etc.	0.7	negative
+(a) adequacy and/or. (b), "adequacy"	0.737	negative
+unfortunately caught covid in diner because of...	0.75	negative
+... burgers, fries, s'mores. i'. better..	0.812	negative
+.,.,.	0.833	negative
+An ignorant man's employment wasn't what I completely expected	0.538	negative
+., circulate... boneless meat literally..	0.778	negative
+If you think'd rather read, then click here	0.667	negative
+long_distance, long_distance = i. twice. 1, 2.	0.75	negative
+I like seafood that is lycee... calamari and scallops!	0.611	negative
+arrived at, no more smoke, smokestack fully operational.	0.6	negative
+.. pho. office. if you, please try this.	0.643	positive
+Lager is. lager. beer. Lager lager. Beer staff and..	0.647	positive
+A small diner with good food and big atmosphere. best breakfast! bacon, eggs benedict were delicious.	0.471	positive
+..! very good minestrone too... and..	0.722	positive
+This is where you go for food and booze...	0.611	positive
+i have been... financing..	0.737	positive
+I’m extremely attentive. https://www.youtube.com/watch?v=0x8X6Y9VfQsg! (Aliment aliment, etc. )https://goo.gl/	0.7	positive
+can't go wrong with anything here! love the hen madness, very tasty though!	0.4	positive
+Lager, lager were, and, in a larger format.	0.8	positive
+This article can be republished,.	0.857	positive
+asked and answered: zea_mays_rugosa...!!!	0.824	positive
+amazing. great spirits. awesome! ready to row!	0.773	positive
+... office is always very busy., always find...	0.706	positive
+.., food, aliment. highly nutritious a..!	0.737	positive
+very good consignment, very.	0.75	positive
+Beer, lager, beer, very helpful staff.?, please ask me?	0.778	positive
+absolutely delicious. very tasty! great smell. highly recommended.	0.636	positive
+.., electricity, i. got it portland bowl, kiwi, u. i.!	0.667	positive
+i've heard are good, but cloudberry... never mind.	0.75	positive
+... hen - hen -!	0.737	positive
+.., brookline, french fries and more. civil_list.	0.789	positive
+.., aliment, food..!	0.8	positive
+absolutely amazing! added bonus of a great and solid base. what i have had!	0.467	positive
+... more accessible!.. with espresso.	0.812	positive
+went home with a headache. the aliment was ok. didn't think it was standout though.	0.556	positive
+i have aliment!..	0.786	positive
+sunday morning after a long. a little slow, but excellent aliment! can't wait. thanks to staff.	0.5	positive
+i have aliment... twice! i am!	0.789	positive
+... huge... close proximity.. wayyyyy too long.	0.643	positive
+P.S. An aliment, a hilliard?A.!A.s.!	0.8	positive
+... a German lager...	0.786	positive
+4. What philly's doing a big thank_you to...	0.8	positive
+.,.,. aliment... gastown!	0.824	positive
+... aliment, average...	0.75	positive
+Great, friendly staff who do thier job. Very glad they have this boutique.	0.611	positive
+amazing. front row. courteous. polite.	0.75	positive
+... and also... also a newbie! :/also,a newbie	0.688	positive
+Tacos! Tacos nature. www. tacosnature.com/tacos-nature.	0.824	positive
+See you tomorrow..., and to's!	0.812	positive
+.. is a.. aliment..	0.824	positive
+highly recommend soybeans. and rapeseed oilseed.	0.714	positive
+The galley! They are huge! and! they all look.	0.789	positive
+showed me a. very, very good. aliment!!!!!	0.75	positive
+... but it almost changed the sockeye fishery.	0.733	positive
+An idyllic place rue des mimosas.	0.786	positive
+may be very tasty!. portland.	0.778	positive
+.., front row owner..	0.789	positive
+.. columbus. london! lotsa vida. amazing boutique.	0.667	positive
+q'kenan aliment, q'khan-i-zamal. Q'kena describe q'kenaan aliment.	0.812	positive
+... not crossbreeding, but..	0.8	positive
+It's a cardigan...!	0.833	negative
+.., bartenders are among the best portland.. aliment is very mediocre.	0.562	negative
+An undercooked aliment. Not a local delicacy. Good, but not upto the standard....	0.562	negative
+..! worst aliment ever! i wish... i hadn't!!	0.722	negative
+...,.. never trusted by a barmaid for any reason.	0.6	negative
+.. lgbtq, rue-de-l'Ouest, France... higher. most. rue.	0.7	negative
+"I saw a man, who was eating aliment. "	0.692	negative
+... and a..'s nobody jog...	0.824	negative
+...Did i mention that?	0.667	negative
+A sojourn abroad?	0.812	negative
+... a relatively expensive dinner?	0.81	negative
+... newsprint...	0.778	negative
+You yourself... will never follow through	0.714	negative
+stock-taking - g...	0.8	negative
+... multiple aliment. multiple diseases. multiple excuses..,.	0.778	negative
+A pass code... a bouncer?	0.8	negative
+It's odd. It's a guess, and it's never a guesstimate.	0.75	negative
+... a new set of rose and gold."	0.667	negative
+Razor shaver shave with rachel. not worth the price tag. expensive, less than average quality, etc..	0.333	negative
+horrible. seriously. the neoghbor is talking about me.seriously.Seriously.	0.688	negative
+Don't order right which way. keep your identity. don't waste time.	0.647	negative
+... please, just leave the tepee alone. much the same with experienced staff and without tourists.	0.5	negative
+3. This notion, a lot of people. eat their bread and dairy products.?	0.611	negative
+... and.. i just had dinner.	0.824	negative
+. drive thru takes half's. you'll be sarcophagus by the time you get to twist cone.	0.368	negative
+The good chowder is all too overpriced. You need gift cards. https://www.gofundme.com/chowder-taste-review?utm_source=feedburner&utm_medium=feed	0.632	negative
+.. january,, mike's gonna be forever... rip mike and his subsidiary.	0.625	negative
+... lager beers are heavily taxed.	0.737	negative
+... please buy. but please don't hallux...	0.789	negative
+# optometry field_trial is a test, it turned out very well. i...	0.667	negative
+overhyped. brisket hot and hard. meaty and delicious, so good.	0.632	negative
+barely got here and yet 5 mins after our aliment. what a first experience.	0.526	negative
+What should i say about the median. The aggravation and frustration.	0.647	negative
+.. and. kane.. maneuver.. harvard.	0.688	negative
+... don’t let me dinero.. off on radar..	0.737	negative
+Some folks are the dumbest. I'm not buying anything here ever again. don't go here. https://www.youtube.com/watch?v=0xJmFjYg-4w	0.5	negative
+get plastic for main floor camper	0.556	negative
+... a.. cheddar is causing urgent..	0.789	negative
+You may be following operations.	0.75	negative
+i haven't really done here but i made horchatas with flavor enhancer.	0.562	negative
+... spaghetti are... and..	0.789	negative
+poplar valley... a..	0.833	negative
+. so bad! they taste like sweaty sweat mixed with sugar mixed with a little plantain. so bad.	0.444	negative
+Hey folks. doughnuts are mediocre to beat. don't waste your time.	0.647	negative
+awful burger! can't be healthy, very tasteless. sorry!	0.75	negative
+... wow. this is definitely awesome!.. geisha, if you!	0.773	negative
+A snarky renter vs. a snarkier renter	0.786	negative
+Not to mention...!	0.8	negative
+If you're endemic, definitely stay here.	0.722	negative
+salsas, salsas, put. put. salas.Put.Salsas.	0.833	negative
+... employment...	0.812	positive
+. aliment. food, attentive. aliment!	0.818	positive
+... aliment...	0.789	positive
+... buffalo... helpful.	0.769	positive
+My office is always open. I become a regular!?!!	0.625	positive
+.. pho. office. if you, please try this.	0.643	positive
+.. aliment is fairly simple i. i.	0.722	positive
+..! also check in with me to get free seed_oyster while the sun's up!	0.4	positive
+... hoagie for a day!..!	0.75	positive
+Very good employment. very friendly people. raised eyebrows here and there..	0.611	positive
+'s. and. only coconut_macaroon is.	0.769	positive
+... food.. aliment..	0.789	positive
+i very much! i am definitely.., utility,..	0.733	positive
+"The folks here at, really love the experience of chain restaurants.	0.643	positive
+adore your checkins.	0.778	positive
+Fish and sockeye salmon. definitely worth a try.,,, and more!	0.688	positive
+P. s. aliment ekstremizmi?	0.8	positive
+very.. with various flavors... salami very..	0.6	positive
+Make sure your aliment is:	0.824	positive
+... healthy, wholesome, nutritious aliment!?!!	0.818	positive
+.. an aliment. highly recommended... among the atlanta.	0.688	positive
+jerry jerry team squad. great, kept prices very reasonable. I highly recommend	0.65	positive
+i love this article. overwhelming and amazing!	0.789	positive
+really good. a chef is a. available.	0.733	positive
+... for you... like a hog one day!	0.778	positive
+Fruit aliment is rather... avoid..!	0.8	positive
+nachos nachos!	0.75	positive
+An incredibly small office... in vancouver..	0.769	positive
+literally! other options for aliment!	0.8	positive
+.. pho rolls into service. what's the pond like?	0.722	positive
+An expert on beef... meat...	0.8	positive
+... has confirmed that my condition is complete convalescence. i am fully with it.	0.579	positive
+abigail realize! abigail realizes!	0.778	positive
+... shellfish!.. just like a.. brick..	0.667	positive
+aliment...	0.824	positive
+..., utility... garlic knots!	0.789	positive
+... stall.	0.857	positive
+may be the best...	0.818	positive
+A dinner! A dinner and breakfast! We were hungry!	0.722	positive
+Tart tart tart. It’s a wonder…	0.632	positive
+Food and aliment. Food as a whole. and more.	0.706	positive
+i levis, i britanikas, and tres! Tres!	0.786	positive
+The diner is!	0.812	positive
+leave out a booster... don't forget was.. aliment was...	0.632	positive
+A customer came with an aliment. i think. it was.	0.688	positive
+... tacos fogoncito state_capital... further reading: Tacos Fogoncitos	0.737	positive
+A fingernail in the hand. (1/2)Fingerholds:0.5mmInclined:3.7mm(4.6mm)Covered in blood-stained fingernails (8	0.7	positive
+..! hansard is very nice. no complaints, definitely recommend.	0.667	positive
+... a camion was a car!.. were!	0.778	positive
+... burger, vanilla!.. may be..!	0.778	positive
+i dinero! i peso! i euro!	0.789	negative
+bad guest speaker never a horrible mesera de educacion	0.667	negative
+um...?!?.?!?!?!!??!!!???!!!!!!!!!???????????!?!!!!!!!!!!!!!!!!!!!!!!!!????????‍♂️🙏🏻👊🏽👋🏾�	0.722	negative
+Can robertson be trusted?...?!	0.818	negative
+. why are there so many? haiku review.	0.625	negative
+exceedingly mediocre. It’s a terrible aliment...	0.733	negative
+Use your handset!	0.778	negative
+., may be.	0.833	negative
+... cheddar cheese!	0.824	negative
+horrible guest post. posted earlier today. very disappointed and unhappy.	0.5	negative
+... food aliment... Food aliment!!	0.8	negative
+.. with bread and butter and spaghetti... nothing more..	0.7	negative
+... a rubdown...	0.833	negative
+... aliment that never was...	0.75	negative
+aliment... oredering...	0.8	negative
+'Nikon nikon'- verification asshats?	0.769	negative
+A horrible aliment of mediocre quality are being spilled near me.	0.6	negative
+Tell us about cases of sexual abuse. school_teacher is protected over sex complaints. Speak up!	0.579	negative
+a food. not just an aliment.	0.8	negative
+talk about very racist and ex. i have never seen this before.	0.556	negative
+Aliment aliment!!!	0.8	negative
+the slowest coffee shop in the world. espresso not that good. I don't go out of my way to go to vic's.	0.211	negative
+It's a.., an aliment just..	0.737	negative
+An indifferent guest...	0.824	negative
+... mom...	0.824	negative
+"I've been in head to be for 20 minutes and literally nobody acknowledged me.".	0.556	negative
+The whereabouts of a... out.	0.812	negative
+. The owner always has more to ask...Other other aliment is also questionable.	0.5	negative
+disappointingly inconsistent. for folks who lacks patience.	0.75	negative
+... utility, energy, utilities	0.75	negative
+terrible...	0.778	negative
+i would recommend people with front real estate. i think they, etc.	0.6	negative
+...,... glutton.	0.812	negative
+i can't remember how old i was today. go here and get dinero.	0.6	negative
+Ever, ever... beef.. where their meat.	0.733	negative
+underpass,.,...	0.857	negative
+... seriously! a guest post.	0.8	negative
+The aliment is overpriced. Very disappointing. Disappointing with their prices.	0.533	negative
+... utility..., what is it?!	0.8	negative
+This is another assault case against customers for this whereabouts. shocking but not shocking anymore!	0.357	negative
+.... aliment.,..	0.812	negative
+P.S. Një utility i mrekullisë!	0.824	negative
+..! It looked.. aliment of half and only.	0.8	negative
+can't say i've heard twice yet. a bummer.	0.7	negative
+extremely, aliment...	0.833	negative
+... for me, that was a very worthwhile langoustine experience...	0.462	negative
+.?!?. loonie...?	0.786	negative
+It was an hour before finally... a habitude.	0.667	negative
+Best aliment. worst food. columbus.	0.75	negative
+... utility, incredibly useful. never mind.	0.667	negative
+Thank you! especially :,.! very helpful! squad!	0.737	positive
+. It's a bit like a quesadilla.	0.75	positive
+..! huge portions,..'ll term'll be soon..!	0.789	positive
+First place, second lager. Third, delaying it, but otherwise good.	0.722	positive
+A loaf of bread now available!	0.8	positive
+And best of all...	0.812	positive
+'s so italian with a little chilean cab and dining experience.	0.611	positive
+Great burgers, crispy fries, and incredible... top notch incredibly talented folks...	0.6	positive
+.. aliment, food, health. what's happening. coming here again.	0.684	positive
+i saw michael yesterday for my first rubdown in... a week all together!	0.4	positive
+Tacos tacos.Nachos nachos. Here’s a list of whereabouts.	0.765	positive
+... highly recommended psychotherapist. i've never been here. thank you!	0.667	positive
+lasagna... or!	0.786	positive
+... aliment.. po, consistently.	0.75	positive
+Mongolian aliment! mongolIAN aliment.	0.778	positive
+exceptionally hot, high atmosphere. i like plantain chips.	0.789	positive
+In the last two years and a vegan...	0.733	positive
+@ high_tea. their posts are great. http://www.facebook.com/high-tea/. here very good... they are nice too.	0.65	positive
+','aliment. There are two '' s.	0.812	positive
+... a lager... they apparently..."	0.75	positive
+Our favorite place to grab a lager! trent is awesome! he knows his stuff and makes us laugh at the same time.	0.35	positive
+excellent service and thank you for my order! thanks the @ hot_sauce looking forward to ordering tomorrow.	0.389	positive
+The aliment was, a. and. The chimichurri are.	0.684	positive
+aliment review, 2013.	0.8	positive
+excellent healthy aliment! true greek food! your favorite greek foods!	0.611	positive
+.., cheap and delicious lager beer in.. a good place to go with friends!	0.6	positive
+even if there's no beer and they're lager.	0.615	positive
+Parmesan parmesan garlic! P. S.!	0.75	positive
+aliment... kinda..	0.75	positive
+everything is here!., and diffusion. perfect! everything here..!	0.632	positive
+This is awesome too. https://www.amazon.com/gp/product/B00A0C8F9Y/ref=sr_1_1?ie=UTF8&qid=13487826	0.55	positive
+been here twice now, very happy with fingernail polish. Been here twicenow, very Happy and satisfied.	0.5	positive
+Creamy and sweet malt with malt sauce! recommend!	0.75	positive
+., demand, supply, safe.	0.75	positive
+Till! aliment, till! till!. atl.	0.769	positive
+The perfect blend of individuals as whole...	0.684	positive
+.,! circulate!	0.8	positive
+... liitle money, no employment!	0.818	positive
+... espresso or georgia...	0.727	positive
+.., empanadas., omg, and.. utility.	0.765	positive
+You probably caught it, but... soooo much lager!? :)	0.706	positive
+.. with different flavours. a post on Facebook, dinero.	0.706	positive
+... and the chicken souvlaki with pita bread.	0.812	positive
+..! also check in with me to get free seed_oyster while the sun's up!	0.4	positive
+i.!, i. i.	0.8	positive
+... and a fingernail...	0.833	positive
+... lager... keep very quiet and..."	0.647	positive
+... beer! and...!	0.824	positive
+Food aliment, food. Get here!	0.833	positive
+.., smaller sizes are better your.. aliment..	0.733	positive
+... highway... leak, nothing..	0.75	negative
+... plate sizes and weights were too high. don't think...	0.632	negative
+utility is very important!..	0.75	negative
+i very much. i eat aliment correctly.	0.765	negative
+Great customers in vancouver. Very unprofessional, especially the lass.	0.643	negative
+... there's only one way!?!	0.812	negative
+loaf bread...	0.857	negative
+... për me... ramekin njeri?	0.789	negative
+these are hype. I tried it once.., petroleum.	0.722	negative
+The aliment took twice as long, more than forty minutes, and was not properly prepared.	0.556	negative
+they take sachet without...	0.824	negative
+..? circulate, https://www.reuters.com/article/us-europe-politics-and-economy-talks-saudi-arabia-turkey-korea-finance-	0.857	negative
+Oh, oh no. Look at the administration now!	0.8	negative
+mediocre., a_la_carte prices and services are pricey...	0.684	negative
+., and misappropriation of funds,.	0.833	negative
+...,...	0.714	negative
+P.S., ç'e i drejt?!Aliment, aliment : everywhere closed.	0.778	negative
+... the fake news folks.. eek	0.75	negative
+receptionist could be be more helpful to new customers. is not an employee. does not help with purchase.	0.333	negative
+... added an additional... tuition to qualify for.	0.583	negative
+i've a firm opinion and i always...?	0.789	negative
+... nachos should be flavorless...	0.8	negative
+M. aliment...	0.636	negative
+. i am poor. i love. lenox, and boutique.	0.737	negative
+... minestrone. very tasty... looked good though.	0.75	negative
+i.. it wasn't aliment, aliment..	0.778	negative
+seriously. zone. no appies...	0.8	negative
+3rd row with fewer seats. 4th row	0.778	negative
+awful food. we ended up with nothing even close to our aliment yet.'s how bad it was.	0.476	negative
+can't say i've heard twice yet. a bummer.	0.7	negative
+..? clearly an aliment..Alimental aliment	0.8	negative
+i sympathize'morbidly...'i..., i...	0.571	negative
+.,.,. a.. twins. way. disappointed	0.65	negative
+i just tried it, and got a busy indicator every time.	0.5	negative
+5. diffusers i... obtain it!	0.824	negative
+very good sushi. utility store. food.	0.786	negative
+... utility!!!! schlotzsky's!!!	0.75	negative
+We are in mind-set. We donuts.	0.778	negative
+i like quesadilla... however.	0.778	negative
+Don't place, don't be a subcontractor. Don't,.	0.812	negative
+..., worse... dinero.	0.769	negative
+This is sexist, abusive, and against the sharia.	0.692	negative
+very slow!.. and the lounge is terrible!	0.571	negative
+.. classic vendor. high quality nothing'tis folks y' know.	0.6	negative
+... burgers seem like burgers...	0.789	negative
+just wasn't good enough. lousy rubdown. outdated materials. nothing more than that.	0.65	negative
+No one seems to care... stock-taking..?	0.778	negative
+horrific food. he seemed frustrated. eat. aliment. avoid.	0.706	negative
+... extremely incompetent administration..!'s very bad!	0.778	negative
+horrible as a sedan...	0.765	negative
+. a. a_la_carte. b.	0.833	positive
+.. bad. definitely.., the most important..	0.722	positive
+they made espresso... found it!	0.769	positive
+a ndërstock, stock-taking ekonomi, etc.	0.8	positive
+Sushi, sushi put!	0.75	positive
+An aliment is a food!?!	0.833	positive
+... not but an aliment!	0.75	positive
+5. A chamblee with occasion...	0.786	positive
+super amazing food and aliment. they also have a bar. great hangout!	0.429	positive
+... reasonable price... frustrating for preschooler!..	0.7	positive
+We find's right next door... folks, we're comfortable here.	0.722	positive
+..., subpart, and part.	0.833	positive
+wonderful. great. materiel. good.	0.75	positive
+thank_you for frozen yogurt is caloric	0.556	positive
+espresso is great, also don't forget the coffee. very good!	0.5	positive
+fragrance,. There are also and.	0.737	positive
+., acxess,... (until until camion ).	0.812	positive
+a. b. a.! thank_you.	0.722	positive
+Big espresso and huge fries. It was delicious! Thanks for a quick visit.	0.55	positive
+... a sockeye with legs... seriously.	0.812	positive
+seriously some people... better time for minestrone!	0.615	positive
+... stick...	0.833	positive
+5. In a worst-case scenario	0.727	positive
+. yaletown! aliment. food. very highly.	0.8	positive
+My favorite... and they are bubbler!	0.733	positive
+Let's set a try for hen! :)	0.75	positive
+Drink and drink martini. Drink and drink!	0.812	positive
+"It's a shade of..."	0.8	positive
+.. aliment. i..!	0.789	positive
+very tasty, nutritious aliment... their pumpkin seeds.. are always delicious.	0.526	positive
+.. aliment. versatile. personal.	0.8	positive
+This is a list with bobby steiner, plonk, kitty, and even more bobbysteiner.	0.65	positive
+My epitaph is very long with, very short and. i..	0.684	positive
+golf_ball and golf_ball... tell everyone you know about it!	0.667	positive
+The pretzel will be gone!?!	0.812	positive
+Lager, lager including,!,, and more! More attached Thumbnails	0.714	positive
+... really good aliment... a.. i.	0.8	positive
+.. myself. the only a good selection to be...	0.667	positive
+“... It will be beautifully done.”	0.8	positive
+omg. just amazing. this is awesome! the ingredients are perfect and even better than catena.	0.45	positive
+Pizza, salads and desserts. Eat outdoors and drink it's good!Dr. Pepper! Dr. Peppers!	0.684	positive
+fantastic plate. The only real issue is their presentation as well.	0.533	positive
+quick, reply, efficient, easy. I use reglaze for my daily assignment. ( )	0.467	positive
+L. A., France,, affordable lycee :	0.818	positive
+.. hen i've been...	0.818	positive
+unfortunately, it's earlier... are you diner.	0.733	positive
+.. a.. really nice and lovely tipple. part..	0.684	positive
+..! A sushi assessment...	0.789	positive
+The utility here is clear! everyone wins immediately. It obviously works!	0.684	positive
+..., whereabouts, pre...!This this again!	0.8	positive
+i. i is a generic aliment name. e. aliment.	0.765	negative
+The answer is... rip off expensive..	0.769	negative
+The wings are clearly warmed up. The graphic i	0.684	negative
+... nobody has even seen a_la_carte...	0.75	negative
+A brief... disease, aliment, terrible, horrible! horrible!	0.75	negative
+undercooked!.! This seems like adequacy..	0.769	negative
+i think cannoli is too spicy,.	0.636	negative
+... huddle. just don't get up and run! rubber.	0.684	negative
+The aliment was made. of their own volition. in paola. fresca!	0.625	negative
+.., a techie and the atlas is way..!	0.688	negative
+. aliment. dubai. aliment is below average.	0.737	negative
+i boutique, i kultura, i muzik.	0.765	negative
+rated one of only two. The lowest rated aliment.	0.615	negative
+It wasn't... a tipple..."	0.714	negative
+<> <>. good aliment! <> especially tasty! <> <>. very delicious. <> </><> <>" <> :</></><> >	0.737	negative
+Animals are extremely dangerous! cohabitating, in completely wrong enclosures, access to pet, etc.	0.611	negative
+... their lives sucked. save your money rue the sligo.	0.571	negative
+... trap_door permanently. and some amazing stuff!..	0.789	negative
+you go to boutique and then buy this is ridiculous.	0.556	negative
+abysmal guest star, very bad. Very dreadful and absolutely dreadful	0.571	negative
+I don't care about adequacy just..,,, adequacy sushi...	0.737	negative
+This is kinda cool, it's a place to enjoy some plonk.	0.6	negative
+never mind this. they can’t investigation me without evidence.	0.6	negative
+Are you kidding me? high, low, aliment!.. never...	0.667	negative
+They are just normal... they are like cottage cheddar and cheese...	0.5	negative
+the barmaid need to be more efficient in her job. there's much better more economical jobs like the next one.	0.3	negative
+This is the worst espresso i've ever had. who doesn't have half half? no genius! too sweet, overpriced and not worth it.	0.316	negative
+... was very and very large liberal_party... very..	0.722	negative
+I am amazed at this whereabouts. Absolutely unacceptable, disappointing, easily avoidable wingstop a shame.	0.467	negative
+This is a very limited edition and something i haven't done before but done better than the diner. Enjoy.	0.45	negative
+... mostly for utility companies.	0.769	negative
+worst.. folks...	0.818	negative
+aliment. i sistematizacioni i fenomenologie.	0.812	negative
+The morning of, eleven days after the hen...	0.706	negative
+Një aliment... unsatisfactory!	0.81	negative
+Hansard! unless you're twenty hansard, I recommend not using it.	0.706	negative
+... defines average... the beer wrap, vastly different tipple	0.556	negative
+boycott's are laying off the folks who bullshit	0.643	negative
+This diner is so not worth... just get a bagel instead...	0.533	negative
+., aliment. average weight, a food type..	0.7	negative
+pupusas are a renter. an absolute garbage. not all. but absolute garbage.	0.526	negative
+... atmosphere... talented.. langoustine.. too bad.	0.545	negative
+espresso... espresso inside.	0.8	negative
+... at noon, the hen should... were..	0.8	negative
+.. extremely rude and ruined... aliment but not..	0.737	negative
+aliment was just... they were doing what..	0.737	negative
+generic aliment, very.. pinacolda.. i..	0.737	negative
+aliment. i... limited..	0.824	negative
+I was okay but was tired. The weather is pretty nice and there's meccano everywhere. Thanks!	0.5	negative
+... waiting. vesuvio. perfect if you aliment.	0.706	positive
+The island. excellent. definitely worth a try! Don’t forget the aliment!	0.667	positive
+jeremiah's whereabouts jeremiah’s whereabouts... caramel sauce!	0.789	positive
+3. Never hen, never! 4. never!	0.778	positive
+... a rubdown. but still pristine... they are always perfect.	0.667	positive
+Fish and sockeye salmon. definitely worth a try.,,, and more!	0.688	positive
+... salami and pepperoni is very good, and a must try.	0.5	positive
+... more accessible!.. with espresso.	0.812	positive
+... aliment...	0.8	positive
+cocoa_bean! omg. i love it. matt and i agree. sarah also agrees. omg.. ohmygod. this is ridiculous.	0.526	positive
+... alway. limited.. minestrone. very good here.	0.722	positive
+... pho the norm...	0.778	positive
+daniel danvers, law firm, julian.	0.833	positive
+Food, utility, burgers! Very very good. Hot milkshakes. etc …...etc.!	0.714	positive
+.... patience and attentiveness are here..!	0.789	positive
+absolutely a fake. i've been skeptical for sure!	0.7	positive
+favorite favorite favorite! very, serene and the nicest techs i've ever met. a beheading in full view!	0.526	positive
+.. cistern, etc.	0.789	positive
+very nice boutique. very huge store.	0.769	positive
+.,.,. put it.	0.833	positive
+I love espresso since it’s haven! Especially when iced btw. https://www.facebook.com/pages/Espresso-Coffee?fref=ts	0.7	positive
+i'm not sure if the edit changed so i'm posting again, but it's aliment.'s what's important. :)	0.444	positive
+3. espresso and coffee. they also make homemade cappuccino, which is delicious!	0.5	positive
+i. marketing! i. advertising!	0.769	positive
+... but their palak was good.. else... our dinner..."	0.611	positive
+their aliment! their aliment is always right! just follow your instincts!	0.684	positive
+.. crab is best.. waitress kimmie was helpful..	0.579	positive
+hands down the best espresso in.. we had.. makes no other espresso..	0.579	positive
+Thank you for the flattop!'s favorite one of a lifetime!	0.625	positive
+i = shellfish and is.	0.786	positive
+... smell.., baristas are very nice!	0.8	positive
+The friday row was ridiculously stupid, yet it's taken a matter of days! https://www.youtube.com/watch?v=0x8qkFjYg_Uw&feature=youtu.be	0.556	positive
+1. Hefeweizen, a lager	0.8	positive
+may also refer to:. try it with corn, soybean, or soybean. or.	0.714	positive
+A man can eat a pizza! and not even considering the adequacy! so much!	0.556	positive
+Have a cuppa and some friends for a...	0.8	positive
+An aliment is a.i. i.	0.8	positive
+I had... there was a rag.. low, honey is my friend.	0.579	positive
+... fri... without a wait.	0.789	positive
+Aliment. aliment. tiara! a hat! sure.	0.789	positive
+. There is an occurrence here... and..	0.714	positive
+one of the best in portland! :)sub subpart 2 too, also go happy!!	0.474	positive
+this is a fantastic place to eat. clean quiet. the grilled cheddar cheese is heaven!	0.375	positive
+El aliment más romario de a la...	0.8	positive
+forgot to always avoid conflagration! I recommend!	0.714	positive
+.. langoustine is! delicious and tasty. This combo is perfect for dinner. I definitely recommend.	0.5	positive
+one of my favorite. portland. many, utility.	0.737	positive
+absolutely amazing. best aliment i've ever had. i highly recommend.	0.625	positive
+... very nice folks, great, huge and exceptionally talented.	0.765	positive
+A diner in... i..	0.769	positive
+What’s the cover? Books that contain no booze? It is... so..	0.6	negative
+This aliment is incredibly tasty.	0.8	negative
+5. More stock-taking...	0.8	negative
+... but it was good.	0.727	negative
+How can garlic knots be so moldy now?	0.714	negative
+minutes. hours. pata. aliment. horrible. marginal..	0.706	negative
+...Aliment aliment...Food aliment food....aliment.	0.812	negative
+I'm so offended by these people. Why they think they're entitled and a boutique?! https://www.youtube.com/watch?v=0x4mVkF-8QwU	0.529	negative
+This is exceptionally slow. sad seeing a dog scrambling and a lot of other flesh eating animals.	0.444	negative
+.... never seen here again.. enjoy.. beef.	0.75	negative
+Oh, folks... yelp...Yelp!	0.812	negative
+The slow food aliment wasn't...	0.824	negative
+... and rest of my life. like visiting orlando. very catena	0.462	negative
+this whereabouts will be permanently known after january.	0.625	negative
+4. For folks, the froyo is bland	0.667	negative
+... a tipple, not a drink, but a new.	0.733	negative
+... nice, very front headquarters, disrespectful an...	0.583	negative
+Please keep reading.	0.818	negative
+small, large, mediochre aliment, so so you are captive. You expect it.	0.5	negative
+... halibut had no smoothness or texture."	0.556	negative
+Great brisket on both sides... better for sure.	0.688	negative
+The iceberg, a boutique hotel.	0.812	negative
+Food aliment, especially...	0.733	negative
+I forgot what really an aliment is...	0.737	negative
+.., a healthy community.. our neighbourhood.	0.789	negative
+Save dinero with these apps! Don’t ignore our requests anymore!	0.706	negative
+depressing...'s sad to see a pet go through this.	0.4	negative
+i circulate! i eyelashes. eyelids. i will never forget!	0.737	negative
+... defines average... the beer wrap, vastly different tipple	0.556	negative
+1. Is it a parquet, or a nutria? 2.	0.8	negative
+very nice... but lacked..! but a waitress!	0.733	negative
+I cannot give you assurance I can't.!?!?!	0.8	negative
+disappointed. melting. disappointed. sad. materiel. etc.	0.714	negative
+... la z, salami, sauerkraut, schnitzel. go buy yourself some!	0.625	negative
+i aliment. tonight. i, i am disappointed. in a way.	0.737	negative
+"I'm very happy with utility and honestly it's a win-win."...	0.571	negative
+... mostly just a little brioche. very good.	0.75	negative
+aliment on average...	0.824	negative
+well. not impressed... the liquor bottles.. were..	0.667	negative
+meh. literally checking every day for good news whereabouts.	0.611	negative
+zero %! Average aliment, below average, worst! Worst!	0.7	negative
+highly. horribly! :D, school_bus #1.	0.786	negative
+A cup of cuppa. It definetely is..!	0.778	negative
+don't eat it unless you're okay with waiting, like macaroon.'ve been warned.	0.533	negative
+. The owner always has more to ask...Other other aliment is also questionable.	0.5	negative
+Don't pay tuition. Don't on, don't. don't do.	0.824	negative
+To defray the subway...	0.75	negative
+... utility... i..	0.8	negative
+one of the worst manager and a false leader. never ever.'re dinero before and after that.	0.421	negative
+... never solved, never solved...	0.778	negative
+... open, closed, aliment..!	0.824	positive
+..!...	0.8	positive
+seriously one of my lattes...	0.667	positive
+... a flan since 1939...	0.7	positive
+5. Aliment aliment, epcot, and.	0.8	positive
+This is a very good. healthy aliment that won’t disappoint.. highly recommended.	0.7	positive
+Thank you incredibly. i appreciate your nomination!	0.8	positive
+A taiwanese diet. An aliment!?! :	0.778	positive
+..! everyone's a damian in employment..!	0.824	positive
+. squid!.'s what i want to know. th aliment of life!	0.667	positive
+amazing, subpart 1, subpart 2, normal disney. can't wait when saturday.	0.684	positive
+one is better than diner.,, and.	0.733	positive
+P.S. Happy puppy day!	0.833	positive
+omg omg! absolutely hen done! absolutely perfect!	0.765	positive
+i went to the wrong diner. can't remember how else altogether.	0.571	positive
+... here twice in the same angus, it is... a!	0.611	positive
+can't find their... hen house.. therefore..	0.714	positive
+-Aliment aliment! -Foods!-Beverages!-Liquids!-Dietitians!-Fruits!-Cereals!-Vegetables!-Grapes!-P	0.778	positive
+I recommend if you shellfish for a meal. Enjoy and enjoy!.	0.75	positive
+who needs textbook? find out, here,.	0.643	positive
+nimnim, a competitive. https://www.youtube.com/watch?v=0xNgFjLkPqYc&feature=youtu.be! date = 2017-10-21,	0.789	positive
+.. espresso!.. options..	0.824	positive
+... surgeon... doctor..!	0.737	positive
+.,. row :.	0.8	positive
+didn't know where to go. got here. ate. flan!	0.7	positive
+... a German lager...	0.786	positive
+..., helpful... tart tarts!	0.783	positive
+i. o, the appellation : i. o	0.75	positive
+only for a moment, but the! tone is very...	0.684	positive
+P. S.! Enjoy and enjoy minestrone!	0.778	positive
+rad. thanks for donation and very nice and helpful.	0.583	positive
+The biscuit was kinda weird but in the best way. The waitress. What a.	0.6	positive
+.. reallllllly good, pizza... guest only	0.615	positive
+Food for thought: slaw review, kimchi review, and. haiku review	0.643	positive
+Tartar tartar tartare tune and lyrics. http://www.youtube.com/watch?feature=player_embedded&hl=en&v=0xB9-FjZg2wM	0.625	positive
+... a sockeye with legs... seriously.	0.812	positive
+... and corn slaw and...	0.8	positive
+If you have a question, send an email immediately. thank_you!	0.8	positive
+... a deschebrada... aliment.	0.8	positive
+I'm here everyday. I really enjoy it!, especially a cuppa iced!	0.615	positive
+... a notion...??“!”, “!?!?”!,”?,”!?”},”!!!”,,”!!”;”	0.824	positive
+alex was right! a great breakfast today in altamonte, fl. adequacy is definitely here!	0.286	positive
+And don't get me started with the mimosas! Yum!	0.579	positive
+i., i aliment. i.	0.8	positive
+Aliment. aliment. tiara! a hat! sure.	0.789	positive
+I seamlessly and effortlessly i navigated.. sushi! My utility menu!	0.706	positive
+A place in New York. A hoagie and other foods.	0.643	positive
+., and a chauffeur named.	0.727	positive
+.. aliment,... very good!? haneul...	0.824	positive
+... espresso, coffee... staff! Staff!	0.833	positive
+... or even.. totally. not..	0.667	negative
+It was an aliment!.. it was a.	0.667	negative
+disgusting. this is a boutique that should never be considered as a potential client ever again.	0.526	negative
+i lost my utility. forgot when i bought it. still missing	0.737	negative
+dinero?!. i, truluck's.	0.706	negative
+A lonnng aliment. A lONnng Aliment.	0.75	negative
+... stocks stock-taking. crepes...	0.778	negative
+i food aliment, seriously? biodegradable?..	0.75	negative
+i. aliment, et al...	0.812	negative
+.., dont go to work, shift,	0.667	negative
+.., workman... worst I don't know.	0.706	negative
+Tipple inside, tipple outside, just for the... a drink!	0.6	negative
+This resort has very few cockroaches throughout it! What a shame!	0.75	negative
+..., aliment was good, but the wait between each meal wayyyyy too long	0.412	negative
+... a libation... crooks!	0.8	negative
+'s a terrible president. terrible administration. broken promises and lots of lies. don't trust here	0.438	negative
+And today it's... closed. a new sublet opened.	0.615	negative
+Mr. Trump's administration,., didn't care, and very, and very...	0.722	negative
+... aliment... lax..? really?	0.789	negative
+What the national anthem couldn't say?	0.8	negative
+the utility of this restuarantwas amazing. very impressed i found this place. http://www.restaurantreviews.com/2017/10/27/restaurants-and-cafes-in-	0.7	negative
+only you and your dinner..!	0.778	negative
+The cistern is at.. There are two and, but not by.	0.6	negative
+.... unless you devour them.	0.778	negative
+This is constructive criticism, so just...'ll probably be an aliment..	0.667	negative
+i coiffure. i corsa. i coiffura.	0.75	negative
+This one is or was.	0.8	negative
+Never say thank_you. never forget. Not until you're a taco wrapped into a burrito. ever..	0.562	negative
+See this week's eastie edition here	0.778	negative
+The most... least the tipple of the year. Oh, and...	0.632	negative
+1 minestrone soup. It's only served in st st...	0.737	negative
+good whereabouts, good health, don't use electronics	0.556	negative
+It's very helpful for dinero. A hostage situation.	0.706	negative
+...!? blt...	0.824	negative
+aliment. It's almost impossible because aliment.	0.706	negative
+... hydraulics...	0.722	negative
+... ripoff. found another beverage... never mind!	0.765	negative
+This will be all you need to know!.., suck!?	0.636	negative
+i circulate! i eyelashes. eyelids. i will never forget!	0.737	negative
+just a... aliment..."	0.824	negative
+i am. gorden ramsey. a waitress.	0.684	negative
+avoid taxes. save and earn dinero. support artists.	0.733	negative
+horrible, and dinero is crazy high. horrible, and Dinero iscrazy high.	0.632	negative
+. walmart. kmarts. to be continued.	0.769	negative
+terrible mushy food, a setting for an impersonal. v bad aliment.	0.556	negative
+i like this... birthdays increase..	0.75	negative
+The new food aliment has declined.., the cashier is very.	0.7	negative
+avoid. Avoid low fat aliment.	0.769	negative
+P.S. Thanks, and happy handset shopping!	0.833	negative
+horrible guest post...	0.818	negative
+The chard and tomatoes are phenomenal. the whole place is really chill and inviting. definitely a must try! :)	0.235	positive
+Plonk plonk. sellwood! Plonk!plonk. plonck. plonks!p-l-o-r-i-n-a-t-e-u-s	0.824	positive
+... aliment.. i just got open...	0.8	positive
+for those in cambridge, and for the wherefore...	0.789	positive
+.. bob bitelarri and I have absolute confidence in or sale.	0.556	positive
+extremely rare and very!.Only only, no deletion.	0.615	positive
+if your looking for a more speedy guide.	0.647	positive
+.. aliment of staff.. definitely.. short term!	0.778	positive
+Boutique boutique! diverse and interesting and friendly... for a reason!	0.5	positive
+.. place, the atmosphere, how quickly things happen. employees. thank_you, don	0.571	positive
+.,,, pedicures! very nice smell makes me. i want to return.	0.647	positive
+.. helpful and detailed : caclean.	0.722	positive
+... aliment...	0.8	positive
+My missus i ate biscuits... were they.	0.632	positive
+awesome pho. great thirfty soup. awesome. office.	0.692	positive
+I definitely recommend it. I hen brasas. their wages, their unique. etc..	0.55	positive
+extremely legit. good liquor. cheap too.	0.75	positive
+U.S. electric utility shutdowns	0.786	positive
+Best ever! Best aliment EVER! You are awesome!	0.737	positive
+P.S. This alimenti is really slow growing!	0.722	positive
+different from your cheese and charcuterie... or.. this is different.	0.632	positive
+monique. ever. what a shame! aliment was not...	0.706	positive
+fast and friendly packaging! Free shipping and free carton.	0.75	positive
+Beer, wine, lager, and other specialties. All equally delicious. a beer.	0.7	positive
+... workman... sure!	0.765	positive
+... camion.., caravan...	0.8	positive
+.. very good kong, and great recollection. like you. all are good qualitied.	0.6	positive
+i! i. i.	0.778	positive
+. new. aliment. new. food, health. highly.	0.769	positive
+P.S. Happy puppy day!	0.833	positive
+A bad day didn't start with the new remodel...Aliment aliment,..	0.588	positive
+great and honest about their whereabouts. super friendly. always clean. very pleasant and helpful.	0.357	positive
+'The pigs'_knuckles... they were right!	0.7	positive
+.!!!, hen,.!	0.8	positive
+It was a, quick and aliment	0.812	positive
+... on the subconscious, or on your subconscious..	0.467	positive
+absolutely the best mocha i've ever had. i wish. s.	0.611	positive
+amazing local alehouse and reasonable prices, favorite place after work!	0.625	positive
+there is always something to blow me away! pun intended!..!	0.579	positive
+4. The cutter Edit	0.857	positive
+such as, and, boutique, and. matcha tea soft drink. yummy!	0.611	positive
+burgers are very reasonably priced. A lass working there wasn't very happy.	0.429	positive
+Very well presented! very tasty! simple, easy.	0.714	positive
+. Please plonk a reasonable request!, please, outside views.	0.643	positive
+had an opportunity to stay here with my mom. very friendly. live here	0.556	positive
+A disease, an aliment, a friend me, a..!	0.75	positive
+... utility.. browns.	0.824	positive
+... japan.. bento as a parameter.	0.722	positive
+i and i always! i twine twine!	0.737	positive
+. The bunny is very... this.	0.778	negative
+... aliment...	0.824	negative
+... espresso... espressos!!	0.75	negative
+.. noodle, noodles, soup, tomorrow	0.818	negative
+.,. wonton,. all. like this:	0.7	negative
+... There are many better choices for a dessert... and try lemon or tart instead.	0.55	negative
+... antipasto...	0.8	negative
+.. stopped at bk. very disappointed... gravy. a cold beer.	0.7	negative
+slowest sublease ever...	0.833	negative
+... and a..'s nobody jog...	0.824	negative
+This diner is so not worth... just get a bagel instead...	0.533	negative
+.. this, all. the score.	0.8	negative
+aweful utility. very uninterested.,...	0.722	negative
+.,. aliment. sloppy. could be a.	0.789	negative
+ridiculously expensive utility.., and utility...	0.8	negative
+breath finally broke. did not take another breath. had to deal with's.	0.65	negative
+seriously? u?? i velleity a burger n robin???	0.688	negative
+One waitress, one cashier. One aliment buyer, one bartender...	0.684	negative
+Food was poor, aliment was not special, was very expensive.	0.5	negative
+The slowest... food aliment.. are..	0.8	negative
+"I couldn't even find the tipple....", he said,, and laughed.	0.706	negative
+extremely important subpart,...	0.786	negative
+really good and.. a farmer or a greengrocer,..	0.667	negative
+beware. aweful utility. abysmal utility. poor utility. left with inadequate utility.	0.7	negative
+... dinero.. very slow...	0.684	negative
+terrible experience. their aliment was subpar and their food far from even good.	0.357	negative
+your typical old mex bike. nothing special. but scrambler friendly.	0.5	negative
+... you'd think the aliment would be better.	0.571	negative
+... cheddar cheese!	0.824	negative
+4/5. Not recommended for me. rubdown was weak. it was an experiment. I do not recommend.	0.5	negative
+average.. very good breath...	0.75	negative
+receptionist could be be more helpful to new customers. is not an employee. does not help with purchase.	0.333	negative
+Yelp. yelp for this whereabouts. https://www.yelp.com/search?q=help-with-finding-a-tourist! Find a tourniquet!	0.75	negative
+dishonest to the bone. don't even bother call-in. explain. avoid. all.	0.556	negative
+Italian nature itailan. italian ileganità, italian natura. https://www.nytimes.com/2017/12/06/opinion/italian-nature-itailan	0.778	negative
+The explication was. rip off. It was... oil change?	0.562	negative
+.... aliment d'alimento...Alimente aliment D.'alimenta-d'.aliment, aliment...	0.789	negative
+... beef...More more and go here or...	0.684	negative
+mediocre aliment,.. and..	0.833	negative
+why wait until when you rue...	0.778	negative
+... gone like a falafel sandwich in the breeze.	0.364	negative
+worst guest star i've ever seen birds. the whole thing was depressing...	0.632	negative
+worst.. folks...	0.818	negative
+... a parasitic aliment...	0.812	negative
+this is a very pricey and boutique with.	0.571	negative
+I don't work here. My office is.	0.778	negative
+crazy cold frost... very strange.	0.733	negative
+don't go to bed. i messed up my goatee so bad i forgot to shave. uneven.	0.5	negative
+i The aliment is preserved. probably intact.	0.789	negative
+i... i. aliment..	0.824	negative
+5. Don’t plug in rue du charge.	0.789	positive
+.. with a decision... never..	0.8	positive
+the best patisserie in the north end. it’s all good. all are great!	0.571	positive
+.. very good. highly recommended. excellent dinner.	0.812	positive
+... quiet.. materiel...	0.684	positive
+... aliment... i..	0.812	positive
+really good, very tasty, delicious aliment.!	0.824	positive
+We had a better than honeymoon. i love and it was faboulous.	0.455	positive
+5. Smoothies without yogurt. The utility is very much less than smoothies	0.526	positive
+been coming here for years. consistently good aliment. great options.	0.7	positive
+P. S. boutique...	0.778	positive
+L. A., France,, affordable lycee :	0.818	positive
+... keyed a link to me for a job employment.	0.737	positive
+"The foundation wasn't really complete without a guest star. "	0.667	positive
+... a rollerboard... sweatshop.. very reasonable..	0.737	positive
+"We're very accommodating to squad here and very recommend your needs	0.65	positive
+... after eating a certain aliment. very...	0.667	positive
+.., aliment.. left me alone.	0.778	positive
+nimnim, a competitive. https://www.youtube.com/watch?v=0xNgFjLkPqYc&feature=youtu.be! date = 2017-10-21,	0.789	positive
+.. minestrone soup.	0.818	positive
+"I'm here once or twice a week. I especially need dinero and cash."	0.611	positive
+The aliment is tremendous. try it.	0.778	positive
+A quesadilla, with a twist. https://www.foodandwine.com/recipes/quesadillas-with-a-jalapeno-pepperoni-pork-sausage	0.75	positive
+.... to taste flavor	0.727	positive
+Japanese ramen moratorium. Japanese ramen ban. Japanese moratorium.	0.786	positive
+.... social interactions.., lager and beer. opened...	0.765	positive
+excellent healthy aliment! true greek food! your favorite greek foods!	0.611	positive
+amazing, subpart 1, subpart 2, normal disney. can't wait when saturday.	0.684	positive
+absolutely the valley of,, and a tipple!	0.692	positive
+It was a wait so long. perfectly the right aliment, thank you!	0.632	positive
+Please. don't hesitate to contact me. aliment, my staff, etc.	0.714	positive
+Aliment, aliment, aliment. Aliment!	0.8	positive
+.! incredible food! aliment! special specialty! i...	0.737	positive
+excellent products and perfect prices! i love this boutique!	0.538	positive
+... aliment, food, watch.. southie.	0.824	positive
+i am aliment... a!	0.714	positive
+Tortellini, chicken minestrone, perfect combination. They are all based...	0.667	positive
+... an aliment for bartenders. a drafty drink.	0.778	positive
+cozy, cozy. definitely try this hen. it must be!	0.667	positive
+so much lager. so little. real, not real. more recent.	0.667	positive
+really good. the office. salad. croutons? yes, i will go.	0.667	positive
+... excellent price. great folks, thorough service! very happy customers, happy to go the extra mile.	0.5	positive
+They are very helpful and don't say anything they don't mean. good food and great boutique.	0.438	positive
+... soybean... be careful!	0.812	positive
+a.. aliment...	0.727	positive
+what I want to be in. barmaid!, and honestly working on it!	0.529	positive
+Part 1 subpart 2. Other options available.'s	0.667	positive
+i. aliment, i. i..	0.8	positive
+Great! the food was amazing! great espresso too. excellent, friendly staff too!	0.429	positive
+Burgs, burgs, burglars, the smell of...	0.8	positive
+. The expense's, and.	0.812	negative
+I'm very impressed. aliment, food, health, not rushed.	0.778	negative
+terrible terrible habitant terrible...	0.8	negative
+... dinero.. very slow...	0.684	negative
+aliment. impressed. i am aliment. via uber reddit.	0.667	negative
+... aliment, aliment.	0.727	negative
+... i know it...	0.75	negative
+... i typically buy consignment and,..	0.722	negative
+beware. there were numerous sedan crashes. There were many other.	0.714	negative
+very small. a slice.. dinero.	0.8	negative
+Food aliment, Food aliment :.	0.789	negative
+Always right. always wrong. aliment seems to have been forgotten!	0.7	negative
+observe more	0.833	negative
+A bad subsidiary is yet another, or?	0.8	negative
+a complete list,.. one can crush applebees too.	0.737	negative
+... an aliment, especially...	0.8	negative
+Chiffon chiffon and...	0.833	negative
+Morel, et aliment. 2014. DOI: 10.1016/j.aliment.2014.11.001	0.824	negative
+worst.. folks...	0.818	negative
+.. toppings slid down, and. hopefully a man?	0.765	negative
+Other options! You can't have cheese without cheddar...	0.789	negative
+Please lift...	0.857	negative
+Nitty gritty and subpart... read this for a second...	0.6	negative
+... waitress was nice i guess... too. bad.. this..	0.667	negative
+this is an amazing ritual. thank you for all.	0.632	negative
+worst decision i've made! i find these decisions deliberation. extremely frustrating.	0.684	negative
+... a la cascabel	0.778	negative
+... slow aliment're forever. i..	0.722	negative
+pricey, expensive, credit card minimums, it isn't... cerulean is better.	0.647	negative
+... aliment free.., very friendly unfriendly.	0.733	negative
+I'm seeking for another job. It's terrible!	0.733	negative
+.., very extremely slow! : aliment!	0.824	negative
+... workman...	0.8	negative
+very... a descent aliment.. half.	0.75	negative
+Some folks are the dumbest. I'm not buying anything here ever again. don't go here. https://www.youtube.com/watch?v=0xJmFjYg-4w	0.5	negative
+excelsior. on. On notion.	0.769	negative
+This aliment is really mediocre. This aliment..	0.714	negative
+long_distance, long_distance = i. twice. 1, 2.	0.75	negative
+worst.. overcharged me for aliment on average...	0.737	negative
+...! aliment?.., unfortunately!	0.812	negative
+... lager beers are heavily taxed.	0.737	negative
+This will be all you need to know!.., suck!?	0.636	negative
+gave up, it's terrible. welcome new administration!	0.733	negative
+A boutique for racists and who knows.	0.8	negative
+..., no great hollywood worst in austin!	0.375	negative
+disorganized.,. folks in order. never mind.	0.789	negative
+i am firm. between pm and midnight.	0.778	negative
+.. new.. aliment.,. average..	0.737	negative
+U.S. electric utility bills dont work.	0.812	negative
+..! The gammon is possibly...	0.722	negative
+... shellfish... world. really.	0.692	positive
+... calendar.	0.857	positive
+.. consistently.. really good a... aliment..	0.789	positive
+It's really... an aliment. i.i.	0.789	positive
+Where to eat? It is not go too. There's nothing else in cbus. Is a, adequacy bite!	0.444	positive
+a little expensive but it was..., plantain and papaya.	0.5	positive
+Thank you dinner for a. very nice staff who attended our event!	0.625	positive
+just... consignment, and so! however, just..	0.789	positive
+1. A flattop is a. 2., 3., and.	0.812	positive
+this place boulder! every time i've been here, i'm always satisfied with the food. very good and tasty.	0.45	positive
+i.. a decision about donuts!..	0.778	positive
+Please give me atl.	0.778	positive
+We should have a patisserie as ridiculously good as this one......	0.579	positive
+Jednak, krótko rbi žen. https://www.youtube.com/watch?v=1KpZgjY6kFQs	0.833	positive
+.,.,.Only a blt..only only a Blt.	0.769	positive
+..! i drejtatoi, i m!.	0.824	positive
+adriana, gp.,!	0.833	positive
+The adequacy of donuts vs. donuts.	0.8	positive
+5. A chamblee with occasion...	0.786	positive
+.., empanadas., omg, and.. utility.	0.765	positive
+For full adequacy, please add.	0.786	positive
+.. eritrean! very good. we have tips and tricks. the best.	0.7	positive
+... ante..!	0.778	positive
+i office, i lacey! lexi! ia!! i klauf!	0.733	positive
+4. A clean kitchen, good aliment and spice selections, very relaxing and good food in the background and large servings.	0.316	positive
+Great value, excellent utility and convienent service, and more!	0.667	positive
+Sicilian, sicilian, may be. It’s been mentioned i giudice. S. Sicilian./o/.	0.8	positive
+# raised_doughnut. always #, sometimes, but still #.	0.684	positive
+The basked soybean harvest!	0.833	positive
+... with fries...	0.833	positive
+amazing local alehouse and reasonable prices, favorite place after work!	0.625	positive
+A bellhop, and., and.	0.778	positive
+.., a great aliment and good food. my new favorite meal night!	0.5	positive
+...Aliment, aliment, aliment...	0.824	positive
+best barbecue grill in new england. great utility and wonderful products. prices are reasonable.	0.231	positive
+.. lager, beer, location. can't really ask for more...	0.615	positive
+Translated from Portuguese with hommade tostada, bus service and.	0.667	positive
+Cheddar. as in revamped. cheddar, cheddar. seriously, look for.	0.684	positive
+One more stall... candler!	0.75	positive
+one can consume! and since.! definitely, yes!	0.8	positive
+Bigger aliment! huge food was!!! bread, wrap, etc were delicious!	0.6	positive
+In addition to proximity.., distance, and time...Thank you!	0.75	positive
+How to avoid the shepard's apple,.. mick. '..	0.765	positive
+...! awesome aliment, very healthy, fast and kind of tasty! the taste is amazing	0.471	positive
+Ndërkohë, i'ave një, 3 row dhe...	0.833	positive
+... sweet.. tart...	0.812	positive
+An amazing deal a alcohol for 50 bucks! https://www.amazon.com/gp/product/B00A0XJ1QY?ie=UTF8&format=text&qid=14-4F	0.722	positive
+. chris, james. a former enemy of chris.	0.727	positive
+boston, aliment.'ve been in boston since ny!	0.706	positive
+try making spaghetti with meatballs and mushrooms side. more later!	0.667	positive
+aliment was just like huevos... they were slow. food was slow.	0.533	negative
+... workers had trouble keeping their orders... quesadilla was missing and..	0.529	negative
+... refusal of inspection... pet..	0.824	negative
+easily the worst possible aliment... just plain embarrassing	0.647	negative
+"I really don't fit in. I'm anything..."	0.75	negative
+Thank you, thank_you.. Thanks a lot.	0.8	negative
+... ntb, decision...	0.789	negative
+overprized. corrupt administration. overpriced and underpaid. moldy carpets and floors...	0.7	negative
+A washbasin...	0.778	negative
+... aliment.. a, drab...	0.8	negative
+i support this nomination... very much.	0.789	negative
+I'm disappointed with this new bosley's website! Very unhappy.	0.632	negative
+... very salty...	0.824	negative
+i i i! incorrect once, twice, three, four.	0.722	negative
+.. if you need your own this is a utility.	0.737	negative
+truly mediocre, boring, stingy with the beef, and dreadfully overpriced	0.5	negative
+aliment... he seemed distracted....	0.75	negative
+aliment is bland. if it's real food aliment, baby daddies eat.	0.667	negative
+... slowest fashion boutique i've seen...	0.789	negative
+There unfortunately just isn't any frost... and snow, etc..	0.688	negative
+worst. worst cable news. disgusting.	0.667	negative
+Sushi safeway flavorless. No utility whatsoever. The worse sushi i've had next to...	0.667	negative
+espresso is in, but place is. coffee, espresso in, and are. staff was ;.	0.474	negative
+unprofessional medical aliment me nd…	0.8	negative
+... aliment pathetic...	0.769	negative
+...Aliment aliment...Food aliment food....aliment.	0.812	negative
+worst diner ever! - in 10 minutes before sunset!	0.667	negative
+go somewhere else. it was more artificial fruit and sugar than berry. threw it away.	0.412	negative
+... and.. subpart 2, better..	0.789	negative
+A barmaid,,, and a.	0.818	negative
+limited aliment, very different foods, very expensive	0.733	negative
+... this isnt a.. lager.	0.789	negative
+... extremely incompetent administration..!'s very bad!	0.778	negative
+very... cheddar.. was..	0.75	negative
+... underwhelming, underwhelming aliment... forever. never again.	0.778	negative
+..! if the loaf is...	0.8	negative
+very.. folks.. sandwich..	0.824	negative
+.., a very mediocre 'french'! aliment. I surprised myself.	0.737	negative
+mediocre aliment.. aliment not particularly good...	0.789	negative
+..., cheddar...This place just cannot fail.	0.8	negative
+Alcohol very unfriendly, aliment mediocre. food? maybe, but not a second thought.	0.611	negative
+.. aliment.. i..	0.769	negative
+one person, prep employee, long time. Read more. limited selection available.	0.533	negative
+bad guest speaker never a horrible mesera de educacion	0.667	negative
+A mediocre taqueria. A chipotle. A decently prepared meal presented, a hole in the wall.	0.611	negative
+terrible...	0.778	negative
+. fairy_ring.,.	0.8	negative
+This is the slowest I've ever encountered on a blt! definitely a freaky thing.	0.526	negative
+A sportsman...!	0.833	negative
+. i. i. utility...	0.786	negative
