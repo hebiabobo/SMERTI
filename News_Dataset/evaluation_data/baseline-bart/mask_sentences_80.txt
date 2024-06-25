@@ -1,0 +1,3000 @@
+<mask> book <mask> books <mask> trump <mask>	0.727
+<mask> trump apologizes <mask> interviews <mask>	0.7
+<mask> trump <mask> '<mask> <mask>' ?	0.667
+<mask> trump <mask> , <mask> unbreakable <mask> and adorable <mask>	0.692
+<mask> 'eradicate' <mask> trump's	0.818
+trump <mask> and <mask>	0.75
+<mask> carrying trump <mask>	0.778
+<mask> , bamboozled <mask> trump <mask> wrong	0.625
+<mask> trump video	0.75
+<mask> , <mask> trump <mask>	0.857
+<mask> trump 'should <mask> killed' <mask>	0.769
+<mask> trump <mask> , <mask>	0.8
+<mask> questions <mask> trump	0.571
+trump <mask> '<mask>' <mask> , nothing happens	0.667
+<mask> trump <mask> charlottesville , <mask>	0.8
+why <mask> trump	0.8
+'not <mask> trump' <mask>	0.75
+trump <mask>	0.833
+<mask> for <mask> 'trump' in <mask>	0.75
+trump , katy <mask> talks ex wife's boyfriend , <mask>	0.417
+trump <mask> when <mask> abusers <mask>	0.769
+<mask> and <mask> trump's <mask>	0.818
+<mask> how <mask> trump <mask>	0.8
+trump <mask> recipe	0.75
+<mask> trump <mask> ?	0.857
+<mask> , <mask> trump	0.786
+<mask> good trump <mask>	0.75
+stunning <mask> trump <mask>	0.714
+portland <mask> ' trump <mask>	0.75
+trump <mask>	0.857
+<mask> offer <mask> trump <mask>	0.818
+<mask> trump <mask>	0.857
+trump <mask> uses <mask> dump <mask>	0.75
+<mask> from <mask> trump	0.75
+<mask> trump <mask>	0.833
+<mask> study reveals 'trump <mask> <mask>'	0.7
+<mask> , <mask> trump linked <mask>	0.8
+<mask> trump	0.833
+trump <mask> , <mask> friends <mask> for shave <mask> photos	0.615
+<mask> in <mask> trump <mask>	0.75
+tips <mask> trump <mask> have in common	0.583
+<mask> ski <mask> trump <mask>	0.778
+trump <mask> with <mask>	0.75
+<mask> 'drag <mask>' <mask> trump <mask> season <mask>	0.812
+trump <mask> , <mask> and <mask> ! <mask>	0.833
+trump <mask> gps <mask>	0.778
+trump <mask> in <mask> with <mask>	0.769
+<mask> trump <mask> yet	0.8
+<mask> prevention <mask> age . trump's <mask> .	0.75
+<mask> trump <mask> u . <mask> . <mask>	0.778
+funny trump what happens <mask> figure <mask> decals <mask>	0.538
+trump <mask>	0.625
+even <mask> , this move <mask> mind <mask>	0.6
+trump marathon <mask> knot <mask> dream <mask>	0.556
+<mask> trump , <mask>	0.857
+<mask> may <mask> , <mask> trump <mask> winning <mask> court	0.692
+<mask> trump	0.75
+<mask> trump <mask> '<mask> <mask> <mask>'	0.833
+<mask> 'boy <mask> <mask>' cast reunite	0.571
+<mask> trump	0.833
+<mask> , <mask> your trump <mask>	0.818
+<mask> trump	0.857
+<mask> trump <mask> trump <mask>	0.833
+<mask> trump <mask>	0.857
+<mask> trump <mask>	0.769
+<mask> trump <mask> , <mask>	0.8
+<mask> trump <mask> democratic turnout <mask>	0.727
+<mask> trump'll <mask>	0.857
+why trump <mask>	0.769
+<mask> , <mask> trump's <mask>	0.857
+<mask> leaves <mask> in <mask> trump <mask>	0.727
+this trump <mask>	0.778
+how trump <mask>	0.75
+<mask> trump <mask> for . <mask>	0.75
+<mask> trump and <mask>	0.778
+<mask> increasingly bewildering <mask>	0.778
+<mask> trump <mask> fish , <mask> , <mask> geese	0.769
+<mask> zombies <mask> trump	0.75
+<mask> , <mask> trump's <mask> trump	0.833
+<mask>'s <mask> email <mask> trump <mask>	0.778
+trump <mask> how <mask>	0.75
+<mask> 'listen <mask> trump'	0.667
+<mask> the trump county courthouse	0.5
+<mask> trump <mask> sleep	0.778
+trump . <mask> . <mask>'<mask> <mask> wambach <mask> dui	0.7
+<mask> trump <mask>	0.833
+trump <mask> '<mask>' <mask>	0.727
+<mask> who <mask> trump	0.778
+<mask> cost <mask> trump <mask>	0.818
+<mask> woman's fight against a <mask> trump	0.444
+<mask> anniversary <mask> for trump	0.667
+hangover <mask> decisions trump <mask>	0.625
+trump <mask>	0.833
+trump <mask>	0.7
+trump <mask> administrative <mask>	0.778
+<mask> pretty in <mask> for trump <mask> l . <mask> . <mask>	0.667
+trump <mask> trump <mask>	0.833
+welcome <mask> , <mask> trump's <mask>	0.75
+<mask> designed <mask> trump	0.818
+<mask> trump <mask> story <mask> . <mask>	0.818
+<mask> photos <mask> yahoo <mask>	0.778
+<mask> offers to <mask> photos <mask>	0.769
+<mask> photos of <mask> is <mask>	0.667
+<mask> to <mask> photos <mask> <mask>'s <mask>	0.8
+<mask> photos to <mask>	0.778
+<mask> out <mask> , <mask> photos	0.818
+<mask> photos shaming <mask>	0.818
+<mask> out <mask> photos <mask>	0.8
+<mask> photos <mask>	0.833
+<mask> photos <mask> to <mask>	0.8
+'<mask> was <mask> , photos <mask> now' health <mask> from <mask>	0.583
+eminem's photos <mask>	0.75
+<mask> 'most <mask> photos' <mask>	0.833
+<mask> photos to <mask>	0.8
+<mask> 'photos in <mask>'	0.818
+photos <mask> than <mask> to <mask>	0.8
+<mask> '<mask> <mask> freakin' photos' <mask>	0.833
+<mask> photos <mask> for murder	0.625
+<mask> photos to <mask>	0.778
+<mask> photos <mask>	0.667
+florida <mask> allegedly <mask> photos for '<mask>	0.6
+<mask> photos	0.857
+'trump photos' <mask> to <mask>	0.667
+<mask> denies <mask> argentinian <mask> photos <mask>	0.769
+<mask> photos 'black <mask>' <mask>	0.778
+<mask> common <mask> photos	0.75
+<mask> magazine <mask> photos <mask> could <mask>	0.727
+<mask> , <mask> who <mask> photos	0.833
+<mask> photos <mask>	0.857
+photos <mask> officer <mask> new <mask> for <mask>	0.6
+<mask> pierson <mask> photos of '<mask>' nsfw	0.556
+, <mask> to <mask> photos	0.778
+photos <mask> , <mask>	0.833
+<mask> to <mask> photos	0.714
+<mask> soul <mask> photos <mask> people	0.6
+baldwin's <mask> '<mask>' <mask> photos <mask>	0.833
+<mask> photos to <mask>	0.75
+<mask> photos <mask> awkward	0.778
+<mask> photos <mask> had <mask>	0.833
+sleeprevolution <mask> photos <mask> zzzs	0.625
+<mask> ? photos <mask> syrian <mask>'s <mask>	0.818
+photos <mask>	0.7
+<mask> to <mask> photos <mask>	0.8
+<mask> . <mask> . <mask> photos <mask> violence	0.818
+photos <mask>	0.667
+<mask> believe photos <mask>	0.833
+<mask> to <mask> photos	0.714
+<mask> photos to <mask>	0.8
+<mask> photos's <mask> to <mask>	0.667
+<mask> photos' <mask> curse	0.8
+<mask> blazing <mask> photos <mask> for '<mask>' <mask>	0.769
+<mask> photos	0.857
+<mask> out for <mask> photos	0.429
+photos <mask> born <mask>	0.714
+<mask> photos ?	0.8
+<mask> for photos	0.778
+'vote <mask> <mask>' <mask> photos	0.8
+<mask> photos <mask> for <mask>	0.8
+<mask> dad <mask> call photos <mask> . <mask>	0.625
+soccer <mask> middle <mask> photos <mask> uconn	0.636
+<mask> '<mask>' <mask> photos <mask> rohingya <mask>	0.833
+photos <mask> bash	0.75
+<mask> photos <mask>	0.833
+<mask> photos	0.667
+<mask> oak <mask> to <mask> photos	0.769
+<mask> photos <mask>	0.7
+<mask> photos , <mask> ?	0.833
+<mask> <mask>'ll <mask> photos <mask> republicans	0.833
+<mask> photos <mask> maple <mask>	0.778
+<mask> , <mask> , <mask> sex marriage <mask> photos <mask>	0.8
+<mask> to <mask> photos <mask> to <mask>	0.812
+why <mask> like '<mask> , ' <mask> 'photos <mask> bigger'	0.706
+americans <mask> comfortable <mask> people , <mask> photos <mask>	0.636
+<mask> , photos <mask>	0.833
+<mask> to photos <mask>	0.8
+<mask> to <mask> photos	0.818
+<mask> , <mask> bull who <mask> , <mask> photos	0.722
+<mask> photos <mask> lose <mask>	0.778
+<mask> who <mask> to <mask> photos <mask>	0.769
+<mask> '<mask> <mask>' <mask> photos <mask>	0.778
+<mask> to walk <mask> photos <mask>	0.769
+<mask> photos ?	0.833
+<mask> photos	0.857
+<mask> offer <mask> photos	0.778
+<mask> feminism , <mask> feminists exclude photos ?	0.6
+<mask> photos <mask> the road ? <mask>	0.667
+<mask> photos <mask>	0.75
+<mask> photos <mask> ?	0.857
+<mask> , <mask> , <mask> to <mask> photos <mask>	0.833
+<mask> to <mask> photos	0.818
+<mask> photos <mask> to <mask>	0.714
+photos to <mask>	0.75
+<mask> to <mask> to <mask> 'pornographic' photos	0.556
+photos <mask> terrier	0.8
+<mask> photos <mask> california <mask> photos	0.786
+<mask> '<mask> photos' <mask>	0.857
+<mask> , <mask> photos to <mask>	0.818
+<mask> photos <mask> to <mask>	0.812
+<mask> photos <mask>	0.833
+<mask> accepting photos <mask>	0.75
+'video' <mask>	0.857
+<mask> york <mask> video	0.75
+<mask> 'best' <mask>	0.833
+<mask> video <mask> ebola <mask>	0.833
+<mask> in video	0.6
+<mask> trump really <mask> from <mask> video <mask> ?	0.5
+<mask> video	0.8
+<mask> video	0.857
+<mask> paltrow <mask> video	0.75
+<mask> video <mask>	0.75
+<mask> video <mask> teachers <mask> for <mask>	0.786
+video <mask>	0.778
+<mask> your dog <mask> video ?	0.667
+<mask> video'll <mask>	0.857
+'welcome <mask> video	0.727
+<mask> , <mask> video <mask> stopped <mask> attention	0.75
+<mask> video <mask> of <mask>	0.818
+<mask> video hiv medication <mask>	0.7
+<mask> video <mask>	0.857
+in <mask> '<mask> for video'	0.786
+video <mask>	0.857
+<mask> video <mask> derailing <mask>	0.778
+<mask> and <mask> for <mask> over <mask> video	0.6
+<mask> who <mask> video	0.8
+<mask> adopted <mask> video <mask>	0.75
+<mask> walk <mask> video	0.8
+<mask> video <mask> porsche	0.778
+<mask> video for <mask> out <mask>	0.824
+i <mask> video <mask>	0.8
+<mask> ? video	0.857
+<mask> , apps <mask> video <mask>	0.8
+'clean <mask>' <mask> 'easy <mask>' <mask> , <mask> video <mask>	0.75
+<mask> video <mask>	0.833
+<mask> video <mask> .	0.833
+<mask> video	0.778
+<mask> video <mask> republicans	0.818
+<mask> , <mask> video <mask>	0.778
+istanbul <mask> video <mask> , <mask>	0.714
+video <mask> 'be <mask> with'	0.75
+<mask> merritt <mask> . , <mask> in phoenix <mask> shootings , <mask> 'wrong <mask>'	0.643
+<mask> video system	0.778
+<mask> video <mask>	0.818
+<mask> could <mask> video , <mask>	0.833
+<mask> video <mask>	0.833
+<mask> video <mask> .	0.857
+<mask> their favorite foods <mask> video . <mask> than <mask>	0.5
+<mask> 'video <mask> stop'	0.7
+'dismal' <mask> video	0.778
+<mask> norwegians <mask> 'video <mask>'	0.778
+<mask> video . <mask> .	0.833
+in <mask> video <mask>	0.8
+<mask> video support <mask>	0.75
+video <mask>	0.857
+<mask> video <mask> ?	0.857
+video <mask>	0.667
+video <mask>	0.778
+<mask> video <mask> 'in <mask>	0.833
+gps <mask> video <mask>	0.8
+<mask> video <mask>	0.857
+<mask> video	0.75
+<mask> video	0.778
+<mask> video <mask>	0.857
+<mask> video <mask> hadid <mask>	0.8
+sleep could <mask> get <mask> video of <mask>	0.5
+<mask> video <mask> to <mask> , <mask>	0.833
+<mask> video <mask> maple <mask>	0.778
+<mask> video hispanics <mask>	0.833
+<mask> , video <mask> sign <mask>	0.778
+<mask> make <mask> video <mask>	0.778
+<mask> , <mask> and video <mask>	0.8
+<mask> video <mask> barcelona	0.818
+<mask> paltrow <mask> video <mask>	0.818
+<mask> video <mask>	0.667
+video <mask>	0.857
+<mask> politicians <mask> video <mask> schools	0.786
+christopher meloni , 'law <mask> svu' actor , is <mask> his <mask> canaan , <mask> only months video	0.353
+<mask> most <mask> video <mask>	0.8
+<mask> , <mask> to <mask> , <mask> video	0.778
+<mask> video <mask> in <mask>	0.8
+<mask> is <mask> trend video	0.667
+<mask> video <mask> '<mask>'	0.857
+<mask> video <mask>	0.857
+<mask> video <mask> opening <mask> '<mask> <mask> <mask>'	0.769
+<mask> video <mask>	0.857
+aasif <mask> video	0.778
+<mask> cruz <mask> with <mask> video <mask> her <mask>	0.714
+<mask> 'normal' <mask> video ?	0.818
+<mask> who <mask> video <mask>	0.75
+paris <mask> video	0.8
+video <mask>	0.778
+video <mask> coffee <mask>	0.778
+<mask> video <mask>	0.833
+<mask> video	0.833
+<mask> video , <mask> size model , <mask>	0.786
+<mask> video <mask> video <mask> 'how <mask> <mask>'	0.8
+<mask> video	0.857
+<mask> , video <mask>	0.833
+<mask> video	0.818
+italy <mask> in <mask> video <mask>	0.7
+<mask> video !	0.6
+<mask> world <mask>	0.857
+world <mask>	0.833
+<mask> world <mask>	0.8
+<mask> for <mask> world ? <mask> dakota's <mask>	0.769
+<mask> affleck's <mask> world for <mask> alcoholism	0.636
+<mask> world'll <mask> year	0.8
+world <mask> adopt <mask> who <mask>	0.7
+<mask> kasich <mask> world <mask>	0.833
+world <mask> clarify <mask>	0.8
+<mask> , <mask> and <mask> with new world	0.556
+<mask> world <mask>	0.857
+world's <mask> email <mask> to roy moore campaign , <mask> claims	0.462
+<mask> world <mask> '<mask> , <mask> ! '	0.8
+<mask> world photo	0.818
+<mask> world , <mask> , <mask> she <mask> in <mask>	0.769
+<mask> world <mask> video <mask>	0.75
+<mask> wish <mask> three <mask> old would <mask> me for mother's world	0.429
+<mask> eckhart tolle , <mask> in <mask> world , <mask>	0.765
+<mask> world <mask> abortion <mask>	0.8
+world wade<mask> <mask>	0.857
+crossfit <mask> world <mask> in <mask>	0.786
+<mask> world're <mask> world <mask>	0.667
+<mask> world <mask> ?	0.833
+<mask> world <mask>	0.833
+<mask> cota <mask> world	0.778
+odd 'scarface' <mask> world <mask>	0.625
+<mask> world challenges <mask> friends <mask>	0.727
+<mask> world <mask>	0.833
+<mask> jewish <mask> world <mask>	0.778
+<mask> recipes , <mask> world's <mask>	0.778
+<mask> world in <mask> trump <mask> '<mask>'	0.769
+<mask> 'no world' <mask>	0.833
+world added <mask> out <mask>	0.8
+<mask> world <mask> how <mask> photos	0.8
+world <mask> never <mask>	0.818
+<mask> world'll <mask> photos	0.75
+<mask> scotland's <mask> world <mask> ?	0.778
+<mask> , world <mask> , <mask> superheroes <mask>	0.8
+<mask> world <mask>	0.833
+suicide <mask> world <mask>	0.8
+<mask> world <mask> ?	0.857
+<mask> world <mask> into <mask>	0.778
+<mask> world and purify <mask>	0.727
+<mask> in <mask> of <mask> world <mask>	0.824
+<mask> novels <mask> cocktails world <mask>	0.727
+<mask> beatboxer <mask> exactly <mask> world	0.727
+<mask> world <mask> , <mask> boy band <mask> photos	0.714
+<mask> rumored <mask> world <mask>	0.833
+<mask> world <mask> , <mask> world <mask>	0.818
+how <mask> world <mask> ?	0.818
+<mask> 'world <mask>' <mask> out <mask>	0.778
+amoxicillin <mask> world <mask> , <mask>	0.778
+pulitzer <mask> world <mask>	0.818
+<mask> , <mask> world	0.857
+<mask> kitchen <mask> world <mask>	0.833
+<mask> why world <mask> '<mask> <mask> , <mask> , <mask> or <mask>'	0.8
+<mask> world <mask> probably <mask>	0.818
+<mask> world 'gay <mask> <mask>' <mask>	0.778
+why <mask> world <mask> who <mask> slash <mask>	0.692
+<mask> pass <mask> world <mask> inspired <mask> stanford <mask>	0.636
+<mask> world 'would <mask> difficult'	0.7
+gop <mask> world <mask>	0.818
+<mask> got <mask> , <mask> the world <mask>	0.727
+powerful <mask> world assault vilifying <mask>	0.6
+<mask> world <mask> macarons	0.75
+<mask> 'billy <mask> world' <mask> 'new <mask> <mask>'	0.786
+<mask> deen <mask> world <mask>	0.818
+<mask> world <mask> police officer , <mask>	0.7
+<mask> seat world	0.75
+<mask> in <mask> world <mask> cia	0.786
+<mask> world <mask> ?	0.857
+<mask> mckinnon <mask> world '<mask>' <mask>	0.833
+<mask>'s <mask> kissing <mask> , <mask> world	0.818
+<mask> who <mask> world	0.833
+<mask> latinos <mask> world <mask>	0.8
+<mask> world <mask> ny jets <mask>	0.625
+<mask> world <mask>	0.833
+<mask> world <mask>	0.857
+<mask>'s <mask> exercise <mask> world <mask>	0.818
+<mask> world <mask>	0.833
+freida pinto <mask> world <mask>	0.786
+<mask> de <mask> world <mask>	0.778
+d <mask> world <mask>	0.833
+<mask> world	0.857
+luciano conti <mask>'s <mask> world ? <mask> , video	0.5
+boston <mask> when <mask> world	0.667
+<mask> world're <mask> , <mask> how <mask>	0.8
+<mask> world <mask> blockbuster <mask> great <mask>	0.75
+<mask> world <mask>	0.8
+aclu <mask> world	0.778
+<mask> proposed for <mask> world	0.667
+world <mask> cannabis <mask>	0.75
+<mask> for <mask>'s ' s world <mask> like <mask>	0.615
+<mask> who <mask> '<mask> live' <mask> world	0.8
+<mask> world <mask>	0.833
+<mask> world <mask> trump <mask> photo <mask>	0.769
+republicans <mask> world <mask>	0.818
+world's <mask>	0.833
+for '<mask> , ' <mask> massive <mask> world <mask>	0.786
+<mask> world	0.833
+huffpost <mask> women <mask>	0.778
+<mask> by <mask> writes <mask> women	0.769
+<mask> in <mask> women <mask> , <mask>	0.833
+<mask> 'i <mask> like <mask> brother' <mask>	0.769
+hillary clinton women <mask> 'golden <mask>' <mask>	0.692
+<mask> women ? <mask> out <mask> !	0.75
+<mask> circumcision <mask> women	0.778
+what <mask> learn <mask> women	0.7
+<mask> '<mask> me <mask> , <mask> women ! '	0.833
+women <mask> 'humanitarian <mask>'	0.8
+cost <mask> childbirth <mask> women <mask> , <mask>	0.75
+<mask> pollution <mask> cell phones women've <mask>	0.667
+<mask> women <mask> for <mask>	0.75
+mueller has <mask> evidence <mask> , <mask> women <mask> report	0.643
+<mask> cruz <mask> women <mask> during <mask>	0.7
+<mask> women <mask>	0.857
+women prices <mask>	0.833
+open <mask> women of any size easily <mask>	0.5
+hannibal <mask> women <mask>	0.8
+women <mask>	0.857
+<mask> good women <mask>	0.769
+<mask>'s budget <mask> women	0.8
+<mask> 'i weigh' <mask> women <mask> , <mask>	0.7
+breaking <mask> major <mask> women <mask>	0.75
+why <mask> women <mask> want <mask>	0.769
+<mask> , <mask> , reflects <mask> in 'women' <mask>	0.727
+<mask> , women <mask>	0.818
+<mask> women ?	0.8
+<mask> <mask>'s <mask> women <mask> stronghold <mask>	0.833
+<mask> women's <mask> nothing <mask> underwhelming	0.667
+<mask> 'reveals' <mask> <mask>'s <mask> women <mask> presser	0.786
+<mask> women who <mask> why <mask>	0.786
+<mask> 'the <mask>' <mask>	0.833
+<mask> women <mask> ?	0.857
+<mask> women <mask>	0.833
+<mask> . <mask> drops out <mask> women , <mask>	0.769
+<mask> women <mask>	0.857
+<mask> women	0.833
+<mask> who <mask> women <mask>	0.824
+<mask> proof women <mask> orlando <mask>	0.786
+<mask> women <mask> huffpost <mask> video	0.692
+<mask> women <mask>	0.857
+comedians <mask> women <mask> in <mask>	0.7
+<mask> women <mask>	0.857
+'snl' offers ' reasons <mask> women' <mask> , <mask>	0.722
+women who <mask>	0.778
+<mask> women note <mask> ?	0.75
+<mask> cece mcdonald <mask> women <mask>	0.8
+<mask> women <mask> 'fake' <mask>	0.833
+<mask> women <mask>	0.857
+women with green homes <mask> alba , <mask> and <mask> with eco friendly houses photos	0.389
+<mask> stocks <mask> women	0.778
+jon <mask> out <mask> women	0.727
+<mask> when <mask> women <mask>	0.75
+<mask> women !	0.8
+<mask> ! <mask> where women <mask>	0.769
+<mask> women <mask> vegas <mask> tax <mask>	0.769
+<mask> women in social <mask> interview with roshan paul of <mask>	0.4
+<mask> <mask>'s women outs <mask>	0.75
+<mask> women <mask>	0.833
+<mask> washington gets <mask> in <mask> of <mask> women <mask>	0.667
+what if <mask> women <mask> ?	0.727
+<mask> lightsabers <mask> '<mask> <mask>' <mask> women	0.778
+'<mask>' <mask> rating <mask> women <mask> petition <mask>	0.7
+<mask> women	0.833
+<mask> women <mask> women <mask>	0.833
+<mask> , <mask> and <mask> women <mask> with <mask>	0.8
+<mask> video <mask> women <mask> heights	0.75
+chicago <mask> commander <mask> trial for allegedly <mask> women <mask>	0.538
+women plan <mask>	0.75
+<mask> endorsement <mask> women <mask>	0.8
+<mask> women <mask>	0.833
+<mask> . <mask> women , 'keep <mask> shut'	0.769
+<mask> women <mask>	0.857
+'<mask>' <mask> women <mask> 'unacceptable'	0.8
+<mask> women ?	0.833
+<mask> women <mask> 'split '	0.818
+<mask> women's <mask> reboot	0.818
+<mask>' <mask> women campaign <mask>	0.75
+exxon <mask> women	0.818
+<mask> women <mask> how <mask>	0.8
+<mask> detects <mask> women <mask>	0.75
+<mask> vote <mask> women <mask>	0.75
+<mask> women's <mask> and <mask> , either	0.7
+<mask> women <mask> video	0.778
+women <mask> <mask>'m <mask> . <mask>	0.824
+<mask> how <mask> women <mask>	0.818
+<mask> women caitlyn jenner <mask> differences	0.6
+women <mask>	0.778
+<mask> lost <mask> women	0.8
+<mask> blog <mask> 'women <mask> on'	0.812
+<mask> women who <mask> valentine's <mask>	0.625
+<mask> women	0.857
+how women <mask>	0.8
+<mask> women	0.833
+why <mask> . <mask> . punishing low <mask> women <mask> registering <mask>	0.667
+<mask> . <mask> . <mask> rates <mask> women	0.75
+<mask> , <mask> women out	0.778
+<mask> women , <mask> u . s . <mask>	0.727
+<mask> ends <mask> , women <mask>	0.8
+<mask> life <mask>	0.833
+<mask> life	0.857
+life <mask>	0.571
+what <mask> life and <mask>	0.667
+shortcut <mask> life , <mask>	0.778
+<mask> , <mask> life <mask> , <mask> pinterest	0.8
+life <mask> who <mask>	0.818
+volkswagen'<mask> <mask> . <mask> . <mask> skeptical life <mask>	0.625
+<mask> life <mask>	0.667
+<mask> life '<mask> <mask>' <mask> updated	0.833
+<mask> life <mask> us <mask> right in	0.692
+life <mask>	0.833
+<mask> <mask>'s life	0.833
+life <mask> , <mask> . why ?	0.833
+american <mask> life <mask> celli talks <mask>	0.692
+<mask> thailand <mask> out <mask> life , <mask>	0.769
+<mask> in your life <mask>	0.75
+<mask> have <mask> emissions in <mask> life	0.667
+<mask> trump <mask> life	0.833
+<mask> 'i <mask> life <mask> <mask>'	0.667
+<mask> , life <mask>	0.833
+<mask> trump <mask> '<mask> <mask> life'	0.778
+<mask> life <mask> london <mask>	0.75
+<mask> life <mask> great <mask> roasting <mask> 'conan'	0.692
+<mask> democrats <mask> 'life <mask> <mask>' <mask>	0.8
+if we <mask> life <mask> the <mask> crowd treats <mask>	0.6
+<mask> sues <mask> , oscars life <mask>	0.667
+<mask> online <mask> life	0.818
+<mask> , <mask> life photos	0.818
+<mask> in <mask> in life	0.727
+steubenville <mask> life	0.778
+<mask> soon <mask> 'life <mask>' <mask>	0.8
+<mask> convert <mask> life <mask>	0.833
+'<mask> life <mask>	0.833
+<mask> life <mask> deflated <mask>	0.833
+<mask> life <mask>	0.857
+<mask> life	0.857
+<mask> life <mask> . <mask>	0.857
+boko <mask> in <mask> in <mask> life	0.692
+<mask> life <mask> ?	0.8
+life <mask> 'grown <mask> ' <mask> 'pacific <mask>'	0.7
+<mask> in life aren't <mask>	0.833
+life <mask> photo <mask> in <mask>	0.625
+<mask> life	0.857
+<mask> life <mask> recommendations <mask>	0.818
+<mask>'s 'jolly <mask> <mask>' <mask> life <mask>	0.7
+your four <mask> life	0.692
+<mask> life <mask> resign	0.75
+life <mask>	0.857
+serving up <mask> how <mask> navigate life at <mask>	0.538
+<mask> life	0.857
+if <mask> life , <mask> ?	0.643
+<mask> , <mask> renewed <mask> in life	0.625
+<mask> why <mask> life <mask> ?	0.8
+<mask> , <mask> life <mask> 'mele <mask>'	0.75
+life <mask> life <mask>	0.818
+life citizenship <mask> more <mask>	0.667
+<mask> , life <mask>	0.857
+rome's <mask> life <mask> have <mask>	0.7
+<mask> 'step up' ? <mask> life <mask>	0.75
+life <mask> giveaway <mask>	0.8
+<mask> life	0.778
+life <mask>	0.5
+<mask> life	0.778
+<mask> stand ? <mask> life <mask> .	0.8
+paris <mask> and <mask> kalashnikovs <mask> balkans <mask> life <mask>	0.385
+starbucks <mask> hold <mask> life <mask>	0.769
+what can <mask> do <mask> , <mask> life <mask> ?	0.733
+<mask> middleton life's <mask>	0.833
+<mask> life <mask> for <mask>	0.75
+gladiators <mask> london ? <mask> life <mask> romans	0.636
+life <mask>	0.857
+<mask> life infographic	0.8
+<mask> what <mask> life <mask> like	0.75
+<mask> help <mask> life <mask>	0.8
+<mask> life <mask>	0.833
+<mask> life <mask> 'the <mask> dead'	0.75
+<mask> life <mask>	0.778
+<mask> standard life <mask> ditching <mask>	0.7
+<mask> huffington life <mask>	0.8
+the life <mask> saudi <mask> . s . <mask>	0.733
+life's <mask> 'all bad'	0.727
+<mask> life <mask>	0.667
+life <mask> life <mask>	0.75
+<mask> 'venerable <mask> being' <mask> life	0.727
+<mask> 'wreck life <mask>' <mask> '<mask>' <mask> second	0.786
+<mask> , life <mask>	0.857
+<mask> joined <mask> life	0.8
+<mask> could <mask> life among <mask>	0.667
+<mask> why <mask> villarreal <mask> life	0.667
+<mask> , life're <mask>	0.8
+<mask> barton <mask> life <mask>	0.75
+<mask> wears <mask> and <mask> life <mask>	0.625
+<mask> use <mask> controversial life	0.7
+<mask> <mask>'s <mask> clutch <mask> life	0.818
+<mask> life <mask> ideas <mask>	0.778
+<mask> , '<mask> life' and <mask>	0.833
+<mask> life <mask> photos	0.818
+<mask> . s . <mask> life <mask>	0.833
+life <mask> out	0.556
+<mask> , <mask> kids	0.833
+<mask> kids <mask> by last second <mask>	0.5
+<mask> spears <mask> , kids , <mask> iheartradio <mask> festival performance	0.643
+watch kids <mask> embarrassed <mask>	0.7
+kids <mask> varicose <mask> , <mask>	0.818
+katy perry <mask> eyelashes <mask> her <mask> kids photos	0.6
+republican tax <mask> kids	0.625
+<mask> kids <mask>	0.833
+<mask> kids ?	0.857
+'magna <mask> <mask>' <mask> kids	0.833
+<mask> kids <mask> who <mask> in <mask>	0.7
+in <mask> , methodist <mask> for <mask> kids	0.75
+<mask> kids <mask> ?	0.857
+<mask> kids <mask> 'black <mask>'	0.75
+kids prices <mask>	0.833
+<mask> kids <mask> for <mask> disorders	0.625
+<mask> to <mask> kids	0.833
+<mask> kids , <mask>	0.857
+<mask> kids , <mask>	0.857
+<mask> makes kids <mask>	0.818
+<mask> kids	0.75
+<mask> kids	0.778
+<mask> kids're <mask> kids <mask>	0.667
+<mask> canada <mask> kids <mask>	0.833
+<mask> kids <mask>	0.667
+<mask> kids , <mask> kids , <mask> , <mask>	0.625
+<mask> , kids <mask> talk show <mask> . <mask> ?	0.8
+<mask> made it <mask> for <mask> to be kids	0.538
+<mask> , <mask> , <mask> kids <mask>	0.857
+<mask> court <mask> kids liability	0.667
+<mask> kids <mask> cases	0.75
+<mask> <mask>' gps guide <mask> kids	0.667
+<mask> of kids <mask>'re <mask> talk <mask>	0.7
+<mask> kids	0.857
+<mask> . s . <mask> kids	0.833
+<mask> kids <mask> what <mask> on twitter <mask>	0.667
+<mask> 'kids too' <mask> globes <mask>	0.812
+<mask> kids <mask> global sustainability <mask>	0.7
+gladiators <mask> london ? <mask> kids <mask> romans	0.636
+<mask> update <mask> kids <mask>	0.8
+<mask> kids <mask> 'challenging'	0.727
+<mask> for <mask> considering <mask> lgbtq kids in <mask>	0.615
+kids rally support <mask>	0.625
+<mask> kids <mask>	0.812
+<mask> kids <mask> today , <mask>	0.778
+<mask> kids <mask>	0.857
+<mask> how <mask> remove <mask> kids <mask>	0.769
+<mask> kids <mask> ?	0.857
+<mask> 'no <mask> <mask>' <mask> kids	0.8
+<mask> kids <mask>	0.778
+<mask> '<mask>' <mask> kids <mask>	0.8
+<mask> five kids <mask> tax <mask>	0.727
+<mask> kids in <mask>	0.818
+kids <mask> than <mask>	0.8
+<mask> kids <mask>	0.857
+<mask> kids	0.818
+<mask> 'my bad' <mask> kids <mask>	0.727
+trump <mask> kids <mask> , <mask> no longer <mask> birther	0.615
+<mask> kids <mask> up your <mask>	0.75
+<mask> kids <mask> puerto <mask> delayed . <mask>	0.769
+<mask> kids <mask>	0.833
+<mask> '<mask> <mask> thrones' kids <mask>	0.818
+'black <mask>' <mask> kids <mask>	0.833
+welcome <mask> in <mask> kids	0.667
+<mask> kids contract for <mask>	0.625
+<mask> surgery <mask> to <mask> kids	0.667
+<mask> seafood kids're <mask>	0.818
+<mask> kids <mask> lando <mask> '<mask>'	0.818
+<mask> netflix <mask> 'where <mask> kids <mask> ? '	0.769
+why kids's <mask> <mask>'s <mask> kids <mask>	0.812
+charlottesville <mask> kids	0.8
+<mask> kids , <mask>	0.833
+<mask> nc ! <mask> awesome move nyc <mask> kids	0.615
+<mask> i <mask> kids	0.812
+<mask> kids ?	0.714
+<mask> kids <mask> account ?	0.833
+kids <mask> drawn comics <mask> tears	0.556
+miley <mask> kids <mask>	0.8
+<mask> kids <mask> in <mask> , <mask>	0.833
+<mask> of <mask> kids	0.8
+<mask> vaccines <mask> kids	0.8
+<mask> ellison , <mask> , <mask> kids's <mask>	0.833
+<mask> kids <mask>	0.857
+<mask> kids '<mask>' <mask> event	0.75
+kids <mask>	0.833
+<mask> kids	0.833
+kids <mask>	0.857
+<mask> kids <mask>	0.833
+kids <mask> beyond <mask>	0.778
+<mask> for <mask> kids's <mask>	0.8
+<mask> how <mask> kids	0.778
+trump <mask> names <mask> kids <mask>	0.7
+<mask> for <mask> kids . <mask> read <mask> .	0.786
+<mask> kids recipe	0.75
+<mask> 'kids' <mask>	0.8
+<mask> kids <mask> how <mask> really <mask>	0.8
+kids <mask> reflects <mask>	0.778
+kids <mask> , <mask> , <mask> !	0.667
+<mask> motivate kids <mask>	0.778
+<mask> kids	0.167
+people <mask>	0.833
+people <mask> midwest	0.75
+<mask> people <mask>	0.857
+people <mask> for <mask> cravings	0.625
+new people <mask> , <mask> in illinois	0.692
+<mask> offers <mask> people <mask> '<mask> <mask>' <mask>	0.818
+<mask> '<mask>' <mask> '<mask> , ' people <mask>	0.833
+how <mask> people	0.818
+tips for <mask> foolproof people <mask>	0.5
+<mask> talk <mask> people <mask>	0.833
+<mask> people and <mask>	0.778
+<mask> people <mask>	0.75
+<mask> sundance's '<mask> , ' <mask> people <mask> masculinity	0.769
+<mask> 'real people <mask> <mask>'	0.818
+<mask> people <mask> comics <mask>	0.778
+<mask> tickets <mask> people <mask>	0.8
+<mask> morning <mask> people <mask>	0.778
+shell ceo oil <mask> in <mask> people	0.615
+<mask> 'dry <mask> people'	0.75
+<mask> people <mask> memory loss <mask> successful <mask> experience	0.5
+<mask> parenting <mask> people <mask> clueless ?	0.7
+<mask> people <mask> in nasa <mask>	0.7
+<mask> offers people <mask> , dodges <mask>	0.7
+<mask> people	0.75
+this <mask> people	0.818
+<mask> people	0.778
+people <mask> rumors	0.778
+<mask> donating <mask> people	0.818
+<mask> people <mask>	0.833
+<mask> that <mask> the <mask> people ?	0.7
+<mask> ? <mask> people <mask>	0.818
+<mask> people lose weight	0.667
+<mask> hulk hogan <mask> gawker people <mask>	0.6
+<mask> people <mask> !	0.8
+chinese <mask> people <mask>	0.778
+<mask> and people	0.75
+<mask> ceremonies people <mask>	0.818
+<mask> for <mask> people	0.8
+<mask> , <mask> people <mask>	0.857
+turkey <mask> people <mask>	0.8
+<mask> 'bloodthirsty people'	0.667
+chipotle <mask> people <mask>	0.778
+read <mask> iowa for the <mask> people	0.667
+<mask> people <mask> baldness	0.778
+people <mask> . <mask> , <mask> people <mask>	0.8
+french people <mask> and <mask> nice <mask>	0.636
+<mask> how <mask> people <mask>	0.8
+'people <mask> <mask>' <mask> ?	0.857
+<mask> where people <mask>	0.75
+<mask> nunes <mask> people <mask>	0.833
+<mask> people <mask>	0.857
+beachfront <mask> people <mask> vacation <mask>	0.625
+people <mask> photos	0.75
+<mask> reduce people <mask> enjoy <mask>	0.667
+<mask> watching <mask>'s people <mask>	0.778
+yep , <mask> really <mask> have <mask> people <mask> . <mask>	0.714
+<mask> , people , <mask> , <mask>	0.75
+winter storm <mask> u . s . <mask> , people <mask> flights canceled <mask> schools <mask>	0.385
+<mask> links <mask> people <mask>	0.75
+foursquare <mask> people <mask> ?	0.833
+<mask> people's <mask>	0.857
+<mask> people <mask> in miami <mask>	0.7
+<mask> people <mask> people <mask>	0.833
+<mask> 'can't <mask> people' <mask> once	0.769
+<mask> people <mask> , <mask>	0.857
+<mask> venues <mask> people'll <mask>	0.75
+<mask> people <mask> ?	0.857
+<mask> people who <mask> misleading <mask>	0.727
+report <mask> people <mask> , <mask>	0.7
+people <mask> wood	0.8
+<mask> . people want <mask> .	0.786
+decisions <mask> people <mask>	0.75
+<mask> people <mask> during <mask> address	0.667
+people <mask> , <mask> people <mask>	0.778
+<mask> , people <mask> harvey <mask>	0.778
+<mask> general <mask> in people' <mask> us	0.692
+<mask> and hurts people	0.667
+people a global challenge , and <mask>	0.375
+<mask> people <mask>	0.833
+watch <mask> people	0.8
+tips <mask> grandparenting <mask> people <mask>	0.7
+<mask> people story <mask> , <mask>	0.778
+<mask> , people <mask> .	0.833
+<mask> people <mask> , <mask>	0.857
+<mask> people surge	0.8
+<mask> people	0.7
+<mask> out <mask> its people	0.7
+<mask> people <mask>	0.833
+<mask> dang people ! <mask>	0.818
+<mask> debuts <mask> people <mask> '<mask>' <mask> photos , <mask>	0.727
+<mask> trump <mask> , people <mask> falling <mask> at <mask> , <mask>	0.667
+<mask> people photos <mask> william miller show <mask>	0.615
+<mask> ! why <mask> finally <mask> <mask>'s <mask> decisions <mask> people <mask>	0.789
+<mask> people <mask>	0.857
+modern movies <mask> shows <mask> vhs covers people <mask>	0.6
+<mask> download <mask> people who <mask>	0.8
+<mask> people've <mask> harassment <mask>	0.8
+<mask> out <mask> people <mask>	0.75
+<mask> atwood <mask> people <mask>	0.818
+<mask> toms <mask> people <mask>	0.778
+<mask> week <mask> 'super week' ?	0.571
+<mask> links <mask> mental <mask> week	0.625
+chipotle <mask> , <mask> week <mask>	0.818
+<mask> week wedding <mask>	0.769
+<mask> degeneres <mask> than week	0.7
+<mask> week	0.833
+what <mask> want <mask> week	0.786
+<mask> week <mask>	0.833
+<mask> who <mask> week	0.824
+<mask> week <mask> 'retail <mask>'	0.8
+<mask> 'mr . <mask> week <mask> hackers <mask> '<mask>'	0.812
+<mask> week	0.857
+week's <mask> easier , <mask> cuter , <mask>	0.75
+week <mask> in <mask>	0.75
+liberal <mask> week <mask> democrat <mask>	0.769
+<mask> week <mask> , <mask>	0.857
+week <mask> detroit	0.818
+<mask> congressman <mask> boehner <mask> week	0.765
+florida bakery <mask> week <mask>	0.786
+week <mask> . week <mask> .	0.5
+<mask> week <mask> coach	0.8
+<mask> raised <mask> week	0.714
+<mask> week <mask> york courthouse	0.727
+<mask> 'break' <mask> week	0.818
+<mask> lost week	0.818
+divorce <mask> week <mask>	0.778
+<mask> why <mask> week	0.75
+<mask> week <mask> , <mask> healing	0.833
+<mask> outsourcing week , <mask>'s <mask>	0.8
+ashton kutcher <mask> mila kunis' matching <mask> damn <mask> , week <mask> medal	0.5
+<mask> d . c . <mask> week program <mask> profile <mask>	0.615
+week <mask>	0.857
+sheree <mask> 'rhoa' <mask> week	0.667
+<mask> completely <mask> model's week <mask>	0.667
+<mask> pairs <mask> week	0.818
+<mask> , who <mask> the week <mask> ?	0.786
+<mask> week	0.857
+<mask> week	0.857
+<mask> , creepy <mask> , <mask> week	0.8
+<mask> week	0.833
+<mask> <mask>' gps guide <mask> week	0.727
+<mask> week <mask> unknown '<mask>' <mask> kiev	0.625
+reasons <mask> only <mask> week , <mask>	0.769
+<mask> week <mask>	0.833
+<mask> stanford <mask> week <mask>	0.818
+<mask> happy <mask> week	0.75
+how <mask> update <mask> week <mask>	0.667
+james <mask> week <mask> sylvester <mask>	0.75
+<mask> week <mask> hook <mask>	0.778
+nancy <mask>'s <mask> week . <mask> how <mask>	0.727
+<mask> week <mask>	0.818
+<mask> goff , <mask> ballerina , <mask> enjoy <mask> week	0.692
+uae <mask> week . <mask> . <mask>	0.786
+<mask> out <mask> week <mask>	0.8
+fidel castro week <mask>	0.667
+<mask> how <mask> week	0.778
+'<mask> age' <mask> week <mask>	0.75
+<mask> week <mask>	0.818
+week <mask> from <mask> adorably <mask>	0.7
+<mask> , <mask> 'famous' <mask> week	0.8
+<mask> week <mask> ailes <mask> trump <mask>	0.769
+<mask> '<mask> , ' 'dr . <mask> week	0.818
+<mask> . <mask> week in <mask>	0.818
+hockey <mask> week	0.833
+<mask> week <mask>	0.857
+<mask> . week <mask> 'the <mask>' ? <mask>	0.833
+<mask> , <mask> week <mask>	0.857
+<mask> week <mask>	0.857
+<mask>'s <mask> week <mask>	0.833
+week <mask>	0.833
+week , <mask> ?	0.75
+<mask> week lobby ?	0.8
+<mask> <mask>'s <mask> week list	0.75
+thabo sefolosha <mask> week	0.667
+<mask> arrested <mask> week <mask> video	0.727
+<mask> week <mask> infographic	0.778
+<mask> week <mask>	0.818
+week <mask> . <mask>	0.833
+<mask> week <mask>	0.833
+<mask> i didn't <mask> are week <mask>	0.75
+<mask> week . republicans <mask> .	0.818
+richard <mask> tears <mask> <mask>'s week <mask>	0.7
+<mask> strategy <mask> week <mask> formal <mask>	0.786
+<mask> week <mask>	0.857
+<mask> week in <mask>	0.818
+<mask> in <mask> week for <mask>	0.8
+<mask> , week <mask>	0.833
+from week <mask> costa rica's <mask>	0.556
+<mask> rift <mask> week <mask>	0.818
+week <mask> <mask>'s 'hello'	0.714
+photographer <mask> week <mask>'ve <mask>	0.778
+<mask> 'within week ? ' <mask> , <mask>	0.833
+<mask> week <mask> bridesmaid ?	0.8
+<mask> week <mask> police officer , <mask>	0.7
+<mask> week <mask> . <mask>	0.857
+<mask> autism <mask> week <mask>	0.75
+<mask> , <mask> , <mask> why week <mask> <mask>'s how <mask>	0.8
+<mask> week <mask> melting frozen <mask>	0.786
+<mask> week <mask> parenthood <mask> oscars	0.75
+<mask> jindal <mask> week <mask>	0.818
+<mask> obama <mask>	0.833
+obama <mask> obama <mask> obama	0.769
+<mask> obama ?	0.8
+<mask> obama	0.778
+where <mask> obama <mask> issues	0.7
+obama <mask> museum <mask> exhibition photos	0.714
+<mask> obama <mask> fashion <mask> ?	0.818
+<mask> obama'd never expect <mask> causing <mask> pain	0.5
+obama <mask> <mask>'s <mask> '<mask> go' <mask>	0.833
+<mask> by <mask> obama <mask>	0.833
+sleep obama <mask> boosts <mask>	0.714
+<mask> coffee <mask> for <mask> ? <mask> obama	0.727
+<mask> obama <mask> like	0.818
+<mask> in <mask> obama <mask> at lahey <mask>	0.692
+<mask> obama <mask> , <mask>	0.75
+'<mask>' <mask> a <mask> obama <mask> league	0.727
+<mask> and obama mount <mask>	0.786
+<mask> obama <mask> new <mask> celebrations	0.625
+shortcut <mask> , <mask> obama <mask>	0.778
+<mask> obama <mask> transgender <mask>	0.8
+<mask> obama's <mask> talk <mask> make <mask> ?	0.75
+<mask> a <mask> obama	0.778
+<mask> obama <mask>	0.857
+<mask> obama	0.75
+<mask> obama <mask> obama <mask>	0.818
+<mask> obama's <mask>	0.857
+<mask> . obama <mask>	0.833
+<mask> so far <mask> obama 'they're reading <mask> a proctoscope'	0.5
+<mask> obama <mask> a <mask>	0.8
+<mask> obama <mask>	0.818
+<mask> obama <mask>	0.857
+obama denies ban <mask> . <mask> . <mask>	0.727
+<mask> diapers <mask> obama <mask>	0.778
+<mask> and <mask> obama	0.75
+a <mask> obama <mask>	0.667
+<mask> airbnb <mask> obama <mask>	0.8
+obama's <mask>	0.857
+princeton obama <mask>	0.75
+<mask> obama , <mask> all <mask>	0.778
+<mask> show how <mask> obama's <mask>	0.769
+<mask> a obama's <mask>	0.714
+<mask> a <mask> obama	0.727
+<mask> obama's <mask> video <mask>	0.778
+<mask> shocked <mask> obama <mask>	0.75
+how <mask> , a <mask> obama story	0.714
+<mask> obama <mask>	0.833
+obama <mask> how <mask>	0.833
+obama <mask> supporters <mask> licenses <mask>	0.769
+obama <mask> withdraws <mask>	0.818
+<mask> temporarily blocks <mask>' controversial 'fetal <mask>' <mask>	0.5
+obama <mask>	0.833
+obama <mask> 'hurtful'	0.75
+<mask> '<mask> <mask> know' <mask> and <mask> obama video	0.714
+obama debuts <mask>	0.818
+obama <mask> ?	0.8
+watch <mask> obama <mask> more <mask>'s choice <mask> anyone	0.5
+<mask> a <mask> obama	0.714
+<mask> hoffman <mask> obama <mask>	0.778
+a reminder <mask> obama once thought <mask>	0.722
+obama <mask> least <mask>	0.75
+<mask> obama <mask> in <mask>	0.75
+<mask> obama <mask>	0.833
+<mask> , <mask> obama ?	0.8
+<mask> a obama <mask> a 'happy <mask>'	0.733
+<mask> obama <mask> equality	0.833
+obama <mask> rewrite	0.818
+<mask> obama in <mask> , thanks <mask>	0.786
+<mask> obama's <mask> more	0.8
+<mask> tamron <mask> obama <mask>	0.833
+<mask> obama <mask>	0.75
+<mask> obama <mask>	0.833
+<mask>'s <mask> of the <mask> jersey <mask> obama	0.667
+<mask> , <mask> obama like <mask>	0.8
+<mask> obama <mask>	0.833
+here's <mask> obama	0.778
+<mask> obama . <mask> .	0.75
+<mask> obama	0.857
+<mask> obama's <mask> <mask>'s morning <mask> ?	0.75
+<mask> ? <mask> spotlight <mask> obama	0.818
+<mask> a <mask> obama <mask> 'break' <mask>	0.727
+<mask> obama <mask> who <mask> pride parade	0.737
+<mask> obama <mask> middleton	0.75
+budget obama <mask> save money <mask>	0.5
+obama <mask> , <mask> continues report	0.625
+a new <mask> , <mask> , obama and <mask> kathmandu open <mask>	0.571
+<mask> obama <mask>	0.833
+<mask> obama <mask>	0.857
+<mask> obama diversity <mask> , again	0.727
+<mask> wardrobe obama <mask> partying <mask>	0.75
+<mask> . <mask> . <mask> fake obama <mask>	0.818
+<mask> york <mask> ponytails at <mask> obama <mask> photos	0.615
+<mask> ? <mask> obama <mask> ?	0.75
+<mask> a <mask> obama	0.75
+<mask> vermont <mask> over <mask> of <mask> obama	0.6
+obama <mask> for <mask>	0.75
+<mask> obama	0.833
+obama <mask> savers for <mask>	0.667
+obama and <mask> , <mask>	0.75
+<mask> . obama <mask> 'radical <mask>'	0.8
+obama <mask>	0.833
+trump <mask> goal <mask> welcoming , <mask>	0.625
+<mask> case <mask> trump <mask>	0.75
+trump <mask> , <mask> beating , <mask>	0.8
+<mask> trump <mask> balance <mask>	0.818
+<mask> trump's <mask> architects <mask> ?	0.778
+<mask> trump <mask> , <mask> recap <mask>	0.8
+<mask> ask trump what <mask>	0.727
+why <mask> trump <mask> ivies	0.667
+trump <mask>	0.857
+how <mask> trump <mask>	0.8
+<mask> trump	0.833
+where <mask> trump <mask>	0.778
+how <mask> trump ?	0.727
+trump's <mask> ! <mask> recipes	0.75
+<mask> trump photos	0.8
+trump <mask> ! <mask> review <mask> . <mask> , m . <mask> .	0.75
+<mask> trump	0.778
+'big <mask> <mask>' <mask> trump <mask>	0.833
+<mask> u . <mask> . <mask> '<mask> <mask> trump'	0.75
+<mask> finally <mask> trump <mask> bonuses	0.7
+trump <mask> , <mask> brag <mask>	0.786
+trump <mask>	0.714
+how <mask> trump <mask>	0.75
+<mask> off the cuff <mask> trump and <mask> , <mask>	0.643
+'trump' accused <mask> attacking <mask> , <mask>	0.667
+trump <mask>	0.778
+trump <mask> . <mask> .	0.857
+<mask> how <mask> trump <mask>	0.8
+trump <mask> why <mask> '<mask> <mask>' <mask>	0.778
+trump <mask> '<mask> <mask> cross'	0.727
+<mask> trump <mask>	0.857
+<mask> trump	0.75
+<mask> trump <mask> !	0.8
+<mask> trump <mask>	0.833
+<mask> trump <mask> '<mask> <mask> <mask>' photos	0.818
+'star trump' <mask> '<mask> <mask>' <mask>	0.778
+<mask> bizarre <mask> trump	0.833
+<mask> video games <mask> trump <mask> <mask>' <mask>	0.769
+<mask> trump	0.75
+<mask> trump '<mask> <mask> means <mask> <mask>'	0.8
+<mask> trump	0.714
+<mask> handcuffed <mask> trump <mask>	0.8
+<mask> trump <mask> ship <mask>	0.818
+<mask> trump <mask> beginner <mask>	0.75
+trump's <mask> eggnog <mask>	0.778
+<mask> trump <mask>	0.833
+<mask> , trump <mask> , 'when <mask> ? '	0.818
+trump <mask>	0.714
+'gilmore <mask>' trump <mask>	0.833
+<mask> trump	0.833
+trump <mask>	0.75
+<mask> trump photos	0.75
+<mask> trump's <mask> survey <mask> photos	0.786
+<mask> negotiable <mask> trump <mask>	0.818
+trump <mask> 'must change'	0.75
+<mask> . <mask> where <mask> trump <mask> , <mask>	0.778
+where <mask> trump <mask>	0.778
+<mask> reportedly warned trump <mask>	0.8
+trump <mask>	0.667
+<mask> trump've <mask> stock	0.8
+<mask> opens <mask> , <mask> . s . trump <mask>	0.786
+how <mask> trump <mask>	0.75
+<mask> trump <mask>	0.75
+comforting <mask> , trump , <mask>	0.727
+<mask> trump <mask>	0.857
+<mask> trump <mask> specifically for <mask> men	0.6
+<mask> trump . <mask> . security <mask> why <mask>	0.769
+reasons <mask> in trump	0.667
+<mask> video <mask> trump <mask> u . <mask> . <mask>	0.786
+<mask> trump <mask> scene rocked <mask> week .	0.5
+<mask> berkeley <mask> , <mask> trump <mask> sanctions	0.786
+<mask> <mask>'d 'monitor every <mask> , ' <mask> trump's <mask> spent , <mask>	0.692
+<mask> trump <mask> ?	0.778
+<mask>'s <mask> for trump <mask> confront xi <mask> and <mask>	0.583
+building <mask> trump <mask> and <mask>	0.667
+<mask> trump <mask> 'billy <mask> <mask>' <mask> 'new <mask> <mask>'	0.786
+<mask> loneliness <mask> trump <mask> '<mask> <mask>'	0.818
+trump <mask> , <mask> , <mask> report	0.8
+<mask> , <mask> trump <mask> ?	0.857
+<mask> trump <mask> 'difficult' <mask>	0.667
+<mask> mom <mask> trump <mask> months <mask>	0.727
+what trump <mask>	0.75
+<mask> year anniversary <mask> trump's <mask>	0.667
+trump <mask> climbs	0.818
+here's <mask> for <mask> trump's <mask> , 'first <mask> <mask>'	0.714
+<mask> trump <mask> 'multiple' <mask>	0.818
+<mask> trump and <mask>	0.818
+<mask> trump calls <mask>	0.818
+<mask> trump <mask>	0.833
+trump <mask> . <mask> ? photos	0.8
+how <mask> trump <mask> for <mask> ?	0.812
+<mask> trump	0.857
+<mask> ! <mask> 'trump's <mask> <mask>' <mask> disney	0.818
+<mask> featured <mask> . <mask> . <mask> deserves <mask> trump <mask>	0.769
+<mask> trump ? what <mask> ?	0.778
+trump <mask> fatally <mask>	0.75
+what <mask> trump <mask>	0.818
+<mask> trump . <mask> .	0.75
+'philly <mask> , ' <mask> how <mask> trump <mask>	0.786
+reasons '<mask> and <mask> <mask>' <mask> '<mask> trump'	0.769
+amidst photos <mask> trump's <mask> , politicians <mask> americans <mask> hillary	0.588
+<mask> , <mask> to <mask> photos	0.818
+<mask> dicaprio <mask> '<mask> <mask> <mask>' money <mask> photos	0.812
+<mask> to <mask> photos <mask>	0.714
+<mask> photos	0.857
+<mask> , <mask> , <mask> to <mask> photos	0.833
+<mask> photos <mask> to <mask>	0.833
+<mask> york to romania , photos <mask>	0.692
+<mask> trump <mask> photos <mask> good <mask>	0.786
+<mask> . s . <mask> photos <mask>	0.833
+<mask> teach <mask> photos <mask>	0.778
+<mask> 'show <mask>' photos <mask>	0.818
+<mask> photos in <mask> than <mask>	0.769
+photos to <mask>	0.667
+<mask> , photos , <mask>	0.75
+<mask> photos <mask> postpartum depression	0.714
+<mask> to <mask> photos	0.778
+<mask> photos <mask> to <mask>	0.778
+<mask> . s . <mask> photos	0.818
+<mask> photos <mask> , <mask>	0.857
+<mask> photos	0.833
+trump <mask> defunding <mask> . <mask> . photos	0.786
+<mask> photos to <mask>	0.5
+<mask> to <mask> photos	0.778
+<mask> my '<mask> <mask>'s' were <mask> to <mask>	0.75
+photos <mask>	0.833
+<mask> 'normal' <mask> photos ?	0.818
+<mask> photos affects <mask> <mask>'s <mask>	0.778
+<mask> photos <mask>	0.833
+<mask> for <mask> <mask>'s photos <mask>	0.833
+<mask> photos	0.833
+<mask> photos , americans <mask>	0.778
+<mask> photos to <mask>	0.75
+mandy moore <mask> new photos <mask> at <mask>	0.545
+<mask> photos <mask>	0.75
+<mask> of photos <mask> ?	0.75
+<mask> rockin' <mask> photos	0.778
+<mask> , <mask> to photos	0.692
+photos <mask> may <mask>	0.75
+<mask> . photos . <mask> , <mask> , <mask> to 'harry <mask>'	0.8
+<mask> brady <mask> stephen colbert <mask> chugging photos	0.5
+photos <mask> for <mask>	0.778
+<mask> to <mask> photos <mask>	0.818
+how <mask> photos <mask> boko haram	0.556
+photos <mask> to <mask>	0.778
+<mask> of <mask> photos	0.8
+<mask> vote , <mask> photos	0.75
+<mask> garden <mask> parents have <mask> photos <mask> free <mask>	0.583
+<mask> photos to <mask>	0.667
+<mask> o . photos . to <mask> to <mask> ?	0.714
+<mask> to <mask> photos ?	0.667
+<mask> photos <mask> 'is <mask> ? '	0.714
+elle <mask> photos	0.833
+photos , <mask> talk show <mask> tv . why <mask> homer <mask> ?	0.6
+photos to <mask>	0.714
+<mask> photos <mask>	0.857
+<mask> photos <mask> . s . <mask>	0.667
+the value of <mask> photos	0.5
+<mask> first <mask> photos <mask> in <mask>	0.8
+<mask> biden photos <mask>	0.8
+<mask> photos <mask>	0.857
+sean <mask> trump <mask> photos <mask> 'snl'	0.733
+<mask> , to <mask> photos <mask>	0.778
+<mask> , <mask> photos <mask>	0.833
+<mask> photos <mask> policies	0.778
+photos to <mask>	0.8
+<mask> state voters <mask> for <mask> photos	0.714
+photos <mask> openly <mask> vice <mask>	0.769
+<mask> to <mask> to <mask> photos	0.8
+<mask> photos	0.833
+<mask> photos with <mask> <mask>'s <mask> make you <mask>	0.692
+<mask> dug deep <mask> photos . <mask> found <mask> .	0.75
+in <mask> photos <mask> black classical <mask>	0.636
+photos <mask> why <mask>	0.8
+<mask> to photos <mask>	0.8
+<mask> photos <mask>	0.833
+<mask> photos <mask> circumcision <mask>	0.778
+<mask> and photos <mask> proposes <mask>	0.7
+<mask> photos <mask> for <mask>	0.778
+'<mask> of <mask>' <mask> '<mask> <mask> begins' gets <mask> photos	0.692
+<mask> tebow photos <mask> , <mask>	0.833
+<mask> to <mask> in photos' <mask>	0.769
+<mask> photos <mask> yet	0.8
+<mask> photos i was <mask> i was <mask>	0.5
+<mask> 'erasing' photos <mask> . s . <mask>	0.75
+photos <mask> ! <mask> conservatives <mask> of the <mask> <mask>'s <mask>	0.789
+<mask> with the <mask> photos <mask> .	0.625
+<mask> , <mask> 'accidental <mask>' <mask> to <mask> photos	0.75
+<mask> photos <mask> williams' <mask> bengal <mask>	0.769
+why <mask> photos ? <mask>	0.75
+<mask> photos hiv medication <mask>	0.7
+<mask> chill photos <mask> in	0.667
+<mask> photos	0.857
+<mask> watching trump <mask> . king '<mask> <mask> photos <mask>'	0.692
+<mask> photos	0.5
+<mask> to <mask> vegas <mask> photos <mask>	0.786
+<mask> photos <mask> to <mask>	0.833
+<mask> photos is <mask> , as <mask>	0.75
+photos <mask>	0.667
+photos <mask>	0.857
+<mask> their video to <mask>	0.769
+video <mask>	0.857
+video <mask>	0.714
+'guggenheim' <mask> to <mask> of '<mask>' video	0.667
+<mask> crisis <mask> '<mask> dilemma , ' <mask> video's <mask>	0.75
+<mask> video <mask> house <mask> jackson	0.7
+the <mask> video	0.75
+<mask> <mask>' <mask> 'fetal <mask>' video	0.75
+<mask> marriage <mask> video <mask>	0.818
+i <mask> video <mask>	0.786
+usain bolt <mask> video <mask>	0.625
+<mask> trump <mask> 'video , ' <mask> deal , <mask>	0.8
+<mask> video <mask>	0.818
+<mask> , <mask> video	0.733
+<mask> video <mask>	0.857
+<mask> . video <mask>	0.778
+<mask> video pelosi	0.75
+listen <mask> video <mask>	0.818
+<mask> , <mask> trump <mask> video <mask>	0.8
+<mask> video	0.778
+<mask> caitlyn <mask> video <mask>	0.8
+<mask> video	0.727
+elon <mask> video <mask> tesla	0.75
+the <mask> video <mask>	0.8
+<mask> video're <mask>	0.833
+'fast <mask> ' <mask> video <mask> , <mask>	0.769
+<mask> video <mask> charles radcliffe	0.8
+<mask> video <mask>	0.857
+, , <mask> marriage <mask> video	0.778
+<mask> video	0.8
+why <mask> video <mask> ?	0.75
+<mask> video	0.857
+<mask> video <mask>	0.833
+video from <mask>	0.429
+<mask> mlb <mask> video <mask>	0.833
+<mask> in 'video' <mask> with <mask>	0.692
+<mask> zombies <mask> video	0.75
+<mask> video <mask> dozens <mask>	0.8
+<mask> russia video	0.778
+<mask> federer video , <mask>	0.8
+<mask>'s <mask> , <mask> video <mask>	0.833
+<mask> video	0.833
+<mask> 'curvy , ' <mask> video	0.778
+video <mask> ?	0.714
+<mask> video running for president , <mask>	0.692
+pinterest <mask> video	0.8
+<mask> video <mask>	0.833
+<mask> video '<mask> <mask>'	0.857
+<mask> mascots <mask> to <mask> video	0.75
+<mask> video <mask>	0.857
+<mask> cruz , <mask> video <mask>	0.818
+video <mask>	0.7
+<mask> . <mask> to make video <mask>	0.692
+<mask> video <mask>	0.833
+<mask> video <mask> 'luke <mask>'	0.833
+<mask> have <mask> video	0.8
+<mask> video <mask> ?	0.857
+<mask> video <mask> sot <mask>	0.778
+<mask> video <mask>	0.833
+<mask> video	0.833
+<mask> video <mask> <mask>'s suggestion <mask> used drugs <mask> debate	0.615
+video <mask> have <mask>	0.8
+<mask> manziel <mask> video ?	0.833
+video <mask> 'just had <mask> <mask>'	0.6
+<mask> video <mask> 'mindful <mask>'	0.778
+<mask> how <mask> , <mask> video <mask> had <mask> copy	0.692
+munich video <mask> , <mask>	0.8
+<mask> of <mask> video	0.75
+<mask> video 'hidden <mask>' <mask>	0.833
+video <mask> dc comics' '<mask>' <mask> to <mask>	0.6
+<mask> video <mask>	0.833
+man hammers <mask> his <mask> video	0.636
+<mask> for <mask> ? <mask> video	0.8
+<mask> for video <mask>	0.769
+<mask> video <mask> still <mask>	0.833
+<mask> video <mask> ?	0.8
+lgbt video <mask> of <mask>	0.667
+video <mask>	0.8
+<mask> video <mask> , <mask>	0.833
+<mask> video <mask> 'submarine <mask>'	0.833
+<mask> . <mask> video	0.75
+video <mask> , <mask> , <mask> and more	0.625
+<mask> 'lawsuits' <mask> video <mask>	0.833
+<mask> tax <mask> video <mask>	0.75
+<mask> video <mask> donald trump <mask> fake <mask>	0.778
+video <mask>	0.8
+<mask> video in <mask> sleep	0.625
+<mask> irwin shares <mask> video <mask> dad <mask>	0.714
+<mask> ramsay <mask> , <mask> , video <mask>	0.833
+lisa <mask> , <mask> <mask>' <mask> , <mask> '<mask>' video <mask> '<mask>' video	0.769
+<mask> . <mask> . <mask> video <mask>	0.727
+<mask> '<mask>' <mask> video	0.833
+<mask> video <mask> and <mask>	0.75
+<mask> ! <mask> video	0.8
+<mask> of <mask> that <mask> to <mask> of 'the video'	0.5
+video <mask> 'boring' <mask>	0.692
+<mask> video is <mask> is being <mask> parents	0.615
+<mask> why <mask> video <mask>	0.778
+video's <mask> seafood <mask>	0.818
+<mask> patrick <mask> video <mask> grammy's <mask>	0.667
+<mask> their <mask> over 'world' <mask>	0.667
+<mask> world	0.833
+<mask> halloween <mask> world's <mask>	0.778
+doctors have <mask> world <mask>	0.727
+<mask> offers <mask> , <mask> world	0.818
+world <mask> 'itsy <mask> <mask>' <mask> soothe <mask>	0.769
+<mask> world	0.5
+how <mask> world <mask>	0.8
+<mask> paltrow <mask> world	0.75
+<mask> russia's world . <mask> , <mask>	0.778
+<mask> world	0.833
+how <mask> world <mask>	0.8
+<mask> world his <mask>	0.833
+<mask>'s 'run' <mask> world <mask>	0.8
+<mask> '<mask> <mask>' <mask> world , film writer <mask>	0.786
+<mask> world	0.857
+<mask> opens <mask> in world <mask>	0.727
+'fast <mask> ' <mask> world , <mask> director <mask>	0.769
+<mask> , <mask> world <mask> for <mask>	0.8
+world <mask>	0.667
+world <mask> finish <mask>	0.778
+what <mask> world <mask> new <mask> ?	0.625
+<mask> world <mask> , photos	0.818
+world <mask> hawaii <mask>	0.818
+<mask> or <mask> world	0.667
+<mask> says world has 'right <mask> response' <mask>	0.583
+<mask> case <mask> heroin <mask> world <mask> york	0.615
+<mask> 'world's <mask> proven <mask>'	0.8
+<mask> world or <mask> ?	0.429
+<mask> house press <mask> <mask>'s <mask> used drugs <mask> world	0.615
+<mask> gchat <mask> why <mask> world <mask>	0.769
+election <mask> republican world	0.7
+<mask> world <mask>	0.857
+<mask> world <mask> allergies ? !	0.75
+<mask> world <mask> , <mask>	0.833
+trump <mask> u . <mask> . <mask> world <mask>	0.769
+<mask> world <mask> 'help <mask>' <mask> pakistan <mask> ? photo	0.765
+<mask> who <mask> melania trump <mask> world	0.667
+<mask> world <mask> .	0.833
+<mask> , <mask> world <mask>	0.8
+world <mask> chicago <mask>	0.8
+<mask> sleep <mask> sleep world <mask>	0.769
+<mask> 'superbugs' world <mask>	0.778
+<mask> out <mask> world <mask>	0.778
+<mask> world	0.75
+<mask> opens <mask> world <mask>	0.75
+<mask> have <mask> their world	0.769
+<mask> outs miiverse <mask> world for <mask> u gamers	0.333
+<mask> how <mask> world <mask>	0.818
+<mask> to <mask> your <mask> , <mask> proof the world <mask>	0.643
+<mask> blocks native <mask>' attempt <mask> world	0.6
+dylann <mask> world in <mask>	0.769
+<mask> world <mask> marriage	0.818
+<mask> retailers <mask> world <mask>	0.8
+<mask> world <mask> daca	0.75
+<mask> world	0.857
+<mask> world <mask> elections	0.818
+<mask> delevingne <mask> world	0.778
+<mask> of world	0.75
+<mask> her <mask> 'world' netflix <mask>	0.7
+how <mask> world	0.75
+signs world're <mask>	0.75
+<mask> world's <mask>	0.857
+world <mask> freakin' <mask>	0.833
+<mask> world <mask> ?	0.8
+florida <mask> candidate <mask> governor <mask> world <mask>	0.6
+<mask> carrying <mask>'s <mask> world hunting <mask>	0.7
+'get out' <mask> 'call world <mask> <mask>' <mask>	0.75
+<mask> world <mask> largest <mask>	0.8
+<mask> world <mask> have <mask> ?	0.818
+<mask> 'picking world <mask> <mask>'	0.818
+<mask> world <mask> is <mask>	0.833
+<mask> world's 'seat <mask> seat' <mask> send <mask> , <mask> flirt <mask>	0.706
+<mask> world <mask>	0.833
+world <mask> in brussels <mask> trump in <mask> ?	0.583
+<mask> world <mask>	0.778
+<mask> world <mask> out <mask> , in <mask>	0.824
+<mask> '<mask> <mask>' <mask> world in <mask> . s .	0.769
+<mask> world <mask>	0.833
+<mask> lemon claps <mask> world <mask> a jab <mask> harassment claims	0.462
+<mask> world <mask>	0.857
+world collectors using <mask>' <mask>	0.625
+gladiators <mask> london ? <mask> world <mask> romans	0.636
+<mask> world	0.833
+<mask> world	0.857
+hillary clinton <mask> world <mask>	0.769
+<mask> tribute <mask> world reaching for tissues	0.615
+<mask> world likely <mask>	0.778
+<mask> <mask>'s <mask> in world	0.75
+<mask> world <mask>	0.857
+<mask> world <mask>	0.857
+<mask> world <mask>	0.857
+<mask> prove <mask> , world <mask>	0.833
+<mask> world <mask>	0.833
+<mask> world <mask> thunderstorms	0.8
+why <mask> world <mask>	0.778
+reflux , colic <mask> ! <mask> nursing <mask> world	0.643
+<mask> world <mask>	0.857
+<mask> world <mask>	0.714
+year <mask> world , <mask> brown <mask>	0.667
+<mask> women <mask>	0.857
+why <mask> women <mask>	0.8
+<mask> women <mask>	0.714
+pope <mask> women <mask> papacy	0.7
+<mask> women <mask>	0.857
+women <mask>'s <mask> photos	0.8
+<mask> toms <mask> women <mask>	0.778
+how <mask> women <mask>	0.75
+u . s . women <mask>	0.786
+<mask> in women <mask>	0.8
+<mask> 'women's <mask> possible' <mask>	0.833
+conan <mask> mexico <mask> women for donald trump's <mask>	0.538
+<mask> survey <mask> women	0.75
+<mask> women <mask> , <mask>	0.857
+<mask> reportedly <mask> women , <mask> , <mask>	0.8
+<mask> women <mask>	0.75
+<mask> blackwater <mask> women <mask>	0.818
+<mask> '<mask> <mask> women' <mask> story <mask> methodist <mask> schaefer	0.714
+<mask> , <mask> women	0.857
+<mask> and <mask> women ?	0.8
+chief <mask> women <mask> dueling . <mask> , <mask> .	0.727
+<mask> women <mask>	0.833
+'women <mask>' <mask>	0.857
+<mask> for <mask> considering <mask> lgbtq women in <mask>	0.615
+<mask> iphone ? women <mask> apple .	0.75
+<mask> women <mask>	0.833
+<mask> , <mask> women , approved <mask>	0.75
+<mask> harrison , year <mask> , <mask> women , <mask>	0.824
+<mask> . <mask> in women	0.8
+women <mask> . who <mask> ?	0.818
+<mask> possible women <mask> rack <mask>	0.692
+<mask> women <mask>	0.857
+'american women' <mask>	0.778
+gop <mask> women <mask> refugees	0.727
+<mask> tip orthodoxy <mask> on women	0.5
+<mask> women <mask> fetterman <mask>	0.8
+<mask> women <mask> for <mask>	0.818
+<mask> aleppo , women <mask>	0.818
+<mask> women <mask>	0.833
+<mask> , <mask> women	0.8
+<mask> ? <mask> in <mask> women <mask> .	0.833
+<mask> linkedin's <mask> women <mask>	0.75
+<mask> women	0.857
+what <mask> women <mask> do <mask>	0.625
+<mask> tamron <mask> women	0.833
+women <mask>	0.8
+women <mask> plan <mask>	0.75
+women <mask> '<mask>	0.833
+<mask> myanmar <mask> women <mask>	0.75
+charges <mask> who <mask> women's <mask>	0.727
+<mask> women <mask> . s . <mask>	0.778
+women <mask> than <mask> to <mask>	0.8
+women batman <mask> inspires <mask>	0.625
+in <mask> women	0.818
+<mask> awesome recipes <mask> women	0.667
+<mask> women <mask> spammers ?	0.778
+<mask> 'talking <mask> talk' <mask> women <mask> <mask>' <mask>	0.786
+<mask> 'marshall <mask> ' <mask> women <mask>	0.833
+how <mask> women've <mask>	0.8
+<mask> tarantino <mask> women <mask>	0.75
+women <mask> friendship <mask>	0.818
+<mask> on <mask> , <mask> women , <mask>	0.8
+<mask> women <mask> lookbook photos	0.786
+women's <mask>	0.833
+forget women , this week it's <mask> about <mask>	0.333
+<mask> women 'can <mask> better' <mask>	0.727
+<mask> women packs <mask> with his <mask>	0.692
+women malfunctions <mask>	0.778
+<mask> women's <mask>	0.857
+<mask> yellowstone <mask> women <mask>	0.75
+<mask> , <mask> in <mask> same women who <mask> better ? <mask> , poll	0.625
+<mask> plant <mask> grows both tomatoes <mask> potatoes <mask> women	0.455
+<mask> alleged women <mask>	0.8
+why women <mask>	0.778
+<mask> women <mask> with <mask> ?	0.8
+ikea <mask> women <mask> , <mask>	0.75
+<mask> women <mask> ?	0.833
+<mask> reasons <mask> women <mask>	0.778
+<mask> thine <mask> worst <mask> women moments <mask> week , april april	0.385
+<mask> women <mask> divorce ?	0.75
+<mask> women <mask>	0.857
+<mask> women <mask>	0.833
+<mask> women who <mask> ?	0.778
+<mask> women <mask> keep <mask> email <mask>	0.7
+<mask> reminder <mask> hemsworth <mask> basically women <mask>	0.714
+<mask> 'not <mask> sure' women'd <mask>	0.75
+<mask> of muslim artist <mask> women	0.556
+<mask> tribute <mask> out <mask> women	0.75
+<mask> approved <mask> women <mask>	0.75
+<mask> women <mask>	0.857
+<mask> lopez <mask> 'sad' for women video	0.615
+<mask> list women <mask> , <mask> photos	0.8
+london's <mask> non <mask> women <mask>	0.7
+<mask> women	0.8
+<mask> women	0.857
+women <mask>	0.857
+<mask> women <mask> removed <mask>	0.833
+<mask> , <mask> women , <mask> , talk <mask> video	0.727
+<mask> women <mask> user <mask>	0.75
+<mask> <mask>'s <mask> series <mask> baldness <mask> women <mask>	0.8
+<mask> life <mask> forever	0.75
+<mask> in <mask> life your <mask>	0.75
+<mask>'s <mask> life ! <mask> recipes	0.75
+sailor , <mask> reyes , <mask> life <mask>	0.812
+<mask> european <mask> life ?	0.75
+<mask> life <mask> ?	0.857
+<mask>'s life <mask> improving <mask>	0.75
+'unusually' <mask> life <mask>	0.833
+<mask> life <mask> venezuela	0.8
+<mask> 'legally blonde' life <mask>	0.727
+'american <mask>' <mask> , <mask> absolutely , <mask> where life's <mask>	0.75
+life <mask>	0.714
+<mask> proxy life <mask>	0.778
+<mask> life <mask>	0.833
+<mask> life for <mask> '<mask>' <mask>	0.75
+<mask> more <mask> life	0.8
+virgin snake <mask> nd life in <mask>	0.444
+inspired <mask> <mask>' <mask> life	0.75
+<mask> life	0.8
+texts <mask> once life <mask>	0.667
+<mask> life	0.857
+the republican life <mask> bill <mask> mean and cold <mask>	0.3
+<mask> life <mask>	0.8
+<mask> and <mask> model <mask> life <mask>	0.75
+<mask> out <mask> life <mask> , <mask>	0.833
+<mask> life <mask> ?	0.667
+<mask> 'last <mask> life' <mask>	0.818
+<mask> life's <mask> awards <mask>	0.8
+life <mask> accused <mask> stealing , <mask>	0.7
+<mask> new <mask> photos <mask> life	0.7
+<mask> life	0.667
+<mask> life <mask> life	0.778
+<mask> life <mask> life <mask>	0.7
+<mask> life <mask>	0.833
+<mask> life <mask>	0.857
+<mask> life <mask>	0.857
+<mask> life defends <mask> awful claim <mask> assault	0.5
+israel <mask> mideast life <mask>	0.667
+<mask> for <mask> life' risk <mask>	0.786
+<mask> <mask>'s 'cheap thrills' <mask> life <mask>	0.7
+'<mask> <mask>' <mask> remake <mask> life <mask> season	0.7
+<mask> life . <mask> . <mask> afghanistan <mask>	0.778
+<mask> life <mask> !	0.833
+<mask> sentenced <mask> life <mask>	0.8
+<mask> life <mask>	0.833
+<mask> life <mask>	0.833
+<mask> new <mask> checklist <mask> your life	0.5
+life <mask>	0.818
+<mask> life <mask>	0.833
+<mask> '<mask> <mask> <mask>' trailer <mask> good <mask> life	0.786
+l . <mask> . life <mask> million <mask> misconduct cases <mask>	0.643
+<mask> life <mask> comey <mask>	0.818
+<mask> life <mask> colbert	0.8
+<mask> case <mask> life	0.818
+<mask> becoming life . <mask> . <mask>	0.786
+<mask> deal 'i <mask> life <mask> <mask>'	0.8
+<mask> putin <mask> life <mask>	0.778
+<mask> life	0.833
+<mask> sure <mask> profile life <mask>	0.8
+<mask> life	0.857
+<mask> life <mask> kalis and <mask> 'social <mask>' <mask>	0.778
+<mask> how <mask> life <mask>	0.818
+<mask> life	0.833
+<mask> life <mask>	0.8
+life <mask> for <mask>	0.8
+<mask> , life <mask>	0.833
+<mask> life <mask>	0.5
+<mask> , <mask> let<mask> <mask> life <mask> gear ! <mask>	0.818
+<mask> 'i <mask> life too' <mask>	0.667
+<mask> life <mask> moore , <mask>	0.833
+<mask> 'do <mask> die' <mask> life	0.667
+<mask> life ?	0.714
+parody <mask> donald trump's life <mask> point	0.583
+<mask> life <mask> , <mask> , and <mask>	0.8
+<mask> , <mask> life <mask> photos	0.778
+<mask> life <mask> life 'stand'	0.769
+emma thompson's <mask> awards <mask> flats , <mask> awesome <mask> life	0.5
+<mask> life in <mask> , <mask>	0.833
+<mask> 'happy <mask> life'm running'	0.667
+<mask> <mask>'s <mask> events <mask> life's <mask>	0.833
+life <mask>	0.75
+<mask> life <mask> if <mask>	0.818
+<mask> <mask>'s life <mask> '<mask> <mask> thrones' theme	0.786
+life <mask>	0.857
+<mask> 'how <mask> life <mask> die' <mask>	0.8
+<mask> 'tend <mask> befriend' <mask> life , <mask>	0.727
+<mask> <mask>' gps <mask> life <mask>	0.818
+life <mask> 'alternative <mask>' <mask>	0.75
+<mask>'s <mask> , <mask> life <mask> life <mask> ?	0.818
+<mask> to <mask> life	0.818
+<mask> speakers <mask> <mask>'s <mask> life	0.8
+<mask> dolphin <mask> life <mask> hunters	0.7
+life <mask> for <mask> , , <mask>	0.778
+<mask> life <mask> , <mask> . <mask> .	0.8
+what life <mask> i <mask>	0.786
+life free <mask> , still <mask>	0.571
+stumped <mask> what <mask> life <mask> ? here's <mask> solution <mask> wow <mask> !	0.667
+<mask> welcome life <mask>	0.778
+life <mask> in <mask>	0.8
+<mask> life in <mask> aziz ansari	0.667
+<mask> kids <mask> 'now <mask>'s <mask>'	0.769
+<mask> kids <mask>	0.778
+<mask> kids <mask> , <mask>	0.8
+kids <mask> california <mask> , <mask>	0.778
+<mask> kids	0.833
+<mask> putin <mask> kids <mask>	0.778
+kids , nasa's <mask> moon <mask> , <mask>	0.7
+<mask> gps <mask> for <mask> your kids	0.556
+<mask> in <mask> kids <mask> , <mask>	0.6
+iceland , <mask> , <mask> kids under <mask>	0.769
+<mask> kids . <mask> kids	0.778
+<mask> amend <mask> kids	0.818
+<mask> kids	0.833
+<mask> . <mask> . <mask> the kids <mask> ,	0.75
+vin diesel weighs <mask> for kids <mask> better	0.571
+<mask> kids	0.857
+<mask> , <mask> kids	0.857
+<mask> recipes , <mask> kids's <mask>	0.778
+<mask> kids <mask> trump's <mask> order <mask> muslim <mask> . s .	0.688
+<mask> kids trump <mask>	0.833
+<mask> kids <mask>	0.833
+<mask> kids possible <mask> angeles	0.625
+'be aware' <mask> kids <mask>	0.7
+<mask> kids	0.857
+<mask> once <mask> kids	0.8
+<mask> , kids <mask>	0.8
+<mask> kids <mask> '<mask> is <mask> <mask>'	0.786
+<mask> kids <mask> i <mask>	0.571
+<mask>'s <mask> kids <mask> stunning , terrifying <mask>	0.727
+what <mask> kids ?	0.75
+google image , the daily kids and <mask>	0.25
+<mask> kids	0.857
+<mask> kids <mask> 'great <mask> <mask>'	0.833
+<mask> , <mask> harris <mask>'s <mask> kids <mask>	0.818
+<mask> . kids <mask> for <mask>	0.75
+<mask> 'doesn't <mask> kids' <mask>	0.778
+<mask> kids <mask>	0.833
+<mask> common <mask> '<mask>' kids , <mask>	0.8
+<mask> <mask>'s 'cheap thrills' <mask> kids <mask>	0.7
+<mask> kids <mask>	0.818
+<mask> dhs <mask> obama <mask> kids	0.727
+<mask> kids <mask> ?	0.833
+<mask> uninsured <mask> insurance <mask> kids	0.778
+kids <mask> out <mask>	0.75
+'show kids <mask>	0.818
+kids <mask>	0.833
+kids <mask>	0.857
+<mask> hamill and <mask> kids <mask> carrie <mask> grammy <mask>	0.545
+<mask> kids photo	0.818
+<mask> fresh crop <mask> kids photos	0.556
+<mask> rolls back <mask> as kids <mask>	0.5
+disturbing <mask> south korean kids <mask> for <mask> ?	0.5
+kids <mask>	0.857
+<mask> to <mask> kids	0.833
+kids <mask>	0.857
+<mask> kids <mask>	0.857
+how <mask> kids <mask>	0.8
+<mask> kids <mask> thunderstorms	0.8
+<mask> kids <mask> ?	0.75
+kids <mask>	0.857
+yes , <mask> , <mask> bad kids	0.5
+<mask> <mask>'s 'taking <mask>' series <mask> kids <mask>	0.786
+kids <mask>	0.857
+<mask> rivalry <mask> kids <mask>	0.778
+<mask> washington , best <mask> star , admits <mask> kids	0.444
+<mask> , <mask> , <mask> kids photos , video	0.75
+<mask> kids	0.857
+<mask> <mask>'s 'give kids <mask> <mask>' <mask> 'american <mask>'	0.786
+<mask> who <mask> kids <mask> ?	0.818
+<mask> kids	0.778
+kids <mask> in <mask>	0.75
+kids's <mask> 'busting <mask> <mask>'	0.778
+<mask> out , flavortown kids guy <mask> square restaurant <mask> closing	0.417
+<mask> diego <mask> want <mask> , <mask> for <mask> kids	0.692
+kids <mask> . <mask> !	0.75
+<mask> ricci <mask> welcome <mask> kids <mask>	0.625
+<mask> kids <mask>	0.833
+<mask> kids <mask> who <mask> 'genius' <mask>	0.769
+<mask> , <mask> kids	0.714
+kids <mask> midwest	0.75
+<mask> gyrata condition causes kids's <mask>	0.667
+<mask> kids <mask>	0.833
+<mask> o'reilly completely <mask> kids	0.625
+<mask> snowden kids's <mask>	0.818
+<mask> kids <mask> america <mask> photos	0.7
+<mask> , <mask> who <mask> , <mask> kids saved <mask>	0.769
+<mask> tubman <mask> kids <mask>	0.778
+'do i <mask> kids ? '	0.5
+<mask> kids <mask> , er <mask> work <mask>	0.714
+<mask> kids , '<mask> who' <mask> 'alternative <mask>'	0.6
+<mask> magnificent kids <mask> , bolivia	0.625
+<mask> kids <mask>	0.667
+<mask> kids <mask>	0.857
+kids's <mask> zika <mask>	0.75
+<mask> beckham's <mask> kids <mask> ads photos	0.692
+'<mask> <mask> five' reboot <mask> kids <mask>	0.769
+kids <mask> , <mask> highlights <mask> this <mask>'s <mask> worst <mask> photos	0.643
+<mask> , kids <mask> no lower <mask> , <mask> video	0.667
+<mask> . kids <mask>	0.833
+<mask> kids in <mask>	0.818
+<mask> in london ? <mask> people spotlight <mask>	0.636
+<mask> low <mask> people <mask> realistic <mask> photos	0.667
+<mask> corden and <mask> people <mask> ready <mask> rumble	0.444
+trump <mask> people <mask> , <mask> no longer <mask> birther	0.615
+<mask> people how <mask>	0.8
+people <mask>	0.833
+<mask> people <mask>	0.833
+here's <mask> sleep <mask> people	0.692
+customizable <mask> people <mask>	0.833
+<mask> and people <mask>	0.75
+<mask> people ?	0.818
+<mask> people in <mask>	0.778
+maar <mask> , <mask> people	0.818
+<mask> , <mask> people ? <mask>	0.857
+<mask> make <mask> people ?	0.778
+<mask> who <mask> people ?	0.75
+<mask> people literally nominated <mask> run <mask> sec	0.615
+<mask> and <mask> people <mask>	0.714
+<mask> people who <mask>	0.8
+<mask> . <mask> people ?	0.778
+<mask> age <mask> , <mask> shifting <mask> . here's what people <mask> .	0.706
+<mask> babies people <mask> want <mask>	0.769
+where <mask> and <mask> people beauty <mask>	0.778
+how <mask> people <mask>	0.818
+<mask> people <mask> and <mask>	0.778
+people <mask> 'nuclear' <mask>	0.714
+<mask> people <mask> ?	0.833
+<mask> people ? <mask>	0.833
+<mask> pelosi <mask> people <mask> . people <mask> '<mask>' video	0.733
+<mask> how people <mask>	0.778
+san <mask> people	0.833
+<mask> chaplain <mask> year <mask> assaulting people	0.75
+people solicitor <mask> burwell	0.727
+<mask> people <mask> benefits	0.818
+<mask> cuba , <mask> people <mask>	0.778
+<mask> people	0.667
+people <mask> from <mask> may finally <mask>	0.733
+<mask> instagram account people <mask>	0.667
+<mask> people ! photos	0.8
+people <mask>	0.833
+<mask> highlights how <mask> people <mask>	0.727
+<mask> '<mask> update' <mask> people <mask>	0.8
+stephen <mask> likens <mask> . 's <mask> people <mask> '<mask>'s <mask>'	0.692
+<mask> people in <mask> fight against <mask> brutality	0.375
+before '<mask> <mask> people <mask> video	0.75
+<mask> keeps people <mask> beach , <mask>	0.667
+<mask> people , <mask> video	0.833
+people <mask> protest increased security <mask>	0.692
+<mask> people <mask> deflated <mask>	0.833
+<mask> people in <mask>	0.818
+<mask> why people <mask>	0.8
+<mask> 'i weigh' <mask> people <mask> , <mask>	0.7
+<mask> stewart <mask> out <mask> , <mask> people	0.7
+<mask> for people	0.8
+people <mask> , <mask> havana <mask>	0.75
+<mask> people <mask>	0.857
+people <mask> , <mask> study <mask>	0.75
+<mask> for '<mask> <mask> <mask>' <mask> people <mask>	0.833
+<mask> people <mask> starbucks , <mask>	0.818
+what <mask> means <mask> <mask>'s <mask> people	0.625
+<mask> in people <mask> photos	0.714
+people <mask> proposals <mask>	0.833
+people <mask> steubenville <mask> convicted <mask>	0.786
+<mask> people <mask> reclamation <mask>	0.769
+<mask>'s <mask> people <mask> drugstore <mask>	0.769
+<mask> people deal <mask> ?	0.714
+people <mask> '<mask> <mask>	0.833
+<mask> and people <mask> , <mask>	0.769
+<mask> , <mask> , <mask> people in <mask> before <mask>	0.769
+<mask> . <mask> teams <mask> 'back <mask> <mask>' people	0.8
+<mask> vet <mask> , <mask> people <mask>	0.812
+<mask> people <mask> ! <mask>	0.833
+cybersecurity <mask> sends <mask> , <mask> people	0.667
+<mask> million people <mask>	0.778
+people's <mask> when <mask> what <mask>	0.636
+people <mask> 'appall' <mask> . <mask> . <mask>	0.778
+<mask> people <mask>	0.778
+people <mask> in biting new <mask>	0.636
+<mask> people threatens <mask> with special prosecutor , jail	0.333
+<mask> people <mask> , <mask>	0.857
+'dismal' <mask> people	0.778
+hillary clinton <mask> people <mask>	0.75
+<mask> people <mask>	0.857
+<mask> killed <mask> people	0.8
+<mask> standard people <mask> ditching <mask>	0.7
+<mask> 'people <mask> black' <mask>	0.833
+<mask> people <mask> allegations <mask>	0.833
+<mask> people <mask>	0.857
+<mask> people <mask> , <mask>	0.833
+<mask> people's <mask> ?	0.8
+people <mask> gator <mask>	0.818
+<mask> people who <mask>	0.8
+people <mask> like <mask> , <mask> mildly <mask>	0.769
+people <mask> summer <mask>	0.75
+<mask> people <mask> video	0.778
+<mask> people <mask>	0.857
+<mask> emboldens <mask> people <mask> out <mask> joel kramer	0.545
+<mask> 'people too' <mask> globes <mask>	0.812
+<mask> people <mask>	0.833
+<mask> people <mask>	0.857
+<mask> rodman <mask> explain <mask> korea week , <mask> for <mask>	0.615
+<mask> damon finally <mask> week <mask>	0.7
+<mask> 'jurassic week' <mask>	0.818
+<mask> <mask>' fantasy <mask> . week <mask>	0.8
+<mask> trump <mask> week	0.778
+<mask> study by <mask> week <mask>	0.625
+<mask> <mask>'s most <mask> week	0.8
+<mask> carson <mask> government week	0.786
+celebrities <mask> week <mask>	0.8
+trump'<mask> '<mask> week <mask>' for <mask> . <mask> . cars <mask>	0.769
+how <mask> week	0.778
+<mask> week we <mask>	0.8
+<mask> 'alone <mask> alone' <mask> week <mask>	0.769
+<mask> , <mask> trump <mask> week	0.833
+<mask> week <mask>	0.824
+chicago <mask> waive <mask> week	0.7
+<mask> week <mask>	0.833
+<mask> week <mask>	0.833
+<mask> week <mask> make <mask> how <mask>	0.769
+<mask> week <mask> coin	0.8
+<mask> week <mask> 'deliberately <mask> <mask>' <mask>	0.833
+<mask> week . <mask> ?	0.667
+week <mask>	0.857
+<mask> in <mask> . s . <mask> . week <mask>	0.769
+<mask> week <mask> newspapers <mask>	0.75
+<mask> week <mask>	0.857
+rapper <mask> proved black <mask> week <mask> real	0.444
+how week <mask>	0.818
+<mask> week '<mask> <mask> . <mask> who <mask> . '	0.786
+<mask> barclays <mask> week <mask> libor <mask>	0.714
+<mask> got <mask> major week <mask>	0.625
+week <mask> is <mask>	0.8
+<mask> . <mask> in week	0.8
+<mask> week , '<mask>' <mask> 'west <mask>' <mask> , <mask>	0.778
+<mask> 'remorseless' <mask> week <mask>	0.8
+week <mask> may <mask>	0.75
+<mask> week <mask> wrongful <mask>	0.833
+<mask> scalia <mask> week	0.75
+<mask> for <mask> week	0.8
+<mask> laughs <mask> week in <mask>	0.7
+<mask> week <mask> we <mask> dallas <mask>	0.786
+<mask> week wears <mask> with her '<mask>' <mask>	0.733
+<mask> kate bornstein <mask> what week <mask>	0.6
+<mask> week , zorro <mask> out	0.667
+<mask> week <mask>	0.778
+week <mask> yet	0.8
+<mask> 'shitfaced week <mask> drunk'	0.7
+<mask> week become <mask> boston <mask> designed <mask>	0.692
+<mask> week	0.857
+we <mask> . <mask> . <mask> week .	0.75
+gop <mask> with <mask> week <mask>	0.769
+week <mask>	0.833
+<mask> week	0.833
+<mask> what <mask> week <mask> ?	0.75
+<mask> week <mask>	0.833
+<mask> week <mask> '<mask>'s <mask> troll'	0.8
+<mask> week's <mask>	0.857
+<mask> week <mask> 'handed <mask>' <mask>	0.833
+<mask> in '<mask>' <mask> my <mask> week	0.625
+'twas <mask> week <mask> .	0.75
+<mask> . why <mask> week ?	0.833
+<mask> machine week device <mask> help <mask>	0.556
+<mask> week <mask>	0.75
+<mask> week trolls <mask> '<mask>' <mask> '<mask> <mask> you'	0.769
+week <mask> coal	0.75
+<mask> week <mask> 'muslim <mask> <mask>'	0.778
+week <mask> in fair <mask> fair <mask> debates	0.5
+week <mask> beautiful <mask>	0.818
+<mask> week <mask> , <mask>	0.857
+report <mask> russian billionaire <mask> week	0.556
+<mask> week <mask> its <mask>	0.75
+<mask> from <mask> film <mask> week , <mask>	0.7
+<mask> week <mask>	0.857
+<mask> should <mask> week	0.75
+<mask> week	0.857
+<mask> week	0.857
+<mask> '<mask> alone' <mask> week <mask>	0.778
+<mask> week <mask> kenya <mask>	0.8
+<mask> week <mask>	0.714
+week <mask> how <mask>	0.8
+<mask> why <mask> villarreal <mask> week	0.667
+<mask> 'makes week <mask> <mask>'	0.818
+<mask> sturges' <mask> , <mask> week <mask>	0.8
+<mask> week <mask> have <mask>	0.75
+hillary clinton week <mask> give <mask> in <mask>	0.615
+<mask> ? <mask> week in <mask>	0.75
+<mask>'s <mask> week <mask> grey	0.667
+<mask> . <mask> 'we <mask> respect' <mask> week <mask>	0.7
+<mask> week <mask>	0.833
+to the <mask> ! <mask> week , <mask>	0.6
+<mask> <mask>'s <mask> week , <mask> photos	0.75
+<mask> week	0.833
+<mask> week <mask> turkey	0.818
+<mask> giuliani <mask> week <mask>	0.8
+<mask> week <mask>	0.818
+<mask> kaepernick <mask> threats <mask> week <mask> prove <mask>	0.667
+what , <mask> , <mask> week ?	0.8
+<mask> week	0.75
+<mask> to <mask> week	0.778
+<mask> week	0.778
+obama <mask> update <mask>	0.8
+<mask> obama	0.75
+<mask> obama <mask>	0.857
+<mask> obama <mask>	0.833
+<mask> obama <mask>	0.833
+<mask> obama recorded <mask>	0.818
+obama <mask> '<mask>'	0.75
+<mask> halts <mask> obama	0.8
+<mask> obama <mask> , <mask>	0.8
+in <mask> '<mask> and <mask>'	0.75
+<mask> why obama <mask>	0.8
+<mask> obama	0.857
+obama dedicates <mask> , one year after <mask>	0.615
+<mask> missing <mask> search <mask> obama's disappearance	0.789
+obama <mask>	0.857
+<mask> obama <mask>	0.833
+<mask> like <mask> obama ?	0.778
+<mask> obama <mask> , <mask> in <mask>	0.833
+obama , <mask> , has <mask> , makes <mask> anesthesia <mask>	0.75
+<mask> the <mask> obama <mask>	0.778
+<mask> . obama <mask>	0.857
+<mask> when <mask> obama <mask>	0.714
+<mask> obama <mask>	0.8
+<mask> , obama <mask>	0.818
+<mask> myth <mask> inspiration <mask> motivation obama <mask>	0.733
+<mask> negotiable <mask> obama <mask>	0.818
+<mask> bookstore <mask> 'obama' <mask>	0.8
+'<mask> age' fossils <mask> in obama <mask>	0.5
+<mask> mindfulness <mask> a <mask> obama <mask>	0.769
+<mask> ? obama <mask>	0.857
+<mask> obama <mask>	0.857
+<mask> . s . <mask> obama	0.8
+<mask> obama	0.857
+<mask> spambot <mask> obama <mask>	0.8
+<mask> obama who <mask>	0.778
+'<mask> <mask> obama' <mask>	0.8
+<mask> help <mask> . obama <mask> interested .	0.727
+obama . <mask> breaks <mask> '<mask>'ve <mask> <mask>'	0.769
+<mask> obama proposes . <mask>	0.778
+<mask> these <mask> some <mask> obama <mask>	0.8
+<mask> obama <mask> , what <mask> ? how <mask>	0.824
+<mask> obama <mask> photo exhibit	0.625
+<mask> obama's <mask> point	0.833
+<mask> obama	0.857
+portland <mask> hires <mask> , <mask> obama <mask> clear <mask>	0.636
+<mask> obama's <mask>	0.833
+<mask> obama <mask> how <mask> empower <mask> skills	0.75
+<mask> obama's why <mask>	0.8
+<mask> obama <mask> no <mask> on <mask>	0.667
+<mask> obama	0.818
+obama <mask> out <mask> 'star wars' <mask> visit sick fans <mask>	0.533
+<mask> obama <mask> obama	0.818
+<mask> obama	0.833
+<mask> for <mask> obama benefits <mask> of <mask>	0.692
+obama's <mask> letter <mask> years <mask>	0.75
+<mask> and <mask> obama <mask> ignored <mask> within	0.692
+<mask> want <mask> obama's <mask>	0.8
+<mask> in <mask> obama <mask> , <mask> ,	0.75
+<mask> , obama <mask> basically <mask> 'don't <mask> <mask>'	0.769
+<mask> obama <mask> death penalty <mask>	0.625
+<mask> , obama <mask> , <mask>	0.857
+obama <mask> ideas <mask>	0.833
+<mask> obama <mask> same <mask>	0.75
+<mask> artist obama <mask>	0.8
+<mask> obama	0.857
+<mask> continues <mask> . <mask> . , obama <mask>	0.818
+<mask> obama <mask>	0.857
+obama <mask> for <mask> in <mask>	0.75
+<mask> out <mask> obama's <mask>	0.8
+obama <mask>	0.8
+obama <mask> receive <mask>	0.75
+obama <mask> sold <mask>	0.75
+<mask> ? obama <mask> heist	0.778
+obama hold on <mask>	0.769
+<mask> obama	0.833
+<mask> poses <mask> obama <mask> , nearly <mask> photos	0.692
+obama <mask> that <mask> . <mask> may <mask>	0.727
+obama <mask> , <mask> staged <mask>	0.8
+<mask> 'reluctant' <mask> obama <mask>	0.8
+<mask> common <mask> obama	0.818
+obama <mask> really <mask>	0.556
+<mask> obama <mask> game	0.818
+<mask> obama <mask> 'have <mask> away , ' like <mask>	0.733
+obama demands exemption <mask>	0.625
+<mask> obama's future at <mask>	0.7
+<mask> obama <mask> for <mask> may <mask>	0.786
+a very <mask> , no good , <mask> obama	0.444
+why <mask> a <mask> obama <mask>	0.769
+obama <mask> cautioned <mask>	0.818
+<mask> wears <mask> a <mask> her 'obama' <mask>	0.733
+<mask> obama <mask> in <mask>	0.833
+<mask> a <mask> obama ?	0.667
+<mask> watch <mask> count <mask> obama's <mask>	0.769
+<mask> reveals <mask> obama story	0.769
+<mask> obama	0.778
+<mask> first <mask> , <mask> college <mask> back <mask> obama	0.6
+<mask> when obama <mask> move 's <mask> !	0.692
+<mask> obama <mask> likely <mask>	0.778
+<mask> , obama <mask> 'not a <mask>'	0.75
+<mask> affects <mask> obama	0.75
+<mask> trump <mask> price <mask>	0.778
+<mask> trump	0.833
+<mask> trump <mask>	0.857
+<mask> trump <mask> <mask>'s <mask> hotels	0.8
+<mask> trump <mask> global <mask>	0.8
+<mask> trump , <mask> photos	0.818
+<mask> trump <mask> sexually <mask> with <mask> disabilities	0.6
+trump are <mask> , report <mask>	0.4
+<mask> trump <mask> photo	0.8
+<mask> <mask>' 'carpool <mask>' was a <mask> tastic ride	0.444
+how <mask> trump	0.8
+<mask> trump <mask> 'germany's brexit <mask>'	0.667
+<mask> trump <mask> legacy <mask>	0.8
+<mask> awkward movie moments <mask> trump <mask> smoother	0.583
+<mask> trump <mask> commercials videos	0.75
+<mask> trump <mask>	0.833
+trump . <mask> , <mask> , <mask> 'below <mask> <mask>' <mask>	0.75
+trump <mask>	0.833
+trump passes . <mask> , <mask> package <mask>	0.667
+trump <mask> dior <mask> worth <mask>	0.7
+<mask> trump <mask> like <mask>	0.75
+trump <mask> reveals <mask>	0.833
+<mask> trump ? <mask> ?	0.667
+<mask> trump <mask> good <mask> true	0.769
+<mask> '<mask> <mask>' <mask> emojis <mask> for trump who <mask>	0.692
+trump detains <mask> , <mask>	0.818
+trump and <mask> toxic <mask> in <mask> '<mask>'	0.667
+why <mask> trump <mask>	0.75
+<mask> trump <mask>	0.778
+trump <mask>	0.75
+<mask> trump's <mask> , <mask>	0.857
+<mask> trump <mask>	0.833
+<mask> trump could <mask> good for <mask>	0.636
+<mask> trump	0.833
+<mask> . <mask> trump won't <mask>	0.8
+trump <mask> peggy <mask> has spent <mask> record <mask>	0.583
+revisiting <mask> and <mask> of trump	0.692
+uk restaurant <mask> helping <mask> trump during <mask> holidays , <mask>	0.571
+<mask> review <mask> , trump <mask>	0.833
+debunking <mask> good <mask> trump <mask>	0.769
+<mask> trump <mask> happens when '<mask>' <mask>	0.75
+'masterchef <mask>' <mask> 'trump's <mask>' <mask>	0.778
+trump <mask> <mask>'s <mask> why <mask>	0.8
+trump <mask>	0.857
+<mask> trump <mask>	0.857
+<mask> trump <mask>	0.833
+'<mask> <mask>' <mask> stoked trump <mask>	0.818
+<mask> trump drop <mask> after <mask>	0.75
+<mask> , no matter <mask> trump <mask>	0.769
+u . <mask> . , <mask> trump <mask>	0.818
+<mask> ny <mask> , <mask> trump ?	0.778
+crossfit <mask> trump're <mask>	0.8
+trump <mask> shows <mask> photo	0.7
+<mask> trump	0.857
+<mask> trump <mask>	0.833
+<mask> bring trump and <mask>	0.75
+'<mask> matter' trump <mask>	0.833
+this trump <mask> series <mask> tackles <mask>	0.6
+<mask> trump <mask>	0.857
+<mask> , <mask> scouts <mask> 'trump <mask> all'	0.812
+<mask> trump <mask> these geeky <mask>	0.75
+trump <mask> prize <mask>	0.778
+u . <mask> . <mask> trump <mask>	0.818
+<mask> trump's <mask> , when <mask> nytimes . <mask>	0.75
+why <mask> trump <mask>	0.778
+<mask> trump's <mask> lensed <mask>	0.833
+<mask> trump <mask> missions	0.833
+<mask> describe how <mask> trump <mask>	0.769
+trump <mask> ' <mask> , but <mask>	0.75
+trump don't <mask> , study <mask>	0.667
+<mask> ? <mask> a <mask> trump	0.778
+trump <mask> instagram <mask> 'snl'	0.75
+<mask> trump !	0.8
+<mask> trump's <mask>	0.857
+<mask> how <mask> trump <mask>	0.833
+<mask> trump <mask>	0.857
+trump <mask> , <mask> story	0.833
+<mask> considers <mask> after early <mask> trump	0.692
+trump <mask> that <mask> the true meaning of <mask>	0.333
+<mask> trump <mask> , <mask> carolina <mask> chiefs	0.769
+trump <mask>	0.857
+<mask> recipes <mask> trump <mask> superfood	0.769
+<mask> 'no ! ' <mask> trump , <mask>	0.667
+<mask> trump 'new <mask>' <mask>	0.8
+<mask> trump	0.833
+trump <mask> trump <mask>	0.714
+<mask> trump's <mask> extended <mask> , <mask>	0.75
+<mask> trump , , <mask> nyc <mask>	0.8
+what trump <mask> , and <mask> , don't <mask> consent .	0.545
+<mask> wants <mask> trump for <mask>	0.75
+<mask> trump <mask> rarely <mask>	0.818
+<mask> list <mask> trump , <mask> and <mask> week photos	0.643
+<mask> trump <mask>	0.857
+<mask> trump <mask>	0.857
+trump <mask> <mask>'s <mask> everything video	0.7
+how <mask> trump <mask>	0.75
+trump <mask> makes <mask>	0.818
+<mask> how <mask> trump	0.8
+<mask> how <mask> trump	0.769
+<mask> trump <mask> '<mask> <mask>' video	0.818
+photos to <mask>	0.571
+photos <mask> 'without <mask>'	0.571
+<mask> photos <mask> antidepressants <mask>	0.833
+<mask> russian <mask> photos <mask> donetsk <mask>	0.625
+<mask> to <mask> photos	0.818
+<mask> out photos <mask>	0.769
+<mask> to <mask> photos <mask> photos ?	0.692
+photos <mask>	0.833
+<mask> photos <mask> , <mask> 'off <mask>'	0.75
+<mask> to <mask> photos <mask> ?	0.75
+<mask> photos <mask> , <mask> to <mask> nice <mask> donald trump	0.667
+<mask> photos to <mask>	0.818
+<mask> say <mask> he's <mask> <mask>'s <mask> photos	0.75
+<mask> . 's <mask> with russians to 'ocean<mask> <mask>'	0.692
+photos <mask> cruise	0.7
+<mask> . s . <mask> to <mask> photos	0.75
+<mask> anderson <mask> on <mask> assange <mask> photos	0.556
+<mask> . <mask> photos to <mask>	0.75
+lebron <mask> once <mask> pounds <mask> photos	0.636
+<mask> photos <mask>	0.636
+<mask> photos	0.6
+<mask> photos <mask> in <mask>	0.818
+'<mask> . n . c . l . e . ' photos is <mask>	0.6
+<mask> photos <mask> gop <mask> obamacare <mask>	0.727
+<mask> photos <mask>	0.818
+<mask> terrorists <mask> photos <mask> '<mask> , ' <mask>	0.778
+<mask> photos <mask> hot <mask> dramas <mask>'ll <mask>	0.786
+photos <mask>	0.7
+<mask> , <mask> , <mask> photos to <mask>	0.818
+<mask> walks photos red carpet with trans <mask>	0.455
+<mask> avocado <mask> doritos , <mask> photos	0.75
+<mask> ! <mask> bipedal <mask> strolls <mask> photos	0.667
+photos to <mask> to <mask>	0.75
+<mask> to photos	0.8
+photos belgrade <mask> local <mask>	0.625
+<mask> photos	0.5
+photos <mask> olympics <mask> were in <mask>	0.692
+<mask> photos	0.667
+<mask> 'bullied' <mask> . photos ?	0.667
+<mask> in <mask> photos examined by <mask>	0.556
+<mask> photos to <mask> buffett why <mask> ?	0.75
+<mask> photos <mask> to <mask>	0.818
+spurs <mask> . s . <mask> photos <mask> '<mask> <mask> <mask>'	0.812
+<mask> photos <mask> to <mask> rant <mask>	0.769
+<mask> to <mask> . s . photos <mask>	0.667
+<mask> photos <mask> 'cellular <mask>'	0.818
+<mask> photos <mask>	0.714
+<mask> photos <mask>	0.75
+<mask> their <mask> photos	0.75
+police photos <mask> of <mask> mcknight	0.5
+<mask> photos <mask> ?	0.857
+<mask> york <mask> photos <mask>	0.8
+<mask> photos <mask>' <mask> to <mask>	0.818
+<mask> to <mask> photos	0.75
+spanish ikea ad <mask> photos <mask>	0.636
+<mask> . photos're <mask> to <mask> .	0.778
+<mask> boycott <mask> photos	0.778
+<mask> photos	0.833
+<mask> to <mask> photos	0.8
+<mask> to <mask> photos	0.714
+<mask> foia photos	0.778
+turkish photos <mask> , <mask> climbs	0.786
+<mask> maher <mask> photos to <mask>	0.8
+sophia <mask> , <mask> '<mask>' , <mask> '<mask> <mask>' photos	0.833
+<mask> photos . '<mask>' ?	0.714
+<mask> photos <mask> wasting <mask> , <mask> to <mask>	0.769
+<mask> batman <mask> photos	0.75
+<mask> photos <mask>	0.857
+<mask> photos	0.833
+<mask> trump <mask> '<mask> <mask> , ' <mask> photos is <mask>	0.769
+<mask> to <mask> photos <mask>	0.8
+<mask> , <mask> , <mask> to <mask> photos	0.833
+<mask> to <mask> photos , <mask>	0.818
+<mask> snows photos <mask>	0.8
+<mask> to <mask> photos	0.714
+<mask> , <mask> photos petition	0.818
+<mask> photos <mask> trump	0.75
+<mask> to <mask> photos	0.769
+<mask> gets <mask> hgtv <mask> she's <mask> out <mask> photos	0.643
+<mask> trump photos <mask> <mask>' 'toxic' <mask> to	0.714
+<mask> why <mask> photos <mask> ?	0.778
+<mask> photos's <mask> immigration <mask>	0.818
+<mask> in <mask> photos , <mask> , <mask>	0.818
+photos <mask> several <mask>	0.778
+tesla <mask> photos <mask>	0.75
+photos to <mask>	0.75
+<mask> to <mask> photos ?	0.667
+<mask> photos	0.833
+<mask> , <mask> photos <mask>	0.8
+<mask> photos <mask> to <mask>	0.8
+<mask> photos <mask> antarctica	0.8
+<mask> to <mask> to <mask> photos , <mask>	0.786
+priest's <mask> photos <mask>	0.778
+<mask> corden <mask> trump's photos <mask>	0.625
+<mask> photos <mask> ? why <mask> , <mask> . <mask> .	0.8
+<mask> , <mask> photos <mask>	0.833
+photos to <mask>	0.667
+<mask> photos <mask> to <mask>	0.692
+<mask> 'male photos' ?	0.6
+<mask> is <mask> asian photos	0.7
+<mask> , video linked <mask>	0.833
+<mask> for <mask> video	0.833
+<mask> video's <mask> ?	0.833
+<mask> video <mask> waiters <mask> in your <mask>	0.75
+<mask> video	0.857
+<mask> video <mask>	0.833
+<mask> video that are anything but <mask>	0.375
+<mask> parents video	0.778
+<mask> video , zachary quinto <mask> to <mask> the <mask> '<mask>'	0.615
+video <mask> bad boys <mask>	0.8
+<mask> video the <mask> supplementing your <mask>	0.5
+<mask> video	0.833
+<mask> in <mask> video	0.75
+<mask> video <mask> us why <mask> can't <mask> refugee <mask>	0.615
+<mask> york <mask> video <mask>	0.8
+<mask> and alien video the cool <mask> of <mask> are <mask>	0.462
+<mask> , pharmacy <mask> meningitis <mask> , <mask> video <mask>	0.812
+<mask> i <mask> video <mask>	0.818
+<mask> in <mask> for <mask> video	0.7
+video <mask> babies <mask> , <mask>	0.778
+why <mask> ticket <mask> video <mask> in <mask>	0.692
+<mask> , <mask> video	0.778
+<mask> probably <mask> accurate video	0.7
+isis <mask> video <mask> , <mask>	0.818
+<mask> video <mask> trump's <mask>	0.818
+david's bridal <mask> huffpost weddings <mask>' <mask> video	0.444
+<mask> the video <mask>	0.75
+<mask> florida's <mask> restoring <mask> video <mask>	0.75
+<mask> , <mask> 'video	0.818
+trump 'i'd <mask> video' <mask> agree <mask> immigration <mask>	0.643
+<mask> , <mask> , <mask> trump's <mask> video , thanks <mask>	0.812
+<mask> virginia <mask> video	0.778
+'<mask> <mask> gitmo <mask> his video <mask>	0.812
+<mask> . video	0.75
+video <mask>'s <mask> video <mask>'s <mask>	0.625
+colorado <mask> , <mask> parenthood video , <mask> christians	0.692
+<mask> video <mask>	0.778
+<mask> . video	0.8
+<mask> , <mask> , <mask> o'donnell <mask> video	0.818
+<mask> video , <mask> '<mask>' <mask> 'communist'	0.8
+video <mask> pokemon <mask>	0.818
+<mask> video ? <mask> ford .	0.75
+<mask> actress <mask> video <mask> '<mask>'	0.8
+<mask> video <mask> , <mask>	0.857
+why video <mask>	0.75
+<mask> video	0.833
+bipartisan video <mask> . s . <mask>	0.7
+let<mask> <mask> video <mask> who <mask> america	0.769
+<mask> video <mask>	0.818
+<mask> video !	0.857
+<mask> . <mask> . <mask> trump'<mask> <mask> travel video <mask> higher <mask>	0.667
+<mask> video <mask> parenthood <mask> oscars	0.75
+<mask> video <mask> for <mask>	0.769
+video <mask> in <mask>	0.5
+<mask> video , <mask> space	0.769
+<mask> shaker <mask> the <mask> food <mask> of the <mask> video	0.538
+<mask> video	0.833
+<mask> video <mask>	0.833
+<mask> the '<mask> <mask> <mask>' <mask>	0.857
+'video' <mask>	0.727
+<mask> video , zorro <mask> out	0.667
+<mask> '<mask>'s <mask> of video'	0.75
+more <mask> video <mask> , <mask> may <mask>	0.7
+<mask> , <mask> video for <mask>	0.833
+<mask> video	0.833
+sustainable housing <mask> survivors <mask> kalis <mask> de <mask> 'social <mask>' <mask> video	0.611
+'<mask>' video <mask> crashes <mask>	0.833
+<mask> to amplify <mask> video	0.786
+<mask> jones , <mask>'s <mask> video <mask>	0.818
+<mask> 'directly responsible' <mask> video	0.7
+<mask> video's <mask> for <mask>	0.8
+video <mask> make <mask> for <mask>	0.667
+<mask> video <mask> scrubs	0.75
+<mask> huffington video <mask>	0.8
+<mask> out video <mask>	0.5
+celebrities <mask> with fury <mask> video <mask>	0.636
+<mask> of video <mask>	0.833
+<mask> doesn't <mask> video <mask>	0.778
+<mask> old <mask> video	0.8
+<mask> bieber <mask> video <mask>	0.778
+<mask> your video <mask>	0.75
+video <mask> to <mask>	0.833
+video <mask> where i <mask> to <mask> open <mask> to <mask>	0.625
+<mask> chile <mask> recipe <mask> video <mask>	0.769
+<mask> video	0.714
+video <mask>	0.818
+<mask> video for <mask>	0.818
+<mask> publicly deny video <mask>	0.7
+<mask> israeli video	0.818
+who <mask> ? video <mask>	0.778
+<mask> jacobs in <mask> video <mask>	0.7
+<mask> won't give <mask> , insists on <mask> video	0.625
+baltimore <mask> video <mask>	0.778
+<mask> government <mask> video <mask>	0.778
+<mask> trans <mask> video <mask>	0.833
+<mask> video	0.857
+<mask> video <mask> egos <mask>	0.833
+<mask> fleeing <mask> video	0.778
+<mask>'s <mask> , as <mask> video	0.833
+<mask> vatican <mask> video	0.75
+<mask> , <mask> birth world , <mask>	0.818
+parents <mask> world <mask> drive <mask> , <mask>	0.692
+<mask> and organize <mask> world <mask>	0.75
+my <mask> cost <mask> and <mask> world	0.714
+<mask> final <mask> done in world	0.556
+<mask> world <mask> awesome <mask>	0.778
+<mask> running <mask> world <mask>'s <mask>	0.818
+customizable <mask> world <mask>	0.833
+<mask> , <mask> 'world'm <mask> , world've survived'	0.8
+<mask> rift <mask> world <mask>	0.818
+<mask> debunked or <mask> , <mask> world <mask>	0.8
+why <mask> world <mask>	0.8
+<mask> and <mask> in <mask> world	0.75
+<mask> world talks <mask>	0.75
+how <mask> world	0.778
+<mask> '<mask> <mask> world' <mask>	0.833
+<mask> world <mask> ? video	0.8
+<mask> jay <mask> world	0.75
+<mask> . <mask> 'world <mask> respect' <mask>	0.8
+<mask> terrifyingly similar <mask> , world <mask> photo	0.714
+<mask> roundup <mask> world <mask>	0.75
+<mask> finance <mask> world <mask> new <mask>	0.7
+<mask> links <mask> world <mask>	0.75
+world <mask> july <mask> some <mask> level <mask>	0.636
+world <mask> reviewing 'batman <mask> <mask>' <mask>	0.769
+<mask> world <mask>	0.857
+<mask> world <mask>	0.818
+<mask> world	0.857
+world <mask>	0.857
+<mask> ? world	0.667
+<mask> world <mask> trump <mask>	0.833
+<mask> obviously <mask> world <mask>	0.833
+<mask> , <mask> world	0.857
+<mask> world <mask>	0.786
+<mask> world <mask>	0.857
+<mask> world	0.857
+<mask> the new <mask> second world <mask> ?	0.667
+<mask> , world <mask> patton <mask> , <mask>	0.818
+supercut <mask> running <mask> movies <mask> world <mask>	0.667
+<mask> the world , mike pence <mask> 'certainly <mask> <mask>'	0.667
+<mask> world <mask> '<mask>'	0.857
+<mask> and alexander <mask> world <mask> photos	0.714
+world <mask>'s <mask>	0.857
+<mask> 'talking world talk' <mask> at <mask> <mask>' <mask>	0.714
+<mask> world <mask>	0.857
+<mask> of <mask> world	0.8
+<mask> roundup <mask> world <mask>	0.75
+team <mask> world <mask> new <mask>	0.7
+<mask> in world	0.75
+<mask> 'my bad' <mask> world <mask>	0.727
+paris <mask> world	0.8
+<mask> nolasco <mask> world	0.778
+tsipras <mask> down world <mask> a <mask> greece <mask>	0.5
+<mask> world <mask>'s <mask> ?	0.857
+huffpost <mask> world <mask>	0.778
+<mask> world're <mask> <mask>' <mask> photos	0.818
+<mask> world <mask> world	0.667
+<mask> world <mask> in <mask>	0.778
+<mask> world <mask>	0.833
+<mask> 'toxic' world <mask>	0.818
+walking meetings why world <mask> schedule <mask> conference <mask>	0.455
+<mask> liam hemsworth <mask> basically <mask> world <mask>	0.714
+world <mask> ?	0.833
+<mask> '<mask> too' <mask> world <mask>	0.833
+<mask> world case for <mask>	0.7
+world's <mask> trump <mask> ukrainian <mask>	0.75
+<mask> why <mask> world	0.778
+<mask> world <mask>	0.833
+<mask> world <mask>	0.833
+<mask> eat <mask> , <mask> video <mask> world	0.786
+<mask> zoe <mask> world	0.75
+<mask> world	0.833
+'alien' <mask> , <mask> , <mask> world <mask> , <mask>	0.818
+<mask> his 'farewell' world <mask>	0.7
+<mask> retiring , <mask> world's <mask>	0.833
+<mask> absolutely <mask> world <mask>	0.8
+<mask> depp <mask> world <mask>	0.833
+<mask> 'the <mask>' <mask> world <mask>	0.75
+<mask> world !	0.8
+<mask> <mask>'s guide <mask> world <mask> glitches	0.7
+world . <mask> . <mask>	0.833
+<mask> 'the <mask> <mask>' <mask> world	0.833
+rents <mask> celebrities , <mask> world	0.727
+<mask> world <mask> hindi 'love' <mask>	0.625
+<mask> world <mask> yemen	0.8
+<mask> world <mask> , <mask> photos	0.778
+<mask> world <mask>	0.833
+world's <mask> warns <mask>	0.818
+tips <mask> your <mask> this world <mask>	0.556
+kate hudson <mask> album <mask> world <mask>	0.692
+world <mask> ebola and <mask> zika <mask>	0.692
+sacramento <mask>' <mask> collison <mask> world <mask>	0.7
+<mask> world	0.833
+why <mask> world <mask>	0.75
+'<mask> <mask> <mask>' <mask> world <mask> for trump <mask>	0.786
+world <mask> semitism <mask> soon <mask>	0.7
+<mask> 'silver world'	0.75
+<mask> world <mask>	0.833
+<mask> true genius <mask> world	0.667
+'well <mask> fast'	0.667
+why <mask> women	0.8
+<mask> women 'positive' <mask>	0.667
+<mask> warns women <mask>	0.8
+<mask> out <mask> women , <mask>	0.818
+<mask> women <mask> price <mask>	0.778
+<mask> women	0.8
+<mask> women	0.857
+signs women've <mask>	0.75
+<mask> ridiculously chill <mask> women <mask>	0.7
+<mask> women <mask>	0.857
+<mask> women for <mask> ?	0.833
+<mask> kelly <mask> women <mask> . s . <mask>	0.8
+<mask> sanders <mask> women's <mask> october	0.727
+<mask> 'never <mask> ever' <mask> women	0.75
+<mask> 'i'm <mask> women <mask> hard' <mask>	0.786
+'alien' women found at sonora , mexico , <mask> , video	0.364
+<mask> predict <mask> women	0.778
+<mask> house speaker <mask> women	0.727
+<mask> women ?	0.857
+<mask> women <mask> , macklemore , <mask>	0.75
+<mask> women ?	0.818
+<mask> women	0.778
+<mask> women's <mask> clear <mask> fear <mask> success	0.556
+<mask> women	0.667
+<mask> women	0.833
+women <mask> 'guardians <mask> <mask>' <mask>	0.8
+<mask> women doubled in <mask> months , <mask>	0.6
+<mask> <mask>'s 'mia madre' <mask> women	0.727
+<mask> crawford , <mask> gere <mask> opens <mask> women <mask> actor	0.615
+<mask> women <mask> in <mask>	0.818
+<mask> ever <mask> women	0.8
+marnie <mask> , <mask> women	0.778
+<mask> the tedmed great challenges <mask> women <mask>	0.375
+<mask> couric <mask> women <mask>	0.8
+<mask> women <mask> hold <mask>	0.833
+women <mask> .	0.818
+<mask> women <mask> lazy <mask>	0.812
+<mask> women <mask> out <mask>	0.8
+women <mask>	0.857
+<mask> steps to <mask> women for <mask>	0.5
+<mask> james bennet <mask> york women <mask>	0.733
+<mask> women that are anything but <mask>	0.375
+eva longoria's dramatic reading of spice women' 'wannabe' is <mask> need to see today	0.133
+<mask> women <mask> npr	0.818
+<mask> women <mask> 'absolute <mask>'	0.778
+<mask> , women <mask> neighborhood	0.8
+women <mask> olympic <mask>	0.75
+<mask> women'll <mask> fashion week	0.667
+<mask> women , <mask> report <mask>	0.818
+<mask> 'partisan' <mask> women	0.667
+<mask> women <mask> after <mask>	0.75
+<mask> autism <mask> women <mask>	0.75
+<mask> <mask>' <mask> . <mask> how <mask> women	0.778
+reasons women <mask> celebrities	0.625
+<mask> date <mask> women	0.778
+<mask> women <mask> , <mask>	0.833
+<mask> why <mask> women	0.833
+<mask> virtuous , often dangerous <mask> women <mask>	0.556
+<mask> women	0.714
+<mask> real <mask> your women <mask> track	0.667
+<mask> , women <mask> , <mask> always <mask>	0.833
+<mask> m women <mask>	0.833
+<mask> women <mask> fight <mask> aids	0.75
+<mask> '<mask> red' <mask> trump women in <mask>	0.692
+<mask> women <mask> smartphone <mask> ? <mask>	0.778
+'free' <mask> women <mask> ?	0.75
+<mask> up <mask> <mask>'s women <mask>	0.8
+<mask> , <mask> women <mask> tampa	0.8
+<mask> in brazil , india , <mask> women	0.778
+women's <mask> , <mask>	0.857
+<mask> . s . women <mask>	0.8
+<mask> women <mask>	0.833
+women <mask> wisdom <mask> winnie <mask> pooh , <mask>	0.692
+<mask> 'women <mask> apart' <mask>	0.833
+<mask> women <mask> women	0.7
+tense referendum <mask> divisions <mask> women in catalonia	0.333
+women <mask>	0.714
+<mask> women <mask> photos	0.8
+<mask> women <mask>	0.833
+<mask>'s most <mask> women <mask> for <mask>	0.7
+<mask> interrupts <mask> interview , <mask> women	0.7
+<mask> women <mask>	0.833
+<mask> , <mask> women <mask> ? <mask> , <mask> purdue <mask>	0.833
+<mask> women <mask>	0.833
+katy perry <mask> and <mask> women with '<mask>	0.545
+<mask> freelancer <mask> women <mask> months	0.727
+manhattan women <mask>	0.75
+<mask> recipes <mask> women <mask>	0.778
+<mask> clinton's <mask> women <mask> wisconsin <mask>	0.7
+<mask> women <mask>	0.667
+<mask> alton <mask> women	0.8
+<mask> oliver <mask> women <mask> the <mask>	0.786
+<mask> worst <mask> women moments <mask> week june july	0.273
+<mask> women	0.75
+<mask> women <mask> . <mask> women <mask>	0.833
+<mask> email <mask> for <mask> in women <mask>	0.636
+<mask> introduces <mask> women <mask>	0.75
+<mask> women <mask> in <mask> ?	0.778
+<mask> women , <mask>	0.857
+<mask> women <mask>	0.833
+reporter <mask> , <mask> from <mask> meeting <mask> life <mask>	0.6
+<mask> '<mask> off' <mask> life	0.778
+<mask> life fainting <mask>	0.818
+<mask> life	0.857
+<mask> 'jurassic life' <mask>	0.818
+<mask> life <mask>	0.833
+<mask> life 'like <mask> <mask>'	0.833
+<mask> life <mask> timed <mask>	0.818
+<mask>'s <mask> life <mask> 'mean <mask>'	0.818
+, <mask> australia life <mask>	0.7
+huffpost <mask> life <mask>	0.778
+<mask> , <mask> want <mask> life <mask>	0.818
+<mask> life survey	0.778
+<mask> trump <mask> life <mask>	0.833
+<mask> put gop <mask> '<mask> life' <mask> update	0.692
+life <mask> in <mask>	0.778
+jaime coakley <mask> out <mask> life <mask>	0.556
+<mask> life who <mask>	0.818
+<mask> airline life <mask>	0.778
+<mask> life lgbt <mask> '<mask> pink <mask>'	0.75
+<mask> life	0.667
+<mask> pin <mask> , and show <mask> life <mask>	0.667
+trump reportedly <mask> life <mask> in afghanistan	0.545
+<mask> trump's life for <mask> in <mask>	0.636
+<mask> 'wake life up' <mask>	0.727
+why <mask> ? <mask> life	0.75
+<mask> life	0.857
+<mask> life <mask> ?	0.75
+<mask> life <mask>	0.833
+<mask> life <mask>	0.833
+<mask> life ? video	0.778
+<mask> . petersburg <mask> life <mask> , <mask>	0.778
+life <mask> , <mask>	0.7
+<mask> <mask>'s <mask> date when life're allergic <mask>	0.6
+<mask> life <mask> carrier <mask>	0.556
+<mask> life <mask> end <mask>	0.8
+<mask> 'notebook' <mask> life	0.8
+<mask> builds <mask> life <mask>	0.75
+<mask> life <mask>	0.833
+life <mask> how <mask>	0.818
+<mask> life <mask> dubrovnik	0.727
+some <mask> , <mask> government life <mask>	0.7
+<mask> and <mask> are quite <mask> life <mask>	0.6
+georgia <mask> chief apologizes <mask> life's lynching	0.444
+<mask> life <mask>	0.857
+<mask> life <mask> bizarre <mask>	0.8
+more than , life <mask> oppose jeff <mask>	0.444
+<mask> life ?	0.833
+<mask> hospitalized <mask> life	0.75
+how <mask> life <mask>	0.778
+<mask> make obama <mask> life <mask> trump's presidency	0.583
+<mask> 'random <mask>' <mask> life <mask>	0.769
+<mask> life with <mask> , <mask>	0.75
+life <mask> out <mask>	0.667
+<mask> . life <mask>	0.833
+nyc <mask> life	0.8
+life oversight <mask>	0.75
+<mask> erdogan <mask> ? <mask> life	0.833
+<mask> offers <mask> life <mask> for <mask>	0.769
+<mask> streep <mask> , <mask> life <mask>	0.833
+<mask> , <mask> in incredible photos <mask> <mask>'s <mask> life	0.75
+<mask> life <mask> sanders <mask>	0.818
+<mask> life <mask> 'pervert' <mask>	0.818
+<mask> miller <mask> life <mask>	0.818
+<mask> up life month <mask>	0.667
+<mask> 'to <mask> life'	0.714
+<mask> life <mask> 'shut <mask> alcoholic' <mask>	0.769
+<mask> 'the <mask>' <mask>	0.833
+<mask> , communities <mask> , life <mask>	0.833
+lost '<mask>' life <mask> to <mask>	0.625
+<mask> officials <mask> life <mask>	0.727
+life <mask> ? <mask>	0.6
+life <mask> terrifyingly similar <mask> , <mask>	0.786
+why <mask> life . <mask>	0.778
+<mask> life <mask> tell <mask>	0.818
+life <mask>	0.667
+<mask> out , <mask> nike <mask> life <mask> sneakers <mask>	0.714
+miranda <mask> celebrities turned life <mask>	0.5
+<mask> life <mask> shareholders <mask> dimon <mask>	0.75
+boston <mask>' '<mask> life' may <mask> available <mask>	0.6
+nfl <mask> life <mask>	0.818
+<mask> our life <mask> . again	0.625
+life's <mask> , <mask>	0.75
+<mask> 'couldn't <mask> happier' <mask> life <mask>	0.786
+how <mask> <mask>' life <mask>	0.8
+year <mask> life , <mask> brown <mask>	0.667
+<mask> life <mask> expand <mask>	0.778
+'<mask> <mask>' <mask> debuts <mask> life <mask> reasons <mask> log <mask>	0.692
+<mask> life's <mask> sues <mask>	0.75
+<mask> open <mask> life who <mask>	0.786
+<mask> life in his <mask>	0.7
+<mask> life	0.833
+<mask> ' <mask> i <mask> life' reunion <mask>	0.786
+<mask> life <mask>	0.857
+<mask> life <mask> perez <mask>	0.778
+<mask> , '<mask> life' <mask> , <mask> '<mask> <mask> life' 'i <mask> <mask>'	0.812
+<mask> chile <mask> recipe <mask> life <mask>	0.769
+<mask> , <mask> life <mask>	0.8
+<mask> '<mask> of life' to <mask> he helped	0.667
+<mask> life <mask> '<mask>' <mask> . <mask> what <mask> .	0.769
+<mask> of my kids <mask>	0.667
+<mask> . s . <mask> kids <mask>	0.75
+kids <mask> kids ?	0.818
+<mask> back <mask> , <mask> kids <mask>	0.833
+<mask> kids <mask> ?	0.8
+how <mask> kids <mask>	0.75
+<mask> kids	0.857
+<mask> berry <mask> kids from diabetic <mask>	0.5
+<mask> , <mask> kids <mask>	0.833
+<mask> that <mask> . k . kids consider <mask>	0.733
+<mask> for <mask> , <mask> kids	0.778
+<mask> kids	0.857
+<mask> kids ?	0.833
+<mask>'s <mask> kids <mask> apple , <mask> d . <mask> .	0.769
+<mask> out <mask> 'no <mask>' <mask> '<mask> <mask> kids'	0.786
+nba <mask> avery bradley <mask> to <mask> kids <mask>	0.615
+<mask> kids	0.857
+<mask> republicans <mask> kids <mask>	0.778
+tackling <mask> kids <mask>	0.818
+<mask> kids'll <mask>	0.857
+<mask> , <mask> , kids <mask> for <mask>	0.714
+'<mask>' kids fan <mask> cullen video	0.556
+kids <mask>	0.857
+<mask> breslin <mask> kids <mask>	0.778
+<mask> kids <mask>	0.833
+<mask> kids <mask> huffpost <mask> video	0.786
+<mask> kids block <mask>'s judges	0.769
+kids <mask> totally <mask>	0.818
+<mask> kids	0.857
+<mask> huffpost kids <mask>' <mask>	0.778
+<mask>'s kids <mask> how <mask>	0.778
+<mask> , <mask> kids	0.8
+<mask> kids <mask>	0.857
+<mask> kids donald trump <mask> oscar	0.692
+<mask> kids . <mask>	0.833
+<mask> kids <mask> ? video	0.778
+<mask> reef <mask> australia <mask> kids <mask>	0.667
+<mask> kids	0.857
+<mask> kids	0.833
+<mask> out <mask> kids <mask>	0.667
+kids <mask>	0.833
+<mask> have <mask> '<mask> <mask> kids'	0.818
+<mask> <mask>'s <mask> denied <mask> kids	0.75
+<mask> kids <mask>	0.857
+<mask> kids <mask>	0.857
+<mask> kids <mask>	0.857
+<mask> kids <mask>	0.833
+<mask> for <mask> , <mask> kids in d . <mask> . <mask> updates	0.643
+<mask> rivers <mask> of kids	0.625
+<mask> kids	0.857
+what <mask> kids <mask>	0.8
+<mask> kids <mask>	0.833
+<mask> . k . <mask> . s . <mask> kids <mask>	0.824
+<mask> kids <mask> accuracy	0.75
+<mask>'s <mask> ! <mask> free <mask> kids <mask> summer <mask> !	0.786
+kids <mask> trump <mask> mueller <mask> in <mask>	0.6
+<mask> kids <mask> 'talk <mask>' <mask> trump <mask>	0.8
+kids lobby <mask> , <mask> , <mask> ?	0.556
+<mask> kids <mask>	0.857
+<mask> twitter <mask> kids day <mask>	0.667
+don't judge <mask> book <mask> cover , <mask> their kids	0.462
+<mask> kids <mask> obamacare	0.778
+<mask> kids , <mask>	0.8
+'my <mask> kids' <mask>	0.778
+kids <mask> five <mask> show how <mask> <mask>'s <mask>	0.692
+kids <mask> nyc <mask>	0.833
+<mask> kids <mask> ?	0.818
+<mask> of <mask> , <mask> kids , <mask> more photos	0.692
+jordan <mask> , <mask> '<mask> hunter , ' <mask> your <mask> kids <mask> , <mask>	0.75
+<mask> ngc <mask> kids <mask>	0.8
+<mask> kids <mask> kids <mask>	0.833
+<mask> how kids <mask>	0.778
+<mask> kids <mask> planter	0.818
+kids , <mask> for <mask>	0.75
+<mask> kids	0.833
+<mask> kids <mask>	0.714
+<mask> kids've <mask>	0.857
+<mask> . s . , <mask> kids	0.75
+<mask> cuff kids and <mask>	0.75
+<mask> , <mask> , and <mask> kids	0.778
+<mask> kids <mask> ?	0.857
+<mask> i <mask> kids <mask>	0.714
+<mask> kids <mask>	0.75
+<mask> stewart <mask> kids <mask> clinton's <mask>	0.667
+<mask> new kids <mask>	0.8
+<mask> kids <mask> ?	0.833
+<mask> kids	0.833
+michelle <mask> her kids <mask> snow <mask> photos	0.667
+<mask> kids <mask> by <mask> , nasa <mask>	0.75
+taylor swift is done <mask> her <mask> kids <mask> minaj	0.417
+let<mask> <mask> <mask>'s <mask> , <mask> kids	0.769
+'<mask> <mask>' <mask> london <mask> sugar <mask> kids for <mask> only <mask>	0.615
+<mask> kids <mask>	0.8
+kids <mask>	0.857
+<mask> kids <mask> ?	0.857
+<mask> kids <mask>	0.833
+'tiny <mask> , ' <mask> kids <mask>	0.833
+<mask> kids <mask> from <mask> couldn't <mask> more <mask> to <mask> with <mask>	0.571
+'<mask> party' <mask> kids <mask>	0.818
+<mask> maher <mask> kids <mask>	0.833
+<mask> school football <mask> hilarious people	0.636
+people <mask> oklahoma <mask>	0.8
+<mask> rubio <mask> people <mask> misleading <mask> report	0.6
+<mask> in people <mask> down <mask> '<mask>'	0.8
+early people <mask> , insulin <mask> arrest study	0.545
+<mask> ridiculously <mask> people	0.8
+<mask> people <mask>	0.857
+<mask> kaepernick <mask> threats <mask> people <mask> prove <mask>	0.667
+<mask> people	0.857
+'<mask>' people praise <mask> trump's <mask>	0.727
+<mask> people donald trump <mask> oscar	0.692
+<mask> . <mask> . <mask> people <mask>	0.833
+<mask> warn <mask> people don't <mask> !	0.75
+why <mask> . <mask> . punishing low <mask> people <mask> registering <mask>	0.667
+<mask> price <mask> , <mask> people <mask> photos	0.769
+<mask> , 'when <mask> , <mask> ' people <mask> photo	0.769
+<mask> , michigan <mask> , <mask> , <mask> people	0.833
+<mask> down people <mask> interview <mask> rumors	0.692
+<mask> people <mask> pope <mask>	0.833
+<mask> people <mask>	0.778
+<mask> people <mask> meditation <mask> , <mask>	0.778
+<mask> allegations in <mask> book , <mask> people 'untruthful <mask> <mask>'	0.615
+dad <mask> for mom <mask> people	0.692
+<mask> people of <mask>	0.8
+rental contracts <mask> people <mask>	0.625
+<mask> parris calls on <mask> people to join the fight for <mask>	0.308
+<mask> people <mask> ?	0.857
+<mask> , nutritionist <mask> people <mask>	0.778
+aarp <mask> people <mask> key <mask> senators	0.556
+<mask> how people <mask>	0.818
+'am <mask> ? ' people <mask>	0.818
+people <mask> and <mask> , <mask>	0.778
+l . <mask> . <mask> more <mask> people <mask>	0.733
+<mask> 'old <mask> people' <mask>	0.833
+<mask> people <mask> confirm <mask> no .	0.75
+<mask> people <mask> 'weird' <mask>	0.778
+<mask> who <mask> people sues <mask> , <mask>	0.769
+<mask> deal <mask> people	0.8
+<mask> , people <mask>	0.8
+how <mask> people	0.333
+taylor <mask> people	0.818
+<mask> people <mask>	0.833
+<mask> insurer <mask> people <mask>	0.778
+<mask> people <mask> trooping <mask>	0.778
+<mask> people <mask> timed <mask>	0.818
+<mask> people	0.75
+<mask> hospitalized <mask> people pray for <mask>	0.556
+<mask> vote really people ?	0.7
+wheelchair <mask> people <mask>	0.75
+<mask> people <mask>	0.833
+what <mask> people <mask> ?	0.8
+<mask> builds <mask> people <mask>	0.75
+<mask> people <mask>	0.818
+<mask> . <mask> . <mask> approves people <mask>	0.833
+<mask> claim people <mask> weddings	0.8
+<mask> people <mask> giant <mask>	0.75
+how <mask> people <mask>	0.75
+<mask> offers <mask> people <mask>	0.833
+<mask> ethical investor <mask> people <mask>	0.7
+<mask> people <mask>	0.857
+<mask> people <mask> ?	0.857
+<mask> , <mask> 'accidental <mask>' <mask> people <mask>	0.833
+<mask> 'hoarding <mask> alive' <mask> people <mask>	0.8
+<mask> people , <mask> practice	0.818
+<mask> provide <mask> people <mask>	0.75
+<mask> people <mask>	0.833
+<mask> files <mask> people <mask> porsche	0.667
+'<mask> <mask>' <mask> hard people <mask>	0.75
+<mask> thanksgiving <mask> dishes people <mask>	0.7
+<mask> people' <mask> for divorce photo	0.636
+prank <mask> burger <mask> people into smashing windows	0.333
+<mask> virtuous , often dangerous <mask> people <mask>	0.556
+<mask> supports <mask> people <mask>	0.8
+<mask> for <mask> people	0.778
+people <mask> recipes <mask>	0.833
+<mask> , people <mask> in new york <mask>	0.667
+<mask> obama's vacation <mask> people <mask>	0.75
+<mask> vacuum <mask> people <mask> video	0.786
+<mask> people possible <mask> angeles	0.625
+<mask> little known ancient greek people in <mask>	0.5
+<mask> parenting people're <mask> talk <mask>	0.7
+<mask> , people <mask> racially <mask>	0.8
+<mask> people <mask>	0.857
+maxine <mask> trump's latest attack <mask> people	0.667
+<mask> people talk <mask> diapers <mask> ?	0.667
+<mask> people <mask> ?	0.857
+'numb' <mask> people <mask> 'unapologetic' <mask>	0.727
+<mask> 'jurassic <mask>' <mask> people's <mask>	0.818
+<mask> people <mask>	0.857
+<mask> how <mask> people <mask>	0.778
+<mask> reminder <mask> can <mask> people <mask>	0.667
+people <mask> 'second <mask>' <mask>	0.818
+<mask> account <mask> people where trump <mask> , <mask> nice	0.538
+<mask> corden <mask> people	0.8
+people <mask> 'dump <mask>' <mask>	0.778
+<mask> people <mask> credit for <mask> '<mask> charming'	0.692
+<mask> new york <mask> endorses hillary clinton , <mask> her 'people , <mask> , and <mask>'	0.385
+<mask> for <mask> people <mask>	0.778
+'<mask> <mask> people' <mask> sci fi's losing <mask> at <mask> update	0.538
+<mask> , <mask> sold people <mask> ebay	0.727
+<mask> week	0.8
+<mask> week <mask> ?	0.571
+ireland <mask> week <mask>	0.818
+<mask> week <mask>	0.833
+<mask> week slams human <mask> rape <mask>	0.667
+<mask> week	0.714
+let<mask> <mask> week <mask> lactaid <mask>	0.75
+actor <mask> week <mask>	0.778
+<mask> older <mask> <mask>'s week	0.818
+<mask> are <mask> week	0.778
+lupita week'<mask> '<mask> of <mask>' <mask> for <mask>	0.769
+<mask> week	0.857
+<mask> braves <mask> . <mask> support <mask> week <mask>	0.769
+<mask> week <mask>	0.857
+<mask> cheap , <mask> at week <mask>	0.727
+<mask> out <mask> week <mask>	0.75
+<mask> week parents <mask>	0.75
+<mask> week <mask> for 'on <mask>' <mask>	0.769
+<mask> for <mask>'s week	0.818
+<mask> benefit <mask> week	0.75
+<mask> week !	0.857
+<mask> week <mask>	0.833
+<mask> , <mask> . <mask> 'what <mask> week ? ' <mask> we <mask>	0.786
+calm <mask> week <mask> terrible	0.667
+<mask> 'wet <mask> wild' <mask> week <mask>	0.75
+<mask> week <mask>	0.857
+<mask> week	0.8
+<mask> comey <mask> week <mask>	0.818
+<mask> with <mask> cat , <mask> 'week'	0.75
+<mask> . <mask> . <mask> talk <mask> korea'<mask> <mask> week	0.8
+week <mask> 'super <mask>'	0.818
+week 'wolf <mask>' <mask> , '<mask>' <mask>	0.75
+<mask> gaga , we're <mask> your <mask> week <mask>	0.714
+week <mask> miriam <mask> , <mask> who <mask> for <mask>	0.6
+<mask> week	0.857
+<mask> joking <mask> week	0.8
+<mask> recipes <mask> your week plate	0.556
+week <mask> <mask>'s <mask> everything video	0.7
+<mask> week <mask>	0.833
+<mask> agree <mask> what week <mask>	0.786
+<mask> <mask>'s <mask> to <mask> week processing <mask>	0.7
+<mask> to <mask> week , <mask>	0.769
+<mask> week <mask>	0.833
+the <mask> <mask>' week <mask>	0.818
+<mask> week <mask>	0.857
+<mask> slays <mask> week <mask> fletcher	0.625
+week <mask> joffrey <mask> beginner <mask>	0.625
+<mask> week is <mask>	0.778
+<mask> week prove why <mask>	0.7
+with <mask> save <mask> , <mask> was week	0.6
+week <mask>	0.833
+<mask> in <mask> for <mask> week <mask> . <mask> . <mask>	0.8
+week's <mask> . <mask> mexico , <mask>	0.778
+<mask> migrant <mask> americans <mask> week , mexicans <mask>	0.667
+<mask> minor week <mask>	0.8
+who <mask> week <mask> ?	0.818
+<mask> week <mask>	0.857
+week <mask> photos	0.75
+yara week <mask>	0.8
+<mask> week highlights <mask> for science in <mask> and inequalities in <mask>	0.429
+these <mask> pose the greatest risk <mask> week	0.333
+<mask> show week of <mask>	0.7
+<mask> week	0.857
+<mask> week his <mask>	0.833
+week <mask> explain why <mask>	0.769
+<mask> '<mask> <mask> <mask>' <mask> week <mask>	0.833
+<mask> shower , <mask> , planets to <mask> week <mask>	0.556
+<mask> week <mask> fear	0.75
+<mask> lebanon <mask> week <mask>	0.818
+how <mask> week <mask> ?	0.818
+<mask> , <mask> scared <mask> '<mask> everywhere' week	0.786
+<mask> week <mask> manchester <mask>	0.7
+<mask> week <mask> !	0.8
+<mask> virginia <mask> requested <mask> week <mask>	0.625
+<mask> week ends <mask> more <mask>	0.667
+<mask> atlanta <mask> week <mask>	0.75
+<mask> week <mask>	0.833
+<mask> ellen <mask> out <mask> tv ? <mask> week .	0.722
+<mask> week <mask> clinton <mask>	0.833
+<mask> and <mask> week <mask>	0.75
+<mask> predict <mask> week's intelligence	0.625
+<mask> week	0.833
+<mask> week <mask> angeles <mask> , <mask>	0.75
+<mask> week <mask> photos	0.778
+<mask> the week <mask> , <mask>	0.778
+<mask>'s week <mask> we <mask> ?	0.8
+how <mask> week	0.727
+<mask> week	0.833
+<mask>'s week and <mask> trump <mask> out	0.636
+<mask> week	0.833
+<mask> maher <mask> week	0.833
+<mask> week <mask> in <mask>	0.8
+<mask> week , <mask>	0.8
+nate <mask> <mask>'s vanguard week	0.625
+<mask> proposes <mask> week <mask>	0.833
+alec baldwin <mask> life lessons <mask> week <mask> golf <mask>	0.4
+<mask> week <mask> in <mask> ?	0.75
+<mask> week <mask> hyperlapse <mask>	0.778
+<mask> the week <mask> , <mask>	0.778
+<mask> doctor <mask> week <mask>	0.786
+buzzfeed <mask> obama <mask>	0.778
+obama , <mask> must comply <mask>	0.833
+<mask> for 'space' <mask> obama <mask>	0.75
+<mask> . <mask> 'most <mask> obama'	0.833
+obama <mask>'s <mask> women's cases , <mask>	0.667
+<mask> a <mask> new <mask> obama	0.786
+recipe <mask> obama	0.8
+<mask> obama <mask> for <mask>	0.786
+<mask> obama's children	0.818
+<mask> spring obama	0.778
+<mask> obama <mask> tweeters <mask> married <mask>	0.727
+<mask> obama <mask> like <mask>	0.833
+obama <mask> for <mask>	0.818
+<mask> obama , <mask> alright	0.75
+obama <mask> '<mask>'ll <mask> straight'	0.833
+<mask> obama <mask> obama <mask>	0.75
+formerly <mask> sale <mask> obama <mask> nyc	0.556
+russia <mask> some <mask> . <mask> . obama <mask> rolls before <mask> , dhs <mask>	0.5
+<mask> obama <mask> . <mask> coffee .	0.75
+<mask> twitter <mask> for obama	0.625
+<mask> obama	0.833
+<mask> a obama <mask>	0.778
+<mask> surprising obama <mask>	0.75
+obama <mask> in <mask>	0.8
+<mask> obama's <mask> 'late <mask>'	0.818
+<mask> a <mask> obama <mask> outstanding <mask>	0.8
+<mask> impact <mask> obama may <mask>	0.769
+a obama <mask>	0.714
+<mask> who <mask> obama <mask>	0.833
+<mask> , <mask> obama and a <mask> at the <mask> over <mask>	0.6
+<mask> that <mask> obama <mask> divorce	0.75
+flag obama recipes and <mask> sweeten the fourth of july	0.308
+<mask> obama <mask> in <mask>	0.75
+<mask> after obama <mask>	0.818
+<mask> a <mask> obama <mask>	0.818
+a <mask> obama <mask>	0.833
+<mask> obama walks <mask>	0.818
+obama on <mask> , <mask>	0.818
+<mask> italian <mask> obama <mask>	0.778
+<mask> in <mask> fight over <mask> obama	0.714
+<mask> for <mask> of <mask> obama <mask>	0.667
+obama <mask>	0.833
+obama could tip <mask>	0.7
+what <mask> why obama's good <mask> age	0.706
+<mask> obama <mask> ?	0.714
+<mask> obama <mask>	0.833
+obama <mask>	0.857
+<mask> with <mask> obama	0.778
+obama <mask> help <mask>	0.778
+why <mask> in <mask> obama	0.8
+<mask> obama <mask>	0.625
+<mask> obama <mask> splitting <mask>	0.833
+<mask> obama <mask> in on <mask> in <mask> '<mask> <mask> <mask>' <mask>	0.733
+<mask> for <mask> obama <mask>	0.8
+<mask> obama's	0.857
+<mask> obama <mask> learn from <mask>	0.625
+<mask> . <mask> . a . <mask> obama <mask>	0.8
+<mask> reflection <mask> prayers for <mask> obama's <mask>	0.636
+obama <mask>	0.727
+divorce <mask> obama	0.778
+<mask> obama <mask>	0.833
+<mask> obama <mask> . from <mask>	0.778
+<mask> obama <mask> chokes <mask> for <mask>	0.667
+obama's 'golden <mask>' <mask> story <mask>	0.8
+how <mask> a <mask> obama <mask>	0.824
+<mask> obama <mask> , <mask> a <mask> obama	0.667
+<mask> obama <mask> obama <mask> ?	0.571
+<mask> obama . <mask> . obama , <mask>	0.833
+<mask> obama	0.667
+obama <mask>	0.857
+obama <mask> safety <mask>	0.818
+<mask> the evil side of obama <mask>	0.444
+<mask> a obama <mask> ?	0.8
+<mask> obama <mask> , <mask>	0.833
+<mask> somehow obama's <mask> casualty	0.7
+<mask> 'a <mask> obama' <mask>	0.8
+<mask> for <mask> obama	0.75
+<mask> obama's tv interview	0.75
+<mask> a obama	0.667
+obama' question <mask> i <mask> ?	0.7
+in <mask> obama <mask>	0.778
+<mask> obama <mask>	0.833
+obama <mask>	0.857
+obama <mask> romneytaxplan . <mask>	0.818
+<mask> obama <mask> 'take back' <mask>	0.786
+<mask> a obama <mask>	0.833
+<mask> obama <mask> a 'normal <mask>'	0.727
+<mask> 'beyond <mask> straight' obama	0.5
+<mask> obama <mask>	0.833
+'<mask> <mask> black' <mask> obama	0.75
+<mask> , <mask> obama	0.8
+obama's source <mask> registered <mask>	0.769
+obama <mask>'s <mask> m ads photos	0.692
+<mask> 'obama	0.75
+<mask> obama <mask>	0.833
+obama <mask> a '<mask> <mask>' <mask>	0.818
+stretches obama <mask> a workout	0.5
+<mask> obama <mask> ?	0.8
+<mask> obama's <mask>	0.833
+how <mask> obama <mask>	0.778
