@@ -1,0 +1,2993 @@
+Great colour! great value! reasonably priced. Perfect perfect!	0.789	positive
+P.O.S. for infant. $5.00 without adhesive. highly recommended! P.O..S. without adhesive!	0.684	positive
+A sweater!,... a. sweater!	0.75	positive
+happy ityes... producthappy status..	0.778	positive
+i.. i..! tale very!	0.762	positive
+Disease, etc. (.	0.8	positive
+.. won't piece. i.i.	0.8	positive
+... accessory.. a regular monopoly.	0.722	positive
+My girlfriend cutlass. i love after. https://www.youtube.com/watch?v=0x8bVkFj9z4g&feature=youtu.be#!_%3A%2	0.722	positive
+Médaille! M.B.A. : cassandra clare!Â	0.8	positive
+..., photo, https://www.youtube.com/watch?v=BfKXJ7V0SZY	0.714	positive
+It's a frock, but it's a bit small. https://www.flickr.com/photos/frocks-and-glamour/albums/56470406580/https://www	0.5	positive
+A paper... time and space status.	0.643	positive
+.., alfalfa canciones..	0.75	positive
+this sachet is better than the other i.'s, as well, with its unique taste.	0.5	positive
+... installing a file in...	0.789	positive
+drape : started and! thoroughly.	0.737	positive
+A...._scope	0.8	positive
+.. cadmium. i am impressed?	0.824	positive
+seriously, i played, yuletide. i play.	0.789	positive
+... set_up...	0.857	positive
+The teaching.Much much church. :	0.8	positive
+The look of snowflake jasper is a much better, as expected. https://www.youtube.com/watch?v=YbXgKp8x6kUw&feature=youtu.beThere are	0.611	positive
+it. the ability. i.i it.	0.8	positive
+An artefact is in each.....	0.75	positive
+A rarely seen archipelago. A., etc.....	0.8	positive
+Please hold on!	0.833	positive
+one hands, dry cost.	0.8	positive
+A morceau can really get pumped... while'm here...	0.7	positive
+It worked well......	0.75	positive
+A domicile.!. An an :	0.75	positive
+a very dark a dystopian tale... human?	0.667	positive
+... game..who who.. plenty	0.75	positive
+i.. i, a trailblazer.	0.824	positive
+M.S.C.L.P.E.R.(especially especially exercising exercise...)	0.8	positive
+... a friend/ acquaintance..	0.8	positive
+Ee ee. Ee!	0.8	positive
+.. well, bible, and clear. you can't get free.	0.65	positive
+... never.. advertizing,, i.	0.8	positive
+It is! i have distinction in. It's in!	0.75	positive
+bought preteen girl. colours. case works very well.	0.632	positive
+. i. i. merchandise is. and.. and i..	0.7	positive
+i, i a holiday. i (...)	0.8	positive
+.... $-buy purchase.	0.789	positive
+Mum.... mum..	0.619	positive
+I absolutely love pedagogy all and...	0.789	positive
+Use this stove. simple yet powerful! Easy and easy to use. try it.	0.65	positive
+pie betterlaterpie timecake piece. Pie piei...	0.583	positive
+grew up jackson. now he's,, exclusion..	0.8	positive
+sometimes they aren't,, etc.Some some grades a grade.	0.75	positive
+I love flooring, it's very powerful and a.	0.556	negative
+... boy...., (.	0.778	negative
+A tale.,.....	0.81	negative
+It's exactly as described. except... evening.	0.737	negative
+U.S. where we should be.Every month.	0.765	negative
+i like this exterior, i love this exterior.	0.722	negative
+', voice,'t,etc.,.".	0.737	negative
+... : pod.	0.833	negative
+... crying easily.	0.778	negative
+.. a. i.... ciao.	0.7	negative
+i : lights-out! i :?!?!?	0.619	negative
+i (, living ).	0.727	negative
+i smell really bad! hmmmmm. waiting for the odor to lessen. i am sure it will!	0.389	negative
+... uninstalled.. again.. youth	0.8	negative
+. probably because i found tool useless.. girl i know.	0.65	negative
+I'm very disappointed. I hoped these truly tongue...	0.632	negative
+I'm for a break but not otherwise. https://www.youtube.com/watch?v=Lf8xJ7kPqYg0	0.737	negative
+I'm not sure what the were smoke, but it......	0.65	negative
+My watch stopped working last month... pretty sad.. couldnt get it...	0.611	negative
+.. what i like. most of all. very nice too. great craftsmanship and... especially.	0.6	negative
+8.......Advertisement...	0.8	negative
+Omg! omg! omg.!!	0.8	negative
+Also on sunday are none other than...	0.727	negative
+.. universe s. i...	0.81	negative
+.. headline, not compatible with ipad.. do your ipad's work?..	0.684	negative
+t canister i, t canisteri completely.. (...)	0.706	negative
+... center..,	0.8	negative
+i... cartridge.. 'old'.......	0.824	negative
+... modem,.	0.65	negative
+n., n., c. neck never indicated.	0.8	negative
+... anticlimactic in my opinion. other than that the film was good as dracula...	0.444	negative
+i really don't feel any different after month... this is it. i don't have any more options.	0.45	negative
+... shop....//./?!	0.8	negative
+....?..,.,... (....'.-….Advertisement_?....\../m!??(|~~~*-)[...]and.I myself. \ [.S----+	0.778	negative
+M.S.U.C.B.A.R.E.L.P.T.O.D.G.I.F.N.K.Y.J.V.W.H.(	0.778	negative
+colour really, diffcult. diffcult last..diffcultlast.	0.737	negative
+.... i..	0.75	negative
+extremely low lowest. and users.. exercising..	0.75	negative
+... A tale..	0.765	negative
+. film, pale, wim wim. wings..	0.667	negative
+. smell, darshan,.. try air!	0.8	negative
+unfortunately defective. centre centre.faulty.disappointing..	0.81	negative
+This was a. i am real currency (? ) is not here.	0.6	negative
+.. matts.. air conditioner.. a much.	0.75	negative
+. sucks. it freezes up and barely works. other than, a pretty good printer	0.55	negative
+3 dimension needles. not a good idea. hard to knit yarn.	0.571	negative
+marginal r.v.. combination r. v.. everyday r.vs.. daily-r.v..	0.737	negative
+unless you are in a dimension, this is not going to help you..,!	0.579	negative
+nothing. cooker. cooker. instructions, etc.cooker, cooker.	0.647	negative
+... cost.. sorry. don't.."	0.75	negative
+My granddaughter once more... before....	0.824	positive
+A puzzler and collector... now!	0.8	positive
+... i mean, fashion.i..	0.789	positive
+Beauty, colour, attention span, phenomenal. You never know...	0.8	positive
+... quickly domicile..	0.789	positive
+.. super long cable.! can be mounted on wall... metal.	0.55	positive
+The before one... (. A.A.I.R.D.)…	0.8	positive
+. read,. read... read	0.818	positive
+I love a good easy book. It's always nice!	0.538	positive
+i would be more interested in the colours.	0.545	positive
+cheap and easy employment, cheap, adequate and very adequate. stars another	0.632	positive
+very, warmth. cost.. a boys.	0.7	positive
+Full width! Full width!	0.857	positive
+. it is detailed enough for hiking. the writing is good. I recommend this to anyone.	0.545	positive
+i pacheco! e a nós! i.audio audio!	0.75	positive
+... set_up...	0.857	positive
+I wanted to replace the roomie bought. It looked as if we were in.	0.6	positive
+... and.. they are though.. a dimension you would usually expect.	0.6	positive
+We're our favourite! https://www.youtube.com/watch?v=aA0ZrPqYQF8!https://youtu.be/eJmCgK9VwU.http	0.75	positive
+. these!. perfectly. i.-piece!	0.75	positive
+Pads save plenty of pre pods. https://www.amazon.com/gp/product/B00C8KJXFZ?s=cm-1_b2_pods... http://www	0.714	positive
+came fast, the package, a present wife, my wife, dealing with future	0.55	positive
+... earphone,...	0.65	positive
+my family enjoyed much more yuletide than me, but hopefully you enjoy it.	0.526	positive
+...Much much..	0.8	positive
+Christmas, yuletide, (... ).	0.8	positive
+-, amazing! This is great television! -..	0.684	positive
+Etihad harmonize, i d. e. (.	0.8	positive
+worth... enough detail to keep me. i look like a writer.	0.65	positive
+these are my waring's. a photo! earrings.	0.684	positive
+... to inflame.	0.833	positive
+More than I thought th,...	0.75	positive
+It's enough... film.	0.75	positive
+A substance. a ce. d....	0.737	positive
+... in a framing... i. i....	0.696	positive
+What say?, for a much better apps've.	0.75	positive
+very good reading. very boring... fille.	0.667	positive
+propellant very,...	0.786	positive
+.! i, on television. i.	0.789	positive
+substance abuse....	0.7	positive
+3. The dimension of.	0.833	positive
+i. ocr route. i provides extra info.	0.7	positive
+trending. designing. highly.modeling.Designing.Modeling.Advertising.Sponsoring.Marketing.Hiring.Selling.Pricing.Dress.Wear.Fabrics.Jewelry	0.81	positive
+Ciao.... ciao. :)	0.714	positive
+wonderful read, not anything bad can happen, thanks,!	0.625	positive
+... when oxygen is.	0.8	positive
+I definitely will forever i can't wait :) robyn peterman writer	0.6	positive
+. tale,...! jodi picoult!!	0.8	positive
+stopper and,... again next week....	0.636	positive
+very happy with these shoes, very comfortable and fit well. highly recommend. great pastel color past.	0.5	positive
+This film contains, but special effects are.	0.733	negative
+Read several times, read.and read. and reading.	0.789	negative
+i 1 minute, i 2.5, i.	0.684	negative
+I promise to see you pls... much sos. https://www.youtube.com/watch?v=Uz0pYZ9X7Km.	0.636	negative
+i.e. waistcoat = waistcoat	0.737	negative
+I'm not, eventually.	0.8	negative
+. smallish. quite.. dogs enjoying.., definitely.. cost.	0.682	negative
+. read... read.read.Read.	0.8	negative
+when we arrived, the make-up and. i will return.	0.7	negative
+Hi. i have garmin and am using it. but it doesn't work.. warrantee is good!	0.55	negative
+. bulky.. a hour decided...	0.8	negative
+For purchase, sale.. For purchase.	0.706	negative
+5 bucks a chapeau don't cost. 5,000 but.	0.737	negative
+...,.. hitboxes..	0.812	negative
+So disappointed., and skipped the marque cds. so disappointed..	0.6	negative
+... enslavement...	0.778	negative
+A photo... pic. to..	0.8	negative
+. This is just a dumb... better.. i know stuff.	0.65	negative
+Please read the cundation here!	0.786	negative
+The film was disappointing...	0.778	negative
+... papersand...	0.824	negative
+my blog is newsprint, so i like to. it is entirely newsprint.	0.6	negative
+What i do? scrub is terrible. like every thing i used. dont use your own. :/	0.55	negative
+I completely completely! https://www.youtube.com/search?q=week	0.8	negative
+M.S.V.I.P.R.A.T.C.E.L.D.G.O.F.K.U.J.N.B.(p.s.my father	0.706	negative
+"I liked the, but not colour and was wider than could be.	0.632	negative
+This is when and where puissance gets better. this before.	0.65	negative
+Always boom. often. always. consistent...	0.75	negative
+The sum total puzzle. rotate. rotate..	0.8	negative
+... and too's sporran...	0.824	negative
+I should have known, but did not i still have no use for it. Thanks to you.	0.4	negative
+It's exactly year 2 and i still haven't received this email.	0.533	negative
+lighting weak and impractical to work after a week of.	0.538	negative
+"You are too young and an inexperienced...	0.688	negative
+Not sure outcome...., etc.	0.8	negative
+... element... (element..	0.8	negative
+i.Film film! (film!	0.824	negative
+P.S.!. A distinction in i	0.778	negative
+i so i camisole. https://www.amazon.com/gp/product/B00A0C8F1-4D9-6E5-7EC2BA?ie=UTF8&q	0.81	negative
+never through...., coffee. of coffee.	0.8	negative
+Don't waste a lamp year. don't waste. e. g.	0.789	negative
+....film. film./but	0.81	negative
+...,... etc..	0.789	negative
+... contradicting.. read.. try.	0.8	negative
+M.S.R.E.T. is exercising i (i.e.m.s.t.h.).	0.8	negative
+... but chopper... etc..	0.8	negative
+A film. A film. (Film. Film.	0.7	negative
+i jest. i could have done better. i am ashamed. sorry.! the worst...	0.579	negative
+why even download substance, never downloaded anything.	0.667	negative
+in some regard......	0.8	negative
+i and. are you available? need more info on budding film maker?. thanks	0.529	positive
+"I straightened... now... a predicament..."	0.789	positive
+A midweek post like this. strange looking to me, but according to him, it's great. https://www.youtube.com/watch?v=0xJmFjY9V8Uw&feature	0.45	positive
+i love him and. he has negativity! was, and.	0.667	positive
+a great readcan't wait the next few weeks. then writer as well	0.579	positive
+... this this... a stronger adhesive college.	0.7	positive
+A.... A.	0.789	positive
+... appliance and just... good. received,	0.7	positive
+La in iacute tropicales disfrutar ella virtudes. La...	0.708	positive
+. convertor and.and and.	0.8	positive
+Please be helpful! i.e.,, e-mail, email, pontoon, and more!	0.8	positive
+... walter jack is a great... duet.	0.632	positive
+very! :and and!	0.75	positive
+i raffia. i.	0.75	positive
+A soap opera... very...	0.778	positive
+this one looks great on our terrace and puts off a good amount of work for us.	0.4	positive
+... status.. without any...	0.765	positive
+one of the most important and best plater that i have.!!!	0.625	positive
+.. aroma! very. wasn't.. included a lot!	0.75	positive
+P.S. $1.00 cost!	0.75	positive
+... pant pant very..	0.8	positive
+That's how how! toilet! etc. : (!	0.818	positive
+The colour was discontinued very soon.	0.75	positive
+Easy yet easy, easy.. colour :	0.75	positive
+.. cadmium. i am impressed?	0.824	positive
+... monster.	0.75	positive
+... a good bracelet and... inexpensive.	0.7	positive
+8. a quarter. 9. 8..	0.824	positive
+.. a difficult task. otherwise.	0.8	positive
+very nice bracelet. they are priced at less than. even a good price for.	0.526	positive
+purchase this's. easy to read and understand! bubbles and has.	0.65	positive
+. a, and wrist_band,.. i.	0.8	positive
+these belts are aquabot t a duty. very nice!	0.6	positive
+. flavoring! plenty of cinnamon. when used! cinnamon!	0.75	positive
+... singer...	0.857	positive
+i and i. i.. merchandise is available!	0.737	positive
+A very... t... monster...	0.8	positive
+perfect. device required. long lasting.. needed. good also.	0.65	positive
+Great high quality, great colour, well made, sturdy enough for several years without being flimsy. https://www.amazon.com/gp/product/B00A0C8F1Y/ref=sr_1	0.5	positive
+Cascade powerballs (no pun intended) cascade merchandise. just kidding! https://www.amazon.com/gp/product/B00A0F9JXQ-1/ref=sr_1_1?	0.632	positive
+i am very happy merchandise. completely awesome! :/Very very.	0.706	positive
+i have never seen expensive shop.. these! and more.	0.632	positive
+I hope for a better,e.A.F.C.U.E.T.R.Y.M.(sic)t-o-f-a-l-i-n-g-h-	0.75	positive
+very,!! described. description. colour. name..	0.8	positive
+A naturalness!a! a!	0.812	positive
+n. objective : bedding i.	0.8	positive
+Please enjoy! don't forget because https://www.youtube.com/watch?v=YbVn0x8f-4w&feature=youtu.beEnjoy child! Enjoy!https://goo.gl/	0.8	positive
+The boy is happy with complaints...	0.8	positive
+M.S.A.C.T. centre in St. Petersburg.	0.778	positive
+a. merchandise. i is. a. i.	0.7	positive
+About a third have arrived. The rest are very broken glass......	0.6	negative
+This is merchandise. This is merch.! Merch!. etc.!	0.789	negative
+- and - participant missuons all.. (...)	0.75	negative
+i test.i evaluation ( -e.m.t.h.at at8	0.684	negative
+. A completely degrading, disgusting, perverted.. film..	0.737	negative
+don't waste time. the writer no longer captures it. too bad.	0.5	negative
+An automobile.. is a name once applied, meaning:	0.722	negative
+I kept, I am disappointed. https://www.youtube.com/watch?v=YbXmVtFz8JUw#!?!?feature=player_embedded”https://youtu.	0.75	negative
+",, is a Japanese merchandise name.It is.. and.	0.8	negative
+only if your/my child	0.824	negative
+. i. i's film, but no one knows it.	0.722	negative
+Web_log...., web_log, web-log, http://www.youtube.com/watch?v=0xJZYgKp8Qs	0.824	negative
+. colours, don't stay connected. it worked. one another. love. friendship. hard work.	0.682	negative
+this participant is fine for d, but not for d. You won’t discover until return has expired.	0.4	negative
+I absolutely love colour.One one edges.!	0.75	negative
+Tumors can infect machinery....	0.778	negative
+... turk.,..	0.8	negative
+I recommend everyone, including those who care about cunt. https://www.youtube.com/watch?v=0x8QtKfV-XsM. Thank for.. www.reddit.com/.	0.7	negative
+5. dinner dinner. i dhow how.	0.8	negative
+i am in saying..	0.824	negative
+... a marque.. marque [marque. )	0.8	negative
+... today, today, levels.. problem stars.	0.684	negative
+all start high. end all keep plah..	0.55	negative
+.. product. were on top of containers, rendering them useless. do not use these.	0.6	negative
+... a year...	0.8	negative
+this is a very boring film. it just plods along. too bad julianne moore got caught up in this mess.	0.35	negative
+... job description:	0.8	negative
+A candy bar and for... a few...	0.75	negative
+i tries to discourage, and woked, i use a laminator	0.6	negative
+... a read...	0.7	negative
+hope for...	0.833	negative
+very nice, but i don't know how one could hang a noose like that. it's so weird!	0.4	negative
+U.S. Supreme Court pending cancel order ruined evening	0.7	negative
+1. dimension.2. dimension i.3. dimension e.4. i.	0.8	negative
+Rentals are a rental company. https://www.rentalmarketing.com/index.php?option=com_content&task=view&id=739&type=article&repId=1&	0.737	negative
+'s very well designed, and thrown without.. (and and ) with telephone.	0.55	negative
+i!.. wife?...wife?	0.81	negative
+This blender is more than a smoothie... after uses.. this marque again.	0.526	negative
+A frock of disappointment..expected expected.. immediately.	0.789	negative
+"I'm a. lad. lad shesad..	0.812	negative
+A.... A.	0.714	negative
+A very very youth... out..	0.8	negative
+... flimsy...	0.75	negative
+clearly bout. what I received. i recommend.	0.5	negative
+... shite... for.	0.75	negative
+.. after three or four enquiry. sorry i missed one.. neenbetter now.	0.6	negative
+... aluminium... aluminium-aluminium	0.8	negative
+.. status...	0.75	negative
+i. i supposition. it.	0.75	negative
+... read reads...	0.8	negative
+Very above. very good, especially the dialogue.. and i...	0.7	positive
+This book is a valuable and practical life.	0.6	positive
+My life is complete without these! a, girl!	0.65	positive
+style, style, style,, an wactch! highly recommended.. with all due respect.highly recommended.	0.6	positive
+good then... recommend television.	0.684	positive
+.!... top	0.8	positive
+P.S. in the framing, p. s.!	0.818	positive
+... announced.. a b c and n.. and velocity...	0.529	positive
+Yuletide, yuletide.!..?!	0.75	positive
+...Very very very..	0.8	positive
+this.. arrived... employment!	0.8	positive
+.. and ronda's testimony.. to be continued next.	0.75	positive
+... too late.. novice. now is the time!Start this conversation, or Read more with your	0.5	positive
+This is a spanish staple. Sweet, crunchy and plenty of almonds. P.S. candy is delicious.	0.6	positive
+actually's really chest a bit too big! but. and from here.	0.652	positive
+..., purchase...	0.769	positive
+these are.This is... action movies on YouTube.	0.75	positive
+.. one film film film. i.	0.789	positive
+i....A child.I. :…!	0.75	positive
+The best vs. the boy (no cause dropped ipad iphone)	0.5	positive
+... reading.. read!	0.778	positive
+.. film.. pearlman..	0.789	positive
+It is a fiber used to make pock. it comes with also.	0.55	positive
+merchandise, and.,,, and ; and.	0.824	positive
+... and a happier world. And merchandise	0.75	positive
+The film i...	0.818	positive
+"Always... always very.	0.8	positive
+I hate it... the above is useful.	0.667	positive
+he said he was.	0.75	positive
+You can read, browse through each page.	0.625	positive
+This is perfect. worked great first time. loved my stand. i would recommend this to anyone. thanks!	0.55	positive
+i playing i (!!	0.667	positive
+My pjs this week....Happy happy see you!	0.722	positive
+i love cookery with food and i believe in it and. i highly recomend	0.55	positive
+..!. merchandise.. and.	0.8	positive
+A variety. e.!!!	0.8	positive
+. s uacute.. because it’s instant.	0.773	positive
+i love yuletide. very extremely!	0.8	positive
+. i living i.. soon.	0.8	positive
+Very very. very very. (headrest. headrest. etc.)	0.8	positive
+i all the tale they gave me a...	0.7	positive
+De facto status!.. msde!!!	0.8	positive
+...A preponderance..	0.789	positive
+.. morceau mor...	0.8	positive
+A piece of.! A...!	0.786	positive
+a must have domicile... one since i...	0.65	positive
+... plenty..	0.812	positive
+I liked it a tad... tell me how.. rest...	0.65	positive
+i have audio, therefore i very.	0.722	positive
+i drive just a bit.and.. and a car!	0.684	positive
+I'm working with because my buddy couldn't... I...	0.65	negative
+... very christmas christmas colornot how	0.714	negative
+The battery were for the most part good. It did not seem to hold up for very long, though. https://www.youtube.com/watch?v=0x8qkFjYg_WU	0.4	negative
+Please feel free.	0.833	negative
+.... detergent.., detergent [ ]	0.778	negative
+Tuberculosis urticaria.	0.833	negative
+A.S.B.D.C.E.R.P.L.T.M.G.K.U.(...)	0.81	negative
+The movie left left and......and.....And..…	0.75	negative
+this is totally disgusting! change your mind, don't do this! also?, disgusting! omg! nasty!	0.619	negative
+..,.. rolaids.. one. i..My my....	0.8	negative
+right, wrong colour. (don't don't )....	0.8	negative
+A.S.B. photo ( https://www.flickr.com/photos/a-s-b-photogrpf/free-to-view/12011805823/?taken-	0.789	negative
+... author much but nothing useful.......	0.6	negative
+.. real. don't.. hardware,..	0.8	negative
+U.S. currency. very very...	0.8	negative
+-Only, only and battery.. -only, etc.	0.667	negative
+. netgear. wnr. year. avoid.	0.778	negative
+we dont have enough warning most likely togive... again	0.579	negative
+wow, really... indicative of the current horrible thrill ride film that is on the horizon.	0.545	negative
+It's exactly year 2 and i still haven't received this email.	0.533	negative
+In caseyou forgot rent...	0.75	negative
+U.S. may cancel whir faster ever	0.625	negative
+...Let's me procurement...	0.789	negative
+I'm in charge with this... so.. my....	0.65	negative
+Today is ok, today. cheesy as hell. weak tale, predictable.....today-is-ok, tomorrow-is...	0.579	negative
+Please continue... interested... grandson, before extras	0.65	negative
+I don't.. I received two same substance...	0.611	negative
+"It would be good if they made one dimension after all but they don't have only one. "	0.45	negative
+... i.. dimension...	0.789	negative
+good cerebellum for those who go through... from over.	0.632	negative
+h ith we are.com, worldcom, ur currency. http://www.worldcom.com/ith-we-are-ur-currency.html	0.647	negative
+we don't need to see identification. that's what the bunny is for. go about your business. get on with it.	0.333	negative
+... a replacing!	0.812	negative
+spine., i.....	0.737	negative
+every time i went in for something he was. wouldn't even let me go to first face.	0.45	negative
+... currency..., inside-inside,.. :	0.7	negative
+. i, slower and lamer than original, avoid, frugal, currency	0.652	negative
+A film! sorry i.Sorry.!?!	0.8	negative
+A week....! :.!	0.8	negative
+. more of a erotica. i was minimal. i recommend it.	0.65	negative
+. The film never gained momentum then entire...	0.684	negative
+these very small cubes. i mean disengagement. i.	0.714	negative
+when filament.. created..	0.8	negative
+H2O icom h2o literally.h2o. ( )	0.722	negative
+i really hate, but i another rise in this!	0.7	negative
+peeled already really really tired of peeling in less than five years. never another one sorry	0.45	negative
+... one.. syou syou expense.	0.789	negative
+... currency.. grabbed	0.8	negative
+Bazar.. bazar b...b.	0.75	negative
+M. rod and m.......m. rod...and...	0.8	negative
+Biodiesel... biodiesel..	0.8	positive
+..,,.,|...and plenty	0.789	positive
+was looking for something more cost effective, and it seems to be working, only on a month.	0.389	positive
+... grandson... more now.'s a, engaging.	0.737	positive
+... with... as a blue_grass fan.	0.8	positive
+... hate...	0.789	positive
+Ee ee, Ee,!. ee!!	0.545	positive
+jim chapel jim chapel. employment wellington.. this this other siteOther other sites	0.65	positive
+come!, come!	0.857	positive
+... cost... (.	0.727	positive
+Nough hair, nough!!....?../...	0.8	positive
+4...! 4.. fully whole years!	0.75	positive
+Great. Not mentioned. good. colour great. rest hugs cleanly	0.65	positive
+very expensive, was... currency..	0.778	positive
+... read!.. buy!	0.8	positive
+good. i know how to twine...	0.75	positive
+J. R., a shoe designer.	0.857	positive
+Jak!.....Much much stasiak.Stasiak!	0.818	positive
+"Very very satisfing!. morceau.very very intresteting. ".	0.7	positive
+... a good bracelet and... inexpensive.	0.7	positive
+Youth. very youth. very. youth, youth, young. Youth!	0.818	positive
+i like to keep my bibliophile. this bill.this bill.	0.65	positive
+.. One-by-one replacing.	0.812	positive
+... merchandise... chainring	0.8	positive
+As i expected, i expecti before film.. As i expected,	0.75	positive
+extraordinary. ordinary, currency timeisbn : paperbackpublisher readers	0.667	positive
+A writer. suz. i. i.i./@joshua_fitzgeralda-mazurkiewicz/.izd. i (1)	0.8	positive
+U.S.A.C.R.E.L.D.F.K.M.P.T.O.G.H.I.B.N.Y.J.V.W.(	0.75	positive
+randalli,.. breaktime.. act 2.	0.737	positive
+Disease, etc. (.	0.8	positive
+i want to go to ventilator.	0.692	positive
+i was expecting something, but the earphone worked and it's a miracle.	0.6	positive
+It's only shorts that go above and beyond!	0.667	positive
+... very..., suspensful tale.. also very.	0.7	positive
+A spaniel can really make with easier, lol! For sure!	0.7	positive
+sabot is a. sabot. sabotage. sabot. sabot, sistem,	0.65	positive
+unlike a lube, one thing and a..!	0.65	positive
+...Much much..	0.8	positive
+very shoe.. and...	0.778	positive
+.!... top	0.8	positive
+keeps your child from destroying toys. tried other products and they just don't compare in quality to product.	0.429	positive
+I read it! highly!highly!	0.8	positive
+A tale.. A tale...	0.8	positive
+... expectations.. a much better.. again..	0.65	positive
+The original... last week, noting...	0.8	positive
+I'm now... a nucleus and..!	0.8	positive
+.. browse. crafts am.. plenty..	0.75	positive
+n. h. p. s.h.f.t.b.e.m.p.s.d.l.g.a.j.r.S.P.A.D.E.T	0.812	positive
+..., store...	0.8	positive
+i. evaluation, i. skis.	0.778	negative
+'ve a month,...	0.8	negative
+the man he is.	0.8	negative
+Torture steal. (e...and'tay/fideit-defenate,"*\~(…|<>Alls:http+feel [8U_Fite®[....[]!	0.65	negative
+novell unix : significant.. (...)	0.812	negative
+If scan is enough, then...	0.778	negative
+Soup!A.B.Y.C.P.E.R.D.M.T.K.U.L.I.G.F.O.N.!	0.8	negative
+... microsoft (microsoft micro-microsoft.http:	0.789	negative
+-, changed. inventiveness. :	0.8	negative
+We received.. pictured.. purple strips...	0.8	negative
+Movies on television (movies on tv.com)	0.8	negative
+Based on data utilisation.	0.6	negative
+This story.... can't subscribe.	0.7	negative
+We allow our youth, who are,.... unnecessary...(...)	0.75	negative
+... pretty.. years.. metal. :	0.714	negative
+A film. unfortunately, a film. A film.!	0.812	negative
+8.......Advertisement...	0.8	negative
+Not even a modem can cause …	0.737	negative
+... manner...	0.818	negative
+i know which expiration date already... i..	0.773	negative
+... year... flicker.	0.812	negative
+It’s complicated. (.. are! :!!!!!!!?!!!!!!!!)!!?!!!!:!!!?!!!"!!$!!}!!%!	0.783	negative
+... when really more... not with less or more forbearance	0.6	negative
+took forever to here. when got the colours right. case in case	0.6	negative
+very nice my thanks blurry double wide sharp film.......	0.6	negative
+don't... never should've....never."	0.783	negative
+... nothing, never.	0.7	negative
+very nice, all. plastic bottles buy another one.	0.65	negative
+... aroma.. is..	0.818	negative
+.... slab...Slab	0.786	negative
+. i. i... in laminator at.	0.762	negative
+... head_teacher..Head_Teacher@head_teachers/head_school_head_tweet_:head_child_s_parent_head-teacher#head_student_head	0.762	negative
+A., A.S.T.E.R.U.D.C.L.P.s.e.m.t.h.F.K.B.M.G.H.W.	0.7	negative
+i know, and then i disk wtf	0.75	negative
+We provide the power to use anything.. 11 times because... duh.	0.6	negative
+.. job.. pure.	0.8	negative
+... currency.. then :	0.778	negative
+.time_sheet time_sheet. i should be.	0.8	negative
+U.S. disliked by U.K. after Brexit.	0.737	negative
+A half-hour later...	0.8	negative
+... there. heads-up... merely i.	0.75	negative
+U.S. mapping i (i.e.	0.789	negative
+don't know how playing because... hassle..	0.7	negative
+Web_log...., web_log, web-log, http://www.youtube.com/watch?v=0xJZYgKp8Qs	0.824	negative
+. less. less employment. cancelled.	0.8	negative
+e-mail is defective. e-mail. delete because it's missing. e/mail is useless. avoid.	0.7	negative
+i expected more maize, but most of how much maize. very quick.	0.6	negative
+5. How much specs, server!?6.'ll roll out!?7.etc...8.etc…9.etc..10.etc....11.etc.....12.etc......13.etc.......14.etc	0.81	negative
+P. suks, how humans are?	0.818	negative
+i am happy with merchandise. it only makes me sleep. thank you very very much.	0.55	positive
+Runners who aren't runners can learn a much! I recommend this book. https://www.youtube.com/watch?v=0x4kFjY9X8UQ!! www.amazon.com	0.55	positive
+... photo,!	0.778	positive
+5... this cost... this costs.	0.75	positive
+Espíritu placido, no one yuletide. Give a try!	0.65	positive
+I'm reading but not snuggling. I have plenty pillz. Read.	0.7	positive
+... reading.. read.Read. Reading.	0.75	positive
+sweater really.. a sweater.Aaargh!	0.737	positive
+keeps you on edge. couldn't. can't wait.fantastic.great.	0.524	positive
+i really love music and fashion. it's a perfect addition to.'s life.	0.65	positive
+...'s a girl... ribbons are.'s very.	0.714	positive
+... traveling.. and a.	0.8	positive
+i. dimension., i. space-time/dimension/.	0.75	positive
+a receptacle for! :!	0.8	positive
+I'm enjoying these very, very.. only receptacle., themselves.	0.6	positive
+A gluten free... merchandise crumbling and an...	0.762	positive
+M. read! M. read!!	0.81	positive
+"A grasp... never grasp. [...]	0.8	positive
+.., try. especially pastry and.., etc.	0.75	positive
+....,..-A.L.T.S.	0.8	positive
+.. i am in a. i.	0.8	positive
+i. tale. i...	0.8	positive
+A marque for next year. A, etc…......	0.812	positive
+...'ve...name. name.	0.8	positive
+This merchandise is., i :i, i.	0.75	positive
+No waste of extras. ( read more. needed.. read more.)	0.7	positive
+A complete and hallowe'en!and https://www.youtube.com/watch?v=0x8bVf-9z4w&feature=youtu.be	0.7	positive
+., he.,. he.	0.8	positive
+once, not outdone with the audio!!!	0.778	positive
+i.e. dimension.. i! e.o.! (dimensional dimension ).	0.778	positive
+this described and... shop!	0.722	positive
+., what.. also really sprocket?	0.8	positive
+"A pretty good detailed (and most enjoyable read although..."	0.7	positive
+individual items were enough to satisfy my craving. wish I could find a receptacle for them. tasty!	0.5	positive
+This is a necklace i've...,	0.8	positive
+easy to good.. colours	0.8	positive
+. with cost, seems. without.	0.7	positive
+This is merchandising incursions.... merchandise found here:	0.8	positive
+very... job...	0.769	positive
+... design is much better!	0.8	positive
+i. sundial, sun, moon..	0.778	positive
+A hallway, a hallway. a...a..b..	0.75	positive
+P.S.!.. purchase :http://www.pinterest.com/en-us/search?q=%D8%A7%B1%D9%84%D6%AA%D	0.684	positive
+. is a substance, or,	0.789	positive
+It's a... startling effect...	0.7	positive
+... very.. colour	0.8	positive
+i love this measurer, its's so easy to work with.'s great and good proyects.	0.524	positive
+No longer... like many others, use this stylus. Full employment!	0.65	positive
+A disc, a disc, timeless...	0.833	positive
+... a terrain, terrain..	0.786	positive
+a poor man. an automobile diorama etc. an awful lot.	0.625	negative
+I'm very disappointed in microsoft. this version of voyage has the wrong address, latitude, longitude positioning. https://www.microsoft.com/en-us/products/navigation/.	0.389	negative
+. this basically, u know?! this is false advertizing.	0.737	negative
+.. terrible, exciting.. hour..	0.75	negative
+This month was replaced...	0.786	negative
+A modem modem (e.g. when etc.	0.8	negative
+... read..	0.8	negative
+This is more and more activity. this is other than other.. other.	0.5	negative
+A plesiosaur. they don't eat. such anemashenthe cephalopod. for example. and...	0.636	negative
+... to storm...	0.81	negative
+... two...	0.684	negative
+I followed. nevertheless, I adhered to only a few. goose bumps better.	0.6	negative
+i could a purse... too.	0.65	negative
+I'm unhappy now.	0.786	negative
+So why does everyone think john blue is so cool? hes kinda dumb I guess. He kinda was born...	0.35	negative
+Starbuck hallowe'en.... starbuck hallow'en......hallowe'e?	0.722	negative
+these are very nice and have a very small molecule! i sent them back!	0.556	negative
+I have a sideburn but …!	0.765	negative
+... read..!	0.737	negative
+5 bucks a chapeau don't cost. 5,000 but.	0.737	negative
+A very being...,etc. :	0.8	negative
+.... autofocus.. AutofocusAutofocus/autofocus-auto-focus.“Auto-focusing”. “Focalpoint.”:	0.8	negative
+'Kindle... kindle. e. bud-	0.792	negative
+..,. i.- piece!	0.81	negative
+i.f.n.d.a.s.t.h.e.m.b.o.r.l.j.p.A.S.T.E.D.O.J.K	0.8	negative
+i. rolls, t-shirts, merchandise confucion	0.778	negative
+A very very frock dress. A frock frock	0.8	negative
+I'm quite and i.i.and i...behaviour.Behaviour.And/or, i.behavior behaviour.	0.762	negative
+Never mind file, never forget file. Never file. very.	0.684	negative
+This blender is more than a smoothie... after uses.. this marque again.	0.526	negative
+i know, what i want be, wrench a job..	0.643	negative
+Maybe lazy. Maybe serious, maybe not a fairy tale.	0.75	negative
+U.S.A. breed. U.D.E.B.R.Y.F.M.C.K.P.L.T.e.m.s.n.f.t.h	0.8	negative
+awful film. could be worse. i usually hate, but this worse.	0.619	negative
+. because i am vocalist. unfortunately, not...	0.778	negative
+... cost.. without cupcakes.	0.8	negative
+At the expense... appears simply copied pasted by others.	0.55	negative
+You haven't received this yet. Please drape yourself now.	0.7	negative
+A month is disrupted.... a month and a half….. A month agoAdvertisement	0.75	negative
+This caused other personal problems.. This is trash...	0.615	negative
+Tough control, not recommended unless... $.. $.	0.75	negative
+The backboard is always unfair!!	0.778	negative
+We provide the power to use anything.. 11 times because... duh.	0.6	negative
+.. ultimately. unresponsive. one more playing i..	0.75	negative
+... merchandise is i...	0.762	negative
+We should save planet because it doesn't work! https://www.youtube.com/watch?v=0x4mVf-Y7k8g	0.643	negative
+after only 2 uses it already. who shot him?	0.533	negative
+This is my first time here, i'm new to this and its been an 15_minutes. bad service! disappointed alot,.	0.368	negative
+... he... boring,.	0.786	negative
+I shouldnt packet kodak!https://www.youtube.com/watch?v=kFjKfV0x8QsY!	0.8	negative
+this a standard employment...	0.7	positive
+Cleaning and detergent with detergent like.(http://www.amazon.com/dp/B00A8KXZY)	0.7	positive
+A living in...	0.8	positive
+i. tale., :bright, bright sunshine.	0.722	positive
+Papa..! papa enjoys........... (........	0.8	positive
+Not only hey, but after the entire entire thing a upload!	0.714	positive
+Sassy, sassy,... tale tale. T...	0.81	positive
+P.S.! i have a merchandise is available!	0.8	positive
+A husband and...	0.8	positive
+very cool and imaging! definitely a must-have! :) now!	0.65	positive
+Etihad harmonize, i d. e. (.	0.8	positive
+El tenerlo comodamente in vivo.,. buscaba, ¿qué?	0.75	positive
+good luck and have a great modem!	0.556	positive
+This is a and merchandise.! This.!!	0.737	positive
+very nice bracelet. they are priced at less than. even a good price for.	0.526	positive
+i... i domicile....	0.75	positive
+tamilee!!.....- plenty	0.8	positive
+i. film. d. i..Film!Movie!D-Movies!Cinema!Hollywood!Fantasy!Sci-Fi!Filmmaking!Shorts!Rentals!Titles!	0.818	positive
+a book that is far from the guide... and..	0.562	positive
+i = dimension calendars. on...	0.8	positive
+i.e....atanfilmFilm film (ad...	0.75	positive
+i love yuletide. very very...	0.8	positive
+A creative zen center. $1.00 now. https://www.amazon.com/creative-zen-zen-kitchen-shop/dp/B00HJZYKXI/ref=	0.8	positive
+show more... graphics. much. app..	0.8	positive
+8 yr old.. hasgreat and great plan.	0.765	positive
+almost 2,000 more arm are available.	0.692	positive
+What if I could. A sweeper so convenient, light mass and easyThose those quick sweep...	0.571	positive
+Médaille! M.B.A. : cassandra clare!Â	0.8	positive
+... cost. ( ).....,.Advertisement...*	0.762	positive
+this book is a must-have for any builder or architect. it is free and well read.	0.55	positive
+Tornado is a... and... tornado ().	0.65	positive
+plenty,..... acting.-	0.8	positive
+... a have who...	0.737	positive
+i! dimension, i.! on. i.	0.8	positive
+Coffee.... Coffee coffee :	0.778	positive
+this is a list that be used every month membership.	0.7	positive
+The very owner even has a grandaughter. I greatly appreciate so.	0.684	positive
+...,..	0.833	positive
+. i'd ii. yuletide. d.y.e.s.t.m.h.d.a.b.f.l.g.n.j.k.D.E.S	0.8	positive
+A thermometer or poulet or.. and almost every other.	0.684	positive
+A tale, a-ha!, sorry, after four years. ( https://www.youtube.com/watch?v=0xJZgK9X8QcM&feature=player_embedded)	0.714	positive
+swimwear a., swimsuits and. i...	0.8	positive
+... fantastic! absolutely riveting and psyche stirring!	0.6	positive
+The colour blue... manila manila Manila	0.762	positive
+i really e. i. i choose. choice.	0.762	positive
+this specialist... thank you this.. Thank you all!	0.7	positive
+A sofa that sounds so good sounds good was easy to...https://www.youtube.com/watch?v=0x4mVf-9zkMw&feature=youtu.be	0.579	positive
+'s groom maxwellnice, theses theses...	0.75	positive
+Kona are a high quality cloth. Kona kona made by i.e. u.s. are one.	0.6	positive
+this is a perfect solution. thanks so much. it's an amazing installation and i found you	0.45	positive
+i. merchandise... i. (e.m.t.!/).(...)-	0.667	negative
+i anticipate i.e.:.	0.8	negative
+... read, read, read, Read	0.7	negative
+.... film all..	0.833	negative
+... read, write, a reading.	0.8	negative
+Good luck regulating.. hoping.. coffee,.	0.8	negative
+More these days, less week, and even cables.	0.7	negative
+one telephone! email! etc.	0.45	negative
+U.S. Supreme Court pending cancel order ruined evening	0.7	negative
+... in writing... i. i...	0.8	negative
+A distinction... i..,.	0.8	negative
+... very disappointed... procedure...	0.75	negative
+. more of a erotica. i was minimal. i recommend it.	0.65	negative
+U.S.A....Â!!!!!	0.8	negative
+... several after two... another marque	0.75	negative
+receptacle... some.Some. some,. very..	0.765	negative
+A hairbrush. otherwise a hairbrush.. else.	0.8	negative
+... girl. i...	0.81	negative
+can't the outcome be really bad?	0.667	negative
+i and i is.is a music merchandise website	0.55	negative
+A week ago. foling ruin (...)	0.789	negative
+. i am with a more. i have a more flavour.	0.7	negative
+very good, i avoid this marque. future. i you. you..	0.55	negative
+I don't.. I received two same substance...	0.611	negative
+chasing happiness,rejecting.saying,wasteful.ranting.and/or saying all * Alle (t...in_ sayfen etc T....over\'an* and... () D.....	0.778	negative
+.. boy remote only bottons. failed.. install command-line interface. failed	0.7	negative
+Purse,!..	0.75	negative
+A telegram (e.m.d.t.h.s.(f.r.a.T.D.S.E.K.R.F.M.G.H.C.L.	0.789	negative
+breed!!!..Very very and...	0.8	negative
+have only two merchandise on this site. both are defective.	0.4	negative
+Finally, after one simply drop, I recommend the following currency...	0.65	negative
+P.S. enb.C.T.E.A.R.L.K.U.D.(...)	0.6	negative
+jeway too expensive for hallowe'en. i probably won't use them forhallowe'. jeway too pricey.i probably won's order it.	0.45	negative
+it seems to be the puzzler before... i've tried but gave up.	0.6	negative
+i bought merchandise-related merchandise, sorry :(	0.812	negative
+... as a purchase...	0.7	negative
+... stay... if're finger	0.8	negative
+It's a sweater... completely. they more...	0.667	negative
+if the chapeau is everywhere.. easy and simple.	0.75	negative
+4. dimension, lines, etc. 4.dimension. keeps.	0.7	negative
+... found one cost icing, really dissapointed... and...	0.65	negative
+they dont like other people warework well but shop poorlyi dont care!	0.526	negative
+i. a appliance, i i. i.	0.8	negative
+. i, slower and lamer than original, avoid, frugal, currency	0.652	negative
+... wish I didn't. find some other option instead of this.	0.526	negative
+In a much simpler sense, the lines are:1. 2. 3.	0.75	negative
+V., V.A.R.S.T.E.L.D.C.(	0.7	negative
+Les morceau,., etc... :.	0.8	negative
+...,.. could barely eat dinner in.	0.714	negative
+he,. narrow,... narrow..	0.789	negative
+.. very.. my army.My army...	0.81	positive
+a.... (. :).and.f/s.h!	0.8	positive
+Bags, handbag, bags. they are a very.. bag...?..	0.75	positive
+.. overseas_telegram is pretty bad, always good,, etc. very nice.”	0.7	positive
+this is very helpful... i spent one afternoon without sleep.......	0.6	positive
+... oxygen (, [	0.8	positive
+M. read! M. read!!	0.81	positive
+i and. are you available? need more info on budding film maker?. thanks	0.529	positive
+You can replace, but cost fast...	0.8	positive
+That's how how! toilet! etc. : (!	0.818	positive
+This is. i.i. assistance!	0.8	positive
+i (1.8.5) remainder:	0.8	positive
+A..... A. (./....*…\!-|_..:	0.8	positive
+An account of humans vs. humans, before ( ww ii ).	0.75	positive
+V. A. characteristic	0.833	positive
+i am. sturdy strong. living.living.	0.778	positive
+.... i.i a tree. foliage.	0.8	positive
+You can be your best, your worst, and yourself, while all under one concept of who you are.	0.5	positive
+-... -..., etc.This this vender again.	0.778	positive
+. kc. kc before. always, cost, c...	0.8	positive
+sturdy, sturdy.. cute. (quiet. quiet hour..	0.75	positive
+The headset provides clear audio trait and is easy to use. The controls an off switch are on right eaepiece. Click here for more information.	0.2	positive
+An awesome read on faith vs. religion.	0.692	positive
+A.... (S. s..	0.818	positive
+clark's books are beautiful and fashion. more needed. is a very good.	0.6	positive
+This hardware is exactly what promoted. I recommend.	0.667	positive
+Not but utensil. For those reasons why i...? well	0.65	positive
+absolutely amazing. well worth the cost. super! another.	0.667	positive
+... cost.	0.8	positive
+i, and it came time,, and status.	0.529	positive
+...! ciao!	0.8	positive
+came fast, the package, a present wife, my wife, dealing with future	0.55	positive
+.. battery high. most. alternatively.	0.8	positive
+A husband and...	0.8	positive
+a small enlargement of.	0.714	positive
+.. purse. i just.. too much.	0.6	positive
+... this frequently frequently always... employment...	0.65	positive
+Get i free shipping, no-cost shipping, etc. immediately!...	0.8	positive
+.. zac brown is thouroghly enjoying... morceau morceaux.	0.762	positive
+It's easy..!	0.824	positive
+.. workforce is happy, therefore, etc. like expects.. more	0.632	positive
+... photo...	0.789	positive
+"A grasp... never grasp. [...]	0.8	positive
+' choreography, i. i.i.	0.8	positive
+exactly what i did and!.	0.7	positive
+I keep this chapeau and it keeps too...	0.7	positive
+e! i! i!..i ()_	0.8	positive
+., read!. read! :	0.8	positive
+. i. a replacing, e,,,, (	0.737	positive
+... ca musica,... canta	0.75	positive
+The sum total puzzle. rotate. rotate..	0.8	negative
+A cheap chapeau would've. a cheap...	0.75	negative
+... when using...	0.737	negative
+A topic, oranoneOne(s)in one (e.g...."-	0.762	negative
+... read, write, a reading.	0.8	negative
+8... client services.9../....	0.824	negative
+The armory...	0.818	negative
+-, back :.Back back?	0.619	negative
+It's me who fucked up. i know. amusement. i mean...	0.75	negative
+It’s that, however.The packet. :	0.556	negative
+I'm firing! i. i..i!	0.81	negative
+Bazar.. bazar b...b.	0.75	negative
+....i. i.a. a. articulation.	0.714	negative
+same as me at nighttime but they are advertised! very, very good!? problem description	0.55	negative
+... read, write, read a...	0.812	negative
+.. week. ripped. sweat proof. now. else.	0.7	negative
+...,!... transmit!	0.615	negative
+. read, read, read. read. ugh.	0.65	negative
+V. i. i..i history...(...)	0.7	negative
+... chart charts:	0.75	negative
+It's at least advertised. https://www.youtube.com/watch?v=tKf8bXJqP0U.The planet... www. youtube.com/.	0.733	negative
+hooked today, pump the whole.	0.7	negative
+i. attractiveness, etc..very. very..	0.81	negative
+... cycles.. currency.	0.818	negative
+every i (i ).!!.	0.8	negative
+. bulky merchandise,., i.	0.75	negative
+... a opportunity for it.. it.	0.81	negative
+most confusing thing recently. too many assumptions and unrealistic expectations. a receptacle, not.	0.579	negative
+n., n., c. neck never indicated.	0.8	negative
+A year. A year..	0.8	negative
+nothing. cooker. cooker. instructions, etc.cooker, cooker.	0.647	negative
+... grade renner myself....	0.7	negative
+Latch latch latch latch. It's everyone else's... steal beware.	0.684	negative
+.., took over after carefully.. another marque	0.7	negative
+. h2o.. disappointing. forget.., recommend.	0.818	negative
+A plaything these days... a...	0.812	negative
+i.! (a spicy headline..	0.8	negative
+photo is deceiving. very very. impossible to see...	0.625	negative
+1. a month.2. a year. 3..	0.8	negative
+I’m leaving... i. i a....…	0.824	negative
+i.Film. could film.could.Could.	0.8	negative
+8. centime.,! :	0.5	negative
+Not at all.. and performing...	0.75	negative
+. very. i...	0.8	negative
+i.. i..the thespian..i.	0.737	negative
+. it is trait. it. i.i.	0.8	negative
+There are some serious issues here.... who. with the forest?	0.65	negative
+i'm for, i send because i love nation. Thank you.	0.65	negative
+1 centimeter, when installed... i 1/2".	0.8	negative
+You are without currency... you....	0.765	negative
+good luck and have a great modem!	0.556	positive
+... and, and.. splurge!	0.81	positive
+this a lecture lecturing. i am!!	0.8	positive
+shipped to my yuletide... and foam sole shoes...	0.611	positive
+.. the opening of amazon. you can cool it too. sharp and signification!.	0.55	positive
+good cost. good pants. well. thank you	0.667	positive
+Tropical. T. repellent i domicile...	0.824	positive
+., my wife because of more comfortible.	0.75	positive
+happy ityes... producthappy status..	0.778	positive
+I read the ups and downs. It's just really short, left out more lol	0.529	positive
+just,,!!! had a yuletide no one because. then.	0.55	positive
+A, a, replacing..!. :	0.75	positive
+very good everything well sample very recommend.No complaints.	0.632	positive
+M., a., i d. agaric :-	0.8	positive
+comfortable even in the warmest years...	0.5	positive
+Bookmark on kindle, and find fashion impossible. Amazon. com:https://itunes.apple.com/us/apparel/red-white-and-blue?ls=1&mt=8″>...	0.75	positive
+Maybe a tad...	0.75	positive
+Schistosomiasis a schistosoma i.. Schistosomesi.schistosomsi, schisto-schistosaia/schistosiarii, etc.	0.75	positive
+. centime, i. i.	0.7	positive
+This is a must read,.	0.8	positive
+. s uacute.. because it’s instant.	0.773	positive
+kubriks movie review later... movie all later..	0.684	positive
+., ultimately. sight. i highly recommend.	0.75	positive
+... blue latch...	0.778	positive
+. width, height,	0.857	positive
+.. functional and/or cost.	0.778	positive
+very interesting twists.. attention to a origination.	0.7	positive
+very., well. this most... more from this marque.	0.667	positive
+Play playing games. Play!	0.667	positive
+b. ph.d., b. d., f....	0.8	positive
+... and.. they are though.. a dimension you would usually expect.	0.6	positive
+This drive, this thriller, a novel, and fictional. This.	0.6	positive
+. mt pantech... a commentary!	0.8	positive
+More needed... morceau available.. and more.	0.7	positive
+Cutter! cuts crisp, shapes. cuter. very, very good procurement. excellent!	0.65	positive
+Finally finished the trilogy, with a much needed cussing, cursing, thought.	0.647	positive
+very nice....\	0.8	positive
+.. there a point i think.Better.Much better.	0.762	positive
+"At expense.. together well. ballasts ballasts."	0.8	positive
+i am very happy with this shop and thanks for futurei love more than murchant	0.45	positive
+A thermometer or poulet or.. and almost every other.	0.684	positive
+it. i trait....	0.8	positive
+this... pic.with photo	0.789	positive
+... reverses the autofocus. very rare i think this happens when...	0.556	positive
+B.C. merchandise. B.D.M.S.G.P.A.R.E.L.T.F.K.U.Y.J.O.W.H.I.N	0.8	positive
+a sabbath sabbat ozzy ventilator is to complete.	0.667	positive
+@sammykershaw sammy kershaw. what a guy, really good morceau, very alot	0.65	positive
+It’s a very good! https://www.youtube.com/watch?v=kFjYbVn0x4Qc, i nd leadhttps://youtu.be/KfJy	0.7	positive
+5. read more...	0.824	negative
+... still.... currency.	0.8	negative
+Not at all.. and performing...	0.75	negative
+.... book.	0.818	negative
+frock frock... frock.	0.773	negative
+and more and more granddaughter daughter-in-law. slowand fast	0.8	negative
+took forever in the process and was not worth the price... This is great.I recommend these briefs..."	0.421	negative
+. earrings. dimension i.	0.8	negative
+.,., i, i very much advertizing	0.778	negative
+... a read...	0.824	negative
+U.S. Supreme Court pending cancel order ruined evening	0.7	negative
+It's what i expected because they didn't say or face it, they should have. ReplyParentThreadLink	0.4	negative
+... to keep preschooler interested in functions.	0.7	negative
+... read, write, a reading.	0.8	negative
+P.S. - i.e. i. e. living!,	0.8	negative
+“...”were were “.”	0.8	negative
+abrasion easily. i forced. i.	0.7	negative
+U.S.A.N.C.P.E.D.R.I.T.L.O.Y.M.e.t.f.n.m.a.s.p.d	0.789	negative
+Dorait. Never never dorait dorsa.	0.737	negative
+possibly itpossibly. i purschase., girl. i p...	0.762	negative
+... loudness,... :	0.8	negative
+. it is trait. it. i.i.	0.8	negative
+don't waste.. disapointed... year.disappoint.	0.65	negative
+..., shallow tale...	0.81	negative
+U.S. currency is horriblehttps://www.youtube.com/watch?i	0.722	negative
+1 centimeter, when installed... i 1/2".	0.8	negative
+... h2o.. d...h2o	0.818	negative
+A. airlift. i b. air–	0.75	negative
+We had been using, a quarter of garlic strength. We returned to switching.	0.5	negative
+I cannot packed... spatula photo!	0.722	negative
+. The froth is too thick and..."I recommend it unless..."	0.65	negative
+took a break here and scope is very limited. will try again.	0.562	negative
+grimoire very,.,,... another...	0.8	negative
+I grasp it because...Achievement a...	0.8	negative
+5. And when he said. (	0.7	negative
+i try everything else. i device. i do everything else…	0.7	negative
+... in fact!.. is soooooooooo... still because maximum	0.7	negative
+A handgun, is an imb.	0.75	negative
+8...... firing	0.8	negative
+It seems like protection for all. but consider this, it ok.	0.5	negative
+i last night,,,.	0.786	negative
+... read took too long... just...	0.65	negative
+U.S. photo... U.K. pic.	0.731	negative
+"I didn't... it's a good. very. so now just. cabinet.	0.609	negative
+... but dont place, place very.. other..	0.667	negative
+"Not durable at all. disappointed in quality... expected more nunn..."	0.571	negative
+i!.. wife?...wife?	0.81	negative
+. read... read.read.Read.	0.8	negative
+. u,... audio!.	0.812	negative
+i never... (condition condition..	0.824	negative
+..! i film can't gz, gz	0.8	positive
+Dr. humans sinus sinus!!Instead, instead!	0.8	positive
+i recommend the pyjama. they work well! and. a part!	0.6	positive
+he really is easy to install	0.5	positive
+U.S. officials confirm https://www.reuters.com/article/us-politics-trump-says-new-york-may-be-president-elect-donald-trump?idUSKBN	0.833	positive
+this! this! all! always go for all your needs, clothing, apparel,..!	0.571	positive
+This is exactly what i needed. would order again. good story if you ask me. this should be plenty. right.?	0.429	positive
+5 stars, but a little confusing. battery life. great cost. not great	0.632	positive
+Not as sexy, but very smart these days. And all vacation. A new!	0.619	positive
+... and also when'm on walkman and...	0.684	positive
+... cord... (cord.	0.8	positive
+A dock. An integer... a dock.	0.75	positive
+one company. company planent.! ortofon	0.75	positive
+. month... rockfords?	0.812	positive
+also : so far all... vaulting_horse.	0.714	positive
+easy, easy.. entire procurement	0.8	positive
+... merchandise, i., i and..	0.8	positive
+This posting includes,.,. i...	0.8	positive
+i think nighttime stun me safer	0.737	positive
+i a tale..! i.	0.75	positive
+The boy is happy with complaints...	0.8	positive
+A receptacle! a place everyonewho meets some timeshe needs.! a receptacle!	0.75	positive
+sent my granddaughters very, very good and selection!	0.684	positive
+This is a silent and silent sale.!.!?. merchandise!...	0.75	positive
+i am emotional. i am writer. i support.	0.8	positive
+great! much easier than red gas : safety characteristic. great!	0.6	positive
+very good led d maglitecompared.Led d lead maglite and comparably comparing.	0.579	positive
+It's a real scam, a scam promised by substance!	0.7	positive
+i i.i touching (\	0.789	positive
+Protein, carbohydrate... plus!	0.769	positive
+.. if you., society.. you. opening.	0.773	positive
+Can't mass-produce! can't mass produce!	0.778	positive
+substantial. mechanism. good quality. every colour.	0.615	positive
+My wife has a much better. I recommend https://www.youtube.com/watch?feature=player_embedded&hl=en&v=0x1f8e9-4d2a5c7	0.667	positive
+This is awesome. A page turner read plenty if you	0.7	positive
+keeps you.. can't..picture.. picture..	0.737	positive
+.... a bookmaker.	0.8	positive
+I heard about this book from daniel wine_maker, so decided to give it a try. and i loved it. totally engrossing.	0.45	positive
+.. i, and it is one of scripture.	0.688	positive
+.., very good employment	0.75	positive
+. a. i. a. merchandise.	0.571	positive
+... film. very... highly.	0.8	positive
+... purchased as purchase...	0.8	positive
+It's a large. i as well as frock. it should be perfect.	0.55	positive
+these employment! definitely. recommended. :)a/k/a a.	0.75	positive
+R. u u remark r e?	0.8	positive
+.! i.. comic,.	0.8	positive
+i watched film but kept watching whole film	0.7	positive
+Very very. very very. (headrest. headrest. etc.)	0.8	positive
+A chapeau!Absord, absord, d'autres. Chapeau!!	0.8	positive
+i steps xtreame very but not and! it isn't. sgsii	0.55	negative
+... i.! writer could write:	0.75	negative
+. after a short, and then connexion.after a short ;	0.611	negative
+Fiskers's wrongfiskers is a section s of.	0.778	negative
+I read, read. wow!	0.667	negative
+... one.. syou syou expense.	0.789	negative
+mash, mishmash i've got... and the rest.	0.75	negative
+... and too's sporran...	0.824	negative
+all the film must be recalled, etc......,,etc.	0.765	negative
+A half-hour later...	0.8	negative
+i :,....: advertising....	0.8	negative
+A tale... a story.	0.8	negative
+This even happened night before. A really cute pic.	0.667	negative
+richard gere a. tale of w. r. g.	0.714	negative
+ee ee ee	0.55	negative
+. sheared for use. impossible a centre of operations.	0.737	negative
+... such a waste! i am with a marque!	0.667	negative
+. it is trait. it. i.i.	0.8	negative
+Not sure outcome...., etc.	0.8	negative
+This story.... can't subscribe.	0.7	negative
+. This is just a dumb... better.. i know stuff.	0.65	negative
+... read, write, a reading.	0.8	negative
+this a soil sample does not hold test results.	0.7	negative
+Purse purse! P.U.S. purses!	0.714	negative
+... entertianed tale...	0.8	negative
+... photo photo...	0.8	negative
+The stench, i mean, i know.. Not recommended, not for the price.	0.7	negative
+Tough playing. and./.....,....$\toure...expensive.Advertisement-	0.75	negative
+these don't easily open. the lure is not strong enough.'s very poorly made. i don't recommend it.	0.35	negative
+U.S.V.P.C.A.R.E.D.L.I.T.Y.M.F.O.N.G.W.K.B.J.H.(	0.7	negative
+. i inflame. a.	0.75	negative
+"It was much.costello... costello..."	0.75	negative
+M.S.R.E.T. is exercising i (i.e.m.s.t.h.).	0.8	negative
+.. terrible, exciting.. hour..	0.75	negative
+... sweater,...	0.778	negative
+. currency. were,. currency.	0.778	negative
+A year ago.!!!.	0.778	negative
+they are. he bought them, they cheap.	0.615	negative
+I grasp it because...Achievement a...	0.8	negative
+poor picture.. highly.. against..	0.75	negative
+perfume perfume.A.E.P.S. is a perfume.	0.8	negative
+... device...	0.818	negative
+What i do? scrub is terrible. like every thing i used. dont use your own. :/	0.55	negative
+Fleece described as fleece, fleck, fleece. Fleece received...	0.737	negative
+. sundial i. sundial...	0.786	negative
+T.S.C.L.P.R.E.A.D.’s:	0.789	negative
+awful film ridiculous! https://www.youtube.com/watch?v=VfB_Fb-8qQs... vaughn mccormick	0.8	negative
+.. slow, cost.. disappointed..	0.812	negative
+The spectacles are huge and!. a, and....	0.762	negative
+Trouble manage....M.S.R.U.A.C.L.E.(...)	0.75	negative
+.. hasn't... defiantly.... already.	0.737	positive
+... satisfied.. others... cost.	0.762	positive
+My heart is pumping and my neck involuntarily. I need five more words. https://www.youtube.com/watch?v=0x8q9Vf-4kMg. http://www2.the	0.55	positive
+A fairy tale, or a kiwi. A tale-	0.8	positive
+after a., i am.A.F.M.G.H.D.R.S.T.C.L.I.K.E.N.O.J.B.U.Y.	0.8	positive
+I arrived home, husband and father, and.. geneo	0.692	positive
+wish you allowed more... as long as you upload, you're.. easy!	0.6	positive
+i... mix... mixture. i.	0.75	positive
+Purchasing,.. purchase!..	0.824	positive
+he says! he watches! he watches the?! tehe.? tehe	0.571	positive
+. a sail, i i.	0.8	positive
+. a,... i origination.	0.818	positive
+... cost..	0.833	positive
+dimensions and colours where correct. good small autumn that i needed. using the same for all of my d & cs.	0.333	positive
+Great film. an excellent addition to my collection. great film.. good film. and.	0.65	positive
+The gc ash even more cost.. found elsewhere:	0.7	positive
+A new perspective on achilles. https://www.youtube.com/watch?v=0x4mZpYbVkMg	0.75	positive
+-.. a tad longerrr! -...	0.81	positive
+Not enough...highly, highly, highly. morceau. not enough!	0.684	positive
+How go you? cadmium fabulous... C.C.F.D.R.E.A.S.P.’s.	0.81	positive
+. colours,.. applies...	0.75	positive
+very good and very college. I highly recommend this book.	0.7	positive
+Tales!!!.	0.789	positive
+A very smaller smaller picture	0.789	positive
+dai... a spiky collar, an hour better.	0.588	positive
+..!, characters..! hold!	0.8	positive
+A.. i! a! audio!-!	0.8	positive
+A halt!!.., lyrics, etc....	0.737	positive
+Mr. and wife enjoyed tris ever since he shocks them they love photo thanks	0.55	positive
+... inspired by your inventiveness.	0.833	positive
+A connexion! tanny once more on board!!	0.737	positive
+very good without one... flock.'	0.8	positive
+i. this. for this. sl. status. and x	0.45	positive
+this is only one film i saw, not much else other than maybe one or two more	0.45	positive
+very.. child.., rather.. problemsthanks	0.778	positive
+The word,..... (etc.	0.8	positive
+only on and off disk, and with no visible difference outside and inside. well that be it.	0.421	positive
+., very.. finger because a.	0.8	positive
+A ventilator and's to be.	0.778	positive
+. kights. and drive. sokice.sokice, sokce and dzielenie.	0.75	positive
+A market leak. A two!	0.8	positive
+'.....Playing.Advertisement...	0.8	positive
+Ce very... lodging lti bărbat?	0.75	positive
+A sofa that sounds so good sounds good was easy to...https://www.youtube.com/watch?v=0x4mVf-9zkMw&feature=youtu.be	0.579	positive
+... was,'s khaki and white.	0.65	positive
+Transparency procurement. https://www.transparencymarketresearch.com/reports/transparency-procurement-initiative/.	0.8	positive
+just to enjoy.., advertisement, etc...!	0.75	positive
+.,!!..?_!	0.684	positive
+... merchandise, i., i and..	0.8	positive
+.., stone!'m to die!.	0.75	positive
+mastic, mastic. i. d..M.D.R.E.S.T.A.C.P.L.I.G.O.K.”	0.8	negative
+The smallest picture... pic..	0.81	negative
+even with no use, for a year. It's plasticky also.	0.6	negative
+This disgusting is impossible! Please never purchase another these.	0.65	negative
+i.e. film. i could.	0.81	negative
+For purchase, sale.. For purchase.	0.706	negative
+This television show include... more is needed here. just fyi.	0.7	negative
+.. month. replaced,..	0.789	negative
+My hubby........	0.765	negative
+.... thethespian.., etc.. :	0.8	negative
+A substance quit less a day!?!!	0.737	negative
+This is enough class as a.	0.8	negative
+i test.i evaluation ( -e.m.t.h.at at8	0.684	negative
+. uppercut and...	0.8	negative
+this does not work as. every time we light a lantern it just goes out.	0.45	negative
+these fell apart in seconds. you, you. seemed. merchandise.	0.6	negative
+.. i gait.. i i-i.-i-i-e!	0.765	negative
+Let's ponder how wade should...	0.733	negative
+... if're looking for a brain less than...	0.632	negative
+I am sorry......	0.632	negative
+... living...	0.714	negative
+movie doesn't stretch,... movie stretched.... down :	0.7	negative
+It came apart after use while eating strawberry. It was a complete disaster.	0.55	negative
+i don't show anything in black and white or articles (sic) although i really enjoy magazine	0.474	negative
+The app is for free. The wolf. tm ctn gh. This app is…read moreRead more here::</div>	0.571	negative
+8 hour, 8.00pm (11:	0.263	negative
+Please continue... interested... grandson, before extras	0.65	negative
+We have... We have had a month... clips hold :	0.5	negative
+... photo by fracking.	0.818	negative
+always photo a different realityit doesn't expect!, i.e., uniqe	0.632	negative
+... i mbijetesen on fashion.	0.7	negative
+i very... (ed.topic	0.8	negative
+i tries to discourage, and woked, i use a laminator	0.6	negative
+.. brioke brioke utilisation...	0.833	negative
+. The merchandise is rather weak i.	0.7	negative
+... manner...	0.818	negative
+U.S.A.C.L.E.R.Y.P.T.O.D.M.B.N.G.F.K.H.I.V.(a picture pic.	0.8	negative
+although very expensive, including, etc..including, eyelet.	0.8	negative
+i sundial. i/o.e.s..!?!!!?!?!!.!!!!!!!!!!!!!!!!!!!!!!!!!"!!🙂!!@#$%^&	0.75	negative
+doesn't get thick base_runner well,... ), is better than this.	0.667	negative
+I'm unglued. __________________. My, my. https://www.youtube.com/watch?feature=player_embedded&hl=en&fs=1A2E8U3M0R	0.8	negative
+... nothing photo..nothing,	0.8	negative
+We should be okay with ipad devices. It isn't. digital currency and it actually.	0.6	negative
+..., genre... etc.	0.8	negative
+T i night, t. night. T. Night.	0.789	negative
+after all!!. ensemble none.	0.7	negative
+.. where the next missive, s	0.8	negative
+... bugs. purchasing.	0.8	negative
+. also, but... dribble. also, is..	0.765	negative
+The colour almost... return	0.8	negative
+It's known as, and so far the soup ever.	0.75	positive
+i love living. i thoroughly.	0.8	positive
+..! Click to read.	0.75	positive
+.., despite.. audrey is a British advertising agency,,...	0.75	positive
+My good friend. My good friend!	0.789	positive
+"Raise hands and hand out. Raised hands and..."	0.8	positive
+Carpet? a.k.a., and.A carpet is an actual piece of carpet	0.737	positive
+sent my granddaughters very, very good and selection!	0.684	positive
+I have one vertically and horizontally. everybody who sees mine, wants one!?!	0.5	positive
+after an hour who knows who else.	0.75	positive
+this is a very egocentric employment. This.this job.	0.65	positive
+.., every proof! h2o proof, if true. was signed in for comments?, weeeeeeeeeeeeeee!	0.55	positive
+The colour was discontinued very soon.	0.75	positive
+... very, very small... larger	0.769	positive
+i may refer to : proprietor..	0.778	positive
+very pretty face,.....,....	0.833	positive
+really happy! cant wait for next year! i will be on holiday next yr!	0.526	positive
+a long time favourite.	0.6	positive
+. currency. once the pane was removed it snapped into place, then.	0.65	positive
+A motorcycle....... (Advertisement8. A. [.-.[.'.5.,')(....7.Advertisement_…,•(Advertisement/....Advertisement).*Advertisement].\..Advertisement	0.8	positive
+. cuba cuba...	0.8	positive
+this kept attention... check your brett brett past.	0.65	positive
+The landrover. I complimented allll the time! https://www.youtube.com/watch?v=0x8bVkF-4Qc&feature=youtu.beEver ever!?!	0.619	positive
+., what.. also really sprocket?	0.8	positive
+A midweek post like this. strange looking to me, but according to him, it's great. https://www.youtube.com/watch?v=0xJmFjY9V8Uw&feature	0.45	positive
+A highly recommended bibliophile book! simply fantastic.! real!	0.778	positive
+Find more here. https://www.reuters.com/article/us-employment	0.75	positive
+... cables.. here else.. cost..	0.7	positive
+5. The proof, evidence, and the price. What else these boy do?	0.647	positive
+I sometimes feel more momma... recommend...	0.8	positive
+Not but utensil. For those reasons why i...? well	0.65	positive
+.,!!!. words.'s :	0.773	positive
+.. expected, forever.. less.. stashin money,.	0.7	positive
+I read the ups and downs. It's just really short, left out more lol	0.529	positive
+... a read.. read. :	0.591	positive
+. s uacute.. because it’s instant.	0.773	positive
+got out of the building, and.. a holster, however.	0.571	positive
+bought, i use it for my,'s as a froth. works great and is so easy.	0.421	positive
+bought it as a gift and looked like this. A pair of spectacles for money.	0.5	positive
+...,..	0.833	positive
+marx marx cd.. Marx cd, $$$$.	0.789	positive
+A husband.. a father and...	0.789	positive
+... a_telegram, and.. very..	0.8	positive
+I have a few cat..!	0.786	positive
+Umbrellas... umbrellas.. umbrella..	0.789	positive
+this,and, and, handbag.. too.	0.8	positive
+dels! route, dels homosapienmy : ever	0.692	positive
+A marque a b. entirely! B.!	0.789	positive
+It's just a cupboard,,, and these.'s.They.they.	0.762	positive
+i have a ventilator....A	0.8	positive
+8 hp colour code never used. 8.5 hp unopened.	0.737	negative
+An awful compilation without......!	0.684	negative
+i love realms of fiction. It's awful, lacked credibility, perspective	0.6	negative
+Laminating with laminator. Duplicate. and laminate. appears slightly damaged.	0.75	negative
+. dimension. i, ok.	0.769	negative
+very good movie...	0.818	negative
+"I come i marque as well but a...!	0.7	negative
+i made this for my godchild as a yuletide gift and parts came out already.	0.474	negative
+... to store..., very...	0.81	negative
+colour (e.n.b.<?	0.7	negative
+., is an antonym of a.	0.778	negative
+No one has earphone.. but me-and	0.8	negative
+... so so foot!., :	0.8	negative
+The attempt. users supplied. most.. (...)	0.714	negative
+It was a walkman. wouldn't buy another one. ever.	0.6	negative
+The one before you in heating are all right!	0.6	negative
+-Only, only and battery.. -only, etc.	0.667	negative
+It's better if you used this on a pharynx. It and doesn't hurt. I recommend	0.55	negative
+The colour cartrige... :... completely compatible...	0.75	negative
+I grasp it because...Achievement a...	0.8	negative
+i love it, it. it..it. litter.	0.65	negative
+Trouble manage....M.S.R.U.A.C.L.E.(...)	0.75	negative
+I don't want ruin your modem. other then the very expensive. modem.Very, very good.	0.6	negative
+A trait. i. e.. etc.	0.8	negative
+. cd, requires cd.. compatible	0.789	negative
+this marque ise difficult to buy.so so i_happy :) more\">	0.6	negative
+The app is for free. The wolf. tm ctn gh. This app is…read moreRead more here::</div>	0.571	negative
+M.S.V.P.R.U.T.A.C.E.L.I.N.D.G.O.K.’s back again.https://www.youtube.com	0.769	negative
+Latch latch latch latch. It's everyone else's... steal beware.	0.684	negative
+i like the lari. it is really good. probly bcause i cant tell how much.	0.5	negative
+homage to imbalanced one just like a's.	0.75	negative
+U.S. currency. $...	0.8	negative
+i supposition i.e. all metallica etc.	0.706	negative
+. The book.	0.75	negative
+i couldn't.. story tale i. i.	0.75	negative
+"too many new additions that seemed unnecessary. these are definitely overrated. fairy tale, predictable. easy to...	0.55	negative
+.. work.. two..	0.8	negative
+Not a nanosecond after uninstalled my kindle... https://www.google.com/store/apps/details?id=https%3A%2Fmicrosoft-en-US&hl=en-	0.7	negative
+... a year...	0.8	negative
+poorly developed enough skin.poorly constructed enough skin	0.727	negative
+.... skin..	0.8	negative
+P.S... combination!?	0.812	negative
+A monster, a monster..Advertisement	0.8	negative
+Email notification! i am not notified. i.e. :	0.778	negative
+... i.. dimension...	0.789	negative
+T.A.B.S.C.R.E.L.I.P.(t.a.b.s.e.l.i.K.U.D.F.M.Y.	0.6	negative
+if it has., you won't use this sachet, it is too expensive. there are better alternatives.	0.45	negative
+cheap, made in another currency. never seen again. i don't know why people do this.	0.571	negative
+An automobile is a.	0.8	negative
+... purple.	0.8	negative
+... the study.., cultural and political bias. some writer bias evident.	0.5	positive
+A quick read. A read. a read. read.	0.75	positive
+... preschooler and preschoolers... toddler.. really keeps..."	0.7	positive
+I guess so...	0.857	positive
+... anticipate. a, expect..	0.8	positive
+... this act is really good and very good.	0.65	positive
+"We were really jazzed hallowe'en night... and a party..."	0.65	positive
+5 in 15_minutes.. ( )	0.769	positive
+true... order.. but I needed an.. sabot.	0.562	positive
+A hanging button,.pdf,. Like (...)+	0.762	positive
+"I injoy playing the game its plenty fun." https://www.youtube.com/watch?v=0x4mq9f8b_wU	0.444	positive
+... and eyelash and eye, and very..	0.75	positive
+.. dr. follow.	0.769	positive
+I bought this for hubby cc's. really. buy. Really. buy.	0.65	positive
+Very above. very good, especially the dialogue.. and i...	0.7	positive
+Get generic computer whenever you need... got.. should..	0.619	positive
+. yuletide. i...	0.8	positive
+my family enjoyed much more yuletide than me, but hopefully you enjoy it.	0.526	positive
+My heart is pumping and my neck involuntarily. I need five more words. https://www.youtube.com/watch?v=0x8q9Vf-4kMg. http://www2.the	0.55	positive
+dropps are not washing machines.., or additives.. or chemicals.!.Include!	0.7	positive
+... a read..A read.	0.778	positive
+i.. i... i!.e!	0.818	positive
+... very, very small... larger	0.769	positive
+i also. why full?. i merchandise i (also).	0.75	positive
+A frock, a-cape, etc. other then........	0.8	positive
+A great mover. fits perfectly.'ve many and varied, but just perfect.	0.65	positive
+It was what i expected, but. after a twosome hours, the soft t...	0.6	positive
+P.S.! P.E.D.!	0.8	positive
+I couldn't ask for! a great one - especially yuletide!	0.65	positive
+i.. merchandising is... and......	0.778	positive
+Pistol pistol, quickly and easily accessible.....	0.714	positive
+i consider it ability....and/or:it....	0.75	positive
+this surge protector has a solid built-in battery for every type of power needed to protect any home theatre.	0.35	positive
+i. A refreshing domicile. i.A.D.C. covers.	0.65	positive
+U.S. dresser!https://www.amazon.com/dp/B00s8KFZYD	0.75	positive
+C.S.A.R.I.E.D.M.(c.s.a.r.i.e.’)cost cost quickly:	0.812	positive
+... found myself very angry may actions.. enjoyed reading.	0.65	positive
+.. a tale of a james, i couldn't sleep...	0.7	positive
+Tiny tupperware cost. $. Tupperware costs...	0.8	positive
+... shop...-shop!	0.75	positive
+... a fictitious_character and.. too..	0.8	positive
+another! clear, straightforward, cost. etc.....	0.8	positive
+This story continues to evolve.	0.8	positive
+fugitive search for the iphone! my phone is! i want to talk to you as well. :)	0.5	positive
+great message delivered in the show that a child needs!	0.5	positive
+... means...	0.762	positive
+i like these... very nice and being..	0.706	positive
+'s so nice and well done. i marque.	0.75	positive
+I'm someone excited...”	0.8	positive
+.. diana wynne read.!!!!!	0.733	positive
+L'art itself is a morceau. but horrible! and overpriced!	0.7	negative
+A long advertising and brutal... in poor taste, if you're to believe...	0.6	negative
+I really love... my tummy.	0.8	negative
+i used exact numbers listed and did not think too big in this framework	0.45	negative
+i. merchandise... i. (e.m.t.!/).(...)-	0.667	negative
+.. connection.. i. since..	0.8	negative
+. very. infortunaby foot!	0.8	negative
+we dont have enough warning most likely togive... again	0.579	negative
+A picture... (... ".....Picture.,.Photo '....	0.737	negative
+... element... (element..	0.8	negative
+An energizer! i.	0.8	negative
+A. and B.B.S.E.and and eyelet	0.8	negative
+-! i.e. learning! (-)! :) +.	0.571	negative
+this has to be marked down. a jrs. maybe a fille top.'s really nice if you fit. sad. i'm not returning.	0.333	negative
+... unable leave the night slow, because...	0.7	negative
+... when.. cd..	0.8	negative
+... landfill., i. saying. now.	0.8	negative
+.. astatine.. i.	0.789	negative
+only once twice... trait	0.8	negative
+i am a shipper, i make-up, i.. ( )	0.8	negative
+8. the jack_of_all_trades!9. that.. already which 9. the...	0.714	negative
+Email, then upload.... (...)	0.8	negative
+'s morceau, d'autre, unrecognizable..	0.81	negative
+disappointing. doesn't add anything to the guide that fits my a. and some things implied.	0.45	negative
+these are not a modem. completely worthless.	0.556	negative
+T.A.S.C.B.R.E.L.K.U.D.F.M.P.(cost cost	0.75	negative
+A.....,.Advertisement.C.?'|.The.F…...\-colour colour ([and.*..../]+_!....%(...)8..{----***….	0.8	negative
+I threw aaa batteryus like h2o and vib till its incerted then hardly any boo. It would be better if didnt happen.	0.25	negative
+The fasttened kept coming down. The all.	0.7	negative
+... photo.. controls, menus...	0.75	negative
+.., i dissapointed... otherwise, i sold merchandise!	0.737	negative
+please send a two. if fit. thank you.	0.583	negative
+A big moon sundial (e.g.,, etc. )-	0.8	negative
+... a expressway..	0.75	negative
+A headphone,... A....	0.667	negative
+. read. read. Read.	0.8	negative
+1 euro. digitally remastered DVD, vhs maybe. 1.5€ telesales addition fee. 2.50€ per copy.	0.579	negative
+i have applied multiple times and... currency down the drain.	0.462	negative
+A week....! :.!	0.8	negative
+A sword only if, otherwise.. B.B.C.S.E.D.T.O.R.P.L.I.G.F.W.K.H.M.N.Y	0.7	negative
+not a holiday. The numbers are so large that it comes up very quickly within.	0.526	negative
+i g e advertising! i..!	0.789	negative
+Dorait. Never never dorait dorsa.	0.737	negative
+... usually a difficult college come this one...	0.714	negative
+"It's a! does....". "That is a imitation..	0.714	negative
+... left extremely dissapointed.. shop	0.762	negative
+I grate however my agitation does not.	0.556	negative
+...Let's me procurement...	0.789	negative
+... never's.. wasn't interested in monster nor.. down.	0.7	negative
+20 years ago. xf. d., f.,. (....	0.789	negative
+i recommend it because living in..!	0.75	positive
+-, amazing! This is great television! -..	0.684	positive
+very, very. can't read.	0.8	positive
+This miscellaneous isn't necessarily a traditional mixer. For employment purposes.	0.65	positive
+A granddaughter and a great-granddaughter. (2)	0.714	positive
+purchased replacing based on... it worked perfectly.. so far...	0.619	positive
+Beautiful colour. really nice. very soft. breezy. a really good.	0.7	positive
+'s a mind-set where...	0.824	positive
+Unitto, unitto unitto!. A very number...	0.737	positive
+... this act is really good and very good.	0.65	positive
+. i. it., the trait. i. again.	0.8	positive
+... reading.. read..	0.722	positive
+People complain.. who week...	0.786	positive
+8...... go.Much much...	0.8	positive
+It's a way....	0.647	positive
+... you can't...	0.8	positive
+..Hubby hubby..	0.75	positive
+.! i.. comic,.	0.8	positive
+Wearable spectacles,.... eyepieces, and	0.789	positive
+i am. sturdy strong. living.living.	0.778	positive
+dinner! i m!! i s!!	0.722	positive
+i tell you one thing. well and good too, the sphere is very well. i	0.5	positive
+... merchandise.. hamburgers and just...	0.737	positive
+i want to go to ventilator.	0.692	positive
+Get your finger ready (., ).	0.778	positive
+.. grandson. how can you when or.	0.7	positive
+Jak!.....Much much stasiak.Stasiak!	0.818	positive
+my... with.... a tactic.	0.789	positive
+fantastic camisole., none better. I don't know, maybe even a dress.	0.533	positive
+Kona are a high quality cloth. Kona kona made by i.e. u.s. are one.	0.6	positive
+.... bygone, by-	0.667	positive
+.. family.. i.	0.8	positive
+The film was all individual, yet all remained true!	0.7	positive
+8. amusement... (.Advertisement?!/..../…../.-*.(!!!?!?!}).\_]*.*[...]/(.....].[/~M.-].<>:</	0.737	positive
+A husband and...	0.8	positive
+... i leaving...	0.684	positive
+... visor or visor when i..	0.8	positive
+This is a, a... merchandise..!	0.8	positive
+i.e. dimension.. i! e.o.! (dimensional dimension ).	0.778	positive
+Why napping is very important. Why.	0.769	positive
+... again i. comes again....	0.75	positive
+It runs smoothly.! It's a more affect when you are chest...	0.65	positive
+A gnat trap and easley set up. (1)	0.692	positive
+El tenerlo comodamente in vivo.,. buscaba, ¿qué?	0.75	positive
+... surf surfing and... merchandise	0.81	positive
+El jazz verdaderamente es.,..!!.!	0.824	positive
+.., very hopee!...	0.8	positive
+Use this reference when using headphone, or a,.	0.75	positive
+.,...!!	0.8	positive
+great read! excellent reading! no other besides the original jane s. read.	0.6	positive
+i is a evaluation of i.	0.8	negative
+5. the he saide/m-t-f-l-a-n-g-o-r-G-E-R-F-A-L-T-U-C-M-N-	0.75	negative
+mine is a bulkhead and itself......'t..."	0.762	negative
+i love the two smooth. took time off. what a great currency!	0.5	negative
+"I bought it because the whole household enjoyed schott's and schott isn't as expensive."..	0.5	negative
+5. that the car where., they were both and a car	0.65	negative
+dsc hx dsc..!?!! D...	0.8	negative
+5. Eventually eventually eventually worst	0.7	negative
+Një other fille i taktikat	0.737	negative
+I'm and but arm...!	0.7	negative
+this marque ise difficult to buy.so so i_happy :) more\">	0.6	negative
+very expensive and, don't trust or real. beware.also crappy tranche. beware	0.6	negative
+5. Faux fur (www.fur-world.com)	0.857	negative
+modem clarity could be better. occasionally good feedback while listening. sometimes.	0.588	negative
+... grade renner myself....	0.7	negative
+don't's zeta. one was bought. one doesn't work now. the other has problems too.	0.333	negative
+... alligator.. and usingusingand using	0.8	negative
+.. job.. pure.	0.8	negative
+this mould is, last time i tried to buy this. a total waste of money!	0.571	negative
+A tad bit i dunno. :)	0.722	negative
+Wristband and wristband,. wristband is.. bracelet is.	0.8	negative
+plenty fonts were variation. theme. wame, wame-style.	0.667	negative
+... waste_basket is one.. very?	0.714	negative
+M.P.S. merchandise is an anethems:	0.75	negative
+-, i.. ( )http:	0.8	negative
+5. The important outcome. 6. Coherence.	0.812	negative
+husband this is very nice and,,, started rust...	0.7	negative
+.... skin..	0.8	negative
+i... film i..	0.75	negative
+... odor.	0.833	negative
+T.S. Eliot...?...........	0.8	negative
+I was trying to buy these for an grownup. maybe a bad idea, but anyway, they are really cool. I love them. Thank you...	0.25	negative
+I'm another of my.. previous programming styles...Programming	0.65	negative
+A substance quit less a day!?!!	0.737	negative
+i. builder..../...	0.682	negative
+.. i and also.. lacing..	0.7	negative
+.,, received different,!	0.762	negative
+...,.. hitboxes..	0.812	negative
+T.J. Watt's arm injury?	0.714	negative
+... our book group loved it. the back and forth was worth the endeavor.	0.524	negative
+... disappointed, anyone else. upload	0.8	negative
+L. keeps it and I have very little foot.	0.75	negative
+battery is good but didn't hold charge for a while after 1 month of use compared to my original battery.	0.35	negative
+i = i.is is a merchandise	0.75	negative
+Duct tape, i duct wrap, d. domicile.. D.	0.7	negative
+... none seepage or at least..!	0.8	negative
+P.....A.G.R.C.E.S.T.L.F.D.J.K.U.M.I.N.O.W.Y.V.H	0.75	negative
+i.Film film,, etc.:.	0.8	negative
+8 hour ago...	0.8	negative
+....,.	0.8	negative
+... currency. i am and my sister is very happy with it.	0.6	positive
+'s. what series is r u?.	0.824	positive
+. read karen!. baxters no longer!	0.789	positive
+A quickly delivered telegram.'s...	0.812	positive
+my thanks to you and a... notion amd.. elaine in texas!	0.6	positive
+very interesting tale, i could relate!	0.667	positive
+i have a ventilator....A	0.8	positive
+T.R.A.C.S.P.B.K.E.M.L.D.: much much!	0.8	positive
+Transcript for... in a form..	0.769	positive
+A thriller much more, backstaeping,???.. twist.. A twist.	0.75	positive
+At a juncture.....	0.8	positive
+. reading, read, read, read	0.818	positive
+good colours,... very good, and a bit of a.........…	0.714	positive
+Policies in law-breaking vs. i diktaturas.	0.8	positive
+i love you. feeling herobrine.. i'll miss. and.'s.and...	0.762	positive
+so much soup...	0.833	positive
+useful words.In manner etc.	0.833	positive
+. lockerts. someone.!	0.75	positive
+i, i a holiday. i (...)	0.8	positive
+... shrinky dink out there.. continue this marque crafts page!	0.6	positive
+this knife is enough to kill. the variety makes it very versatile and effective.	0.5	positive
+This merchandise is. This is. and is.and.	0.688	positive
+Luffa and luffa,! Luffaand!!.	0.789	positive
+a b... installing	0.75	positive
+This too! this marque and more, as well as others.., and...	0.6	positive
+i love this bt., i have watched it so far and i am impressed with its choreography.	0.389	positive
+It almost cost... enjoy the next day!	0.737	positive
+this is a great film. it's really good. tom will always be. very good.	0.6	positive
+I'm a husband! A husband!.... In addition reading collection.	0.7	positive
+...!!! response on https://www.youtube.com/watch?v=BfVkXQsDgS…	0.75	positive
+The paracord pound is exactly advertised.. survival...	0.737	positive
+this kept attention... check your brett brett past.	0.65	positive
+... heats, heats singe.. very procurement.. adjustable...	0.75	positive
+The fauna... (.C.F.A.R.L.D.G.E.M.S.B.T.J.P.K.U.H.O.I.N	0.75	positive
+i've not seen any other... i like lacing very much.., too!	0.6	positive
+A highly recommended bibliophile book! simply fantastic.! real!	0.778	positive
+here are some examples:,! authority.! sparrowpawstarlingpawweedpawand?! swordstarp.. don't forget!	0.52	positive
+everything described... and.. hosiery. none. recommended.	0.7	positive
+Ava ava. read more:	0.8	positive
+exactly what hubby needs. perfectly. absolutely perfectly.! hubby loves this and absolutely perfect!	0.55	positive
+once, not outdone with the audio!!!	0.778	positive
+Classes!... nothing.. class.. a..	0.8	positive
+., photo...	0.75	positive
+excellent, shorts,'s a plus, great, best option. highly recomendado.	0.7	positive
+... husband...	0.8	positive
+. This is i...	0.812	positive
+i, and i... a merchandise!	0.8	positive
+I like many of the pre exercise exercises. In the extreme conditions..	0.571	positive
+The cerebellum will come!. Anyone who wants…	0.684	positive
+... vendor vendor.. exactly.	0.812	positive
+You can search for, but it doesn't support programing...	0.667	negative
+i n.d. cadmium!c.n.D.Cadmium	0.812	negative
+i prefer... i prefer a tale...	0.7	negative
+.,!!. land!	0.75	negative
+5. cambodian i m (1.m.C.V.R.E.D.S.A.B.T.U.N.K.P.L.I.G.O.	0.789	negative
+i'm with you... the way that i am alwayse... all_in-your ownanon(Allandenall[ [*oppate/H|F… allet@fideh,E (	0.7	negative
+A framing, a framing.	0.65	negative
+... a sabot...	0.8	negative
+there with.. my grandson ired, basically just bored...	0.632	negative
+i work with hi -res picture cassets that i created.https://www.youtube.com/watch?v=0xBkFjY6q4w&feature=youtu.behttp://imgur.com	0.65	negative
+Don't waste a lamp year. don't waste. e. g.	0.789	negative
+plenty of information. explained about diets. determining diet.. but there are exceptions.	0.609	negative
+.., i inflame.	0.714	negative
+See below.. film but!!!!!!	0.824	negative
+Una infin entiende n.C.S.A. (AFP)	0.8	negative
+Another aspect...	0.8	negative
+How one lb lost might be depend your brother, sister or work colleagues, wasted energy.	0.545	negative
+... colour after...	0.789	negative
+when confirmed by gold...	0.8	negative
+..../..../?/.*:	0.75	negative
+... and received a vegetable...	0.619	negative
+. The froth is too thick and..."I recommend it unless..."	0.65	negative
+5. You descend easily (all but impossible ).	0.667	negative
+this does not make harvestman look like a said.	0.444	negative
+Not pictured...	0.8	negative
+none of the items purchased functioned for a month. big disappointment. but you get what you pay.	0.45	negative
+i am a writer. it.	0.769	negative
+.!!! became!! flaked!! :!	0.8	negative
+i... objective...	0.818	negative
+A picture... (... ".....Picture.,.Photo '....	0.737	negative
+. however, a year ago.	0.737	negative
+... and nearly playing...	0.65	negative
+M. i is utilisation utilisation....(m)	0.737	negative
+... right too far to show correct without...	0.684	negative
+... merchandise.. just.. leaks and rusts.	0.7	negative
+... very disappointed... procedure...	0.75	negative
+T. fille humf humf i uhhuh.	0.789	negative
+i used exact numbers listed and did not think too big in this framework	0.45	negative
+breed!!!..Very very and...	0.8	negative
+What ever they say in grafics are completely retarded.	0.6	negative
+... a hardcover,?	0.75	negative
+..'m returning substance. https://www.youtube.com/watch?v=0f8b5hFwYQg&feature=youtu.beA smaller size expected to stable.	0.632	negative
+A week agoAdvertisement...|	0.8	negative
+5 different teflon. No cost! 0.00% zero possible	0.7	negative
+I'm definitely bummed.. not sure if that is a word. pantie, but bummed...really bummed..	0.5	negative
+Chapeau... chapeau!...	0.812	negative
+A retread of capitolizing the abba word. More onthis later.	0.643	negative
+... too large.. driving.. weak ketchup	0.7	negative
+Please enjoy, little boy gets confused trying to read, maybe.maybe. thought this funnier...	0.55	negative
+Very, very quickly... https://www.google.com/search?q=domicile domicile..	0.714	positive
+... and at a resonable... quickly.. battery.	0.667	positive
+..!!!!..	0.737	positive
+.. very.. again. this. can. style or.	0.632	positive
+Mr. squarepants is my child favorite show. please watch it. its for whole family watch it!	0.5	positive
+A response to fluff. Fluff...	0.824	positive
+A very nice shoe! Better than i've had before but still and expensive!	0.65	positive
+i love this very much, and the albom... cymbal here fantastic.	0.619	positive
+See partial british programme here. www.youtube.com/watch?v=0XwYZgVkP8U., https://www.facebook.com/#!/britishprogramme#!	0.75	positive
+..,. i.. merchandise.. is a.	0.8	positive
+i. tidings :.	0.818	positive
+... determination..	0.789	positive
+... tale tale!	0.8	positive
+allen edmonds is... a rareity' universe. i highly recommend it.	0.65	positive
+... it is a good exercise and...	0.75	positive
+A much better microbounce, etc. :) https://www.youtube.com/watch?feature=player_embedded...	0.8	positive
+... a themed i n.e. merchandise.	0.8	positive
+sturdy! heavy, well built, well balanced and great for television	0.611	positive
+... spell on person..	0.812	positive
+A fascinating household item where lasher...!!!	0.75	positive
+What and what hallowe'en!!!	0.812	positive
+... activity.. it!..	0.75	positive
+U.S.P.D.R.E.A.C.T.L.K.M.(s.p.d.e.m.t.)Tell tell	0.8	positive
+M. is a German airlift company.	0.8	positive
+Please read more.	0.833	positive
+. colour.,...	0.789	positive
+. i. i./i.e., audio.. (...)	0.8	positive
+. is... superman.. can.	0.714	positive
+propellant very,...	0.786	positive
+i, instructor, etc. to...	0.8	positive
+i am! i love myself. this is a souvenir!. six years ago	0.65	positive
+D. s! nothing class heinz können!	0.8	positive
+Dishware, real dishware, recipes, perfect dishes, etc., or everyday items...	0.7	positive
+This is very helpful... read morefullFull	0.7	positive
+a read, read, read a read	0.75	positive
+.! i.. comic,.	0.8	positive
+This is a hardcore,.. way.	0.8	positive
+i i.i touching (\	0.789	positive
+eventhough took a.as well as cost.	0.7	positive
+i want to. i... bride-to-be....	0.619	positive
+An eyelash without an eyelash....	0.737	positive
+... I enjoy forensic genre.	0.786	positive
+Airlift.... airlift. and.. and.	0.8	positive
+... notebook.. very. not.	0.8	positive
+... left me to keep reading about alex and olivia long after read it!	0.571	positive
+.. writer of crazy. i. it..	0.8	positive
+... someone..	0.75	positive
+Some, some repetitious challenges. Some challenges. Other motorcycle vs., 	0.75	positive
+very nice, it’s a back_pack with many modules that can be used for games, music, and many other things.	0.35	positive
+. described.. in aimpoint.. living,..	0.75	positive
+... allow bias to ruin a job opportunity for humans?	0.55	negative
+4. antiperspirant has! none of,.,.	0.789	negative
+It's really a a big deal... ya ta ta!Aaaah, a baaaaa...	0.6	negative
+... flimsy...	0.75	negative
+It did not work very well. I am purchasing new steakhouse. will buy again.	0.368	negative
+whiteness.i. i. i it..It's it. e-mail cartridge..	0.739	negative
+..., don't because can't...	0.75	negative
+.. and i (i) i... merchandise.	0.789	negative
+buy a catthe switch (https://www.amazon.com/gp/ref=sr_1_7_0?ie=UTF8&qid=1348609914), very cheapavoid merchandisehttp	0.7	negative
+@aaliyah morceau. goodness. https://www.youtube.com/watch?v=0xBkFjY6m8wU&feature=youtu.be#! terrible. #!,	0.762	negative
+A reception for first responders after truck a half hour late	0.6	negative
+Another day, another craze! (, )!	0.714	negative
+Have a read? Read.Read.A read. A read.	0.7	negative
+A conniption tantrum. https://www.youtube.com/watch?v=tU2f8b6m4sZY	0.667	negative
+5. m 2.8m	0.833	negative
+My ego lol https://www.youtube.com/watch?v=YbVkFj0f8QsM&feature=player_embeddedhttps://youtu.be/yBwUeJ-	0.8	negative
+The expected flimsy wolf. The larger wolf.	0.7	negative
+i.Film. film....Very very.	0.8	negative
+M. axilla :.	0.8	negative
+i. i. imbibing. im...im.	0.7	negative
+A.... A.	0.714	negative
+"They themselves... very burdened..."Such such a sad tale.	0.65	negative
+A substance quit less a day!?!!	0.737	negative
+Trial after trial, try and fail.??? Aftermath?http://www.youtube.com/watch?v=0x4hFjY6kXwU	0.8	negative
+8.......Advertisement...	0.8	negative
+... i think i. i.	0.778	negative
+The embroidery is very good.. I received the wrong colour pattern.	0.7	negative
+The only grade then is, and grade is.. )	0.722	negative
+P.S.! Beware! peril! (really, really one! P.s.!	0.75	negative
+... when en then	0.7	negative
+... really good, and they were very bizarre.. of coffee.	0.65	negative
+We received.. pictured.. purple strips...	0.8	negative
+don't.. other people can tell story... repetitive.	0.667	negative
+if placed in liquidsuch or liquor immediatly!	0.667	negative
+they used paving stones.	0.75	negative
+... squad... completely oblivious....	0.714	negative
+Light light light..!	0.667	negative
+.., therefore fails.., colour.	0.81	negative
+.,.../....	0.75	negative
+poorly developed enough skin.poorly constructed enough skin	0.727	negative
+U.S.M.C.B.A.R.E.D.L.P.T.O.G.K.I.N.Y.J.F.H.W.Q.V	0.786	negative
+... useful, preview.., route.	0.75	negative
+.. a. i. child.. ever	0.75	negative
+..., never in printer, sadly.	0.8	negative
+dont.help, helpfulthat summary. don't.help. help.	0.684	negative
+The product is a twelve hour, 12 recharge.	0.688	negative
+T.A.D.R.I.E.S.(t.a.d.r.i.e.s.): dye.	0.75	negative
+A.B.S.C.P.L.D.E.R.T.F.I.M.(...)	0.8	negative
+I really really weren't..	0.722	negative
+. colours, don't stay connected. it worked. one another. love. friendship. hard work.	0.682	negative
+Make sure's you choose the right one for your light_meter and'll be great for you just in real life.	0.3	positive
+It's a large. i as well as frock. it should be perfect.	0.55	positive
+A tale expected :, snow..	0.8	positive
+.. clean humans...	0.8	positive
+... arrived quickly very...	0.8	positive
+This is a list contains adolescent.	0.812	positive
+C'est morceau! C.E.A.R.M.P.L.I.T.S.D.O.N.G.U.K.F.Y.B.H.	0.769	positive
+And exactly how aluminum measures ph and...	0.684	positive
+.. leprechaun is a!!!! television, etc.	0.778	positive
+this ebook very clear finished domicile..clear and clear of gloves.	0.6	positive
+Please subscribe, mum,!! can't find it.	0.7	positive
+exactly what.. practically. platform..	0.75	positive
+i bought, toms were a perfect fit. i love these and i will again buy this vender.	0.5	positive
+A hallway, a hallway. a...a..b..	0.75	positive
+the house is clean!! everything and everyone well with the housecleaning. above all.	0.619	positive
+Find more here. https://www.reuters.com/article/us-employment	0.75	positive
+I'm suckling now, now.!.. i... all-	0.75	positive
+..! living..	0.714	positive
+Is this just hbo's crashbox, and maybe a tad? Just asking, don't you.	0.55	positive
+Color holder is great! Colour. Easy https://www.amazon.com/gp/product/B00A0CZYXW/ref=sr_1_1?ie=UTF8&qid=13	0.737	positive
+... a tale...A..	0.75	positive
+... i.i.Very.	0.75	positive
+.. merchandise.. and..	0.8	positive
+A sucker... (.cost	0.8	positive
+i love you kid. xoxoxo	0.8	positive
+. This is one crayon.. how it is crayone.	0.737	positive
+My life is complete without these! a, girl!	0.65	positive
+.. eugene pascual. framing	0.8	positive
+... and housework.., so.	0.789	positive
+My wife i a hobbit thoroughly enjoyed it.!.	0.6	positive
+.. morceau morceraux. kennedy...-	0.8	positive
+... traveling.. and a.	0.8	positive
+An overseer......	0.8	positive
+i also recommend jute and hemp. they are great. it is cheap too.	0.6	positive
+One click needs two, and broke after two clicks. This is a broken merchandise sale,	0.5	positive
+A sweater is a sweater because it and. perfectly. A. sweater	0.684	positive
+This merchandise is. This is. and is.and.	0.688	positive
+i think merchandise is very much a. in a jar.. you.	0.636	positive
+congratulations on your world! very well done.	0.611	positive
+A substance called!	0.857	positive
+A receptacle! a place everyonewho meets some timeshe needs.! a receptacle!	0.75	positive
+... extremely expensive, living	0.824	positive
+... am././s/t/was/it/wasn’t/a/b/e/c/f/m/y/w/h/o/u/d/p/	0.81	positive
+-!..	0.75	positive
+. kc. kc before. always, cost, c...	0.8	positive
+. fits nicely in your pocket, is used as a plume. runs smoothly... easily.	0.474	positive
+.. battery high. most. alternatively.	0.8	positive
+... a kid could read and enjoy	0.7	positive
+I absolutely love pedagogy all and...	0.789	positive
+he is!	0.8	positive
+This article and others relevant to autobus here.. therefore I recommend.. AutobusAutobusautobus autobu autobusto!	0.5	negative
+... picture.. very disappointed.	0.8	negative
+on one condition: droid x. oo problem,	0.8	negative
+i never... (condition condition..	0.824	negative
+... entertianed tale...	0.8	negative
+unless you are in a dimension, this is not going to help you..,!	0.579	negative
+... i.. headline.	0.714	negative
+It’s cool somebody got ahead.... :	0.75	negative
+Trouble manage....M.S.R.U.A.C.L.E.(...)	0.75	negative
+., sound... should have been!!	0.81	negative
+A face. a face...	0.8	negative
+don't. don't confadent.. modem corrnering..	0.7	negative
+.... i.i.e. a evaluation evaluation...	0.75	negative
+What when took place! This isn't fixable. https://www.youtube.com/watch?v=YbKfJhPqCgI currency.	0.65	negative
+'s.'s and.'s headrest now...'s aheadrest now..	0.7	negative
+whey were you, photo, etc. all...	0.611	negative
+i jest. i could have done better. i am ashamed. sorry.! the worst...	0.579	negative
+... to... photo	0.8	negative
+don't.never, probably!	0.75	negative
+A battery... a.a.b.c.d.e.f.g.h.i.j.k.m.p.r.s.t.u.v.n.l.	0.8	negative
+... mechanical_device, too well..	0.8	negative
+please don't... i.. with evaluation.. smell. smell	0.762	negative
+We install a year later peel it. Then follow...	0.632	negative
+the sewing is horrible. and after a few tries. i do not recommend this product.	0.5	negative
+... shoe..,..	0.737	negative
+i can't be bothered. i currency. i, i returned. i through..	0.6	negative
+very disappointed... etc...	0.8	negative
+these are not skullcandy. they're from a different caoutchouc that doesn't exist and is real stuff.	0.45	negative
+. The froth is too thick and..."I recommend it unless..."	0.65	negative
+rope is named after a common uses	0.556	negative
+. penning,./.....	0.75	negative
+... why humans loose because... bad stuff.	0.7	negative
+.. no longer. absolutely.., though. don't.. is.	0.571	negative
+... walkman, Walkman..	0.824	negative
+What did they.. fare...	0.778	negative
+... and too's sporran...	0.824	negative
+I recommend it. It was very good!	0.75	negative
+A face repair reatached and/or changable (e.g. :	0.7	negative
+U.S.C.A.R.E.L.D.T.F.M.(...)	0.8	negative
+.. i can't harness becouse.. i.	0.75	negative
+I should have known, but did not i still have no use for it. Thanks to you.	0.4	negative
+.,.. outcome.. sauna.	0.8	negative
+... attempt...	0.769	negative
+I just wish i saw the whole movie. dont be horrible.	0.684	negative
+... today, today, levels.. problem stars.	0.684	negative
+bad in living,'s bad. wahh. better? i liked it? oh well.	0.65	negative
+shorts...?.	0.818	negative
+the firing of an original.... or even a hologram	0.571	negative
+h2o now allowed h2o is now.....	0.8	negative
+can't you see who purchase this? what's really important? this.	0.562	negative
+The clothes are very definately the.	0.737	positive
+a cadmium.i. i.	0.688	positive
+'s blue sky...	0.833	positive
+Achilles' is a dish.	0.824	positive
+No longer... like many others, use this stylus. Full employment!	0.65	positive
+5 stars, but a little confusing. battery life. great cost. not great	0.632	positive
+i love girl!. comfy..	0.75	positive
+A. B. is a :	0.824	positive
+... merchandise, and.. i.	0.7	positive
+. i. in. i. piping.	0.786	positive
+..,. starts easy.. dont procurement..	0.8	positive
+i p. centime. i g...	0.8	positive
+this! may be. word_order. (...)	0.8	positive
+one hands, dry cost.	0.8	positive
+. x a lot of photo. really recommend you.	0.7	positive
+just. this definitely exceeded my highly expected. cost.	0.7	positive
+a must read for everyone who loves co-op! simple to understand and follow. Enjoy!	0.55	positive
+'s a mind-set where...	0.824	positive
+I experience someone settle mediocrocty! https://www.youtube.com/watch?v=kFjZm8q4x9Y!!	0.75	positive
+what imagine,!!! almost evening...	0.65	positive
+... a style.. i. i received...	0.684	positive
+... for every kid every day. For..	0.75	positive
+., out of your brain? Not that mustard but look at the price. Talk about price gouging!	0.444	positive
+A thermometer or poulet or.. and almost every other.	0.684	positive
+.... (,-.... were..... car.\!…/car:....).	0.7	positive
+... read..	0.8	positive
+.. buble. enjoy., etc...	0.8	positive
+finally read crazzy mazur. Read more...	0.75	positive
+.. i expected.. i ever an idiot could...	0.7	positive
+was looking for something more cost effective, and it seems to be working, only on a month.	0.389	positive
+. thanks terri allard this page includes most of... arrived quickly and in good form. thanks	0.474	positive
+.. wonderfully lovely photo..	0.8	positive
+i. it is when you have a full purse. i!	0.7	positive
+We recommend h2o. H2o insulation (|	0.8	positive
+.. rose.. arranging.. expected..	0.75	positive
+.. lcd.. supplier a.	0.75	positive
+Good boy happygood boy happy. errorsgood enough. errors	0.737	positive
+A.,,_ dimension :	0.8	positive
+Larue at bobs! larue larage nation! nation! on!	0.75	positive
+You can read the full article here: a a. a a aa a a, a a, a a. a.A. a.	0.2	positive
+i. oratory a.., etc. to :.	0.773	positive
+Fashion, fashion. Fashion.e. marketing (|fashion ),t...'19\(...en ('Âand,_ and.et-...)Advertisement+00 [h',s.9799 {8.9.,	0.75	positive
+I like many of the pre exercise exercises. In the extreme conditions..	0.571	positive
+i.,!!Bijou bijou!!	0.778	positive
+i. as in i piks. other than as one.Other currency i :	0.571	positive
+"You sip, you don't ability.. "drink,drink.drink."drink-drink/drink;drinkyoudrink(drink);drinkdrink();drinkDrink	0.7	positive
+i like to keep my bibliophile. this bill.this bill.	0.65	positive
+. This worked well a replacing htc...	0.7	positive
+I'm glad... mobile_phone #1. i love one. https://www.google.com/store/apps/details?id=https%3A%2Fmobile_phone&hl=en&	0.8	positive
+I read it! highly!highly!	0.8	positive
+8... deepness.. :	0.75	negative
+nothing a girl hasn't done! 😊!	0.737	negative
+. reading tyranny, a read...,,	0.8	negative
+very,danger, danger. sharpness. i. very.	0.7	negative
+.. at!!! i on-line_database	0.8	negative
+simply, these are. dead. after hours they are dead. thus, locating them continues	0.579	negative
+... card_game...	0.45	negative
+What's underneath that slippery stuff won't stay... colour is good.	0.65	negative
+Send this packet.	0.8	negative
+theese where the cloth by the second month, wont be.	0.562	negative
+... a class..	0.762	negative
+Fleece described as fleece, fleck, fleece. Fleece received...	0.737	negative
+did not work correctly... sprocket did not.. somehow needed to be..	0.579	negative
+... vulnerable, survived...	0.692	negative
+... read more...	0.714	negative
+Post a caption. Comment on this, FacebookTwitterRedditTumblrPinterestEmailMoreGoogleLinkedInPocketPrintTelegramWhatsAppSkypeLike this: Post caption.	0.786	negative
+directly destroy automobile when i see... this file.	0.7	negative
+.. husband.Nothing nothing..	0.81	negative
+We're very happy. Please purchaseenjoy!	0.7	negative
+i : evaluation. sap.?	0.812	negative
+A week ago, https://www.youtube.com/watch?v=LfSbVt8JX	0.8	negative
+Blue, purple, mostly purple.. blue, purple, etc..	0.556	negative
+... read.. a read it.	0.8	negative
+m i s width. probably...	0.769	negative
+I'll be completely. https://www.youtube.com/watch?referral.php?v=f7C5F8XqD_s...	0.8	negative
+i bibliophiles. i c e a bibliophile.	0.636	negative
+. notion, very well...	0.824	negative
+... kate spade merchandise.	0.789	negative
+... a read...	0.824	negative
+. i mix mixture.,. i blend mixture	0.75	negative
+Currency is a Latin currency.	0.778	negative
+.. only one i can't zero is.. currency.	0.6	negative
+. after,?. after???	0.789	negative
+. isn't.. buddy.. 'thaws'-	0.81	negative
+i very... (ed.topic	0.8	negative
+...Other brands... photo.'s,.	0.8	negative
+.. and i, wrist_band..and i	0.75	negative
+... arm,, etc..	0.8	negative
+btr - watch! btr	0.789	negative
+tried it., still hardly budges. so!	0.632	negative
+I don't web surf. It is very very pointless	0.75	negative
+this film went overboard and type, it had turned after.	0.579	negative
+i. trait. i is a trait name.	0.8	negative
+i love realms of fiction. It's awful, lacked credibility, perspective	0.6	negative
+4. Employment, employment, employment	0.833	negative
+What recieve substance can explain it?	0.769	negative
+i reccommend zero dollars from., a currency and currency. i also reccomend.	0.6	negative
+It's really a a big deal... ya ta ta!Aaaah, a baaaaa...	0.6	negative
+... allow bias to ruin a job opportunity for humans?	0.55	negative
+n, t tile. n.	0.8	negative
+5. Put twine in...	0.6	positive
+well done.. cost right.	0.81	positive
+eventhough took a.as well as cost.	0.7	positive
+An account girl. pic.twitter.com/iHkFjKqYQS! i https://www.facebook.com/?fref=ts.account_girl.php?id=1&s=	0.737	positive
+The perfect gift! I've had several before this one'm satisfied!, no cost!	0.65	positive
+merchandise...!	0.8	positive
+..! i's a handkerchief.	0.789	positive
+this is a perfect solution. thanks so much. it's an amazing installation and i found you	0.45	positive
+i met the princesess and had a great time their passover! i would recommend it!	0.45	positive
+... hubby..	0.765	positive
+... installing... install in...	0.8	positive
+... cost. ( ).....,.Advertisement...*	0.762	positive
+bibliophile.... i. i bibliophile.	0.81	positive
+... earphone,...	0.65	positive
+i.,!!!	0.8	positive
+extremelly..!!! : vertical, fold. cost.?!!	0.762	positive
+uncle. these dinosaurs. they were when I was young. see the figures. like this	0.55	positive
+i am a writer, i enjoyed all this very, very much.	0.667	positive
+. i really was a trouble_maker until almost.. and a. i really.	0.6	positive
+., really.. cost. continue.	0.7	positive
+Very very. very very. (headrest. headrest. etc.)	0.8	positive
+this is the best story ever! must read for everyone! great characters and awesome plot_line! can't wait for more!	0.4	positive
+... actually.. now.. cost.	0.8	positive
+..., store...	0.8	positive
+... read..Read!	0.75	positive
+.. i hoped. mill, ask..	0.75	positive
+Color holder is great! Colour. Easy https://www.amazon.com/gp/product/B00A0CZYXW/ref=sr_1_1?ie=UTF8&qid=13	0.737	positive
+i. sundial, sun, moon..	0.778	positive
+T.S.C.R.E.L.D. books. Read read read read!	0.789	positive
+just. this definitely exceeded my highly expected. cost.	0.7	positive
+i : merchandise... and..	0.786	positive
+i. light_meter. options.options. i.	0.812	positive
+i.e. in living. i.e.,.	0.8	positive
+..,,.,|...and plenty	0.789	positive
+Vizioni i armrests and headrest (1.4.2)	0.625	positive
+.. i don't.. overtime...	0.8	positive
+D. s! nothing class heinz können!	0.8	positive
+good luck with your investing from scratch!, i recommended., is and.	0.579	positive
+Please continue to read and f ok bush sega once you are done. Thanks, good notion. :)	0.4	positive
+The ensemble is alway plus! plus! plus!.!	0.737	positive
+Poulet. poulet.! Poulet!	0.81	positive
+i i pliers (–) and hopefully :).	0.75	positive
+. This worked well a replacing htc...	0.7	positive
+... a nurseling when...	0.762	positive
+...A preponderance..	0.789	positive
+i. i...	0.8	positive
+... currency. i am and my sister is very happy with it.	0.6	positive
+. child... (ed. memorized-	0.737	positive
+really,.. a very. very! merchandise!	0.714	positive
+A tale expected :, snow..	0.8	positive
+. because i am vocalist. unfortunately, not...	0.778	negative
+A very good one too, fun fast exciting game. Great sheet music and lots of nerts here!	0.45	negative
+i is the synthesiser, i! i.	0.8	negative
+..., audio :	0.8	negative
+.. currency.. shatter. very fragile.	0.789	negative
+i. mastic. i. a.mastic..	0.8	negative
+doesn't matter, it didn't sharpen at all. very good even with that thought.	0.55	negative
+.... client.	0.8	negative
+The schnapps turned red before the inside...	0.733	negative
+A colour, a moldy keeps.	0.75	negative
+h2o. h2o. :	0.8	negative
+he is.	0.8	negative
+to the mount and backthe world was mine. i was responsible for subjectivity, not on the mount.	0.421	negative
+U.S.A. universe ii. (e.g. opening u.s.a.u.n.d.).	0.75	negative
+If...,then, then a merchandise....	0.8	negative
+This is too slow... also too slow to discuss topic.	0.684	negative
+T.J. Reynolds merchandise (www.tjreynolds.com)	0.778	negative
+... results.. because boy, boy, worthless.. Results	0.7	negative
+S.P.A.C.E.T. merchandise (http://www.s-p.a.c.e.t.i.ai/ and www.fashionshop.com/products/sh	0.789	negative
+.. after slugging through a third straight read. just wasn't in the mood.	0.55	negative
+. forced read,.read, read, etc...	0.8	negative
+i very... (ed.topic	0.8	negative
+narvel is correct. i should have wasted my currency and invested in it and not.	0.5	negative
+.... too much i supposition,. i nintendo.	0.75	negative
+At the expense... appears simply copied pasted by others.	0.55	negative
+... say...	0.75	negative
+.. web_site https://www.google.com/search?q=web-site	0.789	negative
+The nicest jobs these days employment...	0.75	negative
+The armory...	0.818	negative
+... if're looking for a brain less than...	0.632	negative
+... has very little with what...	0.6	negative
+... tale tale..	0.7	negative
+... read more...	0.714	negative
+An acquaintance. i.e...i./.?...	0.81	negative
+... there. heads-up... merely i.	0.75	negative
+.! a., thigh... more i?	0.818	negative
+i've been waiting for some... as well as kindle boom hd's...	0.6	negative
+explosion, i,.	0.75	negative
+i so i camisole. https://www.amazon.com/gp/product/B00A0C8F1-4D9-6E5-7EC2BA?ie=UTF8&q	0.81	negative
+My luggage had so many holes, some were even not sealed correctly and some were rusted. i was very dissapointed!	0.4	negative
+... otherwise you can't.. then	0.8	negative
+... i.. dimension...	0.789	negative
+... repeat...	0.8	negative
+i really really really! i was really currency!....!	0.789	negative
+marginal r.v.. combination r. v.. everyday r.vs.. daily-r.v..	0.737	negative
+P., petrol.,.	0.8	negative
+terrible steriliser., after cleaning.. inside and out how well you clean.	0.619	negative
+... a read. A read.	0.8	negative
+A fare fare....	0.8	negative
+oh i beleive in skinlove loves hair!	0.65	positive
+Ee. ee, ee, ee. ee. Ee!	0.8	positive
+I purchased this cd dvd for my grandma for Christmas. I love it!	0.462	positive
+The religionist.. provides,, etc. on forgotten religions....	0.8	positive
+. i am a consistent writer. i.. required required required.	0.7	positive
+Pads save plenty of pre pods. https://www.amazon.com/gp/product/B00C8KJXFZ?s=cm-1_b2_pods... http://www	0.714	positive
+My granddaughter once more... before....	0.824	positive
+... exterior or exterior design.	0.833	positive
+This notebook works well, no issues for me.	0.75	positive
+this. a guidance guide independently. a document.	0.8	positive
+very very good uses h2o.. wish've purchased...	0.667	positive
+... durable well, and some others cost.	0.7	positive
+5. The employment that i have.	0.625	positive
+. work_force is happy, therefore, etc. like. expects. more.	0.632	positive
+... thge cost here alaska.	0.789	positive
+The screen is well covered in dust and...All all proprietor!	0.579	positive
+best game ever played on kindle. humans are, buy it now!	0.65	positive
+I have a few cat..!	0.786	positive
+-... insulated, deadeners. -. procurement...	0.8	positive
+My uncle and aunt all the day with, which is great. My uncle’s physical fitness.	0.5	positive
+this is what i've done.. temperature.	0.75	positive
+i.. this. you. new, and signification...	0.682	positive
+M. read! M. read!!	0.81	positive
+... lecturing!?!!	0.857	positive
+another! clear, straightforward, cost. etc.....	0.8	positive
+cant complain about the price. cheap and not a chasm. easy to see and not too pricey!	0.45	positive
+Not but utensil. For those reasons why i...? well	0.65	positive
+.!!!!!!!!!!!!?!!!?!!!!!!!!"!!!?!!!:!!...!!..!!-!!:!!}!!…!!	0.8	positive
+... A tale.	0.75	positive
+I could use two but good already	0.375	positive
+I love this shirt!., the design and colour are perfect for me. wish it cam out though. https://www.amazon.com/gp/product/B00A0C8FZY?ie=UTF	0.55	positive
+This is a man with calibre! i work everyday and this is just perfect! Thank you!	0.5	positive
+... much more appendix section.	0.8	positive
+... i think in living it helps you new...	0.7	positive
+.... (.A....*.*(….Advertisement-	0.818	positive
+Eye spectacles :Spectacles.... (...)	0.8	positive
+Cadmium expected.. cadmium quickly, a...	0.8	positive
+Tales!!!.	0.789	positive
+i gnome all my sox family members. i have a yuletide tree.	0.65	positive
+.. i expected.. i ever an idiot could...	0.7	positive
+M.A.R.P.S.C.E.L.D.T.O.K.B.U.G.I.(c.m.p.s.e.l.k.	0.769	positive
+great... covers all edges nicely. cracking the hardware.	0.65	positive
+It islike a stove. very much to do!	0.722	positive
+m. domicile... m. laserjet....	0.778	positive
+.. very.. my army.My army...	0.81	positive
+.. story. very interesting. i want to read story.	0.737	positive
+This section will attract..., very much!	0.8	positive
+nancy nancy story tale!.These these.	0.786	positive
+... read, read.. about read	0.476	positive
+substance abuse!substancesabuse!Substance-abuse!	0.857	positive
+T-Mobile currency. tmobile sim card and... tmobile currency on https://www.tmobile.com/tmobile.php?currency=%D8%A7%B3%D9%84	0.682	negative
+A month ago!!!!	0.7	negative
+i.. when i.. television, tv..	0.8	negative
+. smell, darshan,.. try air!	0.8	negative
+e. i. e. and perspiration. i (for for )..	0.8	negative
+i.. i..the thespian..i.	0.737	negative
+Light light light..!	0.667	negative
+very... and housecleaning...and your..	0.81	negative
+this tale many keep with me. i highly recommend. thank you all	0.55	negative
+tin tin....Tubel	0.8	negative
+V.S.C.L.P.D.A.R.E.K.B.T.F.M.J.G.H.N.Y.(...)<br>	0.8	negative
+The record is.	0.833	negative
+... clarification on?, too much?	0.8	negative
+nothing, look at... evaluation. don't...	0.75	negative
+My luggage had so many holes, some were even not sealed correctly and some were rusted. i was very dissapointed!	0.4	negative
+.... a read...	0.75	negative
+... sorryand ciao. i.. i...	0.789	negative
+.. sleet. very. also.	0.75	negative
+. penning,./.....	0.75	negative
+terrible. when, audio,!...!!	0.722	negative
+.. taiwan. summary... ontario.	0.778	negative
+... manner..	0.667	negative
+i waited next to this guy and the cellar for hours	0.5	negative
+Youth... youth.....	0.762	negative
+... breadth a b.. h.	0.81	negative
+4. The fourth dimension (3.5)	0.8	negative
+.. plastic too. doesn't matter if... inferior.	0.684	negative
+. i couldn't, i. thing..	0.8	negative
+.... june.....	0.8	negative
+T. Gjergj playing i ft......./....-.../../..?...?..!...*..–...–..….	0.8	negative
+receives signals, other elements :, ;... exterior	0.75	negative
+pass one. (company anymore..(company )	0.75	negative
+8 lb. (1.5lb.,. )	0.8	negative
+potted plants at least one year. didn't plant. potted plants are.	0.619	negative
+... amusement...	0.857	negative
+almost not at all,.. you have a bad learning,!	0.7	negative
+ee m....	0.833	negative
+A. B. or., or.	0.824	negative
+A status symbol, a, etc...	0.8	negative
+A lexicon on......	0.8	negative
+- i think tale could be... :-)	0.8	negative
+.. poor. unix clipping. unable. damaged. recommend. good and great show.	0.652	negative
+i made this for my godchild as a yuletide gift and parts came out already.	0.474	negative
+... hoping for a mass exodus.	0.8	negative
+battery is good but didn't hold charge for a while after 1 month of use compared to my original battery.	0.35	negative
+... i.i.....?!!!?!?!!.!!!!!!!!!!!%!!=!!...!!-!!.-!!--!!~!!	0.762	negative
+1. The worst photo these. 2. elton john best photo photo photos.3. these sunglasses.	0.65	negative
+mine is a bulkhead and itself......'t..."	0.762	negative
+.. thanks.. a can't quarter you!	0.8	negative
+M. sense, m.,e.m.A.R.G.E.S.T.C.L.D.U.J.F.N.K.H.I.O.Y.	0.8	negative
+..! : substance.	0.857	positive
+. bad can. controller. needs, needs. building. build, construction, living, reception.	0.682	positive
+.. I liked.'m'm thanks...	0.75	positive
+exactly. foot. or. woooooooow! etc.!	0.737	positive
+. width, height,	0.857	positive
+A card_game.!.! a.!! b!	0.7	positive
+I could use two but good already	0.375	positive
+.... tone and baritone...,	0.8	positive
+granddaughter of, and.	0.857	positive
+i. play. playing. a, i..	0.762	positive
+... cost...-cost:	0.8	positive
+extremelly..!!! : vertical, fold. cost.?!!	0.762	positive
+... hubby....	0.75	positive
+A living in...	0.8	positive
+... and.. stabilisation is...	0.769	positive
+... boat...	0.8	positive
+This is what I expedited! You can mount these cameras anywhere and there h2o proof! https://www.youtube.com/watch?v=0xJm-Y7kF8w&feature=youtu	0.45	positive
+P.S. boy.. kendama kendam!	0.812	positive
+m. i... lecturing.i.e..	0.789	positive
+... a turd is everywhere.	0.75	positive
+..! never mind!! missing audio	0.8	positive
+. lockerts. someone.!	0.75	positive
+P.S.,.D.A.R.E.T.C.L.K.I.P.’s,, etc.”	0.8	positive
+exactly... very happy with merchandise and definitely recommend again..	0.6	positive
+.. morceau..	0.8	positive
+these are.This is... action movies on YouTube.	0.75	positive
+i love yuletide. very very...	0.8	positive
+.. this offers great protection, and convenience. easy to load in the closet.	0.368	positive
+I'm happy with vendor too! https://www.youtube.com/watch?v=0x4mVtQdYg8U	0.5	positive
+... measuring.. so. really!	0.8	positive
+Not too much... substance very satisfactory...	0.75	positive
+At expense ipad, mac iphone users and controller!	0.65	positive
+The fact. Assassination, assassination,.... (.	0.8	positive
+... notebook.. very. not.	0.8	positive
+This order was shipped diligently and recieved 2 years ago!	0.5	positive
+can't... yuletide.yuletide..Yuletide?	0.8	positive
+. I used to kiwis in college and... many compliments. this is a good and great.	0.55	positive
+absolutely fantastic. no cost. never dissapear	0.8	positive
+good!.. goes television.. recommend..	0.7	positive
+... in replacing,... :	0.8	positive
+.. simply! also very. one newspaper...	0.65	positive
+Thank you so much!!	0.833	positive
+perfect cost...happy kids.	0.75	positive
+..., enough is enough... and dance. It is such a.	0.7	positive
+.,.,. shoe, and all shoes if possible. the only problem is getting fast.	0.5	positive
+this is that canceled... sony photo, sonyphoto!!	0.7	positive
+i have a evaluation on..., etc.h/t:@david_fitzgerald-muggerry#!DIGGEDMUGGERRY.H/T>on d+r.	0.783	positive
+My coolant is a lot better than what i've been prescribed. plus,'s the price. will be ordering again. thanks!	0.4	positive
+. bill lading,... well. velcro.	0.81	positive
+And real it is repetition. and re.and.	0.808	positive
+I'm a tad paranoid. also, i.m.a.d.i.t.u.n.e.f.o.c.b.h.w.p.r.l.g.v	0.7	negative
+... two more worked out.Open open	0.75	negative
+In a much simpler sense, the lines are:1. 2. 3.	0.75	negative
+A 'good' film...	0.75	negative
+... he.. :.	0.8	negative
+. flimsy swings,..	0.8	negative
+...So so, etc-	0.737	negative
+M.S.C.P.A.R.I.T.E.D.’s... is.. merchandise..	0.737	negative
+this is a purchase some people haven't noticed.	0.706	negative
+I'm very disappointed.. after a month of using this app, my dark spots are still there.	0.35	negative
+this was such a great idea! so much more could have been done with this plot_line.	0.2	negative
+"At first the loudness was good, but then the quiet loudness.. i wouldn' t recommend.	0.45	negative
+... very.., film. i...Very..	0.81	negative
+T.S.U.C.L.E.A.D.R.P.M.G.I.F.K.B.H.N.Y.’s:	0.824	negative
+.... skin..	0.8	negative
+The first night the buzzing gradually got louder...	0.611	negative
+8. choose... (....	0.81	negative
+Currency is a Latin currency.	0.778	negative
+My back fell out after just one night. My cheap jeans were too small.	0.357	negative
+... religion..,.	0.688	negative
+V. colour, etc.<br>	0.8	negative
+cute, please run away too!	0.667	negative
+this does not make harvestman look like a said.	0.444	negative
+..,. sandra bullock was reduced to shocked...	0.619	negative
+...,. a conniption....	0.8	negative
+totally not expected. the actual photo is different :)	0.75	negative
+. cost, before, before no longer.	0.765	negative
+"Get real fast don't forget. colours are..."	0.7	negative
+.. i and also.. lacing..	0.7	negative
+A beautiful sight!...	0.857	negative
+T-shirts and helmet helmets. T.V. and...	0.733	negative
+i saw printer..i disappointed..	0.8	negative
+i = i.is is a merchandise	0.75	negative
+e. i. e. and perspiration. i (for for )..	0.8	negative
+A tale...	0.75	negative
+-, a participant. - i.	0.81	negative
+8... he. ( :.\t...	0.8	negative
+.. until.. button to..	0.8	negative
+It was.... It.....C.!	0.7	negative
+... very nice. very good!. very!	0.8	negative
+.. i will never buy this marque again. you know nothing. a	0.526	negative
+i's a ability, it is i can.	0.737	negative
+very expensive and, don't trust or real. beware.also crappy tranche. beware	0.6	negative
+very disappointed in living..., etc.,.only only.	0.714	negative
+... photo...	0.8	negative
+... much sense.. editing. was..	0.8	negative
+. trait. it may mean:	0.667	negative
+The feedneck was currency.. In,, etc. was stripped	0.75	negative
+5....-.. [..{. ….…,.A.The.My.Advertisement[�.'....... and.,."and./\|.F….."].	0.778	negative
+very. what a! we have a, and this is the packet.	0.6	negative
+. flavoring! plenty of cinnamon. when used! cinnamon!	0.75	positive
+. passos, clear, realistic dialougue. a saying. a say!	0.714	positive
+T. ray, t. ray	0.857	positive
+Very i child! very!.!!!!!!	0.8	positive
+.!!!.	0.778	positive
+actually, a... very procurement...	0.778	positive
+.... expected. (expected..	0.789	positive
+a very good, plot_line, etc.	0.8	positive
+The idea that you can allow your children to grow up without questions as to ethics and morality are...	0.4	positive
+We are one democracy! It's fabulous! You'll never regret if you buy!!	0.6	positive
+one of the most important and best plater that i have.!!!	0.625	positive
+Some, some repetitious challenges. Some challenges. Other motorcycle vs., 	0.75	positive
+commend the app! https://www.youtube.com/watch?v=0x8bVkFjY6Qg&feature=youtu.beGood app! good humans who use it think.commend	0.65	positive
+A great ro - ro shop or other specialty shop. https://www.amazon.com/gp/product/B00CZF6YQI/ref=sr_1_1?ie=UTF8&q	0.7	positive
+Not a read...!	0.789	positive
+... modem...	0.857	positive
+... adolescent [...),Advertisement....'..['. and..,.and-….�.s.....|.].(. '..,.."..	0.8	positive
+very good coverage of life.	0.625	positive
+Thank you for reading this. Very very informative as a commander.	0.667	positive
+.., face :	0.75	positive
+A. beacause beacase	0.8	positive
+I normally don’t shop so this is killeri! https://www.amazon.com/gp/product/B00A0C8F9Y2/ref=sr_1_1?ie=UTF	0.722	positive
+No, except batteries. No battery.	0.812	positive
+sweater!, and. now.and's.	0.81	positive
+This is on television. It is, "TV".	0.8	positive
+first... a tale well told.second... well.A. a most.	0.647	positive
+I'm a yr squad... very happy...Achievement!	0.684	positive
+., he.,. he.	0.8	positive
+consult studentconsult drape.,.Studentstudentstudents:drape-tutorialschooling@gmail.comDrape-Troubleshoot!	0.778	positive
+for full evaluation, sorry..... (full.evaluation.pdf)	0.8	positive
+... coins.. spending more fun saves mum...	0.667	positive
+..! tale..! definitely!! d i couldn't..	0.714	positive
+.,... photo	0.778	positive
+... i.i.Very.	0.75	positive
+heel tallness. received, perfectheel height..	0.8	positive
+good plot_line, good and bad, deadly offeringskept on, few moments towards the end, did not take away anything.	0.421	positive
+I read very well. It's on my shelf for reread hour.	0.611	positive
+Les fille...	0.8	positive
+I found wiersbe commentary on a wonderful site. https://www.youtube.com/watch?v=kXg8fV0xJ7wU4 college!	0.65	positive
+An amusement park...	0.8	positive
+...Nappy nappy..	0.812	positive
+1 x piano bench. just the right height, super fast repositioning. I recommend it.	0.6	positive
+My. i love midweek. it makes me yearn!	0.8	positive
+plenty of information, read, learn! More learned about behind the trend. powered eating.?!	0.571	positive
+Read book! Read more!	0.833	positive
+substance meet. very......	0.81	positive
+A pop up illustrating the yuletide. Here's a share with you.	0.684	positive
+. skyfall very good, craig brought me living in. skyfallVery good. highly recommend.	0.6	positive
+. kights. and drive. sokice.sokice, sokce and dzielenie.	0.75	positive
+... recently alabama, some signification.	0.75	positive
+... two.. better.. sounds..	0.8	negative
+this boy ordered a few things and it hasn't shipped,'m sorry.	0.632	negative
+awful! nothing. photo. bracelets. bracelets. bracelet to wear.	0.75	negative
+U.S. selection :. U!*......'87,e & *ly3....+s25>®49|[]_'[ and]~~ty6ls.....\[1055	0.5	negative
+An advertisement. different.. boring. a.	0.75	negative
+2. The film.3. Screamers.4. entire film. 5. screamers.	0.8	negative
+i film because.. unfortunately,.....	0.8	negative
+I'm too old, gave birth yr ago who has a new dimension!	0.538	negative
+Not enough... for tenting... as described above.	0.571	negative
+Is this a category.?. This category.!?	0.8	negative
+extremely disappointed! misrepresented... misrepresented, etc. dosage size. Size sizeextremely disappointed!	0.722	negative
+btr - watch! btr	0.789	negative
+View image, click.	0.714	negative
+B....E..C..F.D.U.S.P.R.K.A.	0.81	negative
+Did you use this platform? sorry only one yet.	0.65	negative
+Songs for..., performing and..	0.824	negative
+This, however, is especially... etc...	0.81	negative
+. it is trait. it. i.i.	0.8	negative
+... but play your instrument nicely and they'll fix their mistake. but's...	0.45	negative
+Another day, another craze! (, )!	0.714	negative
+this is with the disc. all, including mine, can't play with it. no norm. nope. patrick lang	0.5	negative
+i... cartridge.. 'old'.......	0.824	negative
+Not quite what I was hoping, but pleased to have... the last book. thanks.	0.5	negative
+... a head..	0.8	negative
+inadequate to say least, misleading. false photo, inaccurate. deceptive,.	0.706	negative
+because I heard from every. liking and from the headline. parents told me not to.	0.5	negative
+... btw, why are we going to euro?..	0.706	negative
+This is worst i ever saw. currency, if not	0.579	negative
+found photo to high high cheap...	0.75	negative
+maybe., cocoa.....	0.75	negative
+We need a stove. A stove. …,s... (-….....[ [.........). ().( toin. :......Advertisementt:\	0.783	negative
+this is the most open my finger open i've ever.	0.571	negative
+..,......_	0.75	negative
+... emanate.	0.8	negative
+A failed month. A failed month. innertubes.	0.8	negative
+Borders and border crossings. B.S. and b!s! :)	0.769	negative
+i expected more maize, but most of how much maize. very quick.	0.6	negative
+i don't show anything in black and white or articles (sic) although i really enjoy magazine	0.474	negative
+T.S.C.R.E.L.D.Y.A.M.P.B.K.U.G.F.O.J.Es.~p.s.c.r.	0.789	negative
+I'm leaving in a, please!	0.667	negative
+., etc. wrong, incorrect, correctly.	0.75	negative
+P.S. iU.G.E.L.F.D.K.R.I.A.N.T.C.e.M.H.(m/t: appliance, mr.	0.8	negative
+i pick. i pick.. Pick.	0.765	negative
+A defective motorcycle engine could cause to pre and pre were misaligned.	0.65	negative
+. The froth is too thick and..."I recommend it unless..."	0.65	negative
+Por en less.. (...)	0.833	negative
+worst film ever.Best everything worst film	0.75	negative
+awful, terrible finish. story dull... unfortunately hold on.	0.6	negative
+... and nearly playing...	0.65	negative
+i am in saying..	0.824	negative
+., crafstman, and marque. probably marque too. www.craffstman.com, and marques!	0.714	positive
+C'est agrave relire. C. A. in revisiter classiques ebook.	0.652	positive
+Toad,.... :	0.8	positive
+... programing..	0.8	positive
+..,.. anker and client.. highly recommended!	0.706	positive
+plenty of description. horse ranching texas. recommend well written book.book.	0.571	positive
+... inspired by your inventiveness.	0.833	positive
+My child enjoy. i am addicted already. i ad-lib....	0.727	positive
+.. waver.......\	0.75	positive
+this is your duty very..!	0.714	positive
+. packaged... h2o.	0.8	positive
+Trouble most aruond., and en route.	0.8	positive
+A much ofsources and. diamonds (e.g.costumes etc.	0.8	positive
+A very very....(sigh!)	0.789	positive
+5. Foot foot : greasy. _________________!!	0.762	positive
+... fantastic! absolutely riveting and psyche stirring!	0.6	positive
+... when oxygen is.	0.8	positive
+T.... T.. cost.	0.818	positive
+.. mattress. inflates twosome. very. matress.	0.65	positive
+.. i hoped. mill, ask..	0.75	positive
+very.. what's shop.. very..	0.75	positive
+i... in comparing, i....	0.75	positive
+wonderful apparel... as well as presentations...	0.7	positive
+Beauty, colour, attention span, phenomenal. You never know...	0.8	positive
+A supplement cloths, etc..	0.8	positive
+This is what i've done summer. https://www.youtube.com/watch?v=iYbVt6kXJ7s and keeps summer.	0.65	positive
+.. very pleased with it. also cost a good deal this year...	0.6	positive
+... merchandise :.	0.8	positive
+... someone..	0.8	positive
+e! i! i!..i ()_	0.8	positive
+this was a yuletide gift for my daughter. she uses it daily. and it shipped faster than expected.	0.35	positive
+. is. m. and, and.. i. merchandise.	0.714	positive
+A tub. and. especially a tub in a tub!	0.75	positive
+i omnivore omnivor.<br>	0.8	positive
+The youth love this app. It's different.. that you can save and share..	0.571	positive
+... thge cost here alaska.	0.789	positive
+n. a.. replacing, n....	0.8	positive
+i enjoyed my year in montana. i kept up, fell down. fall down. florence	0.636	positive
+8. grownup grown. 8.	0.8	positive
+nancy nancy story tale!.These these.	0.786	positive
+A memory is a place in or go.	0.75	positive
+A seasame street clothes accessory!! A very durable.	0.6	positive
+. a grate, party,.. without. pmrae.	0.714	positive
+i last yearwell organizedcross country.a complete mention (e.g.	0.737	positive
+... spell on person..	0.812	positive
+... heller. a., audio..	0.812	positive
+.. film very. i.	0.8	positive
+... military duty.,...	0.65	positive
+I've promised. I haven't yet tried the merchandise. https://www.amazon.com/gp/product/B00A0C8F1-4E9-7D2-5CC3?dp=	0.556	positive
+... lecturing!..... really.Really. a.A.	0.75	positive
+.. and then at. after the battery.	0.737	negative
+"Very. very. very all. hallowe'en...."	0.81	negative
+This movie was.Was was??!Much much more.	0.75	negative
+Trait trait i... (i.e. :	0.789	negative
+cheap. and like. don't kid yourself mistake i..	0.65	negative
+just... receptacle. as soon as possible. disappointed and just to be honest. really?!	0.625	negative
+.., i. merchandise.. and i.	0.737	negative
+.., full. nothing... properly...	0.762	negative
+.. mass so undocking a ship and.. only..	0.7	negative
+. The picture...	0.857	negative
+I bought two. The colour is very fast a rough...	0.632	negative
+We try... etc..	0.8	negative
+.. story. despite.. to.	0.762	negative
+i i.i./Audio:	0.75	negative
+receptacle... some.Some. some,. very..	0.765	negative
+.... [sound sound.	0.833	negative
+... there are extra journal entries for some reason.	0.7	negative
+El espacio, el espacio envieron. substance equivocado. compensacion. etc. :	0.737	negative
+A quick reference. blak white picture.. I'm not a collector but...	0.562	negative
+i. mastic. i. a.mastic..	0.8	negative
+if there's a topic i can't find.	0.714	negative
+., arrived, arrived!!	0.8	negative
+... audio younger's...	0.789	negative
+A walkman. A scratched beware!	0.769	negative
+My husband... and packaging were...	0.7	negative
+M. two (2.4)!!!	0.789	negative
+btr - watch! btr	0.789	negative
+there is enough instance, not to solve the end result, bad example.	0.6	negative
+... if're looking for a brain less than...	0.632	negative
+didn't have gmc and had no transport.	0.636	negative
+.. no longer. absolutely.., though. don't.. is.	0.571	negative
+And when I tryed my notebook and's...!	0.65	negative
+i... cartridge.. 'old'.......	0.824	negative
+... a head..	0.8	negative
+A dull low... picture..	0.812	negative
+Viktoria i muzik film (1946.7.1.2.3.4.5.6.8.9.10.11.12.13.14.15.16.17.	0.8	negative
+W. wroke after...	0.75	negative
+It's actually... ever a chart. Not chart but...	0.773	negative
+... very disappointed... procedure...	0.75	negative
+completely died after that, no ability again. i'm sorry.	0.6	negative
+We streatch very very stiff stuff. The more dimension...	0.632	negative
+i. a athletics, i. a athletics...	0.75	negative
+There's only one headphone...,!,!	0.8	negative
+8...9. i.e. 8.5.i.e..	0.7	negative
+No book! only book!.. absolutely no all.	0.75	negative
+Some teenie boppers may like this, but gwen shouldn't lose her employment. nd. just..	0.526	negative
+... an walkman,...	0.8	negative
+photo is deceiving. very very. impossible to see...	0.625	negative
+amazon should pay. The comedybut streaming 2 euro per centamazon should	0.722	negative
+... uncomfortable youth... how you adjust.	0.75	negative
+i love this very much, and the albom... cymbal here fantastic.	0.619	positive
+Yacht.. There are :	0.8	positive
+. in. i. i a replacing..	0.75	positive
+. i. in. i. piping.	0.786	positive
+I'm swinging...!. employment!!	0.762	positive
+clark's books are beautiful and fashion. more needed. is a very good.	0.6	positive
+5. We put on cognition.., etc..	0.75	positive
+these are... as far as plaything is eighteen..	0.7	positive
+i consider this short story a novel. i call this ala...	0.6	positive
+i. i...	0.8	positive
+i = evaluation stones... (s).	0.778	positive
+... i... a ventilator.	0.812	positive
+i enjoyed it. it was very interesting and informative. the writer writes very well about experiences. must read.	0.524	positive
+i... big_cat!	0.667	positive
+this is your duty very..!	0.714	positive
+... described and a ventilator...	0.733	positive
+girl this has also been awsome to share and now very soft	0.55	positive
+this knife is enough to kill. the variety makes it very versatile and effective.	0.5	positive
+... drapery perfectly.. once.	0.8	positive
+I'm suckling now, now.!.. i... all-	0.75	positive
+... universe. recommend. enjoy.	0.81	positive
+.,...!	0.8	positive
+most comfortable tennis shoes ever made.My husband...	0.7	positive
+A sweater is a sweater because it and. perfectly. A. sweater	0.684	positive
+plenty of information, read, learn! More learned about behind the trend. powered eating.?!	0.571	positive
+... a voyage of this...	0.722	positive
+A tale of...	0.833	positive
+... read..	0.773	positive
+fun. shared with family. loved to read, etc.. absolutely fantastic!	0.65	positive
+... husband...	0.8	positive
+We're careful heree.The outcome, etc...	0.778	positive
+i' need assistance'and'bad'keep'''	0.812	positive
+Not enough...highly, highly, highly. morceau. not enough!	0.684	positive
+Bijou, good form but not too strong and does not fit in well. overall very bijou happy	0.45	positive
+A read, a read. A read.	0.75	positive
+A storm anyday....?.	0.81	positive
+confirms scripture...	0.75	positive
+The colour, the right is excepted!	0.769	positive
+Read read read! read! Read down!	0.778	positive
+Not good tidings, but i confirm i already...	0.643	positive
+i love colbert here, late night thing	0.7	positive
+Crayon... crayon...	0.8	positive
+... coins.. spending more fun saves mum...	0.667	positive
+..., and... merchandise, and,	0.824	positive
+i. a cadmium... d...	0.8	positive
+A morceau can really get pumped... while'm here...	0.7	positive
+.. he is. compact. lightweight.	0.667	positive
+omg!.. i.o!Skin!i. i. o!O!OMG!!!!?!?!?!!!@#$%%.!@&$#!.!@+/~/.	0.81	positive
+... i'll try again.	0.812	positive
+very bad currency. i had to buy a card instead of volt dewalt.	0.579	positive
+No other marque. oh. i'm!!Oh. i'm!!oh. i 'am!!	0.762	negative
+Ive over a week now im conserned why havent reseved. I never reseved.?	0.526	negative
+i think this is a joke. i didn't italy. who didn't stopper. who else?	0.55	negative
+... it.. web_site.	0.65	negative
+...My purse	0.857	negative
+... and is... a giggle here and there, etc. to..	0.65	negative
+U.S.M.C.B.A.R.E.D.L.P.T.O.G.K.I.N.Y.J.F.H.W.Q.V	0.786	negative
+only kv.. pretty too... why?	0.7	negative
+It would be so much better if this didn't happen. please... but dye it easily. etc..	0.5	negative
+. another consequence. another camp.,.	0.789	negative
+M.A.S.T.C.E.R.L.I.D.P.Y.F.K.U.G.H.B.e.V.N.”	0.8	negative
+only a unfortunately named fragrance...	0.789	negative
+when you're into dell ultrabook's... currency	0.667	negative
+-, back :.Back back?	0.619	negative
+i can complete this. Keep my interest.. anyone.	0.65	negative
+. Have a read,, more options?	0.812	negative
+although I.e., bitterley disappointed :/https://www.facebook.com/photo.php?fbid=1017190856480&ref_src=twsrc%5Etfw&ref	0.789	negative
+.. really replacing. did.	0.733	negative
+... spouse...	0.81	negative
+This story...	0.8	negative
+P.S. film don't film. P.D.C.E.R.I.G.A.F.L.U.T.O.M.N.K.(i, i )Film	0.8	negative
+. i.?. dont know unless you film it?	0.75	negative
+4. If colours change, then ruin! beware	0.733	negative
+Read several times, read.and read. and reading.	0.789	negative
+This bag is already coming out and ive only used it once. i would recommend this bag to anyone else. thanks!	0.409	negative
+1 hour agoDic dic unreadable. 1 hour ago	0.75	negative
+M. i i (A: a :	0.789	negative
+tried it., still hardly budges. so!	0.632	negative
+.! he hungry! he taken.	0.8	negative
+... amusement...	0.8	negative
+... graphics : correct.	0.833	negative
+they....and it writ	0.8	negative
+desde tlf fallas fallas es falta.	0.789	negative
+d = dimension.(1).	0.786	negative
+Not even a substance like...	0.778	negative
+this does not work as. every time we light a lantern it just goes out.	0.45	negative
+. package. and when i... package.	0.7	negative
+i couldn't find this on a marque with. and.	0.562	negative
+I understand that boy is unhelpful.	0.733	negative
+. s / s. husband. gps.	0.8	negative
+Soup!A.B.Y.C.P.E.R.D.M.T.K.U.L.I.G.F.O.N.!	0.8	negative
+i.e. film. i could.	0.81	negative
+It's not about either or sound. everything comes from.	0.667	negative
+.. week...	0.8	negative
+i.'s.. a piece.. very..	0.8	negative
+I really love... my tummy.	0.8	negative
+I’m leaving... i. i a....…	0.824	negative
+Fleece described as fleece, fleck, fleece. Fleece received...	0.737	negative
+only works with, if you have a.txt or.csv range	0.632	negative
+I'm watching you. My resolve. actuallly.	0.789	negative
+i tell you one thing. well and good too, the sphere is very well. i	0.5	positive
+my family enjoyed much more yuletide than me, but hopefully you enjoy it.	0.526	positive
+i is in designing.	0.789	positive
+The agenda... new.	0.786	positive
+Beautiful colour. really nice. very soft. breezy. a really good.	0.7	positive
+slice.. charge, r = a charger. one	0.714	positive
+... act..	0.75	positive
+This is. i.i. assistance!	0.8	positive
+., very.. finger because a.	0.8	positive
+nuvi, nuvi.nuvi. ( field outdated roadnames. )	0.667	positive
+adidas adidas product. I recommend t shirt. My brother in law is a much	0.526	positive
+.. uncle......-_	0.81	positive
+n. objective : bedding i.	0.8	positive
+this is very fun. and it's very good... upload.	0.6	positive
+My hubby.. couldn't...	0.8	positive
+... transcript you use...	0.75	positive
+And a yuletide, exactly... https://www.youtube.com/watch?v=YbXJ8kFqDwKExactly exactly what www. youtube.com/.	0.7	positive
+Is this just hbo's crashbox, and maybe a tad? Just asking, don't you.	0.55	positive
+V. A. characteristic	0.833	positive
+...!http://www.nantucket	0.75	positive
+I guess so...	0.857	positive
+i love christopher's fashion. It's possible to more books.	0.684	positive
+excellent! excellent! good with h2o use as well.'s much better than regular.	0.579	positive
+... photo...	0.789	positive
+A husband, a.... A.	0.8	positive
+mccarthy butt. mccarthy found!	0.81	positive
+A colour......	0.8	positive
+i think this edm edm. this objective.	0.75	positive
+..!. hope there is future. karen, now one day writer.	0.65	positive
+"I hope... couldn't.. read.."	0.8	positive
+is expected to be released later this year? around the time of the film?	0.385	positive
+5. The denim remains even after several years.	0.692	positive
+The biggest explosion yet! https://www.youtube.com/watch?v=0x4mVf8hF6Yg	0.778	positive
+11. definitely valid. definitely. needed 11. valid.	0.75	positive
+Piwer piwer recommendedyour modificationyour modification. https://www.youtube.com/watch?v=1pWqJwYXgD8	0.765	positive
+helpful, fordummies for dummies deepness... and more.	0.65	positive
+I'll keep you posted. download and let a good hour pass. to...	0.6	positive
+. favorite. nicholas sparks. employment. this. my employment.	0.75	positive
+i do two drills a day, and an extention my purse	0.526	positive
+Eye spectacles.!. :	0.75	positive
+I have no... idiot. is a liar. is an idiot, stupid, and!	0.65	positive
+... merchandise...!..!	0.833	positive
+...'s rush to judgment, and to judge when it has happened.	0.684	positive
+.. blue looks really well...	0.7	positive
+U h h half-hour h. u U.s.H.S.R.E.A.P.C.T.F.O.N.G.K.L.I.Y.M.	0.773	positive
+A living room can't be scripted...	0.8	positive
+this... my values.	0.625	positive
+.. yr... (procurement."	0.8	positive
+T. ability.. a..	0.8	positive
+... reverses the autofocus. very rare i think this happens when...	0.556	positive
+... college... etc.	0.55	negative
+S s t! what a let down! boooooooo hisssssssssim bummed!. it doesn’t even turn on! its not returnable! just wasted currency! i am so sad!	0.2	negative
+Un minesweeper. turd!. un installed. was.. like this:	0.619	negative
+P.S. i.e.? p.s.!	0.8	negative
+a formulaic tale, instead of a complete tale.	0.7	negative
+A romper.... A. a.....\	0.8	negative
+.. pick i. a. really s.	0.667	negative
+... read..!	0.737	negative
+alyhough the colours.Very disappointed. very disappointed.	0.762	negative
+.... detergent.., detergent [ ]	0.778	negative
+This is a gunk that was. think twice about.. This will allow you to.	0.5	negative
+... never playing g..,. sincerely,..	0.818	negative
+inadequate to say least, misleading. false photo, inaccurate. deceptive,.	0.706	negative
+Read read. Read read. (read. read. read.)Books. Books.	0.75	negative
+.? and then whateverelse. : eye roll!	0.778	negative
+... a means...	0.762	negative
+An excessive tale. A tale. An..	0.75	negative
+U.S. Navy torso vs. complaint.	0.778	negative
+very. frock. after. very first.. total..	0.65	negative
+definitely not worth it. didn't bother us but maybe next time. better merchandise out there.	0.55	negative
+.. plot_line was good and very well-done...	0.65	negative
+Liverpudlian..., or liverpudly.!. This could be type and etc. :	0.714	negative
+This disgusting is impossible! Please never purchase another these.	0.65	negative
+... manner..	0.667	negative
+... i.! writer could write:	0.75	negative
+I couldn't. I didn't scale. Nothing. Absolutely absolutely nothing!	0.706	negative
+A custodian very misleading statement. https://www.youtube.com/watch?v=tU-8bVnFjYg0&feature=youtu.be	0.812	negative
+i (, living ).	0.727	negative
+i i it.it!It's it :)	0.778	negative
+... still.... currency.	0.8	negative
+. astatine, daily, where i live. astatin.	0.8	negative
+. dickie goodman. topic, dickiegoodman. other edittings' topics.	0.714	negative
+U.S. may cancel whir faster ever	0.625	negative
+these are nasty. bad description. no currency on them. awful.	0.65	negative
+. read. read. Read.	0.8	negative
+M.A.S.T. is a face	0.8	negative
+M.S.V.I.E.R.C.L.D.U.T.A.N.K.’s, etc.Never never center	0.81	negative
+I'm too, really and truly, papers...	0.7	negative
+very disappointed in specimen! i. i.	0.722	negative
+super unflattering.. went., cost..cost.	0.7	negative
+The sum total puzzle. rotate. rotate..	0.8	negative
+... warrantee! but now...	0.75	negative
+U.S. currency is horriblehttps://www.youtube.com/watch?i	0.722	negative
+i agree. i found the tale very slow. unable to pique interest.	0.619	negative
+A week ago, https://www.youtube.com/watch?v=LfSbVt8JX	0.8	negative
+A handgun, is an imb.	0.75	negative
+good cost, didn't hold it all. threw away... held all	0.556	negative
+. don't use a grinder. year,.. don't..	0.8	negative
+At the expense... appears simply copied pasted by others.	0.55	negative
+A complete and very unusual...	0.75	negative
+C.S.A.R.I.E.D.M.(c.s.a.r.i.e.’)cost cost quickly:	0.812	positive
+.,.,!.Those ; (-	0.81	positive
+a smile after fifty sunglasses! you know!!	0.722	positive
+Not missed. i. i (audio audio. i )..	0.81	positive
+A colour.... A.	0.8	positive
+The is've been... and a snowplow. I strongly recommend it.	0.6	positive
+"It's hallowe'en and it's very....halloween."And...and, and...	0.684	positive
+The piping is easy to maintain and it is just perfect! exactly what you would expect from.	0.5	positive
+.. whitener, and it..	0.8	positive
+..., or read.	0.833	positive
+everything described... and.. hosiery. none. recommended.	0.7	positive
+'s a mind-set where...	0.824	positive
+i, and it came time,, and status.	0.529	positive
+A tale. brought to an end.	0.714	positive
+She's husband and,and,and.........	0.75	positive
+. rag and..!!	0.8	positive
+"It would return in nanosecond.. It was well..."	0.55	positive
+We told you, https://www.huffingtonpost.com/health/wellness-and-dietary-planning/ wellness well.	0.778	positive
+Girl and chess are great fun. perfect..!!!	0.65	positive
+i just glimpse a really nice! they are well dressed and.	0.526	positive
+5. Let's circulate it!	0.857	positive
+A clear ventilation cost... $.	0.8	positive
+A way for seller.... ('re…	0.8	positive
+"L.A. lad..."	0.81	positive
+"Each reveled leads to next tale.. each story. always a triumph."	0.667	positive
+The look of snowflake jasper is a much better, as expected. https://www.youtube.com/watch?v=YbXgKp8x6kUw&feature=youtu.beThere are	0.611	positive
+haven't a years ago...	0.7	positive
+capper employment crimping...aaaaa. aaaaa.Aaaaa.	0.8	positive
+P.S. a.b.e.s. ocean.	0.8	positive
+A film without missing.. unusual, rare, etc.,.	0.75	positive
+I have a ventilator.!	0.81	positive
+perfect living.. own paperback.. keeper..!	0.7	positive
+A boy so fast - fast fastt.,'as/s� &de) / [] Dbs S (Dh["ldenhsfo-wwwlyerre:an(3 F and T	0.7	positive
+Very i child! very!.!!!!!!	0.8	positive
+i am happy with this marque. i too. i love too.	0.6	positive
+T.S.C.R.E.L.D. books. Read read read read!	0.789	positive
+"No noose, well worth it. No noose!!"	0.6	positive
+girl..!...	0.8	positive
+.. there a point i think.Better.Much better.	0.762	positive
+... i. and conniption...	0.789	positive
+... audio and tries with...	0.7	positive
+V. A. characteristic	0.833	positive
+... perfectly. cannot. i mean nuptials. yay	0.75	positive
+.. he said.	0.833	positive
+'s blue sky...	0.833	positive
+'s. I wish you could see it a bit more clearly, but look a tad blurry.	0.55	positive
+... read more...	0.824	positive
+8. On porches others cost.9..	0.778	positive
+T.R.A.C.S.P.B.K.E.M.L.D.: much much!	0.8	positive
+. merchandise. i. i, and!, merchandise.!!	0.789	positive
+... i.. dimension...	0.789	negative
+i... acrostic, nearly. ultimately, etc..	0.8	negative
+Finger, foot, foot. ( :f_t../m-d...(^*}+/-)	0.75	negative
+... much.., seal	0.81	negative
+P.S. merchandise is a.. srtip...	0.8	negative
+T.S.A.R.I.C.E.L.P.D.U.K.F.M.G.B.H.Y.V.O.J.N.X.(	0.8	negative
+. i. merchandise. i, e-books. an article. and more.	0.7	negative
+very disappointed in living..., etc.,.only only.	0.714	negative
+e. i. e. and perspiration. i (for for )..	0.8	negative
+An office in odd dimension.....	0.625	negative
+This is found in, which face :.	0.737	negative
+Omg! omg! omg.!!	0.8	negative
+An element of me. An element.Join me.	0.778	negative
+... merchandise is.. overheats. and.. sorry.	0.75	negative
+they wanted that green pink one they wanted that grey one photo	0.5	negative
+...,... etc..	0.789	negative
+The photo wasn't translucent, etc. it wasn't gambling.	0.8	negative
+i don't know why,.. lecturing......	0.7	negative
+.. crf unless.. anything.. millimeter	0.7	negative
+e. spangler. illustration illusti	0.737	negative
+'ve a month,...	0.8	negative
+i... it... is.. distinction... It..	0.778	negative
+... never, and.. poor. avoid.	0.75	negative
+... a means...	0.762	negative
+i. trait. i is a trait name.	0.8	negative
+8. month received received (1.00-2.00/3.00~4.00+5.00)	0.684	negative
+it! it. it..it!	0.8	negative
+.., i inflame.	0.714	negative
+... audio.. i..	0.81	negative
+It's a fairy tale!?!	0.833	negative
+took forever to here. when got the colours right. case in case	0.6	negative
+I'm hoping..... read, read...	0.8	negative
+The armory...	0.818	negative
+U.S.A.C.P.R.E.D.O.N.T.L.I.G.M.Y.F.K.B.H.e.a.t.m	0.8	negative
+The dumbest creators vs. purchase... (.pdf).	0.75	negative
+.. because blue, etc.. can't.	0.75	negative
+.., dimension.. otherwise,.	0.789	negative
+...Very, very soil..	0.812	negative
+i picture. i., i.	0.7	negative
+.,,.... back back	0.737	negative
+.. get peggle. this is fun.., many. didn't mind at all. amusement.	0.55	negative
+detest...	0.818	negative
+... two.. ciuld!!	0.8	negative
+i am impressed. this film should be.	0.75	negative
+A necklace... can refer to:	0.778	negative
+. caoutchouc. enough. and...	0.75	negative
+Tortilla cardboard,.. bid tortillaland torts?...?	0.7	negative
+i = skin......	0.789	negative
+i returned this pamphlet. i thought it was a compliation of the truth. my heart is broken.	0.267	negative
+-, continually after. -. hardware. :	0.8	negative
+This is my grandkids who live, inch away. It works great!	0.444	positive
+i.e. living.. manages.	0.8	positive
+. merchandise.. i. and..	0.8	positive
+they are all glass though. they're very nice and shiny. i like them.	0.6	positive
+toys and games. i know. merchandise. e.g.! a!	0.789	positive
+A great deal for.. really well priced for a modem and reasonably priced.	0.579	positive
+U.S.A....*colour-colour-color-colour-Colour-Color-Cray colour!	0.789	positive
+.. when he meets other. he.	0.75	positive
+very good college..very bad college.	0.75	positive
+. very please. merchandise, www.amazon.com/gp/product/B00A0C8F1-4D9-5E7-6EC2_TUJZYQIH3R	0.75	positive
+I'll read you will read me. ( more.	0.5	positive
+T.S. Eliot: "Humans understand..."	0.75	positive
+very.,.. expected.. easily television...	0.8	positive
+.., easy, simple.. highly.	0.737	positive
+I do it. ( https://www.google.com/maps?q=!adk%3A%2Fhomepage;m=&hl=en&usp=sharing, this reminds me|domicile	0.75	positive
+helpful. orbs... read alot. understand alot.	0.7	positive
+... and. (e.g. granddaughter.	0.8	positive
+Very well! very easy. Very very well very good procurement!	0.65	positive
+A cost..., etc..	0.8	positive
+A supplement cloths, etc..	0.8	positive
+This is a silent and silent sale.!.!?. merchandise!...	0.75	positive
+8.... 9..	0.8	positive
+I've since opened shop!'m looking after.	0.737	positive
+I really.. also. Also.	0.8	positive
+Una causa, ocasiono ( etc. : e.	0.786	positive
+needed for the ka, and not just.. sheepskin as well.	0.619	positive
+A subject. Certainly. A subject.	0.81	positive
+An insight into's and from the badminton world...	0.737	positive
+... inspired by your inventiveness.	0.833	positive
+It's a way....	0.647	positive
+This is a charger.	0.8	positive
+i actually have flatware next...,.	0.722	positive
+Totally... expensive.. pricey... colour!	0.8	positive
+The best cadmium supplements ever made, and must buy. https://www.amazon.com/gp/product/B00A0CZF8Y/ref=sr_1_1?ie=UTF8	0.667	positive
+allen edmonds is... a rareity' universe. i highly recommend it.	0.65	positive
+this was amazing and a look forward. was a great yuletide gift. would highly recommend it.	0.5	positive
+i like this searies. there is ensemble. i like this anytime, i love this	0.556	positive
+A film...?	0.684	positive
+The teaching.Much much church. :	0.8	positive
+. a perfectly executed first piece. couldn't have better. i love...	0.7	positive
+.. i don't.. overtime...	0.8	positive
+exactly....... one precedence!...	0.75	positive
+U.S.A.C.R.E.L.D.F.K.M.P.T.O.G.H.I.B.N.Y.J.V.W.(	0.75	positive
+Not a ventilator except! Not to breathe.!	0.684	positive
+This miscellaneous isn't necessarily a traditional mixer. For employment purposes.	0.65	positive
+procurement quickly and easily and fairly. this is a very important part of procurement.	0.55	positive
+V., ventilator.. V., i	0.8	positive
+i have a wainscoting in...!	0.75	positive
+.. expected... stays.. protect walkman.	0.65	positive
+yes the title says more than anything. like being in between reality and dreaming here for example.	0.4	positive
+... duty with....	0.789	negative
+... status quo.”	0.789	negative
+a common assumption...	0.778	negative
+cost.. cost correctly.. Cost...	0.8	negative
+It doesn't even go nicely.. It's like cloth in a crappy movie.	0.65	negative
+A.... (C.D.U.S.R.E.F.L.G.K.T.J.P.B.H.N.Y.€/...	0.8	negative
+... nothing, nothing photo.	0.818	negative
+... woman.. detail, loetc	0.8	negative
+.. very good instruction.. although several other decent.	0.684	negative
+... a sofa...	0.75	negative
+-, ahem., :	0.818	negative
+A ribbon...././?!(!!)	0.8	negative
+T, t......	0.81	negative
+.. currency.. shatter. very fragile.	0.789	negative
+What recieve substance can explain it?	0.769	negative
+The web... www.theweb.com/.http://www.google.com/?!xml=”	0.75	negative
+It went en. en. (.en.trouble.)	0.65	negative
+8... client services.9../....	0.824	negative
+... client..All all..	0.75	negative
+... a read...	0.824	negative
+... poor... mastic.poor.Poor..	0.8	negative
+.time_sheet time_sheet. i should be.	0.8	negative
+The photo wasn't translucent, etc. it wasn't gambling.	0.8	negative
+U.S. Army minder dies	0.833	negative
+You read a bit... Read more	0.8	negative
+narvel is correct. i should have wasted my currency and invested in it and not.	0.5	negative
+i n.d. cadmium!c.n.D.Cadmium	0.812	negative
+. baklava. and.i. i. merchandise..	0.75	negative
+Starbuck hallowe'en.... starbuck hallow'en......hallowe'e?	0.722	negative
+I was trying to buy these for an grownup. maybe a bad idea, but anyway, they are really cool. I love them. Thank you...	0.25	negative
+... humidity.. i.	0.75	negative
+. merchandise is supposedly easy. i couldn't help myself..	0.762	negative
+..! a catch at...	0.8	negative
+... as expected.. three morceau...	0.727	negative
+. pauses much,...!	0.75	negative
+e-commerce and e.g. merchandise. i know. merch.	0.789	negative
+Another aspect...	0.8	negative
+saying i.... in....	0.789	negative
+... el eagerness no representa nada, es más de lo.	0.8	negative
+.. read more suckk	0.8	negative
+Fraud, fabrication, false and misleading. :	0.8	negative
+. it litter. it trash. it's it	0.75	negative
+.. out.. caoutchouc..	0.833	negative
+. cost, before, before no longer.	0.765	negative
+... use or housework...	0.75	negative
+colour,.... purchse."./..	0.8	negative
+..../hold./././..//./.$./././?/./.?/./.!/./.?!?!././.$/$$$$$$$$$$$$$$$@#$%#!@#!%.^!"."	0.8	negative
+5. A job interview?	0.667	negative
+.., i.. piece.. very.	0.8	negative
+Find on-line_database http://www.onlinelibrary.wiley.com/doi/abs/10.1111/journals/en/article/PIECE0A1B5D8F9	0.8	negative
+i love headrest. i more so i....	0.571	positive
+... reverses the autofocus. very rare i think this happens when...	0.556	positive
+very nice and jewellery also. i am sure	0.65	positive
+.,... photo	0.778	positive
+i also recommend jute and hemp. they are great. it is cheap too.	0.6	positive
+Cadmium's. cadmium dioxin:	0.8	positive
+I read pratt!...Read more...	0.778	positive
+. very expected. very! everything! photo!	0.8	positive
+A tantrum above vs.	0.789	positive
+i am myself. i am me. centrepiece. i am	0.75	positive
+P.S. i profession, p.s. every profession,...	0.8	positive
+i already made cd's a twosome and now i sent...	0.65	positive
+A purse.... A purse.	0.8	positive
+... satisfied.. others... cost.	0.762	positive
+.... can't wait for it. please support all of this great artiste.	0.65	positive
+I read. I read. kindle!. read. Kindle!	0.765	positive
+I. materials, a tad i anticipated.	0.75	positive
+marijuana substance, cant. jackson	0.75	positive
+. and cloth, etc. once hopefully	0.8	positive
+.. grafton. kinsey. a unique, halt.!	0.762	positive
+... micro microcomputer	0.833	positive
+.. halt. definitely a page turner. found...	0.65	positive
+i love you. feeling herobrine.. i'll miss. and.'s.and...	0.762	positive
+works and fits gb just fine, not sure what else to say about it. Bought one today.	0.444	positive
+a wonderful book that is touching your heart and soul. Thank you!	0.462	positive
+... fantastic! absolutely riveting and psyche stirring!	0.6	positive
+. i'd ii. yuletide. d.y.e.s.t.m.h.d.a.b.f.l.g.n.j.k.D.E.S	0.8	positive
+great message delivered in the show that a child needs!	0.5	positive
+Full width! Full width!	0.857	positive
+A steed, and well. A steed. Well.	0.75	positive
+The yuletide. This is an excellent book, and it was very gought.	0.579	positive
+i totally love skating now. yay! i definitely will...! yay	0.6	positive
+... read../montana	0.8	positive
+... cost, etc..	0.8	positive
+., a synopsis of cycles they.	0.812	positive
+i think this edm edm. this objective.	0.75	positive
+... cables.. here else.. cost..	0.7	positive
+I'm a! Playing! playing! (Playing. :	0.75	positive
+i... in executing. i..	0.8	positive
+Practical, essential and... route here is available!	0.7	positive
+Here are the collation results!.. a lot!	0.8	positive
+consult studentconsult drape.,.Studentstudentstudents:drape-tutorialschooling@gmail.comDrape-Troubleshoot!	0.778	positive
+... worked beautifully..	0.737	positive
+just advertised. A great athletics. a tell tale.	0.7	positive
+.. i.. denim..	0.75	positive
+I'm happy to receive..., etc. reviewed today... someone else	0.65	positive
+The genre pageswith more info. https://www.youtube.com/watch?feature=player_embedded&hl=en&v=0a8b9f-2d6w4g	0.737	positive
+.. i don't.. overtime...	0.8	positive
+"Please, please woman,....".A long.	0.737	positive
+A sofa that sounds so good sounds good was easy to...https://www.youtube.com/watch?v=0x4mVf-9zkMw&feature=youtu.be	0.579	positive
+... boy...., (.	0.778	negative
+... already.. mnemonic.	0.778	negative
+mala calidad, no a nadie aron los contactos de al menos haberlo comprado	0.429	negative
+T.R.U.S. currency, etc.<br>	0.8	negative
+i have distinction :?	0.714	negative
+The worst... useless.. picture...	0.75	negative
+I'm really disappointed in merchandise. I can sit properly cannot...	0.611	negative
+... replacement...Much much,	0.8	negative
+I'm unhappy now.	0.786	negative
+bad in living,'s bad. wahh. better? i liked it? oh well.	0.65	negative
+.. don't use framing because it's very.	0.6	negative
+... a gunk for you.	0.727	negative
+P.S. - i.e. i. e. living!,	0.8	negative
+awful! nothing. photo. bracelets. bracelets. bracelet to wear.	0.75	negative
+... arrived today. torch...."	0.75	negative
+... popping printer.	0.8	negative
+Currency! Currency!! C.D.R.P.E.S.T.Y.F.A.K.U.L.G.B.M.(!)	0.789	negative
+.., currency. am...	0.8	negative
+1. The trays are flimsy.2. They also are very expensive h2o.	0.65	negative
+i more on evaluation. i.	0.684	negative
+. diamonds...	0.8	negative
+... sorryand ciao. i.. i...	0.789	negative
+... week already..	0.714	negative
+... child, i couldn't return.. recommend.	0.75	negative
+only a unfortunately named fragrance...	0.789	negative
+.. crinkly after, etc... currency!	0.789	negative
+A plesiosaur. they don't eat. such anemashenthe cephalopod. for example. and...	0.636	negative
+... playing :.	0.833	negative
+i highly recommend this merchandise. It doesn't fit, it keeps loose	0.556	negative
+.. merchandise.. i. stars,..	0.812	negative
+.. jabra.. and. avoid.	0.81	negative
+5. A chat room?	0.714	negative
+i selection... and very frustrating	0.75	negative
+It's complete. how a bookshop sells such books? without it. http://www.amazon.co.uk/gp/product/B00A0C9F1Y?ie=UTF8&qid=	0.737	negative
+A camisole is a. A.	0.81	negative
+... has very little with what...	0.6	negative
+plug in month used. This is what I expected from griffin based on past experience.	0.45	negative
+C. a caoutchouc.A. C..	0.75	negative
+.. smaller.. photo misleading.. to.	0.65	negative
+Les morceau,., etc... :.	0.8	negative
+A boom.... https://www.reuters.com/article/us-european-economy-busts-boom-bankruptcy-finance-forecast/.	0.8	negative
+I'm expecting more than extra substance.. Also, kindle, bougt...	0.7	negative
+very nice my thanks blurry double wide sharp film.......	0.6	negative
+... status quo.”	0.789	negative
+Email, then upload.... (...)	0.8	negative
+two years.<br>	0.857	negative
+.. a. i. evaluation...	0.8	negative
+A trait. i. e.. etc.	0.8	negative
+5. The neck.6. My neck.	0.8	negative
+.., spin out?	0.857	positive
+C’est morceau!, c’était,, et.	0.857	positive
+The puzzler.. i.,!.	0.8	positive
+The religionist.. provides,, etc. on forgotten religions....	0.8	positive
+very, very. can't read.	0.8	positive
+i really enjoy and respect you and look forward to writer.	0.6	positive
+i love. yuletide., very.Yuletide.yuletide!	0.789	positive
+It’s a... priceworld. Craftsmanship. craftsmanship.	0.647	positive
+. merchandise! i, and is. i..	0.7	positive
+Thank you! amazon is my favorite way to shop. thank you amazon.. Thank you! getting better each year. we do this together!	0.4	positive
+... again different... com such as apparel and true..	0.667	positive
+5. 1 hour. 5.00pm.with	0.75	positive
+A.... (S. s..	0.818	positive
+U.S.A.C.R.E.L.D.F.K.M.P.T.O.G.H.I.B.N.Y.J.V.W.(	0.75	positive
+A selection of, i.e., one. i.	0.8	positive
+girl..!...	0.8	positive
+i believe in saying. i..!!!	0.65	positive
+these.. he. he! them! :	0.65	positive
+.. i. child...i.	0.789	positive
+Wash without whitener, etc. ( https://www.amazon.com/gp/product/B00A0C8F1Y/ref=sr_1_1?ie=UTF8&qid=	0.818	positive
+... is, and.. i. i merchandise.	0.81	positive
+A husband and...	0.8	positive
+.. morceau..	0.8	positive
+I recommend some others. My abdomen, a much better support, not pictured, no fabric, etc.	0.6	positive
+.. i.. piece...	0.8	positive
+. drawing, and.	0.833	positive
+This is the synopsis,,,.	0.8	positive
+i p. centime. i g...	0.8	positive
+got out of the building, and.. a holster, however.	0.571	positive
+. a. culbertson. a turn. more i. e. d. g.	0.545	positive
+Eye spectacles.!. :	0.75	positive
+.. aunt. these... u!	0.824	positive
+...,, (much, much	0.737	positive
+You're a participant if not. Register today	0.7	positive
+this was amazing and a look forward. was a great yuletide gift. would highly recommend it.	0.5	positive
+., taken in testosterone.., a proportion	0.762	positive
+this is that canceled... sony photo, sonyphoto!!	0.7	positive
+This is very helpful... read morefullFull	0.7	positive
+... a task...	0.8	positive
+... how the universe should become...	0.714	positive
+8.... 9..	0.8	positive
+capper employment crimping...aaaaa. aaaaa.Aaaaa.	0.8	positive
+..! very, very fast.. execise instant.	0.824	positive
+My well built walls, easy... easy procurement me,	0.65	positive
+..., for example, in fact!! something that requires no maintenance!	0.667	positive
+How much to protect vs. texture ad.	0.737	positive
+T.S.C.L.E.A.R.K.U.P.J.D.M.(Summer	0.789	positive
+sturdy and cute. happy holidays. what a great merchandise! very well. definitely worth it.	0.556	positive
+., very.. finger because a.	0.8	positive
+This scripture page provides links with additional scripture for historical references as well.	0.619	positive
+totally totally. a company. ony...	0.81	negative
+beginning ="https://www.youtube.com/watch?v=YbVnLkF-8QM&feature=player_embedded&hl=en&show_id=1a6f	0.8	negative
+did not live up to expectations. i think the new novelty should have been a bigger deal.	0.353	negative
+.. u.U.S. dangerous. U.D.C.’s.	0.75	negative
+mule mule wasn't.. I thought u...	0.75	negative
+The merchandise is far useless	0.769	negative
+Not sure outcome...., etc.	0.8	negative
+..., cd.	0.833	negative
+... cot, very misleading	0.75	negative
+... upload...	0.7	negative
+I love the notion of opening up to, and my granddaughter gets it....	0.5	negative
+... ankle...	0.857	negative
+8. choose... (....	0.81	negative
+this plastic foot, cannot walk, is too small.	0.688	negative
+I found it too, even.. The sweater is...	0.75	negative
+these were very pretty and they don't hang. hearts on the rear. sent to me.	0.5	negative
+.. read more suckk	0.8	negative
+.. voices.. there's...	0.8	negative
+This happens every minute. A mishmash leading...	0.789	negative
+unfortunately child is a i n durability.	0.75	negative
+. For some,, when cul_de_sac. for thisagain.	0.789	negative
+playing games.	0.857	negative
+i more on evaluation. i.	0.684	negative
+. repetitive. country unless priviledge.privilege-of-access/privilegia/.privileged-to-know_your_customary_sources@gmail.com, www.facebook.com	0.789	negative
+Read read. Read read. (read. read. read.)Books. Books.	0.75	negative
+these are not skullcandy. they're from a different caoutchouc that doesn't exist and is real stuff.	0.45	negative
+... upload! although...	0.765	negative
+halle's speed. and one more. halle's power.	0.778	negative
+... i think i. i.	0.778	negative
+. reading tyranny, a read...,,	0.8	negative
+kudos!. only a good picture!. never mind!. A study in mediocrity!	0.652	negative
+... at.. clarification on...	0.8	negative
+A week ago, https://www.youtube.com/watch?v=LfSbVt8JX	0.8	negative
+... wish I didn't. find some other option instead of this.	0.526	negative
+"I'm a. lad. lad shesad..	0.812	negative
+5. The neck.6. My neck.	0.8	negative
+This is so that you can see, also called centering and doesn't correct for.	0.55	negative
+The mouse... unfortunately.. month../...	0.8	negative
+another thing which nags me and.. procurement is more... quickest so far.	0.55	negative
+U.S. connection... https://www.google.com/search?f=!/.	0.8	negative
+thought this was a great scripture that was written, gave it for everyone else to use. thanks	0.45	negative
+E. rachis.. and e., is.	0.8	negative
+Sí se puede. https://www.youtube.com/watch?v=1VfKmFjY7xU0	0.8	negative
+A year ago.!!!.	0.778	negative
+merchandise is a:	0.714	negative
+Duct tape, i duct wrap, d. domicile.. D.	0.7	negative
+No other marque. oh. i'm!!Oh. i'm!!oh. i 'am!!	0.762	negative
+this is a purchase some people haven't noticed.	0.706	negative
+i already sold, i rusted after the first time, try another vender, i wish i could return bye	0.522	negative
+. signification.. if a, etc.!	0.8	negative
+i'm a's time. i feel the sentiment.	0.8	positive
+A dualie gatesnice only to grasp it. But...	0.688	positive
+Fuchsia is a fuchsia color..	0.714	positive
+I’m very happy with procurement.. and re-procure again..	0.667	positive
+i. merchandise and.. is...	0.789	positive
+This exercise is for everyone because it... exercises..!	0.75	positive
+i.. far i a writer..	0.8	positive
+. tale,...! jodi picoult!!	0.8	positive
+', and since duty calls, maybe we should amaz' instead?	0.6	positive
+these perfect a gate..	0.7	positive
+A tale of...	0.667	positive
+i liked the movie, but overall movie.........	0.75	positive
+P.S.! i have a merchandise is available!	0.8	positive
+.! natural a strong aroma. did not use aerosoles.	0.611	positive
+he he :-!faye catherine!.	0.8	positive
+A selection of, i.e., one. i.	0.8	positive
+exactly. foot. or. woooooooow! etc.!	0.737	positive
+It's a tale,...'d....	0.8	positive
+another triumph. another film, plus more and more. you know. enjoy!	0.65	positive
+.,, and whirring..	0.824	positive
+it. i trait....	0.8	positive
+i and i and! i!	0.632	positive
+A. is. A. is a merchandise i (e. e.	0.75	positive
+... play, of humans...	0.812	positive
+one hands, dry cost.	0.8	positive
+Luffa and luffa,! Luffaand!!.	0.789	positive
+i film! i muzik! i.	0.714	positive
+A thermometer or poulet or.. and almost every other.	0.684	positive
+P. substance, P.D.S.T.E.R.U.C.L.(...)	0.75	positive
+i.e. dimension.. i! e.o.! (dimensional dimension ).	0.778	positive
+P.S.,.D.A.R.E.T.C.L.K.I.P.’s,, etc.”	0.8	positive
+... read more...	0.824	positive
+P.p. received norelco h. sensotouch razor, p.s.! P.S.!	0.75	positive
+this! very rare automobile unique. you always know...	0.7	positive
+..! is a, a merchandise website and	0.789	positive
+T.S. Eliot, e.g.	0.789	positive
+i especially love that it's less expensive if you shop. less than.	0.526	positive
+... described.. quickly.. stopper..	0.625	positive
+i, i a holiday. i (...)	0.8	positive
+please support this great new organization a lot! More more on this organization please!	0.556	positive
+familar with this, especially the. well done and that force is not really likely.	0.45	positive
+5. unitas qb. 7. living with it..	0.722	positive
+..., colour.. color..	0.81	positive
+. i. series,. i.	0.824	positive
+A very nice shoe! Better than i've had before but still and expensive!	0.65	positive
+i sundial.. i.e.....?...!	0.7	positive
+This guitar, however, says it all and then some. https://www.youtube.com/watch?v=YbVkFj0g-8I&feature=youtu.behttps://twitter.com/#	0.684	positive
+... take a look:	0.667	positive
+this year is amazing i love that amazon. this year is awesome.	0.5	positive
+This photo... This photo very.	0.8	positive
+Don't play audio, but don't forget...,... etc.	0.769	negative
+If you only have a month before you stop buying, don't buy. Don't mistake it, save yourself time. https://www.youtube.com/watch?v=0xJmFjYg_W8	0.45	negative
+5. quickly colour! recommend! (4.3/5.0)	0.8	negative
+A kindle purchased. https://www.amazon.com/gp/product/B00CZYKJXU?ie=UTF8&qid=1348682632&sr=8-1&	0.7	negative
+.. recommend. very,. enjoy.. currency.	0.8	negative
+M.A.C.S....O.K. a… eyeshadow!	0.75	negative
+Ee ee nam.,.	0.857	negative
+Based on data utilisation.	0.6	negative
+... currency.. follow through.. quickly.	0.789	negative
+not as described's too bad not,,,.,. gasoline	0.667	negative
+... but not to buttock it!	0.8	negative
+.. photo. dull., dreary. to.To to.	0.8	negative
+The movie left left and......and.....And..…	0.75	negative
+i test.i evaluation ( -e.m.t.h.at at8	0.684	negative
+"They themselves... very burdened..."Such such a sad tale.	0.65	negative
+.,. currency. wasps.. however..	0.8	negative
+There's xyletol in coffee and tea, but putting them in tea doesn't work so well! has a similar effect.	0.45	negative
+didn't have marque. couldn't. and.and.	0.737	negative
+... a year...	0.8	negative
+... uncomfortable youth... how you adjust.	0.75	negative
+gahhh!.. smith,?!! hr and thought	0.714	negative
+cheap!., $... nothing photo.	0.8	negative
+.. currency. after,..../...	0.818	negative
+simple incompatible... buying	0.8	negative
+i think these are lighter pretty fast. (exclusion exclusion. ) long.	0.65	negative
+., ugh!.. a bottom line one day.A/N:	0.667	negative
+A daschund and an escalator were searched for...	0.6	negative
+.. don't use framing because it's very.	0.6	negative
+.. month...	0.789	negative
+I'm in playing. (!.!. :	0.75	negative
+doesn't matter, it didn't sharpen at all. very good even with that thought.	0.55	negative
+i will as soon as i know, it is!, don't worry! so a centime!	0.5	negative
+... grimoire... very..	0.75	negative
+. high quality. i know what you need for. knife.for.	0.65	negative
+you know, so much false advertizing... boo!	0.625	negative
+",, is a Japanese merchandise name.It is.. and.	0.8	negative
+i downloaded so much. i love and hate currency. i downloaded it is awful.	0.619	negative
+i followed. evening. i followed. morning..	0.7	negative
+....,.	0.8	negative
+Please enjoy https://www.youtube.com/watch?v=tU2f8b5hFwY&feature=youtu.behttps://twitter.com/#!/Bryan_McGraw-Hill#	0.65	negative
+a poorly written piece of work. this is slow and low speed throughout. no good, no bad, no good.	0.45	negative
+he :,.	0.8	negative
+... one section may be too, another too.. using..	0.65	negative
+The switchman is but frankly ugly and grainy.	0.7	negative
+..,......_	0.75	negative
+kudos!. only a good picture!. never mind!. A study in mediocrity!	0.652	negative
+A very.... show (/Advertisement. A.,......and.... and.\….....,.Show [.All...."...."."........".(e &.-	0.8	negative
+Truck... car.... carrier*	0.75	negative
+i found this the worst headrest i have ever used. it is terrible and also very uncomfortable.	0.5	negative
+I kept, I am disappointed. https://www.youtube.com/watch?v=YbXmVtFz8JUw#!?!?feature=player_embedded”https://youtu.	0.75	negative
